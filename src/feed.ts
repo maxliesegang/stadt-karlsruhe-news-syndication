@@ -6,6 +6,7 @@
 import { Feed } from 'feed';
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { dirname } from 'node:path';
+import * as cheerio from 'cheerio';
 import { CONFIG, type Article, type TrackingData } from './config.js';
 
 type ChangeDetectionResult = {
@@ -14,6 +15,127 @@ type ChangeDetectionResult = {
   unchanged: number;
   updatedTracking: TrackingData;
 };
+
+function isPlaceholderImage(value: string): boolean {
+  return /^data:image\/gif;base64,/i.test(value.trim());
+}
+
+function normalizeUrl(value: string, baseUrl: string): string {
+  const trimmed = value.trim();
+
+  if (!trimmed || /^(data:|mailto:|tel:|javascript:|#)/i.test(trimmed)) {
+    return trimmed;
+  }
+
+  try {
+    const absolute = new URL(trimmed, baseUrl);
+    if (absolute.protocol !== 'http:' && absolute.protocol !== 'https:') {
+      return trimmed;
+    }
+    return absolute.href;
+  } catch {
+    return trimmed;
+  }
+}
+
+function firstSrcsetUrl(srcset: string): string {
+  const firstCandidate = srcset.split(',')[0]?.trim();
+  if (!firstCandidate) return '';
+  return firstCandidate.split(/\s+/)[0] ?? '';
+}
+
+function normalizeSrcset(srcset: string, baseUrl: string): string {
+  const trimmed = srcset.trim();
+  if (!trimmed || trimmed.startsWith('data:')) return trimmed;
+
+  return trimmed
+    .split(',')
+    .map((candidate) => {
+      const parts = candidate.trim().split(/\s+/);
+      if (parts.length === 0 || !parts[0]) return '';
+
+      const [url, ...descriptor] = parts;
+      const normalizedUrl = normalizeUrl(url, baseUrl);
+      return [normalizedUrl, ...descriptor].join(' ');
+    })
+    .filter(Boolean)
+    .join(', ');
+}
+
+export function prepareContentForFeed(content: string, articleUrl: string): string {
+  const $ = cheerio.load(content, null, false);
+
+  $('img').each((_, element) => {
+    const img = $(element);
+    const src = img.attr('src')?.trim() ?? '';
+    const dataSrc = img.attr('data-src')?.trim() ?? '';
+    const srcset = img.attr('srcset')?.trim() ?? '';
+    const dataSrcset = img.attr('data-srcset')?.trim() ?? '';
+
+    if (dataSrc && (!src || isPlaceholderImage(src))) {
+      img.attr('src', dataSrc);
+    }
+
+    if (dataSrcset && (!srcset || isPlaceholderImage(srcset))) {
+      img.attr('srcset', dataSrcset);
+    }
+
+    img.removeAttr('data-src');
+    img.removeAttr('data-srcset');
+    img.removeAttr('loading');
+    img.removeAttr('decoding');
+  });
+
+  $('picture').each((_, element) => {
+    const picture = $(element);
+    const img = picture.find('img').first();
+
+    if (img.length === 0) {
+      picture.remove();
+      return;
+    }
+
+    const src = img.attr('src')?.trim() ?? '';
+    if (!src || isPlaceholderImage(src)) {
+      const source = picture.find('source').first();
+      const sourceSrcset =
+        source.attr('data-srcset')?.trim() ?? source.attr('srcset')?.trim() ?? '';
+      const sourceUrl = firstSrcsetUrl(sourceSrcset);
+      if (sourceUrl) {
+        img.attr('src', sourceUrl);
+      }
+    }
+
+    picture.replaceWith(img);
+  });
+
+  $('img').each((_, element) => {
+    const img = $(element);
+    const src = img.attr('src')?.trim();
+    const srcset = img.attr('srcset')?.trim();
+
+    if (src) {
+      img.attr('src', normalizeUrl(src, articleUrl));
+    }
+    if (srcset) {
+      if (isPlaceholderImage(srcset)) {
+        img.removeAttr('srcset');
+      } else {
+        img.attr('srcset', normalizeSrcset(srcset, articleUrl));
+      }
+    }
+  });
+
+  $('a[href]').each((_, element) => {
+    const link = $(element);
+    const href = link.attr('href')?.trim();
+    if (href) {
+      link.attr('href', normalizeUrl(href, articleUrl));
+    }
+  });
+
+  return $.root().html()?.trim() ?? content.trim();
+}
 
 // ============================================================================
 // TRACKING
@@ -113,7 +235,7 @@ export async function generateFeed(articles: Article[]): Promise<void> {
       title: article.title,
       link: article.link,
       description: article.description,
-      content: article.content,
+      content: prepareContentForFeed(article.content, article.link),
       date: article.date,
       published: article.date,
     });
