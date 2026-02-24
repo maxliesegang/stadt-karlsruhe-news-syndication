@@ -74,6 +74,8 @@ export const CONFIG = {
     ],
     date: ['.date', '[class*="date"]', 'time', '.published', '[class*="published"]'],
     contentContainers: ['article', 'main', '.news', '.content', '#content', '[role="main"]'],
+    // Elements to remove before content extraction (noise / copyright credits)
+    noiseElements: ['.copyright-text'],
   },
 
   // German month names to indices (0-11)

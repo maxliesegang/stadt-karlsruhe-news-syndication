@@ -156,6 +156,12 @@ export function extractContent(html: string, url: string): string {
   // Primary method: Mozilla Readability
   try {
     const dom = new JSDOM(html, { url });
+
+    // Strip noise elements (copyright credits, etc.) before Readability runs
+    for (const selector of CONFIG.SELECTORS.noiseElements) {
+      dom.window.document.querySelectorAll(selector).forEach((el) => el.remove());
+    }
+
     const reader = new Readability(dom.window.document);
     const article = reader.parse();
 
