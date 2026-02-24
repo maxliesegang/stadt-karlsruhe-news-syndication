@@ -1,22 +1,23 @@
 /**
- * Web scraping and content extraction
- * Handles fetching, parsing, and extracting article content
+ * Web scraping
+ * Handles fetching, parsing, and assembling articles from the listing page
  */
 
 import { ofetch } from 'ofetch';
 import * as cheerio from 'cheerio';
-import { Readability } from '@mozilla/readability';
-import { JSDOM } from 'jsdom';
 import { createHash } from 'node:crypto';
 import type { Element } from 'domhandler';
 import { CONFIG, type Article } from './config.js';
+import { extractContent } from './extractor.js';
 
 type ListingCandidate = Omit<Article, 'id' | 'content'> & { position: number };
+
+const ONE_DAY_MS = 24 * 60 * 60 * 1000;
 
 const RELATIVE_DATE_PATTERNS = [
   { pattern: /vor\s+(\d+)\s+stunde(n)?/i, milliseconds: 60 * 60 * 1000 },
   { pattern: /vor\s+(\d+)\s+minute(n)?/i, milliseconds: 60 * 1000 },
-  { pattern: /vor\s+(\d+)\s+tag(en)?/i, milliseconds: 24 * 60 * 60 * 1000 },
+  { pattern: /vor\s+(\d+)\s+tag(en)?/i, milliseconds: ONE_DAY_MS },
 ] as const;
 
 // ============================================================================
@@ -57,10 +58,6 @@ function parseRelativeDate(text: string, now: Date): Date | null {
   return null;
 }
 
-function isValidDate(value: Date): boolean {
-  return !Number.isNaN(value.getTime());
-}
-
 export function parseGermanDate(text: string): Date {
   const now = new Date();
   const trimmed = text.trim();
@@ -75,7 +72,7 @@ export function parseGermanDate(text: string): Date {
 
   // "Gestern" = yesterday
   if (/gestern/i.test(trimmed)) {
-    return new Date(now.getTime() - 24 * 60 * 60 * 1000);
+    return new Date(now.getTime() - ONE_DAY_MS);
   }
 
   // "Heute" = today
@@ -107,7 +104,7 @@ export function parseGermanDate(text: string): Date {
 
   // ISO date and all parsable browser formats
   const parsed = new Date(trimmed);
-  if (isValidDate(parsed)) {
+  if (!Number.isNaN(parsed.getTime())) {
     return parsed;
   }
 
@@ -132,85 +129,6 @@ export function normalizeLink(link: string): string {
   } catch {
     return '';
   }
-}
-
-// ============================================================================
-// CONTENT EXTRACTION
-// ============================================================================
-
-function hasMeaningfulContent(content: string): boolean {
-  return content.trim().length >= CONFIG.SCRAPER.minContentLength;
-}
-
-function textContentToParagraphs(text: string): string {
-  return text
-    .trim()
-    .split(/\n{2,}/)
-    .map((paragraph) => paragraph.trim())
-    .filter(Boolean)
-    .map((paragraph) => `<p>${paragraph.replace(/\s+/g, ' ')}</p>`)
-    .join('');
-}
-
-export function extractContent(html: string, url: string): string {
-  // Primary method: Mozilla Readability
-  try {
-    const dom = new JSDOM(html, { url });
-
-    // Strip noise elements (copyright credits, etc.) before Readability runs
-    for (const selector of CONFIG.SELECTORS.noiseElements) {
-      dom.window.document.querySelectorAll(selector).forEach((el) => el.remove());
-    }
-
-    const reader = new Readability(dom.window.document);
-    const article = reader.parse();
-
-    if (article?.content) {
-      const content = article.content.trim();
-      if (hasMeaningfulContent(content)) {
-        console.log(`  ✓ Extracted ${content.length} chars via Readability`);
-        return content;
-      }
-    }
-
-    // Readability returned only textContent
-    if (article?.textContent) {
-      const paragraphs = textContentToParagraphs(article.textContent);
-
-      if (hasMeaningfulContent(paragraphs)) {
-        console.log(`  ✓ Extracted ${paragraphs.length} chars via Readability (text mode)`);
-        return paragraphs;
-      }
-    }
-  } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    console.warn(`  Readability failed: ${message}`);
-  }
-
-  // Fallback: Cheerio-based extraction
-  console.log('  Using cheerio fallback...');
-  const $ = cheerio.load(html);
-
-  // Remove unwanted elements for safety
-  $('script, style, noscript').remove();
-
-  // Try preferred containers
-  for (const selector of CONFIG.SELECTORS.contentContainers) {
-    const content = $(selector).first().html()?.trim();
-    if (content && hasMeaningfulContent(content)) {
-      console.log(`  ✓ Extracted ${content.length} chars via ${selector}`);
-      return content;
-    }
-  }
-
-  // Last resort: body
-  const body = $('body').html()?.trim();
-  if (body && hasMeaningfulContent(body)) {
-    console.log(`  ✓ Extracted ${body.length} chars from body`);
-    return body;
-  }
-
-  throw new Error('Could not extract meaningful content');
 }
 
 // ============================================================================
@@ -277,13 +195,7 @@ function parseListingCandidate(
     element.text();
   const date = parseGermanDate(dateText);
 
-  return {
-    position,
-    title,
-    date,
-    link,
-    description,
-  };
+  return { position, title, date, link, description };
 }
 
 async function mapWithConcurrency<T, R>(
@@ -298,12 +210,8 @@ async function mapWithConcurrency<T, R>(
   let cursor = 0;
 
   const worker = async (): Promise<void> => {
-    while (true) {
-      const index = cursor;
-      cursor += 1;
-      if (index >= items.length) {
-        return;
-      }
+    while (cursor < items.length) {
+      const index = cursor++;
       results[index] = await mapper(items[index]);
     }
   };
@@ -315,14 +223,11 @@ async function mapWithConcurrency<T, R>(
 export async function scrapeArticles(html: string): Promise<Article[]> {
   const $ = cheerio.load(html);
   const elements = findArticleElements($);
-  const parsedCandidates: ListingCandidate[] = [];
 
-  for (let i = 0; i < elements.length; i += 1) {
-    const candidate = parseListingCandidate(elements.eq(i), i + 1);
-    if (candidate) {
-      parsedCandidates.push(candidate);
-    }
-  }
+  const parsedCandidates = elements
+    .toArray()
+    .map((el, i) => parseListingCandidate($(el), i + 1))
+    .filter((c): c is ListingCandidate => c !== null);
 
   if (parsedCandidates.length === 0) {
     throw new Error('No valid article entries found');

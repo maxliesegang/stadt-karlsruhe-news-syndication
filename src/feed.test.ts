@@ -44,8 +44,8 @@ describe('detectChanges', () => {
 
     const result = detectChanges([newArticle, updatedArticle, unchangedArticle], tracking);
 
-    expect(result.newArticles).toHaveLength(1);
-    expect(result.updated).toHaveLength(1);
+    expect(result.newCount).toBe(1);
+    expect(result.updatedCount).toBe(1);
     expect(result.unchanged).toBe(1);
     expect(result.updatedTracking['new-id']).toMatchObject({
       contentHash: 'new-id',

@@ -10,14 +10,14 @@ import * as cheerio from 'cheerio';
 import { CONFIG, type Article, type TrackingData } from './config.js';
 
 type ChangeDetectionResult = {
-  newArticles: Article[];
-  updated: Article[];
+  newCount: number;
+  updatedCount: number;
   unchanged: number;
   updatedTracking: TrackingData;
 };
 
 function isPlaceholderImage(value: string): boolean {
-  return /^data:image\/gif;base64,/i.test(value.trim());
+  return value.trimStart().startsWith('data:image/gif;base64,');
 }
 
 function normalizeUrl(value: string, baseUrl: string): string {
@@ -171,8 +171,8 @@ function toTrackingEntry(article: Article, lastSeen: string): TrackingData[strin
 }
 
 export function detectChanges(articles: Article[], tracking: TrackingData): ChangeDetectionResult {
-  const newArticles: Article[] = [];
-  const updated: Article[] = [];
+  let newCount = 0;
+  let updatedCount = 0;
   let unchanged = 0;
   const now = new Date().toISOString();
   const updatedTracking: TrackingData = { ...tracking };
@@ -180,29 +180,21 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
   for (const article of articles) {
     const existing = tracking[article.id];
 
-    if (!existing) {
-      // New article
-      newArticles.push(article);
-      updatedTracking[article.id] = toTrackingEntry(article, now);
-    } else if (existing.link !== article.link) {
-      // Article updated (link changed)
-      updated.push(article);
+    if (!existing || existing.link !== article.link) {
+      // New article or link changed — both need a fresh tracking entry
+      if (!existing) newCount++;
+      else updatedCount++;
       updatedTracking[article.id] = toTrackingEntry(article, now);
     } else {
       // Unchanged - just update lastSeen
       unchanged++;
-      updatedTracking[article.id] = {
-        ...existing,
-        lastSeen: now,
-      };
+      updatedTracking[article.id] = { ...existing, lastSeen: now };
     }
   }
 
-  console.log(
-    `Changes: ${newArticles.length} new, ${updated.length} updated, ${unchanged} unchanged`
-  );
+  console.log(`Changes: ${newCount} new, ${updatedCount} updated, ${unchanged} unchanged`);
 
-  return { newArticles, updated, unchanged, updatedTracking };
+  return { newCount, updatedCount, unchanged, updatedTracking };
 }
 
 // ============================================================================
@@ -210,17 +202,18 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
 // ============================================================================
 
 export async function generateFeed(articles: Article[]): Promise<void> {
+  const now = new Date();
   const feed = new Feed({
     title: CONFIG.FEED.title,
     description: CONFIG.FEED.description,
     id: CONFIG.SOURCE_URL,
     link: CONFIG.SOURCE_URL,
     language: CONFIG.FEED.language,
-    updated: new Date(),
+    updated: now,
     feedLinks: {
       atom: CONFIG.FEED.url,
     },
-    copyright: `Stadt Karlsruhe ${new Date().getFullYear()}`,
+    copyright: `Stadt Karlsruhe ${now.getFullYear()}`,
   });
 
   // Keep newest entries first and enforce feed size.

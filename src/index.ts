@@ -35,12 +35,8 @@ function logFailure(durationInSeconds: string, error: unknown): void {
   console.error(`✗ Feed generation failed after ${durationInSeconds}s`);
   console.error(DIVIDER);
   console.error();
-  console.error(error instanceof Error ? error.message : String(error));
-
-  if (error instanceof Error && error.stack) {
-    console.error();
-    console.error(error.stack);
-  }
+  // stack already includes the message; fall back to String() for non-Error values
+  console.error(error instanceof Error ? (error.stack ?? error.message) : String(error));
 }
 
 async function main(): Promise<void> {

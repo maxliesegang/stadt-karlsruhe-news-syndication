@@ -1,7 +1,7 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
-import { extractContent } from './scraper.js';
+import { extractContent } from './extractor.js';
 
 type TestCase = {
   /** Filename stem matching scripts/fixtures/<slug>.html */
@@ -52,18 +52,15 @@ describe('extractContent — real article fixtures', () => {
     const fixturePath = join(FIXTURE_DIR, `${slug}.html`);
     const fixtureExists = existsSync(fixturePath);
 
-    it.skipIf(!fixtureExists)(
-      slug,
-      () => {
-        const html = readFileSync(fixturePath, 'utf-8');
-        const content = extractContent(html, url);
+    it.skipIf(!fixtureExists)(slug, () => {
+      const html = readFileSync(fixturePath, 'utf-8');
+      const content = extractContent(html, url);
 
-        expect(content.length).toBeGreaterThanOrEqual(minChars);
+      expect(content.length).toBeGreaterThanOrEqual(minChars);
 
-        for (const forbidden of notContains ?? []) {
-          expect(content).not.toContain(forbidden);
-        }
+      for (const forbidden of notContains ?? []) {
+        expect(content).not.toContain(forbidden);
       }
-    );
+    });
   }
 });
