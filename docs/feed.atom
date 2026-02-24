@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-02-24T07:11:12.026Z</updated>
+    <updated>2026-02-24T07:47:48.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -10,21 +10,11 @@
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
         <title type="html"><![CDATA[Beschluss zur Umfahrung Hagsfeld verschoben]]></title>
-        <id>3d5da91d6b4b27e445ed79f72ec9a5c3</id>
+        <id>6d00eb76d861f4796f591eabb4fc40d6</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/beratung-zum-baubeginn-umfahrung-hagsfeld-verschoben"/>
         <updated>2026-02-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Der Tagesordnungspunkt 6 der Gemeinderatssitzung am 24. Februar 2026 wird nicht behandelt. Damit wird der Beschluss zur Umfahrung Hagsfeld verschoben.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
-    <!-- SKIP NAVIGATION -->
-    <!--TYPO3SEARCH_end-->
-    <nav aria-label="Sprunglink"> <a href="#footer" title="Footer der Seite anspringen">Footer der Seite anspringen</a> </nav>
-    <!--TYPO3SEARCH_begin-->
-    
-    
-
-
-        
-                <div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
                         <!-- date -->
                         <div>
 
@@ -45,6 +35,7 @@
                             </div>
 
                         <div>
+                            <div>
                                 
                                 
                                         <div>
@@ -56,11 +47,11 @@
 
 <img alt="Schriftzug &quot;Bürgersaal&quot;" title="Bürgersaal" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/4/2/csm_buergersaal-1734000331_a4e43e3173.jpeg">
 
-        <p><span>Am Dienstag, 24. Februar, tagt der Gemeinderat im Bürgersaal des Rathauses am Marktplatz.</span>
+        
     
 
         
-            <span>© Stadt Karlsruhe, Boris Burghardt</span>
+            
         
     
 
@@ -69,7 +60,7 @@
                                                     
                                                 
                                             
-                                        </p></div>
+                                        </div>
                                     
 
                                 
@@ -92,13 +83,35 @@
                                     
                                 
                             </div>
-                    </div>
-            
-    
 
-
-
-</div></div>]]></content>
+                            <section>
+                                        <h4>Weitere Informationen</h4>
+                                        <ul>
+                                            
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                <li>
+                                                    <svg>
+                                                        <use xlink:href="/typo3conf/ext/karlsruhe/Resources/Public/Dist/images/sprites/sprite.svg#external_icon"></use>
+                                                    </svg>
+                                                    <div>
+                                                        
+                                                        
+                                                        
+                                                        <p><a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10476" title="Sitzungsunterlagen zum Gemeinderat am 24. Februar 2026" target="_blank" rel="noreferrer">
+                                                            Sitzungsunterlagen zum Gemeinderat am 24. Februar 2026
+                                                        </a>
+                                                        
+                                                    </p></div>
+                                                </li>
+                                            
+                                        </ul>
+                                    </section>
+                        </div>
+                    </div></div>]]></content>
         <published>2026-02-23T00:00:00.000Z</published>
     </entry>
     <entry>
