@@ -8,6 +8,12 @@ import { config as dotenvConfig } from 'dotenv';
 // Load environment variables
 dotenvConfig();
 
+function parsePositiveInteger(value: string | undefined, fallback: number): number {
+  if (!value) return fallback;
+  const parsed = Number.parseInt(value, 10);
+  return Number.isNaN(parsed) || parsed < 1 ? fallback : parsed;
+}
+
 export const CONFIG = {
   // Source URLs
   SOURCE_URL: process.env.SOURCE_URL || 'https://www.karlsruhe.de/aktuelles',
@@ -26,13 +32,19 @@ export const CONFIG = {
   // Output paths
   OUTPUT_FILE: process.env.OUTPUT_FILE || 'docs/feed.atom',
   TRACKING_FILE: process.env.TRACKING_FILE || 'data/tracking.json',
-  MAX_ARTICLES: parseInt(process.env.MAX_ARTICLES || '100'),
+  MAX_ARTICLES: parsePositiveInteger(process.env.MAX_ARTICLES, 100),
 
   // HTTP settings
   HTTP: {
     maxRetries: 3,
     retryDelay: 1000,
     timeout: 30000,
+  },
+
+  // Scraper behavior
+  SCRAPER: {
+    concurrency: 4,
+    minContentLength: 100,
   },
 
   // CSS selectors for HTML parsing
@@ -61,22 +73,24 @@ export const CONFIG = {
       '[class*="text"]',
     ],
     date: ['.date', '[class*="date"]', 'time', '.published', '[class*="published"]'],
+    contentContainers: ['article', 'main', '.news', '.content', '#content', '[role="main"]'],
   },
 
   // German month names to indices (0-11)
   GERMAN_MONTHS: {
-    Januar: 0,
-    Februar: 1,
-    März: 2,
-    April: 3,
-    Mai: 4,
-    Juni: 5,
-    Juli: 6,
-    August: 7,
-    September: 8,
-    Oktober: 9,
-    November: 10,
-    Dezember: 11,
+    januar: 0,
+    februar: 1,
+    märz: 2,
+    maerz: 2,
+    april: 3,
+    mai: 4,
+    juni: 5,
+    juli: 6,
+    august: 7,
+    september: 8,
+    oktober: 9,
+    november: 10,
+    dezember: 11,
   } as Record<string, number>,
 } as const;
 

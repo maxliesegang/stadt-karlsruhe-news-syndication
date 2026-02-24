@@ -8,7 +8,16 @@ import * as cheerio from 'cheerio';
 import { Readability } from '@mozilla/readability';
 import { JSDOM } from 'jsdom';
 import { createHash } from 'node:crypto';
+import type { Element } from 'domhandler';
 import { CONFIG, type Article } from './config.js';
+
+type ListingCandidate = Omit<Article, 'id' | 'content'> & { position: number };
+
+const RELATIVE_DATE_PATTERNS = [
+  { pattern: /vor\s+(\d+)\s+stunde(n)?/i, milliseconds: 60 * 60 * 1000 },
+  { pattern: /vor\s+(\d+)\s+minute(n)?/i, milliseconds: 60 * 1000 },
+  { pattern: /vor\s+(\d+)\s+tag(en)?/i, milliseconds: 24 * 60 * 60 * 1000 },
+] as const;
 
 // ============================================================================
 // HTTP FETCHING
@@ -34,32 +43,39 @@ export async function fetchHtml(url: string): Promise<string> {
 // GERMAN DATE PARSING
 // ============================================================================
 
+function parseRelativeDate(text: string, now: Date): Date | null {
+  for (const { pattern, milliseconds } of RELATIVE_DATE_PATTERNS) {
+    const match = text.match(pattern);
+    if (!match) continue;
+
+    const amount = Number.parseInt(match[1], 10);
+    if (Number.isNaN(amount)) continue;
+
+    return new Date(now.getTime() - amount * milliseconds);
+  }
+
+  return null;
+}
+
+function isValidDate(value: Date): boolean {
+  return !Number.isNaN(value.getTime());
+}
+
 export function parseGermanDate(text: string): Date {
   const now = new Date();
   const trimmed = text.trim();
 
-  // Relative dates: "vor X Stunden/Minuten/Tagen"
-  const hoursMatch = trimmed.match(/vor\s+(\d+)\s+Stunde(n)?/i);
-  if (hoursMatch) {
-    const hours = parseInt(hoursMatch[1], 10);
-    return new Date(now.getTime() - hours * 3600000);
+  if (!trimmed) {
+    console.warn('  Could not parse empty date, using current time');
+    return now;
   }
 
-  const minutesMatch = trimmed.match(/vor\s+(\d+)\s+Minute(n)?/i);
-  if (minutesMatch) {
-    const minutes = parseInt(minutesMatch[1], 10);
-    return new Date(now.getTime() - minutes * 60000);
-  }
-
-  const daysMatch = trimmed.match(/vor\s+(\d+)\s+Tag(en)?/i);
-  if (daysMatch) {
-    const days = parseInt(daysMatch[1], 10);
-    return new Date(now.getTime() - days * 86400000);
-  }
+  const relativeDate = parseRelativeDate(trimmed, now);
+  if (relativeDate) return relativeDate;
 
   // "Gestern" = yesterday
   if (/gestern/i.test(trimmed)) {
-    return new Date(now.getTime() - 86400000);
+    return new Date(now.getTime() - 24 * 60 * 60 * 1000);
   }
 
   // "Heute" = today
@@ -70,25 +86,29 @@ export function parseGermanDate(text: string): Date {
   // Absolute date: "15. Januar 2024"
   const monthNameMatch = trimmed.match(/(\d{1,2})\.\s+([a-zäöüß]+)\s+(\d{4})/i);
   if (monthNameMatch) {
-    const [, day, monthName, year] = monthNameMatch;
+    const day = Number.parseInt(monthNameMatch[1], 10);
+    const monthName = monthNameMatch[2].toLocaleLowerCase('de-DE');
+    const year = Number.parseInt(monthNameMatch[3], 10);
     const month = CONFIG.GERMAN_MONTHS[monthName];
+
     if (month !== undefined) {
-      return new Date(parseInt(year, 10), month, parseInt(day, 10));
+      return new Date(year, month, day);
     }
   }
 
   // Numeric date: "15.01.2024"
   const numericMatch = trimmed.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
   if (numericMatch) {
-    const [, day, month, year] = numericMatch;
-    return new Date(parseInt(year, 10), parseInt(month, 10) - 1, parseInt(day, 10));
+    const day = Number.parseInt(numericMatch[1], 10);
+    const month = Number.parseInt(numericMatch[2], 10) - 1;
+    const year = Number.parseInt(numericMatch[3], 10);
+    return new Date(year, month, day);
   }
 
-  // ISO date: "2024-01-15"
-  const isoMatch = trimmed.match(/(\d{4})-(\d{2})-(\d{2})/);
-  if (isoMatch) {
-    const [, year, month, day] = isoMatch;
-    return new Date(parseInt(year, 10), parseInt(month, 10) - 1, parseInt(day, 10));
+  // ISO date and all parsable browser formats
+  const parsed = new Date(trimmed);
+  if (isValidDate(parsed)) {
+    return parsed;
   }
 
   console.warn(`  Could not parse date "${trimmed}", using current time`);
@@ -100,12 +120,15 @@ export function parseGermanDate(text: string): Date {
 // ============================================================================
 
 export function normalizeLink(link: string): string {
-  if (!link) return '';
-  if (link.startsWith('http')) return link;
-  if (link.startsWith('/')) return `${CONFIG.BASE_URL}${link}`;
+  const trimmed = link.trim();
+  if (!trimmed) return '';
 
   try {
-    return new URL(link, CONFIG.SOURCE_URL).href;
+    const normalized = new URL(trimmed, CONFIG.SOURCE_URL);
+    if (normalized.protocol !== 'http:' && normalized.protocol !== 'https:') {
+      return '';
+    }
+    return normalized.href;
   } catch {
     return '';
   }
@@ -114,6 +137,20 @@ export function normalizeLink(link: string): string {
 // ============================================================================
 // CONTENT EXTRACTION
 // ============================================================================
+
+function hasMeaningfulContent(content: string): boolean {
+  return content.trim().length >= CONFIG.SCRAPER.minContentLength;
+}
+
+function textContentToParagraphs(text: string): string {
+  return text
+    .trim()
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean)
+    .map((paragraph) => `<p>${paragraph.replace(/\s+/g, ' ')}</p>`)
+    .join('');
+}
 
 export function extractContent(html: string, url: string): string {
   // Primary method: Mozilla Readability
@@ -124,7 +161,7 @@ export function extractContent(html: string, url: string): string {
 
     if (article?.content) {
       const content = article.content.trim();
-      if (content.length > 100) {
+      if (hasMeaningfulContent(content)) {
         console.log(`  ✓ Extracted ${content.length} chars via Readability`);
         return content;
       }
@@ -132,15 +169,9 @@ export function extractContent(html: string, url: string): string {
 
     // Readability returned only textContent
     if (article?.textContent) {
-      const paragraphs = article.textContent
-        .trim()
-        .split(/\n{2,}/)
-        .map((p) => p.trim())
-        .filter(Boolean)
-        .map((p) => `<p>${p.replace(/\s+/g, ' ')}</p>`)
-        .join('');
+      const paragraphs = textContentToParagraphs(article.textContent);
 
-      if (paragraphs.length > 100) {
+      if (hasMeaningfulContent(paragraphs)) {
         console.log(`  ✓ Extracted ${paragraphs.length} chars via Readability (text mode)`);
         return paragraphs;
       }
@@ -155,23 +186,22 @@ export function extractContent(html: string, url: string): string {
   const $ = cheerio.load(html);
 
   // Remove unwanted elements for safety
-  $('script, style').remove();
+  $('script, style, noscript').remove();
 
   // Try preferred containers
-  const preferredContainers = ['article', 'main', '.news', '.content'];
-  for (const selector of preferredContainers) {
-    const content = $(selector).first().html();
-    if (content && content.length > 100) {
+  for (const selector of CONFIG.SELECTORS.contentContainers) {
+    const content = $(selector).first().html()?.trim();
+    if (content && hasMeaningfulContent(content)) {
       console.log(`  ✓ Extracted ${content.length} chars via ${selector}`);
-      return content.trim();
+      return content;
     }
   }
 
   // Last resort: body
-  const body = $('body').html();
-  if (body && body.length > 100) {
+  const body = $('body').html()?.trim();
+  if (body && hasMeaningfulContent(body)) {
     console.log(`  ✓ Extracted ${body.length} chars from body`);
-    return body.trim();
+    return body;
   }
 
   throw new Error('Could not extract meaningful content');
@@ -182,7 +212,7 @@ export function extractContent(html: string, url: string): string {
 // ============================================================================
 
 export function generateId(content: string, date: Date): string {
-  const dateStr = date.toISOString().split('T')[0];
+  const dateStr = date.toISOString().slice(0, 10);
   const hashInput = `${dateStr}|${content}`;
   return createHash('md5').update(hashInput).digest('hex');
 }
@@ -191,81 +221,136 @@ export function generateId(content: string, date: Date): string {
 // ARTICLE PARSING
 // ============================================================================
 
+function firstNonEmptyText(
+  element: cheerio.Cheerio<Element>,
+  selectors: readonly string[]
+): string {
+  for (const selector of selectors) {
+    const text = element.find(selector).first().text().trim();
+    if (text) {
+      return text;
+    }
+  }
+
+  return '';
+}
+
+function findArticleElements($: cheerio.CheerioAPI): cheerio.Cheerio<Element> {
+  for (const selector of CONFIG.SELECTORS.articles) {
+    const elements = $(selector);
+    if (elements.length > 0) {
+      console.log(`Found ${elements.length} articles with selector: ${selector}`);
+      return elements;
+    }
+  }
+
+  throw new Error('No articles found - HTML structure may have changed');
+}
+
+function parseListingCandidate(
+  element: cheerio.Cheerio<Element>,
+  position: number
+): ListingCandidate | null {
+  const title = firstNonEmptyText(element, CONFIG.SELECTORS.title);
+  if (!title) {
+    console.log(`  [${position}] Skipping: no title found`);
+    return null;
+  }
+
+  const rawLink = element.find('a').first().attr('href') ?? '';
+  const link = normalizeLink(rawLink);
+  if (!link) {
+    console.log(`  [${position}] Skipping "${title}": invalid link`);
+    return null;
+  }
+
+  const description = firstNonEmptyText(element, CONFIG.SELECTORS.description);
+  const dateText =
+    element.find('time[datetime]').first().attr('datetime') ||
+    firstNonEmptyText(element, CONFIG.SELECTORS.date) ||
+    element.text();
+  const date = parseGermanDate(dateText);
+
+  return {
+    position,
+    title,
+    date,
+    link,
+    description,
+  };
+}
+
+async function mapWithConcurrency<T, R>(
+  items: readonly T[],
+  concurrency: number,
+  mapper: (item: T) => Promise<R | null>
+): Promise<R[]> {
+  if (items.length === 0) return [];
+
+  const workerCount = Math.min(Math.max(1, concurrency), items.length);
+  const results: Array<R | null> = new Array(items.length).fill(null);
+  let cursor = 0;
+
+  const worker = async (): Promise<void> => {
+    while (true) {
+      const index = cursor;
+      cursor += 1;
+      if (index >= items.length) {
+        return;
+      }
+      results[index] = await mapper(items[index]);
+    }
+  };
+
+  await Promise.all(Array.from({ length: workerCount }, () => worker()));
+  return results.filter((result): result is R => result !== null);
+}
+
 export async function scrapeArticles(html: string): Promise<Article[]> {
   const $ = cheerio.load(html);
+  const elements = findArticleElements($);
+  const parsedCandidates: ListingCandidate[] = [];
 
-  // Find article elements
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  let elements: cheerio.Cheerio<any> | null = null;
-  for (const selector of CONFIG.SELECTORS.articles) {
-    const found = $(selector);
-    if (found.length > 0) {
-      console.log(`Found ${found.length} articles with selector: ${selector}`);
-      elements = found;
-      break;
+  for (let i = 0; i < elements.length; i += 1) {
+    const candidate = parseListingCandidate(elements.eq(i), i + 1);
+    if (candidate) {
+      parsedCandidates.push(candidate);
     }
   }
 
-  if (!elements || elements.length === 0) {
-    throw new Error('No articles found - HTML structure may have changed');
+  if (parsedCandidates.length === 0) {
+    throw new Error('No valid article entries found');
   }
 
-  const articles: Article[] = [];
+  console.log(
+    `Processing ${parsedCandidates.length} detail pages (concurrency: ${CONFIG.SCRAPER.concurrency})`
+  );
 
-  // Process each article element
-  for (let i = 0; i < elements.length; i++) {
-    const el = elements.eq(i);
+  const articles = await mapWithConcurrency(
+    parsedCandidates,
+    CONFIG.SCRAPER.concurrency,
+    async (candidate) => {
+      try {
+        console.log(`[${candidate.position}/${elements.length}] ${candidate.title}`);
+        const detailHtml = await fetchHtml(candidate.link);
+        const content = extractContent(detailHtml, candidate.link);
+        const id = generateId(content, candidate.date);
 
-    try {
-      // Extract title
-      let title = '';
-      for (const sel of CONFIG.SELECTORS.title) {
-        title = el.find(sel).first().text().trim();
-        if (title) break;
+        return {
+          id,
+          title: candidate.title,
+          date: candidate.date,
+          link: candidate.link,
+          description: candidate.description,
+          content,
+        };
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error);
+        console.warn(`  ✗ Failed "${candidate.title}": ${message}`);
+        return null;
       }
-      if (!title) {
-        console.log(`  [${i + 1}] Skipping: no title found`);
-        continue;
-      }
-
-      // Extract link
-      const rawLink = el.find('a').first().attr('href') || '';
-      const link = normalizeLink(rawLink);
-      if (!link) {
-        console.log(`  [${i + 1}] Skipping "${title}": invalid link`);
-        continue;
-      }
-
-      // Extract description
-      let description = '';
-      for (const sel of CONFIG.SELECTORS.description) {
-        description = el.find(sel).first().text().trim();
-        if (description) break;
-      }
-
-      // Extract date
-      let dateText = el.find('time[datetime]').first().attr('datetime') || '';
-      if (!dateText) {
-        for (const sel of CONFIG.SELECTORS.date) {
-          dateText = el.find(sel).first().text().trim();
-          if (dateText) break;
-        }
-      }
-      const date = parseGermanDate(dateText || el.text());
-
-      // Fetch detail page and extract content
-      console.log(`[${i + 1}/${elements.length}] ${title}`);
-      const detailHtml = await fetchHtml(link);
-      const content = extractContent(detailHtml, link);
-      const id = generateId(content, date);
-
-      articles.push({ id, title, date, link, description, content });
-    } catch (error) {
-      const message = error instanceof Error ? error.message : String(error);
-      console.warn(`  ✗ Failed: ${message}`);
-      continue;
     }
-  }
+  );
 
   console.log(`\n✓ Successfully scraped ${articles.length}/${elements.length} articles\n`);
   return articles;

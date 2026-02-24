@@ -13,14 +13,41 @@ import { CONFIG } from './config.js';
 import { fetchHtml, scrapeArticles } from './scraper.js';
 import { loadTracking, detectChanges, saveTracking, generateFeed } from './feed.js';
 
+const DIVIDER = '='.repeat(60);
+
+function logStart(): void {
+  console.log(DIVIDER);
+  console.log('Stadt Karlsruhe Feed Generator');
+  console.log(DIVIDER);
+  console.log();
+}
+
+function logSuccess(durationInSeconds: string): void {
+  console.log();
+  console.log(DIVIDER);
+  console.log(`✓ Feed generation complete (${durationInSeconds}s)`);
+  console.log(DIVIDER);
+}
+
+function logFailure(durationInSeconds: string, error: unknown): void {
+  console.error();
+  console.error(DIVIDER);
+  console.error(`✗ Feed generation failed after ${durationInSeconds}s`);
+  console.error(DIVIDER);
+  console.error();
+  console.error(error instanceof Error ? error.message : String(error));
+
+  if (error instanceof Error && error.stack) {
+    console.error();
+    console.error(error.stack);
+  }
+}
+
 async function main(): Promise<void> {
   const startTime = Date.now();
 
   try {
-    console.log('='.repeat(60));
-    console.log('Stadt Karlsruhe Feed Generator');
-    console.log('='.repeat(60));
-    console.log();
+    logStart();
 
     // 1. Fetch listing page
     const listingHtml = await fetchHtml(CONFIG.SOURCE_URL);
@@ -31,7 +58,7 @@ async function main(): Promise<void> {
 
     if (articles.length === 0) {
       console.warn('No articles found!');
-      process.exit(0);
+      return;
     }
 
     // 3. Load tracking and detect changes
@@ -48,22 +75,10 @@ async function main(): Promise<void> {
 
     // Done!
     const duration = ((Date.now() - startTime) / 1000).toFixed(1);
-    console.log();
-    console.log('='.repeat(60));
-    console.log(`✓ Feed generation complete (${duration}s)`);
-    console.log('='.repeat(60));
+    logSuccess(duration);
   } catch (error) {
     const duration = ((Date.now() - startTime) / 1000).toFixed(1);
-    console.error();
-    console.error('='.repeat(60));
-    console.error(`✗ Feed generation failed after ${duration}s`);
-    console.error('='.repeat(60));
-    console.error();
-    console.error(error instanceof Error ? error.message : String(error));
-    if (error instanceof Error && error.stack) {
-      console.error();
-      console.error(error.stack);
-    }
+    logFailure(duration, error);
     process.exit(1);
   }
 }

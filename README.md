@@ -2,7 +2,7 @@
 
 Automated Atom feed generator for [Stadt Karlsruhe news](https://www.karlsruhe.de/aktuelles).
 
-A simple, maintainable TypeScript scraper in a single file.
+A simple, maintainable TypeScript scraper with a small module-based architecture.
 
 ## Features
 
@@ -13,7 +13,7 @@ A simple, maintainable TypeScript scraper in a single file.
 - ⏰ Auto-updates every 4 hours via GitHub Actions
 - 🚀 Deploys to GitHub Pages
 - 🔧 Environment-based configuration
-- 📦 Simple single-file architecture
+- 📦 Small module-based architecture
 - 🪶 Lightweight with minimal dependencies
 
 ## Setup
@@ -182,7 +182,12 @@ Tracking data is persisted in `data/tracking.json` and committed to git.
 ```
 stadt-karlsruhe-news-syndication/
 ├── src/
-│   └── index.ts              # Single file - all logic here (~600 lines)
+│   ├── index.ts              # Pipeline orchestration
+│   ├── scraper.ts            # Fetching + parsing + content extraction
+│   ├── feed.ts               # Tracking state + Atom generation
+│   ├── config.ts             # Shared config, selectors, and types
+│   ├── scraper.test.ts       # Scraper/date/link unit tests
+│   └── feed.test.ts          # Tracking unit tests
 ├── .github/workflows/
 │   └── update-feed.yml      # GitHub Actions (runs every 4 hours)
 ├── docs/
@@ -199,20 +204,12 @@ stadt-karlsruhe-news-syndication/
 
 ### Code Structure
 
-The `src/index.ts` file is organized into clear sections:
+The source code is split by responsibility:
 
-1. **Configuration** - Environment variables, CSS selectors, constants
-2. **Types** - TypeScript type definitions
-3. **HTTP & Scraping** - Fetch HTML with retry logic
-4. **Date Parsing** - Handle German date formats
-5. **URL Normalization** - Convert relative links to absolute
-6. **HTML Sanitization** - Clean extracted HTML
-7. **Content Extraction** - @mozilla/readability + cheerio fallback
-8. **ID Generation** - MD5 hashing
-9. **Parsing** - Extract articles from listing page
-10. **Tracking** - Load/save/detect changes
-11. **Feed Generation** - Create Atom XML
-12. **Main** - Linear pipeline execution
+1. **`src/index.ts`** - Main pipeline (fetch, scrape, detect, generate, save)
+2. **`src/config.ts`** - Environment values, selectors, constants, shared types
+3. **`src/scraper.ts`** - HTTP fetching, date parsing, listing parsing, content extraction, ID generation
+4. **`src/feed.ts`** - Tracking load/save, change detection, Atom feed writing
 
 ### Tech Stack
 
@@ -250,7 +247,7 @@ If the scraper returns 0 articles:
 
 1. The website HTML structure may have changed
 2. Inspect karlsruhe.de/aktuelles in browser DevTools
-3. Update selectors in `CONFIG.SELECTORS.articles` in [src/index.ts](src/index.ts:50-63)
+3. Update selectors in `CONFIG.SELECTORS.articles` in `src/config.ts`
 4. Run locally to see detailed console output
 
 ### Feed not updating
@@ -265,7 +262,7 @@ If the scraper returns 0 articles:
 If dates aren't parsed correctly:
 
 1. Check console output for warnings about unparsed dates
-2. Add new patterns to `parseGermanDate()` in [src/index.ts](src/index.ts:136-195)
+2. Add new patterns to `parseGermanDate()` in `src/scraper.ts`
 3. Test with actual website data
 
 ### Content extraction issues
@@ -273,20 +270,20 @@ If dates aren't parsed correctly:
 If articles have missing or incorrect content:
 
 1. Check if @mozilla/readability is extracting properly (console logs show method used)
-2. Update cheerio fallback selectors in `extractContent()` if needed
-3. Adjust sanitization rules in `sanitizeHtml()` if content is being removed
+2. Update cheerio fallback selectors in `CONFIG.SELECTORS.contentContainers` (in `src/config.ts`)
+3. Adjust extraction heuristics in `extractContent()` (`src/scraper.ts`) if content is missing
 
 ## Contributing
 
 ### For Developers
 
-The codebase is intentionally simple and consolidated into a single file for easy maintenance:
+The codebase is intentionally simple and split into focused modules:
 
-- Everything is in [src/index.ts](src/index.ts:1) - one file, linear flow
-- Clear section comments guide you to each part
-- Functions are self-contained and easy to modify
-- No complex abstractions or class hierarchies
-- Changes to selectors, parsing logic, or extraction are straightforward
+- `src/index.ts` keeps orchestration linear and easy to follow
+- `src/scraper.ts` contains scraping and extraction behavior
+- `src/feed.ts` contains tracking and feed generation behavior
+- `src/config.ts` centralizes selectors and environment-driven settings
+- Unit tests in `src/*.test.ts` cover parser and tracking behavior
 
 ### For AI Agents
 

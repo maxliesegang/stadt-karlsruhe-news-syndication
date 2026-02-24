@@ -8,6 +8,13 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { CONFIG, type Article, type TrackingData } from './config.js';
 
+type ChangeDetectionResult = {
+  newArticles: Article[];
+  updated: Article[];
+  unchanged: number;
+  updatedTracking: TrackingData;
+};
+
 // ============================================================================
 // TRACKING
 // ============================================================================
@@ -33,7 +40,15 @@ export async function saveTracking(tracking: TrackingData): Promise<void> {
   console.log(`Saved tracking data: ${Object.keys(tracking).length} entries`);
 }
 
-export function detectChanges(articles: Article[], tracking: TrackingData) {
+function toTrackingEntry(article: Article, lastSeen: string): TrackingData[string] {
+  return {
+    contentHash: article.id,
+    lastSeen,
+    link: article.link,
+  };
+}
+
+export function detectChanges(articles: Article[], tracking: TrackingData): ChangeDetectionResult {
   const newArticles: Article[] = [];
   const updated: Article[] = [];
   let unchanged = 0;
@@ -46,19 +61,11 @@ export function detectChanges(articles: Article[], tracking: TrackingData) {
     if (!existing) {
       // New article
       newArticles.push(article);
-      updatedTracking[article.id] = {
-        contentHash: article.id,
-        lastSeen: now,
-        link: article.link,
-      };
+      updatedTracking[article.id] = toTrackingEntry(article, now);
     } else if (existing.link !== article.link) {
       // Article updated (link changed)
       updated.push(article);
-      updatedTracking[article.id] = {
-        contentHash: article.id,
-        lastSeen: now,
-        link: article.link,
-      };
+      updatedTracking[article.id] = toTrackingEntry(article, now);
     } else {
       // Unchanged - just update lastSeen
       unchanged++;
@@ -94,8 +101,10 @@ export async function generateFeed(articles: Article[]): Promise<void> {
     copyright: `Stadt Karlsruhe ${new Date().getFullYear()}`,
   });
 
-  // Limit articles to MAX_ARTICLES
-  const limited = articles.slice(0, CONFIG.MAX_ARTICLES);
+  // Keep newest entries first and enforce feed size.
+  const limited = [...articles]
+    .sort((a, b) => b.date.getTime() - a.date.getTime())
+    .slice(0, CONFIG.MAX_ARTICLES);
   console.log(`Adding ${limited.length} articles to feed (max: ${CONFIG.MAX_ARTICLES})`);
 
   for (const article of limited) {
