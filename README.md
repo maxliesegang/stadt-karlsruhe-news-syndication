@@ -1,4 +1,4 @@
-# stadt-karlsruhe-syndication
+# stadt-karlsruhe-news-syndication
 
 Automated Atom feed generator for [Stadt Karlsruhe news](https://www.karlsruhe.de/aktuelles).
 
@@ -41,7 +41,7 @@ GITHUB_USERNAME=your-username
 The feed URL will be auto-generated as:
 
 ```
-https://your-username.github.io/stadt-karlsruhe-syndication/feed.atom
+https://your-username.github.io/stadt-karlsruhe-news-syndication/feed.atom
 ```
 
 Or manually set:
@@ -93,7 +93,7 @@ GitHub Actions will automatically:
 Once deployed, your feed will be available at:
 
 ```
-https://<your-username>.github.io/stadt-karlsruhe-syndication/feed.atom
+https://<your-username>.github.io/stadt-karlsruhe-news-syndication/feed.atom
 ```
 
 Subscribe to this URL in any feed reader (Feedly, Inoreader, NetNewsWire, etc.)
@@ -180,7 +180,7 @@ Tracking data is persisted in `data/tracking.json` and committed to git.
 ### Project Structure
 
 ```
-stadt-karlsruhe-syndication/
+stadt-karlsruhe-news-syndication/
 ├── src/
 │   └── index.ts              # Single file - all logic here (~600 lines)
 ├── .github/workflows/

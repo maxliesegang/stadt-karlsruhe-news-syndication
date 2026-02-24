@@ -20,7 +20,7 @@ export const CONFIG = {
     language: process.env.FEED_LANGUAGE || 'de',
     url:
       process.env.FEED_URL ||
-      'https://maxliesegang.github.io/stadt-karlsruhe-syndication/feed.atom',
+      'https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom',
   },
 
   // Output paths

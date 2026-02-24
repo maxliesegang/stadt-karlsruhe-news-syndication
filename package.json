@@ -1,5 +1,5 @@
 {
-  "name": "stadt-karlsruhe-syndication",
+  "name": "stadt-karlsruhe-news-syndication",
   "version": "1.0.0",
   "type": "module",
   "description": "Atom feed generator for Stadt Karlsruhe news",

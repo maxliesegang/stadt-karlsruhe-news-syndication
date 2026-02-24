@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Repository-wide instructions for AI agents working in `stadt-karlsruhe-syndication`.
+Repository-wide instructions for AI agents working in `stadt-karlsruhe-news-syndication`.
 
 ## Scope Model
 
