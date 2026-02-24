@@ -26,7 +26,7 @@ export async function fetchHtml(url: string): Promise<string> {
     return html;
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
-    throw new Error(`Failed to fetch ${url}: ${message}`);
+    throw new Error(`Failed to fetch ${url}: ${message}`, { cause: error });
   }
 }
 
