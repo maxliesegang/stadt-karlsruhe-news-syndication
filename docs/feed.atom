@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-03T13:09:25.139Z</updated>
+    <updated>2026-03-03T16:56:04.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Alternative Kunstschau]]></title>
+        <id>4ef57c5ca90412da0d09b94f202223ea</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/alternative-kunstschau"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parallel zur art Karlsruhe bot das „Kunstrauschen“ am 6. Februar einen Einblick in Ateliers der unabhängige Kunstszene. 20  Hinterhofwerkstätten, Privatwohnungen, Ateliers und ehemaligen Industriehallen öffnet ihre Pforten.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Parallel zur art Karlsruhe bot die jährliche Veranstaltung „Kunstrauschen“ am 6. Februar einen Einblick in die unabhängige Kunstszene der Stadt. Dazu öffneten 20 Hinterhofwerkstätten, Privatwohnungen, Ateliers und ehemaligen Industriehallen in der gesamten Stadt ihre Pforten, wie das Kulturamt mitteilte.</p>
+<p>Teilgenommen hatten die AHOI Studios, das Atelierhaus Alter Schlachthof, CIRCUS 3000, COLA TAXI OKAY, CU, Die Neue Fledermaus, Kunstperipherie/n, Luis Leu, Medienkunstinitiative Lichtspielsauna e.V., Nordbecken, Projektraum Rochade, Projektraum Spektrum, Schauraum B9, schillllerstrasse, Showroom Schmitt, ßpace – die Anstoß e.V., studio hö, Studio Karat, V8 und V12.</p>
+<p>Kunstschaffende und Ausstellende sprachen von einem gelungenen Abend mit interessierten Besucherinnen und Besuchern, so das Kulturamt. Das Format fand zum dritten Mal statt und habe sich dem Vernehmen nach nun etabliert, ließen einzelne Beteiligte verlauten.</p>
+<p>Die Räume waren demnach ausnahmslos gut besucht, manche berichteten von bis zu 200 Besucherinnen und Besuchern. -nke-</p>
+                                    </div></div>]]></content>
+        <published>2026-03-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innenstadtmanagement]]></title>
         <id>a1badb5c6eb704d2f1ae2b767959ec12</id>
@@ -111,19 +125,6 @@
 <p>Yvette Melchien, Sozialbürgermeisterin der Stadt Karlsruhe, nimmt zum bisherigen Verlauf des vorläufigen Insolvenzverfahrens wie folgt Stellung: „Ich sehe die Kitaträger im vorläufigen Insolvenzverfahren auf einem guten Weg, sich neu auszurichten. Die Angebote von Pro Liberis und Lenitas sind wichtig für die Betreuung und Unterstützung von Kindern und Jugendlichen in der Stadt und in der Region Karlsruhe. Der Einsatz der Mitarbeitenden gerade jetzt während des vorläufigen Insolvenzverfahrens verdient große Anerkennung. Der enge Austausch mit ihnen, den Eltern und den vorläufigen Insolvenzverwaltern Dr. Jürgen Erbe (Pro-Liberis) und Holger Blümle (Lenitas) der Kanzlei Schultze &amp; Braun ist besonders wichtig“, so die Bürgermeisterin weiter.</p>
 <p>Die Stadt Karlsruhe ist zuversichtlich, dass es den beiden Trägern mit Unterstützung der vorläufigen Insolvenzverwalter der Kanzlei Schultze &amp; Braun gelingen kann, die Unternehmen wirtschaftlich neu auszurichten. Von der Insolvenzantragstellung der privaten, gemeinnützigen Unternehmen betroffen sind insgesamt rund 1.350 Kita-Betreuungsplätze, davon etwa 900 in Karlsruhe, sowie rund 610 Mitarbeitende in den gesamten Einrichtungen. Lenitas hält neben Kita-Betreuungsplätzen zudem Angebote im Bereich der Kinder- und Jugendhilfe vor, unter anderem eine Jugendwohngemeinschaft, eine Wohngruppe sowie eine Familienwerkstatt.</p>
 <p>Wie die vorläufigen Insolvenzverwalter von der Kanzlei Schultze &amp; Braun am 27. Februar 2026 mitteilten, sind die Kinderbetreuung und die Arbeitsplätze der Mitarbeitenden auch über den 1. April 2026 hinaus gesichert. Der Betrieb in den Einrichtungen laufe ohne Einschnitte bei der Qualität wie gewohnt weiter.</p>
-                                    </div></div>]]></content>
-        <published>2026-02-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ausstellung: Karlsruhe vor fünfzig Jahren]]></title>
-        <id>9495a50ee4e33f4231996c49ea9ca051</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausstellung-karlsruhe-vor-fuenfzig-jahren"/>
-        <updated>2026-02-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Das Karlsruher Stadtarchiv hält mit Foyerausstellung „Vor 50 Jahren ... Mit Horst Schlesiger durch das Jahr 1976“ fotografische Rückschau.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>In der kleinen <strong>Foyerausstellung „Vor 50 Jahren ... Mit Horst Schlesiger durch das Jahr 1976“</strong> wirft das <strong>Stadtarchiv</strong> Karlsruhe <strong>vom 3. März bis 27. August 2026</strong> einen Blick zurück.</p>
-<p>Im Mittelpunkt stehen ein weiteres Mal Pressefotos des langjährigen Zeitungsfotografen Horst Schlesiger. Die Bilder dokumentieren einige wichtige Ereignisse auf politischem, stadtplanerischem und kulturellem Gebiet und vermitteln ansonsten den Eindruck eines insgesamt eher heiteren und entspannten Lebens im Jahr 1976. Ein separater Ausstellungsteil erinnert an die Teilnahme Karlsruhes an der von Hans Rosenthal moderierten Radiosendung „Allein gegen alle“, in der man um den Titel „Unschlagbare Rätselstadt“ wetteiferte.</p>
-<p>Die Foyerausstellung kann innerhalb der <a href="https://stadtgeschichte.karlsruhe.de/oeffnungszeiten" title="Link zur Seite" target="_blank">Öffnungszeiten des Stadtarchivs</a> in der Markgrafenstraße 29 kostenfrei besucht werden.</p>
                                     </div></div>]]></content>
         <published>2026-02-27T00:00:00.000Z</published>
     </entry>
