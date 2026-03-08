@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-07T20:32:13.421Z</updated>
+    <updated>2026-03-08T02:38:11.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -148,7 +148,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Sitzung des Schulausschusses]]></title>
-        <id>f95512ab84f065fc0e6348f17458c04b</id>
+        <id>f3a4c0d9f68c9f459f349c7ff1a5b5fa</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sitzung-des-schulausschusses"/>
         <updated>2026-03-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Die nächste Sitzung des Schulausschusses findet am 11. März 2026 statt. Tagesordnungspunkte sind unter anderem die Ergänzende Betreuung an Ganztagsgrundschulen und die Festlegung der täglichen Betreuungszeit im SKiBB-Modell.]]></summary>
@@ -253,7 +253,7 @@
                                                                     
                                                                 <time itemprop="datePublished" datetime="2026-03-06">
                                                                     <small>
-                                                                        Gestern
+                                                                        Freitag, 6. März 2026
                                                                     </small>
                                                                 </time>
                                                             </p>
