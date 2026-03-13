@@ -2,12 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-13T05:15:00.494Z</updated>
+    <updated>2026-03-13T08:49:56.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Grüne vorne  bei Landtagswahl]]></title>
+        <id>fa5727364445a4776d82c9b8c7132040</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gruene-vorne-bei-landtagswahl"/>
+        <updated>2026-03-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Partei des bisherigen Ministerpräsidenten Winfried Kretschmann errang die Direktmandate in beiden Karlsruher Wahlkreisen und legte dabei im Vergleich zum letzten Urnengang vor fünf Jahren nochmals leicht zu.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Einen klaren Sieg für die Grünen brachte das Ergebnis der Landtagswahl am Sonntag in der Fächerstadt. Die Partei des bisherigen Ministerpräsidenten Winfried Kretschmann errang die Direktmandate in beiden Karlsruher Wahlkreisen und legte dabei im Vergleich zum letzten Urnengang vor fünf Jahren nochmals leicht zu.</p>
+<p>Den Wahlkreis Karlsruhe I entschied nach dem vorläufigen Ergebnis Dr. Ute Leidig (GRÜNE) mit 39,9 Prozent der Erststimmen für sich, während Benjamin Bauer im Wahlkreis Karlsruhe II 39,3 Prozent der Erststimmen holte. Weitere Abgeordnete wird die Fächerstadt aller Voraussicht nach nicht nach Stuttgart entsenden.</p>
+<p>Erstmals gab es bei dieser Landtagswahl auch Zweitstimmenergebnisse. Hier erzielten die Grünen stadtweit 42,1 Prozent, während die CDU auf 19,9 Prozent vor der AfD mit 12,1 Prozent kam. Die Linke erzielte in Karlsruhe 8,9 Prozent, die SPD kam auf 5,7 Prozent und die FDP auf 4,0 Prozent.</p>
+<p>Damit liegen CDU und AfD unter ihrem Ergebnis auf Landesebene, während Die Linke in der Fächerstadt überdurchschnittlich stark abschnitt. SPD und FDP, die beide deutliche Verluste erlitten, entsprechen wiederum in etwa dem Landesergebnis.</p>
+<p>In den Stadtteilen erzielten die Grünen fast überall die Mehrheit, lediglich in Oberreut lag die AfD vorne und in Stupferich die CDU. Die Wahlbeteiligung betrug 69,9 Prozent und fiel damit etwas geringer aus als bei der Bundestagswahl vergangenes Jahr. -eck-</p>
+<p><a href="https://wahlergebnisse.komm.one/22/produktion/8212000/0/20260308/landtagswahl_gemeinde_mit_kwl/index.html" title="Link zur Seite" target="_blank" rel="noreferrer">Zur Auswertung der vorläufigen Wahlergebnisse für Karlsruhe</a></p>
+                                    </div></div>]]></content>
+        <published>2026-03-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ein Vorbild für Engagement]]></title>
         <id>d2c909a135b495f21f7bc680dfabdef1</id>
@@ -177,7 +193,7 @@ Oberbürgermeister bei der Übergabe des Verdienstkreuzes am Bande des Verdienst
     </entry>
     <entry>
         <title type="html"><![CDATA[Verkehrs- und Versorgungsinfrastruktur sicherstellen]]></title>
-        <id>613fc8373fde0e980033f842c73b1c3f</id>
+        <id>2b51072491800170e43ad13066e189dc</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/verkehrs-und-versorgungsinfrastruktur-sicherstellen"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Karlsruhe macht sich fit für die Zukunft: 627 Baumaßnahmen, davon rund 400 von verkehrlicher Relevanz, stehen 2026 auf der Agenda. Diese Zahl nannte Bürgermeister Daniel Fluhrer bei der Vorstellung des Jahresbauprogramms.]]></summary>
@@ -196,7 +212,7 @@ Oberbürgermeister bei der Übergabe des Verdienstkreuzes am Bande des Verdienst
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-03-12">
-                                        vor 5 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
@@ -373,53 +389,6 @@ Oberbürgermeister bei der Übergabe des Verdienstkreuzes am Bande des Verdienst
 <p>Die auf den Fotos porträtierten Menschen haben als Kinder und Jugendliche „eines der dunkelsten Kapitel der deutschen Geschichte durchlitten und überlebt“. Mittels QR-Codes erhält man weitere Informationen über das Schicksal der einzelnen Personen. „Was Ihr erfahren werdet, ist sehr berührend und erschreckend“, sagte Wilhamowsky zu den Schülerinnen und Schülern.</p>
 <p>Als Zeitzeuge, dessen Familie größtenteils von den Nationalsozialisten ermordet wurde, sprach der ehemalige SPD-Landtagsabgeordnete Günter Fischer der Schule „ein ganz großes Kompliment dafür aus, was sie hier leistet“. Junge Menschen seien für die Erinnerungsarbeit sehr wichtig. Dies unterstrich auch Diana Hrytsenko, die mit ihrer Mitschülerin Mishaal Butt die Eröffnung moderierte: „Es liegt an uns, dafür zu sorgen, dass sich Geschichte nicht wiederholt“. -eck-</p>
                                     </div></div>]]></content>
-        <published>2026-03-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45 Veranstaltungen wollen für Gemeinschaft statt Rassismus sensibilisieren]]></title>
-        <id>ff3bb8b83c5d1e01856c8446d01553d2</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/internationale-wochen-gegen-rassismus-starten"/>
-        <updated>2026-03-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Die "Internationalen Wochen gegen Rassismus Karlsruhe" finden vom 15. bis 29. März statt. Die Reihe aus 45 Veranstaltungen von Lesungen über Workshops und eine Kunstausstellung will auf Arbeit gegen Rassismus aufmerksam machen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>„Offensichtlich hasst du mich, obwohl ich nichts Falsches getan habe. Ich habe dich noch nie getroffen, was also hätte ich getan haben können?“, fragte der Musiker Martin Gore 1984 auf Englisch im Depeche-Mode-Song „People are People“. Der Song wendet sich gegen Ausgrenzung und Hass und hinterfragt den Umgang der Menschen miteinander.</p>
-<p>Ein ähnliches Anliegen verfolgen die Internationalen Wochen gegen Rassismus, die in Karlsruhe vom 15. bis 29. März stattfinden. Sie wollen auf Arbeit gegen Rassismus aufmerksam machen. Die Veranstaltungsreihe hat 1994 in Deutschland ihren Ursprung und wird in mehreren Städten begangen, in Karlsruhe seit 13 Jahren. Durch ein ehrenamtliches Team organisiert, wird die Reihe von der Stadt unterstützt.</p>
-<p>Rassismus sei strukturell durch Machtstrukturen gespeist. Darauf wolle man aufmerksam machen, so Mitorganisatorin Marion Schuchardt bei einem Pressegespräch. Der senegalesische Künstler und Visual Designer Mbagaan Nduur lebt seit 2013 in Deutschland, er erlebe selbst Rassismus aufgrund seines Aussehens – etwa in Blicken oder in der Frage, wo er ursprünglich herkomme. Vielfalt müsse gelebte Realität werden, das erfordere Arbeit.</p>
-<p>Bei der Reihe werden 45 Veranstaltungen ausgetragen, darunter Workshops, Vorträge, Filmabende und eine Kunstausstellung (siehe Kasten). Dabei beteiligen sich über 40 Vereine und Organisationen. Zu den Teilnehmenden zählt auch die Antidiskriminierungsstelle Karlsruhe, die Beratung für Betroffene von Diskriminierung bietet, oder auch das Internationale Begegnungszentrum (IBZ). Zum Eröffnungsabend lädt OB Dr. Frank Mentrup am Sonntag, 15. März, um 18 Uhr zum Eröffnungsabend in die Evangelische Stadtkirche am Marktplatz ein, wo die begehbare Installation „The Cage“ aus 500 Käfigen aufgebaut ist.</p>
-<p>Dass das Thema Rassismus und Diskriminierung bei einer breiten Öffentlichkeit Gehör findet, lässt nicht zuletzt der Erfolg des Depeche-Mode-Songs vermuten. In Deutschland landete „People are People“ seinerzeit auf Platz 1 der Charts. -nke-</p>
-                                    </div><div>
-                                            
-
-        
-    <div id="c199194">
-                        <h4>Veranstaltungen (Auswahl):</h4>
-<p>7. bis 29. März: „The Cage“-Installation in der Evangelische Stadtkirche am Marktplatz, Eintritt frei</p>
-<p>17. März: "Alles nur Einzelfälle? Das System hinter Polizeigewalt", Vortrag und Diskussion mit Autor Mohamed Amjahid im Kunst- und Kulturzentrum „Die Kulturdose“, P8, 20 Uhr, Eintritt 9 Euro</p>
-<p>26. März: „Eine Stadtführung durch das Muslimische Leben in Karlsruhe“, 16 Uhr, Treffpunkt KIT-Bibliothek/AKK, 13 Euro</p>
-<p>26. März: „Nie wieder ist jetzt – aber was heißt das eigentlich?“, Lesung und Gespräch mit Max Czollek, Kulturzentrum Tempel, 19 Uhr, Eintritt 23 Euro</p>
-<p><a href="http://www.iwgr-ka.de/" title="Link zur Seite" target="_blank" rel="noreferrer">www.iwgr-ka.de</a></p>
-                    </div>
-
-    
-
-
-
-
-
-
-        
-    <div id="c199195">
-                        <p>Dieser Artikel erscheint in der <a href="https://webreader.bnn.de/wr/?epub=https://webreader.bnn.de/ws/der_kurier/der_kurier_stadtzeitung/issues/174859/#/pages/1" title="Link zur Seite" target="_blank" rel="noreferrer">StadtZeitung Nr. 11</a>&nbsp;am 13. März 2026.</p>
-<p>Die Inhalte der StadtZeitung schon lesen, bevor sie im Briefkasten steckt: Im <a href="https://bnn.de/epaper-stadtzeitung" title="Link zur Seite" target="_blank" rel="noreferrer">ePaper</a> sind alle Ausgaben digital verfügbar.</p>
-                    </div>
-
-    
-
-
-
-
-
-                                        </div></div>]]></content>
         <published>2026-03-11T00:00:00.000Z</published>
     </entry>
 </feed>
