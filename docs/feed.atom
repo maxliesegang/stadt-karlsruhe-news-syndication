@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-12T20:41:28.753Z</updated>
+    <updated>2026-03-13T02:33:42.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -10,7 +10,7 @@
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
         <title type="html"><![CDATA[Ein Vorbild für Engagement]]></title>
-        <id>fd034c89689dc9d39bd9be6be99acaa0</id>
+        <id>d2c909a135b495f21f7bc680dfabdef1</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ein-vorbild-fuer-engagement"/>
         <updated>2026-03-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Die langjährige Stadträtin und Landtagsabgeordnete Renate Rastätter von Bündnis 90/Die Grünen ist im Februar für ihr Engagement für die Bundesrepublik Deutschland mit dem Verdienstkreuz am Bande ausgezeichnet worden.]]></summary>
@@ -29,7 +29,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-03-12">
-                                        gerade eben
+                                        Gestern
                                     </time>
                                 </p>
 
