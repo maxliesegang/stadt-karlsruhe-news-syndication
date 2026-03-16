@@ -2,12 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-16T05:50:48.236Z</updated>
+    <updated>2026-03-16T09:03:54.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[20 Jahre Earth Hour]]></title>
+        <id>b64533378e8ac8eeaddf5423a82711ac</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/20-jahre-earth-hour"/>
+        <updated>2026-03-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Karlsruhe beteiligt sich an der Earth Hour am 28. März 2026. Damit soll ein gemeinsames Zeichen für den Klimaschutz gesetzt werden.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Karlsruhe beteiligt sich auch dieses Jahr wieder an der „<strong>Earth Hour</strong>“ und setzt damit ein Zeichen für Klimaschutz und gesellschaftlichen Zusammenhalt. Die Aktion der Umweltstiftung WWF feiert in diesem Jahr ihr 20. Jubiläum. Mit der „Stunde der Erde“ setzen sich Menschen, Städte und Unternehmen weltweit und symbolisch für den Schutz unserer Lebensgrundlagen ein. Sie schalten dafür am <strong>Samstag, 28. März 2026, um 20:30 Uhr</strong> für eine Stunde das Licht aus. Bekannte Bauwerke stehen dann wieder in symbolischer Dunkelheit. Allein in Deutschland haben letztes Jahr 520 Städte und Gemeinden teilgenommen – darunter auch Karlsruhe.</p>
+<h4>In Karlsruhe wird Beleuchtung abgeschaltet</h4>
+<p>Die Stadt Karlsruhe und die Stadtwerke Karlsruhe GmbH schalten zur Earth Hour auf dem Karlsruher Marktplatz die Beleuchtungen der Pyramide, des Brunnens sowie der Fassaden des Rathauses, der evangelischen Stadtkirche und des Sozialgerichts aus.</p>
+<p>Karlsruhe setzt im Zuge der ambitionierten Klimaschutzmaßnahmen grundsätzlich darauf, die Beleuchtung städtischer Gebäude auf das Notwendigste zu reduzieren. Nahezu alle öffentlichen Objektbeleuchtungen wurden 2022 im Zuge der bundesweiten Energieeinsparmaßnahmen außer Betrieb genommen und bleiben auf Grundlage eines entsprechenden Beschlusses bis auf Weiteres ausgeschaltet. Denn Klimaschutz ist in der Stadtverwaltung fest verankert und geht weit über symbolische Aktionen hinaus. Die Stadt arbeitet kontinuierlich daran, ihr Klimaneutralitätsziel zu erreichen. So zeigt das aktuelle Klimaschutzmonitoring von 2024, dass sich der Ausstoß von Treibhausgasen um 3,1 Prozent gegenüber dem Vorjahr verringert hat. Auch die Stadtwerke Karlsruhe GmbH arbeitet konsequent an einer CO<sub>2</sub>-neutralen Gestaltung der Karlsruher Fernwärme.</p>
+<h4>Jeder kann aktiv werden</h4>
+<p>Ergänzend zu den eigenen Klimaschutzmaßnahmen lädt die Stadt ihre Bürgerinnen und Bürger dazu ein, aktiv zu werden. Wer wirksam handeln möchte, muss wissen, wo er ansetzen kann. Die Karlsruher Klimakampagne ‚KA° – Wir machen Klima‘ bündelt Informationen, Angebote und Mitmachmöglichkeiten und ist damit der zentrale Knotenpunkt für den Klimaschutz in Karlsruhe. Die 60 Minuten der Earth Hour können gut dafür genutzt werden, sich auf <a href="http://klima.karlsruhe.de/" title="Link zur Seite" target="_blank">klima.karlsruhe.de</a> inspirieren zu lassen: Wie kann ich mein Zuhause klimafreundlich beheizen? Welche Gruppen engagieren sich für lokalen Klimaschutz und welche kleinen Schritte im Alltag haben eine große Wirkung auf meine CO<sub>2</sub>-Bilanz? Was ist eigentlich das Karlsruher Klimaschutzkonzept? Die Antworten auf diese Fragen und viele weitere Inhalte sind auf der Seite der Klimakampagne zu finden.</p>
+<h4>Kunstlicht schadet Lebewesen</h4>
+<p>Nicht nur aus energetischen Gründen ist weniger Licht mehr: Zu viel Kunstlicht schadet der Biodiversität. So werden nachtaktive Insekten angezogen, erschöpfen sich oder werden leichter gefressen. Auch Tiere wie Fledermäuse, Vögel, Igel oder Amphibien werden geblendet, vertrieben oder in ihrer Orientierung gestört. Zudem kann Kunstlicht den Hormonhaushalt von Lebewesen und den Wachstumszyklus von Pflanzen verändern. Laut Naturschutzgesetz Baden-Württemberg müssen künstliche Beleuchtungen im Außenbereich vermieden und die Auswirkungen auf Insekten überprüft werden. Fassadenbeleuchtungen sind durch vorgegebene Nutzungszeiträume stark eingeschränkt. Die Beleuchtung von Fassaden stellt einen Verstoß gegen das Naturschutzgesetz Baden-Württemberg dar, sofern sie im Sommerhalbjahr oder im Winterhalbjahr nach 22 Uhr und bis 6 Uhr erfolgt. Außerdem sind Himmelsstrahler und Werbeanlagen im Außenbereich unzulässig. Zudem werden öffentliche Straßenbeleuchtungen bis 2030 insektenschonend umgerüstet. Die Stadt Karlsruhe geht hier mit gutem Beispiel voran, so sind in etwa drei Viertel der Straßenbeleuchtung bereits auf insektenschonende Technik umgesetzt.&nbsp;</p>
+                                    </div></div>]]></content>
+        <published>2026-03-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stadtrundgang und Führung im Stadtmuseum im Prinz-Max-Palais]]></title>
         <id>9b883a61d1b80b6ed517f89193ebfc17</id>
@@ -241,18 +259,6 @@ Oberbürgermeister bei der Übergabe des Verdienstkreuzes am Bande des Verdienst
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Wenn der 13. März auf einen Freitag fällt, fürchtet so mancher das Unglück. Im Sonnenbad wird an diesem Tag höchstens vor Vorfreude gezittert, denn das Freibad startet unter dem Motto „111 Jahre Sonnenbad – jetzt wird gefeiert“ in die neue Saison. Das Kultbad öffnet früh wie kaum ein anderes Freibad in Deutschland wieder seine Tore.</p>
 <p>Der Saisonauftakt wird traditionell mit dem Anschwimmen um 10 Uhr begangen. Wer mag, kommt verkleidet – je kreativer, desto besser. Damit der Start in die Badesaison für alle ein Fest wird, gilt von 10 bis 12 Uhr freier Eintritt. Einlass ist ab 9:15 Uhr. -los-</p>
-                                    </div></div>]]></content>
-        <published>2026-03-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Wettersbach kommt der Ortschaftsrat zusammen]]></title>
-        <id>8e1799824d209a1f1b04c8a7f411820b</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/in-wettersbach-tagt-der-ortschaftsrat"/>
-        <updated>2026-03-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Der Ortschaftsrat Wettersbach trifft sich am 17. März 2026 zu seiner nächsten Sitzung.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Unter Vorsitz von&nbsp;<strong>Ortsvorsteherin Kerstin Tron</strong>&nbsp;trifft sich der&nbsp;<strong>Ortschaftsrat Wettersbach</strong>&nbsp;am&nbsp;<strong>Dienstag, 17. März 2026, um 19 Uhr</strong>. Im&nbsp;<strong>Bürgersaal des Grünwettersbacher Rathauses</strong>&nbsp;steht unter anderem die&nbsp;Ehrung von Blutspenderinnen und -spendern für die Stadtteile Grünwettersbach und Palmbach für das Jahr 2025 auf der Tagesordnung. Zudem wird ein&nbsp;Sachstandsbericht zum Breitbandausbau in der Stadt Karlsruhe vorgestellt und über die Errichtung&nbsp;eines KVV.nextbike Standortes in Wettersbach diskutiert.</p>
-<p>Die vollständige&nbsp;<a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10454" title="Link zur Seite" target="_blank" rel="noreferrer">Tagesordnung</a>&nbsp;kann im <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/start" title="Link zur Seite" target="_blank" rel="noreferrer">Ratsinformationssystem</a> eingesehen werden.</p>
                                     </div></div>]]></content>
         <published>2026-03-12T00:00:00.000Z</published>
     </entry>
