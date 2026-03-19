@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-19T17:02:44.290Z</updated>
+    <updated>2026-03-19T20:45:10.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -10,7 +10,7 @@
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
         <title type="html"><![CDATA[Der richtige Baum für stürmische Zeiten]]></title>
-        <id>f5ee6be6b145696ba908a6f89bb47bdf</id>
+        <id>731c8325bbdbaf1b8b8eee571d566e8b</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-richtige-baum-fuer-stuermische-zeiten"/>
         <updated>2026-03-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mitte März 2026 pflanzten Vertreter der Arbeitsgemeinschaft Oberrheinischer Waldfreunde mit Unterstützung des städtischen Gartenbauamtes im Otto-Dullenkopf-Park eine Zitterpappel. Die heimische Baumart ist Baum des Jahres 2026.]]></summary>
@@ -30,7 +30,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-03-19">
-                                        gerade eben
+                                        vor 5 Stunden
                                     </time>
                                 </p>
 
