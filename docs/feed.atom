@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-23T13:19:42.172Z</updated>
+    <updated>2026-03-23T16:59:07.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -140,6 +140,21 @@
         <published>2026-03-20T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bauausschuss beschließt Sanierung und Umbau von Schulen]]></title>
+        <id>9dcd68c21b26d6f1dd7c592ec7374eca</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bauausschuss-beschliesst-sanierung-und-umbau-von-schulen"/>
+        <updated>2026-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Vogesenschule im Stadtteil Mühlburg soll saniert werden. Der Bauausschuss des Gemeinderats gab jetzt grünes Licht für das auf rund 8,77 Millionen Euro veranschlagte Vorhaben, das eines größeren Maßnahmenpakets ist.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Für das, was das Amt für Hochbau und Gebäudewirtschaft (HGW) mit einigen Karlsruher Schulen plant, wäre der Begriff "Rochade" eine nur unzureichende Erläuterung. Denn während auf den Schachbrett zwei Figuren die Plätze tauschen, handelt es sich bei dem Vorhaben im Karlsruher Westen "eher um eine Umzugskette".&nbsp;Als solche bezeichnete Projektleiter Boris Ott von HGW im Bauauschuss des Gemeinderats die geplanten Maßnahmen an der Vogesen-, Hardt-, Kimmelmann- und Federbachschule. Der vom Gremium einstimmig gefasste Konzeptbeschluss zur Sanierung der Vogesenschule reiht sich dabei in diese Kette ein.</p>
+<h4>Barrierefreiheit durch Außenaufzug</h4>
+<p>Der "Ringtausch" beginnt mit dem Umzug des Sonderpädagogischen Bildungs- und Beratungszentrums (SBBZ) Lernen von der Vogesenschule in das ehemalige Gebäude der Kimmelmannschule. Dadurch kann der 1908 errichtete und inzwischen denkmalgeschützte Bau in Mühlburg saniert werden. Mit einem Kostenaufwand von voraussichtlich 8,77 Millionen Euro will HGW in der Vogesenschule die Grundrisse an den Betrieb als Ganztagsschule anpassen, die Oberflächen und Teile der Fenster erneuern sowie das Gebäude mit einem Außenaufzug barrierefrei zugänglich machen. Als Realisierungszeitraum nannte Boris Ott bis 2029, so dass der Schulbetrieb 2030 aufgenommen werden könne. Die Vogesenschule soll dann - mit gemeinsamen Ganztagsbetrieb - die aktuell in der benachbarten Hardtschule ansässige zweizügige Grundschule und die Fachräume der Federbachschule Daxlanden aufnehmen. Damit zieht künftig das SBBZ Emotionale und soziale Entwicklung von Daxlanden nach Mühlburg um. Das Gebäude der Federbachschule soll aufgegeben und gegebenenfalls verkauft werden.</p>
+<h4>Kinderhort im Mühlburger Feld umgenutzt</h4>
+<p>Kein Bestandteil dieses "Ringtauschs", aber ebenfalls vom Bauausschuss einstimmig beschlossen, ist darüber hinaus der Umbau des Kinderhorts an der Friedrich-Ebert-Grundschule im Mühlburger Feld. Hier soll bis zum Schuljahr 2029/30 eine Ganztagseinrichtung entstehen. Laut HGW-Architekt Ott werde bei dem auf rund 2,11 Millionen Euro veranschlagten Projekt die Gebäudehülle nicht verändert, es gehe lediglich um eine neue Raumaufteilung im Inneren. Von Seiten der Ausschussmitglieder wurde diese "pragmatische Lösung", wie es Stadträtin Ceren Akbaba (Grüne) formulierte, durchweg begrüßt.  -eck-</p>
+                                    </div></div>]]></content>
+        <published>2026-03-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Führungen im Pfinzgaumuseum im März und April]]></title>
         <id>9e472eb5112def456751f841440345c4</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fuehrungen-im-pfinzgaumuseum-im-maerz-und-april"/>
@@ -211,202 +226,5 @@
 <p>Am 22. April finden praxisorientierte Workshops im FUX – Festigungs- und Expansionszentrum auf dem Alten Schlachthof statt. Hier können Teilnehmende Themen vertiefen, neue Perspektiven entwickeln und gemeinsam an konkreten Fragestellungen arbeiten.<br> Der zweite Kongresstag bietet Raum für Austausch, Reflexion und gemeinsames Weiterdenken – mit Menschen, die ähnliche Herausforderungen kennen und an ähnlichen Fragen arbeiten.</p>
                                     </div></div>]]></content>
         <published>2026-03-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Der richtige Baum für stürmische Zeiten]]></title>
-        <id>cd5887bb6bf43e074090c7a84376a976</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-richtige-baum-fuer-stuermische-zeiten"/>
-        <updated>2026-03-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mitte März 2026 pflanzten Vertreter der Arbeitsgemeinschaft Oberrheinischer Waldfreunde mit Unterstützung des städtischen Gartenbauamtes im Otto-Dullenkopf-Park eine Zitterpappel. Die heimische Baumart ist Baum des Jahres 2026.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
-    <!-- SKIP NAVIGATION -->
-    <!--TYPO3SEARCH_end-->
-    <nav aria-label="Sprunglink"> <a href="#footer" title="Footer der Seite anspringen">Footer der Seite anspringen</a> </nav>
-    <!--TYPO3SEARCH_begin-->
-    
-    
-
-
-        
-                <div id="c25115">
-                <div itemscope="itemscope" itemtype="http://schema.org/Article">
-                        <!-- date -->
-                        <div>
-
-                                <p><time itemprop="datePublished" datetime="2026-03-19">
-                                        Donnerstag, 19. März 2026
-                                    </time>
-                                </p>
-
-                                
-
-                                
-                                
-                                
-                                    <h2>
-                                        Zitterpappel im Otto-Dullenkopf-Park gepflanzt
-                                    </h2>
-                                
-                            </div>
-
-                        <div>
-                                
-                                
-                                        <div>
-                                            
-                                                
-                                                    
-                                                        
-
-
-<img alt="Baumpflanzung im Otto-Dullenkopf-Park anlässlich des Tag des Baumes 2026" title="Baumpflanzung Otto-Dullenkopf-Park" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/0/9/csm_baumpflanzung_otto-dullenkopf-park-1773937118_feb4fe7a10.jpeg">
-
-        
-    
-
-        
-            
-        
-    
-
-                                                    
-                                                    
-                                                    
-                                                
-                                            
-                                        </div>
-                                    
-
-                                
-                                
-                                    
-                                
-
-                                
-                                
-                                    
-                                        <div>
-                                            
-
-<div id="c199629">
-    <p>Ein leichter Hauch genügt und ihre Blätter flattern und flirren im Wind: Die Zitterpappel – auch Espe oder Aspe genannt – ist vielen Menschen dank des Sprichworts „Zittern wie Espenlaub“ ein Begriff. Mitte März pflanzten Vertreter der Arbeitsgemeinschaft Oberrheinischer Waldfreunde mit Unterstützung des städtischen Gartenbauamtes im Otto-Dullenkopf-Park ein hochstämmiges Exemplar der heimischen Baumart. Die Schülerinnen und Schüler der Klasse 2a der Tulla-Grundschule halfen nicht nur tatkräftig beim Einbuddeln, sie hatten auch ein passendes Lied einstudiert.</p>
-</div>
-
-
-
-
-<div id="c199630">
-        
-        <p><strong>Internationaler Tag des Baumes am 25. April</strong></p>
-<p>Anlass für die gemeinschaftliche Baumpflanzung, die seit mehr als 40 Jahren begangen wird, ist der Internationale Tag des Baumes. Dieser findet zwar erst am 25. April statt, doch in Karlsruhe wird aufgrund des Klimawandels bereits früher gepflanzt. „Die Zitterpappel ist eine tolle Baumart, die auch für viele Tiere und Pflanzen eine große Bedeutung hat“, erläuterte Ulrich Kienzler, Vorsitzender der Waldfreunde. So dienen die Blätter rund 60 Schmetterlingsarten als Nahrungsgrundlage. Auch Bienen, Blattläuse und Ameisen halten sich gerne dort auf – was wiederum Vögel und Fledermäuse anlockt. Zitterpappeln werden durchschnittlich 100 Jahre alt und erreichen eine Höhe von 25 bis 35 Metern. Aufgrund ihrer Anpassungsfähigkeit gilt der Baum des Jahres 2026 als Hoffnungsträger im Klimawandel.</p>
-    </div>
-
-
-
-
-        
-    
-        
-        
-                <div>
-                    
-                            
-
-
-
-
-
-<img alt="Baumpflanzung im Otto-Dullenkopf-Park anlässlich des Tag des Baumes 2026" title="Baumpflanzung Otto-Dullenkopf-Park" src="https://www.karlsruhe.de/fileadmin/_processed_/b/d/csm_baumpflanzung_otto-dullenkopf-park-1773937176_f5cacc7444.jpeg">
-
-                            
-                                
-                            
-                        
-                </div>
-            
-    
-
-    
-
-
-
-
-
-
-
-
-<div id="c199631">
-        
-        <p><strong>OB lobt großes Engagement</strong></p>
-<p>Oberbürgermeister Dr. Frank Mentrup lobte das große Engagement von Waldfreunden, Forstamt, Gartenbauamt und Baumpaten in Karlsruhe. Die Zitterpappel sei eine gute Wahl für den Otto-Dullenkopf-Park, der als Grünquartier für die umliegenden Stadtteile eine wichtige Funktion erfülle, sagte Mentrup. -jd-</p>
-    </div>
-
-
-
-
-        
-    <div id="c199632">
-                    
-                        <h2>Warum zittert die Zitterpappel?</h2>
-                    
-                    <p>Die Blätter der Zitterpappel haben lange, seitlich abgeflachte Stiele. Dadurch flattern und „zittern“ sie bereits bei leichtem Wind. Das hilft dem Baum dabei, Belastungen bei Sturm zu minimieren. Die Blätter weichen der Luftströmung aus, anstatt Widerstand zu leisten.</p>
-                </div>
-
-    
-
-
-
-
-
-                                        </div>
-                                    
-                                
-
-                                
-                                    
-                                    
-                                        
-    
-
-
-                                    
-                                
-                            </div>
-                    </div>
-                
-
-                
-                
-
-                
-                    <div>
-                        <p>
-                            
-                                    </p><h2>
-                                        Mehr zum Thema</h2>
-                            
-                        <p></p>
-                    </div>
-
-                    
-                            <div>
-                                                            <a title="Eine Roteiche für Oberreut" href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/eine-roteiche-fuer-oberreut">
-                                                                <h4>
-                                                                    Eine Roteiche für Oberreut
-                                                                </h4>
-                                                            </a>
-                                                            <p>Anlässlich des „Internationalen Tag des Baumes“ haben Vertreter der Arbeitsgemeinschaft Oberrheinischer Waldfreunde mit Unterstützung des städtischen Gartenbauamtes beim Spielplatz „Weiße-Rose-Weg“ in Oberreut eine Roteiche gepflanzt. </p>
-                                                        </div>
-                        
-                
-
-            </div>
-            
-    
-
-
-
-</div></div>]]></content>
-        <published>2026-03-19T00:00:00.000Z</published>
     </entry>
 </feed>
