@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-24T05:24:51.287Z</updated>
+    <updated>2026-03-24T08:59:07.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -22,7 +22,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Schadstoffannahmestelle Nordbeckenstraße bis Samstag geschlossen]]></title>
-        <id>072b9fc47f418feee0053b1a16ded1cd</id>
+        <id>3b0ca6538ae52bd7f476f7daae3c4359</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-in-dieser-woche-geschlossen"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Die Schadstoffannahmestelle in der Nordbeckenstraße ist vom 23. bis einschließlich 28. März 2026 geschlossen. Während dieses Zeitraums steht die Schadstoffannahmestelle in der Maybachstraße 10a zu den regulären Öffnungszeiten zur Verfügung.]]></summary>
@@ -41,7 +41,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-03-23">
-                                        vor 2 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
