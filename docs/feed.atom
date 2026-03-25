@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-25T13:23:00.547Z</updated>
+    <updated>2026-03-25T17:09:46.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[60 Millionen Euro Haushaltssperre beschlossen]]></title>
+        <id>4daa1be92632cf234baf3ef49cc79e5d</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/60-millionen-euro-haushaltssperre-beschlossen"/>
+        <updated>2026-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Gemeinderat hat die von Oberbürgermeister Dr. Frank Mentrup ausgerufene haushaltswirtschaftliche Sperre in Höhe von 60 Millionen Euro sowie deren Umsetzung in seiner März-Sitzung beschlossen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="c199793">
+        
+        <p>Erbracht werden sollen die zusätzlichen 60 Millionen Euro zum einen über 12 Millionen Euro Einsparungen durch eine Stellenbesetzungssperre, die OB Mentrup vom 1. März 2026 bis Jahresende bereits verhängt hat, zum anderen mit Mitteln aus den städtischen Beteiligungen: Nach dem Willen der Gemeindeordnung, sollen Beteiligungen einen „Ertrag für den Haushalt der Gemeinde abwerfen“, so Finanzbürgermeisterin Gabriele Luczak-Schwarz. Daher wird der Betriebskostenzuschuss an die KVVH auf 30 Millionen Euro reduziert. Innerhalb der KVVH – der städtischen Holding von Klinik, Verkehrsbetrieben, Rheinhäfen und Stadtwerken – schmilzt folglich das Eigenkapital um diesen Wert ab.</p>
+<p>Zudem sollen 10 Millionen Euro Gewinnausschüttung der Volkswohnung dem städtischen Haushalt zugeführt werden, ebenso rund drei Millionen Euro aus der Karlsruher Fächer GmbH.</p>
+<p>Wie OB Mentrup im Rahmen eines Pressegesprächs erläuterte, wollen beide Unternehmen die Beträge durch vorgezogene Verkäufe von Immobilienvermögen gegenfinanzieren. Die Gewinnabführungen hätten keine Auswirkungen auf etwa Miethöhe oder das Sanierungs- und Bauprogramm der Volkswohnung, versicherte Mentrup.</p>
+<p>Von einem langwierigen Einsparverfahren wie im Herbst vergangenen Jahres wollte man absehen, erläuterte Mentrup, da sowohl die Sportlandschaft als auch etwa die Kultur auf die Umsetzung des im Dezember beschlossenen Haushalts angewiesen seien. „Wir brauchen jetzt endlich Ruhe, um den aktuellen Haushalt umsetzen zu können“, so Mentrup.</p>
+<p>„Von den 60 Millionen spüren die Bürger nichts“, sagte Mentrup, „außer sie haben mit der Verwaltung zu tun.“ Hier könne es in manchen Bereichen zu Personalmangel kommen, sodass die Bearbeitungsdauer von Leistungen länger dauern könne oder auch etwa öffentliche Grünanlagen nicht in der Weise gepflegt werden könnten, wie man das gewohnt sei.</p>
+<h4>Regierungspräsidium friert Verpflichtungsermächtigungen ein</h4>
+<p>Der Haushalt 2026/2027 ist vom Regierungspräsidium Karlsruhe (RP) zwar genehmigt worden, aber mit Einschränkungen: So hat das RP die Verpflichtungsermächtigungen für die Jahre 2028 und 2029 nicht genehmigt – eine Auflage, die es in sich hat: „Eigentlich ist das ein Investitionsstopp, der da formuliert wurde“, betonte Luczak-Schwarz. Denn dadurch könnten keine Investitionen mehr getätigt werden, die zu Zahlungsverpflichtungen ab dem Jahr 2028 führen. Derzeit seien davon aber auch Investitionen betroffen, die sich etwa vollständig aus Bundesmitteln finanzieren würden, Stichwort Sondervermögen, sodass man hierüber noch Gespräche mit dem RP führe.</p>
+<p>Außerdem hat das RP die Kreditobergrenze auf 200 Millionen Euro festgesetzt. Hier müssen in 2026 13 Millionen Euro und in 2027 18 Millionen Euro Investitionen eingespart werden.</p>
+<p>„Mittelfristig gibt es überhaupt keine Entlastung“, so OB Mentrup zur Planung für die nächsten fünf Jahre. Spätestens im Jahr 2027 müsse man brutal mit allen Beteiligten die Haushaltsjahre 2028/2029 vorbereiten. Ob die getroffenen Maßnahmen ausreichen, wird sich zeigen, wenn im Juni die Ergebnisse der Mai-Steuerschätzung für Karlsruhe konkretisiert wurden. -has-</p>
+    </div></div>]]></content>
+        <published>2026-03-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Die Biber sind zurück im Karlsruher Stadtgebiet]]></title>
         <id>f8959371da0c845dee92de961082b7df</id>
@@ -391,18 +411,6 @@
 
 
 </div></div>]]></content>
-        <published>2026-03-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OB gratuliert KIT zur erneuten Auszeichnung als Elite-Universität]]></title>
-        <id>357174df8b8a2fb3a3162bc347a73f86</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-gratuliert-kit-zur-erneuten-auszeichnung-als-elite-universitaet"/>
-        <updated>2026-03-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Das Karlsruher Institut für Technologie führt auch weiterhin den Titel „Exzellenzuniversität“: Hierzu hat OB Dr. Frank Mentrup KIT-Präsident Prof. Dr. Jan S. Hesthaven in einem Schreiben gratuliert.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Karlsruhes Oberbürgermeister Dr. Frank Mentrup hat KIT-Präsident&nbsp;Prof. Dr. Jan S. Hesthaven in einem Schreiben zur erneuten Auszeichnung des Karlsruher Instituts für Technologie (KIT) als „Exzellenzuniversität“ gratuliert.</p>
-<p>Bereits zum dritten Mal hat das KIT die begehrte Auszeichnung erhalten. Die damit verbundenen Fördermittel würden entscheidend dazu beitragen, Wissenschaft und Innovationen in Karlsruhe weiter voranzubringen, so Mentrup. Zugleich würdige die erneute Anerkennung das bisher Erreichte und setze ein deutliches Signal für die künftige Entwicklung. "Sie gibt Ihnen Rückenwind, Ihre Strategie konsequent fortzuführen und das KIT dauerhaft unter den weltweit führenden Universitäten zu etablieren. Es freut mich sehr, dass Sie als Leuchtturm der deutschen Hochschullandschaft beispielhaft dafür stehen, den Wissenschaftsstandort Deutschland zu stärken und international sichtbar zu machen", so Mentrup.</p>
-                                    </div></div>]]></content>
         <published>2026-03-23T00:00:00.000Z</published>
     </entry>
 </feed>
