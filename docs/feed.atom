@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-03-25T05:24:54.329Z</updated>
+    <updated>2026-03-25T08:57:55.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -10,7 +10,7 @@
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
         <title type="html"><![CDATA[OB gratuliert Eric Bänziger zur Wiederwahl]]></title>
-        <id>02465bf3fee10149b12616ad3aae03cd</id>
+        <id>ef21e8a97390fca98c65c798933545f5</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-gratuliert-eric-baenziger-zur-wiederwahl"/>
         <updated>2026-03-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Oberbürgermeister Dr. Frank Mentrup hat Eric Bänziger zu seiner Wiederwahl als Bürgermeister der Gemeinde Weingarten gratuliert.]]></summary>
@@ -19,7 +19,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-03-24">
-                                        vor 3 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
@@ -87,7 +87,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Neue Bündnispartner gewonnen]]></title>
-        <id>6bf29e7f6bf6df576cf387aa07f7cf84</id>
+        <id>33a52d6b302036333bf32169f2eee6c2</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-buendnispartner-gewonnen"/>
         <updated>2026-03-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Das Bündnis „Gut Leben und Älter werden in Beiertheim und Bulach“ setzt sich für Begegnung, Unterstützung und Pflege im vertrauten Stadtteil ein. Im Rahmen eines Treffens Anfang März konnten neue Bündnispartner begrüßt werden.]]></summary>
@@ -106,7 +106,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-03-24">
-                                        vor 3 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
@@ -271,7 +271,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Schadstoffannahmestelle Nordbeckenstraße bis Samstag geschlossen]]></title>
-        <id>3b0ca6538ae52bd7f476f7daae3c4359</id>
+        <id>70f0a6b8ca591fc3ac68bce391eb7599</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-in-dieser-woche-geschlossen"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Die Schadstoffannahmestelle in der Nordbeckenstraße ist vom 23. bis einschließlich 28. März 2026 geschlossen. Während dieses Zeitraums steht die Schadstoffannahmestelle in der Maybachstraße 10a zu den regulären Öffnungszeiten zur Verfügung.]]></summary>
@@ -290,7 +290,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-03-23">
-                                        Gestern
+                                        Montag, 23. März 2026
                                     </time>
                                 </p>
 
