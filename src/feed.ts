@@ -214,6 +214,10 @@ export async function generateFeed(articles: Article[]): Promise<void> {
       atom: CONFIG.FEED.url,
     },
     copyright: `Stadt Karlsruhe ${now.getFullYear()}`,
+    author: {
+      name: 'Stadt Karlsruhe',
+      link: CONFIG.SOURCE_URL,
+    },
   });
 
   // Keep newest entries first and enforce feed size.
@@ -222,14 +226,17 @@ export async function generateFeed(articles: Article[]): Promise<void> {
     .slice(0, CONFIG.MAX_ARTICLES);
   console.log(`Adding ${limited.length} articles to feed (max: ${CONFIG.MAX_ARTICLES})`);
 
-  for (const article of limited) {
+  for (const [index, article] of limited.entries()) {
+    // Add a per-entry second offset so articles sharing the same calendar date
+    // get distinct atom:updated values (validator recommendation).
+    const entryDate = new Date(article.date.getTime() + index * 1000);
     feed.addItem({
-      id: article.id,
+      id: article.link,
       title: article.title,
       link: article.link,
       description: article.description,
       content: prepareContentForFeed(article.content, article.link),
-      date: article.date,
+      date: entryDate,
       published: article.date,
     });
   }
