@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-09T13:55:05.558Z</updated>
+    <updated>2026-04-09T17:13:18.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,10 +13,23 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Keine Gefahr durch Blindgänger in Durlach-Aue]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/keine-gefahr-durch-blindgaenger-in-durlach-aue</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/keine-gefahr-durch-blindgaenger-in-durlach-aue"/>
+        <updated>2026-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bei Baggerarbeiten auf dem Friedhof in Durlach-Aue wurde am heutigen Donnerstagmittag ein Blindgänger entdeckt. Der Kampfmittelbeseitigungsdienst barg routinemäßig das Objekt. Zu keinem Zeitpunkt bestand eine Gefahr für die Bevölkerung.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Bei Baggerarbeiten auf dem Friedhof in Durlach-Aue wurde am heutigen Donnerstagmittag ein Blindgänger entdeckt. Zu keinem Zeitpunkt bestand eine Gefahr für die Bevölkerung.</p>
+<p>Die Bauarbeiter stießen während der Erdarbeiten auf den Gegenstand und deckten ihn zur ersten Sicherung mit Sand ab. Der hinzugezogene Kampfmittelbeseitigungsdienst identifizierte den Fund als eine rund 50 Zentimeter große britische Phosphor-Brandbombe.</p>
+<p>Die Spezialisten bargen das Objekt routinemäßig und transportierten es gegen 14:00 Uhr sicher ab. Während des Polizeieinsatzes und der Bergung waren lediglich kurzzeitige und eng begrenzte Absperrungen in der unmittelbaren Umgebung erforderlich.</p>
+                                    </div></div>]]></content>
+        <published>2026-04-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesung von Ronald Reng: „Der Deutsche Sommer“]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-von-ronald-reng-der-deutsche-sommer</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-von-ronald-reng-der-deutsche-sommer"/>
-        <updated>2026-04-09T00:00:00.000Z</updated>
+        <updated>2026-04-09T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[Die Stadtbibliothek Karlsruhe lädt am 23. April 2026, zu einer Lesung mit dem Autor und Sportjournalisten Ronald Reng ein. In Kooperation mit der Stephanus Buchhandlung stellt er im Lesecafé der Stadtbibliothek sein aktuelles Buch vor.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die <strong>Stadtbibliothek Karlsruhe</strong> lädt am Donnerstag, 23. April 2026, von 19:30 bis 21 Uhr zu einer Lesung mit dem Autor und Sportjournalisten <strong>Ronald Reng</strong> ein. In Kooperation mit der Stephanus Buchhandlung stellt er im Lesecafé der Stadtbibliothek im Neuen Ständehaus sein aktuelles Buch „Der Deutsche Sommer“ vor.</p>
@@ -32,7 +45,7 @@
         <title type="html"><![CDATA[Die Ortschaftsräte Wettersbach und Wolfartsweier tagen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/die-ortschaftsraete-wettersbach-und-woflartsweier-tagen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/die-ortschaftsraete-wettersbach-und-woflartsweier-tagen"/>
-        <updated>2026-04-09T00:00:01.000Z</updated>
+        <updated>2026-04-09T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Am 14. April 2026 tagen die Ortschaftsräte Wettersbach und Wolfartsweier öffentlich.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der <strong>Ortschaftsrat Wettersbach</strong> kommt unter der Leitung von Ortsvorsteherin Kerstin Tron zu seiner nächsten öffentlichen Sitzung am Dienstag, 14. April 2026, um 19 Uhr zusammen. Die Mitglieder treffen sich im&nbsp;Bürgersaal des Rathauses Grünwettersbach.&nbsp;</p>
@@ -49,7 +62,7 @@
         <title type="html"><![CDATA[Offene Pforte lädt wieder in private Gärten und Höfe ein]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-6ad43199e2cc0f321c86bf16ab48d6b6</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-6ad43199e2cc0f321c86bf16ab48d6b6"/>
-        <updated>2026-04-09T00:00:02.000Z</updated>
+        <updated>2026-04-09T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Von April bis September öffnen auch in diesem Jahr wieder sonst verschlossene private Gärten und Höfe. Start ist am 14. April in der Stadtgärtnerei Rüppurr.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der Garten ist für viele Menschen Rückzugsort, Gestaltungsraum und Treffpunkt zugleich. Mit der vom Gartenbauamt organisierten Veranstaltungsreihe <strong data-end="1571" data-start="1554"><a href="https://www.karlsruhe.de/umwelt-klima/stadtgruen-wald/gebaeudebezogenes-gruen/offene-pforte" title="Link zur Seite" target="_blank">Offene Pforte</a></strong> werden diese persönlichen grünen Orte erneut für die Öffentlichkeit zugänglich. Von April bis September bietet sich damit allen naturinteressierten Bürgerinnen und Bürgern die Gelegenheit, unterschiedliche Gartenkonzepte kennenzulernen und darüber miteinander ins Gespräch zu kommen.</p>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[Botanische Führung im Zoologischen Stadtgarten]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/botanische-fuehrung-zoologischer-stadtgarten</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/botanische-fuehrung-zoologischer-stadtgarten"/>
-        <updated>2026-04-09T00:00:03.000Z</updated>
+        <updated>2026-04-09T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Zum Thema „Frühjahrsblüher“ lädt das Gartenbauamt zu Beginn der neuen Gartensaison am kommenden Sonntag, 12. April, zu einer Führung durch den Zoologischen Stadtgarten ein.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Zum Thema „Frühjahrsblüher“ lädt das Gartenbauamt zu Beginn der neuen Gartensaison am kommenden Sonntag, 12. April, zu einer Führung durch den Zoologischen Stadtgarten ein. Neben anderen Frühjahrsblühern stehen Zwiebelblumen, insbesondere die Tulpe, im Mittelpunkt. Es werden geeignete Verwendungsmöglichkeiten in öffentlichen Anlagen und im eigenen Garten erläutert, ebenso wie Probleme, die sich durch Schädlinge und Krankheiten ergeben können. Die Fachleute des Gartenbauamts beantworten Fragen zur Gartengestaltung mit Frühjahrsblühern sowie zu Ansprüchen und Pflege.</p>
@@ -76,7 +89,7 @@
         <title type="html"><![CDATA[Haupt- und Finanzausschuss tagt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/haupt-und-finanzausschuss-tagt-3</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/haupt-und-finanzausschuss-tagt-3"/>
-        <updated>2026-04-09T00:00:04.000Z</updated>
+        <updated>2026-04-09T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Am Dienstag, 14. April 2026, um 16:30 Uhr tagt der Haupt- und Finanzausschuss im Bürgersaal des Rathauses am Marktplatz.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am Dienstag, 14. April 2026, um 16:30 Uhr tagt der Haupt- und Finanzausschuss im Bürgersaal des Rathauses am Marktplatz. Das Gremium berät die Rahmenvereinbarungen über die Lieferung von Hygienebedarf für Toiletten und Waschräume sowie über eine Änderung des Gesellschaftsvertrages der Karlsruher Messe- und Kongress GmbH. Die Annahme des Angebots von Zuwendungen beschließt den öffentlichen Teil der Sitzung.&nbsp;</p>
@@ -89,7 +102,7 @@
         <title type="html"><![CDATA[Ausschuss für öffentliche Einrichtungen tagt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-oeffentliche-einrichtungen-tagt</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-oeffentliche-einrichtungen-tagt"/>
-        <updated>2026-04-09T00:00:05.000Z</updated>
+        <updated>2026-04-09T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Invasive Arten, Zierbrunnen, Stadtwald sowie ein Konzept für mehr Hundetage im Zoo sind Thema im Ausschuss für öffentliche Einrichtungen am Mittwoch, 15. April, im Bürgersaal des Rathauses am Marktplatz.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am Mittwoch, 15. April 2026, tagt ab 16:30 Uhr im Bürgersaal des Rathauses am Marktplatz der Ausschuss für öffentliche Einrichtungen. Zunächst debattiert das Gremium über ein Konzept für mehr Hundetage im Zoo. Darüber hinaus gibt es einen Sachstandsbericht zur Bekämpfung invasiver Ameisen. Ebenso werden Leitlinien zum Vorgehen bei der Bekämpfung der invasiven Asiatischen Hornisse beraten. Die Inbetriebnahme von Zier- und Trinkbrunnen in diesem Jahr sowie die Situation im Stadtwald Karlsruhe beschließen die Sitzung.&nbsp;</p>
@@ -101,7 +114,7 @@
         <title type="html"><![CDATA[Ortschaftsrat Neureut tagt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsrat-neureut-tagt-1</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsrat-neureut-tagt-1"/>
-        <updated>2026-04-09T00:00:06.000Z</updated>
+        <updated>2026-04-09T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Am Donnerstag, 16. April 2026, um 19 Uhr, kommt der Ortschaftsrat Neureut zu seiner nächsten öffentlichen Sitzung im Sitzungssaal des Neureuter Rathauses zusammen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am Donnerstag, 16. April 2026, um 19 Uhr, kommt der Ortschaftsrat Neureut zu seiner nächsten öffentlichen Sitzung im Sitzungssaal des Neureuter Rathauses zusammen. Zunächst wird die Kriminalstatistik für Neureut präsentiert. Im Anschluss stellt sich "KEK on Tour" vor. Die SPD-Ortschaftsratsfraktion erkundigt sich nach einer Beleuchtung der Calisthenics-Anlage während der Winterzeit aus Sicherheitsgründen, die CDU-Ortschaftsratsfraktion zur Sanierung der sanitären Anlagen an der Südschule in Neureut. Zudem berät der Ortschaftsrat über die Änderung der Satzung und des Gebührenverzeichnisses der Jugendmusikschule Neureut.&nbsp;</p>
@@ -114,31 +127,12 @@
         <title type="html"><![CDATA[Planungsausschuss berät über Ständehaus]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungsausschuss-beraet-ueber-staendehaus</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungsausschuss-beraet-ueber-staendehaus"/>
-        <updated>2026-04-09T00:00:07.000Z</updated>
+        <updated>2026-04-09T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Über die Neustrukturierung der Stadtbibliothek im Ständehaus und den Bebauungsplan "östliche Kaiserstraße" berät der Planungsausschuss des Gemeinderats bei seiner Sitzung am Donnerstag, 16. April.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Zu seiner nächsten öffentlichen Sitzung trifft sich der<strong> Planungsausschuss</strong> des Gemeinderats am <strong>Donnerstag, 16. April, um 16:30 Uhr i</strong>m Bürgersaal des Rathauses am Marktplatz. Unter dem Vorsitz von Bürgermeister Daniel Fluhrer berät das Gremium über zwei Tagesordnungspunkte.</p>
 <p>Zunächst geht es um&nbsp;die Neustrukturierung der Stadtbibliothek und Kinder- und Jugendbibliothek in einem erweiterten Ständehaus. Anschließend befasst sich der Ausschuss mit dem&nbsp;planfeststellungsersetzenden Bebauungsplan „östliche Kaiserstraße“. Thema ist hier der Verzicht auf frühzeitige Öffentlichkeitsbeteiligung nach § 3 Abs 1 Baugesetzbuch.</p>
                                     </div></div>]]></content>
         <published>2026-04-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bestätigung der Wahlen der Freiwilligen Feuerwehr Karlsruhe durch den Gemeinderat]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bestaetigung-der-wahlen-der-freiwilligen-feuerwehr-karlsruhe-durch-den-gemeinderat</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bestaetigung-der-wahlen-der-freiwilligen-feuerwehr-karlsruhe-durch-den-gemeinderat"/>
-        <updated>2026-04-08T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Der Gemeinderat hat die Wahlen der Abteilungskommandanten und deren Stellvertreter für die Freiwillige Feuerwehr Karlsruhe in den Abteilungen Aue, Daxlanden, Grötzingen, Grünwinkel, Mühlburg und Rüppurr offiziell bestätigt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Der Gemeinderat hat die Wahlen der Abteilungskommandanten und deren Stellvertreter für die Freiwillige Feuerwehr Karlsruhe in den Abteilungen Aue, Daxlanden, Grötzingen, Grünwinkel, Mühlburg und Rüppurr offiziell bestätigt.</p>
-<p>In der Abteilung Aue übernimmt Christian Bräuer die Führung als neuer Abteilungskommandant, sein Stellvertreter ist Alexander Geiger.</p>
-<p>In Daxlanden wurden die bisherigen Amtsinhaber im Amt bestätigt: Florian Klupik bleibt Abteilungskommandant, sein Stellvertreter ist weiterhin Tobias Klupik.</p>
-<p>In der Abteilung Grötzingen übernimmt Florian Kaute die Führung als neuer Abteilungskommandant, sein Stellvertreter ist Simon Tritsch.</p>
-<p>In Grünwinkel wurden die bisherigen Amtsinhaber im Amt bestätigt: Tim Biedermann bleibt Abteilungskommandant, sein Stellvertreter ist weiterhin Andreas Gromann.</p>
-<p>Für die Abteilung Mühlburg übernimmt das Amt des stellvertretenden Abteilungskommandanten: Julius Philippi.</p>
-<p>Für die Abteilung Rüppurr übernimmt das Amt des stellvertretenden Abteilungskommandanten: Benedikt Müller.</p>
-<p>Die Herren Bräuer, Kaute, Tritsch, Müller und Philippi üben ihre Ämter vorerst kommissarisch aus, bis sie die erforderlichen Führungslehrgänge an der Landesfeuerwehrschule Baden-Württemberg abgeschlossen haben.</p>
-<p>Die Stadt Karlsruhe gratuliert allen Gewählten und dankt ihnen für ihr Engagement im Dienste der Feuerwehr und der Sicherheit der Bürgerinnen und Bürger.</p>
-                                    </div></div>]]></content>
-        <published>2026-04-08T00:00:00.000Z</published>
     </entry>
 </feed>
