@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-09T02:47:18.263Z</updated>
+    <updated>2026-04-09T05:51:19.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.karlsruhe.de/aktuelles"/>
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
@@ -63,7 +63,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Jubiläum 20 Jahre Karlsruher Dreck-weg-Wochen: Anmeldungen sind noch bis 22. April möglich]]></title>
-        <id>c1a01039b0d99cebbc4022c30fcdbefc</id>
+        <id>4f3ac23b5b2e0a4e3240eb5dcd61ab7d</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jubilaeum-20-jahre-karlsruher-dreck-weg-wochen-anmeldungen-sind-noch-bis-22-april-moeglich"/>
         <updated>2026-04-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Die diesjährigen Karlsruher Dreck-weg-Wochen sind erfolgreich am 16. März gestartet und stoßen erneut auf große positive Resonanz. Bereits mehr als 10.800 Teilnehmende haben sich für Putzaktionen angemeldet.]]></summary>
@@ -72,7 +72,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-04-08">
-                                        gerade eben
+                                        Gestern
                                     </time>
                                 </p>
 
@@ -158,7 +158,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Wertstoffstation Hagsfeld bleibt am 8. und 10. April 2026 aus betrieblichen Gründen geschlossen]]></title>
-        <id>6df83290f5c2232537f09b7917f99644</id>
+        <id>f1c5c1fc1e683f13570f024d4411a8a9</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/wertstoffstation-hagsfeld-bleibt-am-8-und-10-april-2026-aus-betrieblichen-gruenden-geschlossen"/>
         <updated>2026-04-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Das Team Sauberes Karlsruhe informiert, dass die Wertstoffstation Hagsfeld aus betrieblichen Gründen am Mittwoch, 8. April 2026, sowie am Freitag, 10. April 2026, geschlossen bleibt.]]></summary>
@@ -177,7 +177,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-04-08">
-                                        vor 4 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
