@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-11T02:43:47.559Z</updated>
+    <updated>2026-04-11T05:27:04.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -137,11 +137,79 @@
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/haupt-und-finanzausschuss-tagt-3"/>
         <updated>2026-04-09T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Am Dienstag, 14. April 2026, um 16:30 Uhr tagt der Haupt- und Finanzausschuss im Bürgersaal des Rathauses am Marktplatz.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article">
+                        <!-- date -->
+                        <div>
+
+                                <p><time itemprop="datePublished" datetime="2026-04-09">
+                                        Donnerstag, 9. April 2026
+                                    </time>
+                                </p>
+
+                                
+
+                                
+                                
+                                
+                                    <h2>
+                                        Am Dienstag, 14. April 2026, um 16:30 Uhr im Bürgersaal des Rathauses am Marktplatz
+                                    </h2>
+                                
+                            </div>
+
+                        <div>
+                                
+                                
+                                        <div>
+                                            
+                                                
+                                                    
+                                                        
+
+
+<img alt="Einzelne Tische mit Mikrofonen im Bürgersaal." title="Sitzung Symbolfotos" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/c/6/csm_sitzung_symbolfotos-1697090695_9d9e9ec2b2.jpeg">
+
+        
+    
+
+        
+            
+        
+    
+
+                                                    
+                                                    
+                                                    
+                                                
+                                            
+                                        </div>
+                                    
+
+                                
+                                
+                                    <div itemprop="articleBody">
                                         <p>Am Dienstag, 14. April 2026, um 16:30 Uhr tagt der Haupt- und Finanzausschuss im Bürgersaal des Rathauses am Marktplatz. Das Gremium berät die Rahmenvereinbarungen über die Lieferung von Hygienebedarf für Toiletten und Waschräume sowie über eine Änderung des Gesellschaftsvertrages der Karlsruher Messe- und Kongress GmbH. Die Annahme des Angebots von Zuwendungen beschließt den öffentlichen Teil der Sitzung.&nbsp;</p>
 <p>Die kompletten Sitzungsunterlagen können im <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/start" title="Link zur Seite" target="_blank" rel="noreferrer">Ratsinformationssystem</a>&nbsp;eingesehen werden.</p>
 
-                                    </div></div>]]></content>
+                                    </div>
+                                
+
+                                
+                                
+                                    
+                                
+
+                                
+                                    
+                                    
+                                        
+    
+
+
+                                    
+                                
+                            </div>
+                    </div></div>]]></content>
         <published>2026-04-09T00:00:00.000Z</published>
     </entry>
 </feed>
