@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-13T10:00:23.583Z</updated>
+    <updated>2026-04-13T13:52:09.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -45,13 +45,13 @@
         <published>2026-04-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jetzt für Sommerpraktikum in Nancy oder Lublin bewerben]]></title>
+        <title type="html"><![CDATA[Jetzt für Sommerpraktika in Nancy oder Lublin bewerben]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jetzt-fuer-sommerpraktikum-in-nancy-oder-lublin-bewerben</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jetzt-fuer-sommerpraktikum-in-nancy-oder-lublin-bewerben"/>
         <updated>2026-04-13T00:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Praktikum für Karlsruher Studierende und Schulabgängerinnen und Schulabgänger vom 3. bis zum 28. August.]]></summary>
+        <summary type="html"><![CDATA[Praktika für Karlsruher Studierende und Schulabgängerinnen und Schulabgänger vom 3. bis zum 28. August.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Wie jedes Jahr, haben auch im August 2026 Studierende, Schulabgängerinnen sowie Schulabgänger aus Karlsruhe die Chance, sich auf ein Praktikum in Karlsruhes Partnerstadt Nancy oder Nancys polnischer Partnerstadt Lublin zu bewerben. Während des vierwöchigen Praktikums bekommen die Teilnehmenden wertvolle Einblicke in die Stadtverwaltung von Nancy oder Lublin und haben gleichzeitig die Chance ihre Französisch- bzw. Englischkenntnisse zu vertiefen.</p>
+                                        <p>Wie jedes Jahr haben auch im August 2026 Studierende, Schulabgängerinnen sowie Schulabgänger aus Karlsruhe die Chance, sich auf ein Praktikum in Karlsruhes Partnerstadt Nancy oder Nancys polnischer Partnerstadt Lublin zu bewerben. Während des vierwöchigen Praktikums bekommen die Teilnehmenden wertvolle Einblicke in die Stadtverwaltung von Nancy oder Lublin und haben gleichzeitig die Chance ihre Französisch- bzw. Englischkenntnisse zu vertiefen.</p>
 <p>Polnischkenntnisse werden für ein Praktikum in Lublin nicht vorausgesetzt. Das Praktikum findet gemeinsam mit Studierenden aus Nancys oder Lublins anderen Partnerstädten statt und ist damit eine wertvolle Chance, Gleichaltrige aus aller Welt kennenzulernen, das gegenseitige Verständnis zu verbessern und die interkulturelle Kompetenz zu fördern.</p>
                                     </div></div>]]></content>
         <published>2026-04-13T00:00:00.000Z</published>
