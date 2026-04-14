@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-14T09:24:45.067Z</updated>
+    <updated>2026-04-14T13:57:20.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,10 +13,37 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Online: schreibend der eigenen Kindheit begegnen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/online-schreibend-der-eigenen-kindheit-begegnen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/online-schreibend-der-eigenen-kindheit-begegnen"/>
+        <updated>2026-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In dem Karlsruher Online-Workshop am 29. April geht es darum, den eigenen Lebensweg nachzuzeichnen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Der <a href="https://join.next.edudip.com/de/webinar/schreibend-der-eigenen-kindheit-begegnen/2603577" title="Link zur Seite" target="_blank" rel="noreferrer">Online-Kurs</a> der Reihe "on Air" findet am <strong>Mittwoch, 29. April, von 18 bis 19 Uhr</strong> statt.</p>
+<p>Stadtteilkoordination und das Seniorenbüro <strong>„on Air“</strong> laden Sie zu dem <strong>Online-Workshop „Schreibend der eigenen Kindheit begegnen“</strong> ein. Die Veranstaltung richtet sich im Besonderen an die älteren Generationen und alle, die sich auf kreative Weise mit ihrer Kindheit und der Kraft, die sie daraus für die Zukunft gewinnen können, auseinandersetzen möchten.</p>
+<p>Herr Then, Referent an der VHS Karlsruhe und Leiter der Schreibwerkstatt Ettlingen, wird eine kurze Einführung in die Grundlagen und Wirkweise des kreativen Schreibens geben. Im Anschluss haben die Teilnehmenden die Möglichkeit, sich anhand von Schreibimpulsen einem persönlichen Erlebnis aus ihrer Kindheit&nbsp;zuzuwenden und Gedanken, Erinnerungen und Gefühle frei zum Ausdruck zu bringen.</p>
+<p>Vorkenntnisse sind nicht erforderlich – im Mittelpunkt stehen die Freude am Schreiben sowie die Offenheit, sich selbst neu zu begegnen. Weitere Information finden sich auf <a href="https://www.karlsruhe.de/bildung-soziales/psychologische-soziale-beratung/aeltere-generationen" title="Link zur Seite" target="_blank">karlsruhe.de/senioren</a>.</p>
+                                    </div></div>]]></content>
+        <published>2026-04-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanierung des Brückenhauses am Kronenplatz]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sanierung-des-brueckenhauses-am-kronenplatz-1</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sanierung-des-brueckenhauses-am-kronenplatz-1"/>
+        <updated>2026-04-14T00:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Seit Montag, 13. April, laufen Sanierungsarbeiten an dem Brückengebäude über der Karlsruher Fritz-Erler-Straße. Aus diesem Grund ist der Fuß- und Radweg im Verlauf der Zähringerstraße gesperrt.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Seit Montag, 13. April, laufen die Sanierungsarbeiten an dem markanten Brückenhaus über der Fritz-Erler-Straße. Nach der Schließung des Pizza-Lieferservices Ende Februar hatten bereits Vorbereitungen zur Instandsetzung begonnen.&nbsp;Die Baumaßnahmen wurde aufgrund von Schäden an der Betonkonstruktion sowie an den Beschichtungen der Metallbauteile des denkmalgeschützten Gebäudes erforderlich und dauern voraussichtlich bis Ende Oktober 2026.</p>
+<h4>Fritz-Erler-Straße bleibt befahrbar</h4>
+<p>Aus diesem Grund ist die Nutzung der Brücke für Fußgängerinnen und Fußgänger sowie für den Radverkehr nicht möglich. Umleitungen sind ausgeschildert. Zur Absicherung des Baufelds unter der Brücke muss außerdem die Straßenbahnlinie 3 in beiden Richtungen über die die Kapellenstraße umgeleitet werden. Die Haltestelle Kronenplatz in der Fritz-Erler-Straße entfällt daher. Für den Straßenverkehr bleibt die Fritz-Erler-Straße weiterhin in beiden Richtungen befahrbar.&nbsp;</p>
+                                    </div></div>]]></content>
+        <published>2026-04-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Erste senkrechte Photovoltaik auf städtischem Gründach]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erste-senkrechte-photovoltaik-auf-staedtischem-gruendach</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erste-senkrechte-photovoltaik-auf-staedtischem-gruendach"/>
-        <updated>2026-04-13T00:00:00.000Z</updated>
+        <updated>2026-04-13T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Auf dem städtischen Gründach der AWO-Kindertagesstätte „les petits amis“ wurde erstmals eine vertikale Photovoltaikanlage in Betrieb genommen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Photovoltaik und Begrünung auf Flachdächern sind seit über 10&nbsp;Jahren guter Standard auf städtischen Gebäuden wie Schulen oder Kindergärten. Nun erfolgte mit der Inbetriebnahme eines Pilotprojektes ein weiterer Schritt durch die Stadtverwaltung: <strong>Erstmals wurde auf einem vorhandenen Gründach, nämlich auf der&nbsp;Kindertagesstätte „les petits amis“, eine Photovoltaik errichtet und in Betrieb genommen, deren Module senkrecht statt flach stehen.</strong></p>
@@ -33,7 +60,7 @@
         <title type="html"><![CDATA[Vortrag über KI und humanoide Roboter]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vortrag-ueber-ki-und-humanoide-roboter</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vortrag-ueber-ki-und-humanoide-roboter"/>
-        <updated>2026-04-13T00:00:01.000Z</updated>
+        <updated>2026-04-13T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Professor Tamim Asfour kommt am 30. April mit einem Vortrag in die Karlsruher Stadtbibliothek.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Humanoide Roboter sind längst keine Zukunftsvision mehr. Sie greifen, laufen, interagieren und lernen – und sollen schon bald Menschen im Alltag unterstützen: in der Pflege, im Haushalt und in der Industrie. Doch wie funktioniert das eigentlich, und was bedeutet diese Entwicklung für unsere Gesellschaft?</p>
@@ -48,7 +75,7 @@
         <title type="html"><![CDATA[Jetzt für Sommerpraktika in Nancy oder Lublin bewerben]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jetzt-fuer-sommerpraktikum-in-nancy-oder-lublin-bewerben</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jetzt-fuer-sommerpraktikum-in-nancy-oder-lublin-bewerben"/>
-        <updated>2026-04-13T00:00:02.000Z</updated>
+        <updated>2026-04-13T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Praktika für Karlsruher Studierende und Schulabgängerinnen und Schulabgänger vom 3. bis zum 28. August.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Wie jedes Jahr haben auch im August 2026 Studierende, Schulabgängerinnen sowie Schulabgänger aus Karlsruhe die Chance, sich auf ein Praktikum in Karlsruhes Partnerstadt Nancy oder Nancys polnischer Partnerstadt Lublin zu bewerben. Während des vierwöchigen Praktikums bekommen die Teilnehmenden wertvolle Einblicke in die Stadtverwaltung von Nancy oder Lublin und haben gleichzeitig die Chance ihre Französisch- bzw. Englischkenntnisse zu vertiefen.</p>
@@ -60,7 +87,7 @@
         <title type="html"><![CDATA[Baumaßnahme auf Kreuzung Rheinhafenstraße/Pulverhausstraße]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/baumassnahme-auf-kreuzung-rheinhafenstrasse-pulverhausstrasse</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/baumassnahme-auf-kreuzung-rheinhafenstrasse-pulverhausstrasse"/>
-        <updated>2026-04-13T00:00:03.000Z</updated>
+        <updated>2026-04-13T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Zur Ausbesserung von Belagsschäden finden im Kreuzungsbereich von Pulverhaus-/Rheinhafen- und Durmersheimer Straße zwischen dem 20. und 30. April Sanierungsarbeiten an der Fahrbahn statt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Von Montag, 20. April, bis voraussichtlich Donnerstag, 30. April 2026, finden auf der Kreuzung von Rheinhafen-, Pulverhaus- und Durmersheimer Straße Fahrbahnsanierungsarbeiten im Auftrag des Tiefbauamts statt. Hierbei wird die Fahrbahn aufgrund von Belagsschäden mit einer neuen Asphalt-Deckschicht versehen. Die Arbeiten erfolgen in Abstimmung mit der parallel dazu laufenden Maßnahme der Stadtwerke Karlsruhe zur Erneuerung von Versorgungsleitungen.</p>
@@ -75,7 +102,7 @@
         <title type="html"><![CDATA[PHKA im Rathaus am 23. April 2026]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/phka-im-rathaus-am-23-april-2026</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/phka-im-rathaus-am-23-april-2026"/>
-        <updated>2026-04-10T00:00:04.000Z</updated>
+        <updated>2026-04-10T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Wer sich über aktuelle bildungswissenschaftliche Forschungsprojekte der Pädagogischen Hochschule Karlsruhe (PHKA) informieren und mit Wissenschaftlern ins Gespräch kommen möchte, hat dazu bei der nächsten Auflage von „PHKA im Rathaus" Gelegenheit.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Wer sich über aktuelle bildungswissenschaftliche Forschungsprojekte der Pädagogischen Hochschule Karlsruhe (PHKA) informieren und mit Wissenschaftlerinnen und Wissenschaftlern ins Gespräch kommen möchte, hat dazu bei der nächsten Auflage von „PHKA im Rathaus“ am Donnerstag, 23. April 2026, Gelegenheit. Unter dem Titel „KI in der Bildung: Chancen gestalten – Qualität sichern“ stehen im Rathaus am Marktplatz, Karl-Friedrich-Straße 10, 76133 Karlsruhe, vier Kurzvorträge, eine Posterausstellung sowie Mitmachangebote auf dem Programm.</p>
@@ -89,7 +116,7 @@
         <title type="html"><![CDATA[Kreativ Zeit in der Stadtbibliothek verbringen: „Book Journal basteln“]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kreativ-zeit-in-der-stadtbibliothek-verbringen-book-journal-basteln</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kreativ-zeit-in-der-stadtbibliothek-verbringen-book-journal-basteln"/>
-        <updated>2026-04-10T00:00:05.000Z</updated>
+        <updated>2026-04-10T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Kreativzeit „Book Journal basteln“: Im Lesecafé der Stadtbibliothek gestalten die Teilnehmenden ihr eigenes Book Journal – ein kreatives Format, das Tagebuchschreiben, Lesedokumentation und persönliche Gestaltung miteinander verbindet.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Stadtbibliothek Karlsruhe lädt am Donnerstag, 23. April 2026 von 16 bis 18 Uhr zur <strong>Kreativzeit „Book Journal basteln“</strong> in die Zentrale im Neuen Ständehaus ein. Das kostenfreie Angebot richtet sich an junge Erwachsene sowie alle Interessierten und kann ohne vorherige Anmeldung besucht werden.</p>
@@ -102,7 +129,7 @@
         <title type="html"><![CDATA[Stadtteilbibliothek Grötzingen beteiligt sich am Grötzinger Klimatag]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-e65106fc4d8abf19478e9e9c4c24d682</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-e65106fc4d8abf19478e9e9c4c24d682"/>
-        <updated>2026-04-10T00:00:06.000Z</updated>
+        <updated>2026-04-10T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Am Samstag, 25. April, dreht sich am Grötzinger Klimatag von 11 bis 17 Uhr im Malerdorf alles um den Klimaschutz. Auch die Stadtteilbibliothek beteiligt sich rund um den Aktionstag mit einem Programm und Buchempfehlungen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Bereits zum dritten Mal in Folge beteiligt sich die Stadtteilbibliothek Grötzingen am jährlichen Grötzinger Klimatag, der vom Naturtreff Grötzingen organisiert wird. Die Veranstaltung findet am <strong>Samstag, 25. April</strong>, von 11 bis 17 Uhr statt und steht in diesem Jahr unter dem Motto „Marktplatz der Möglichkeiten – bunt, lokal und nachhaltig". Verschiedene Organisationen und Initiativen zeigen dabei, wie klimabewusstes Handeln im Alltag gelingen kann.</p>
@@ -116,34 +143,5 @@
 
                                     </div></div>]]></content>
         <published>2026-04-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keine Gefahr durch Blindgänger in Durlach-Aue]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/keine-gefahr-durch-blindgaenger-in-durlach-aue</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/keine-gefahr-durch-blindgaenger-in-durlach-aue"/>
-        <updated>2026-04-09T00:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Bei Baggerarbeiten auf dem Friedhof in Durlach-Aue wurde am heutigen Donnerstagmittag ein Blindgänger entdeckt. Der Kampfmittelbeseitigungsdienst barg routinemäßig das Objekt. Zu keinem Zeitpunkt bestand eine Gefahr für die Bevölkerung.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Bei Baggerarbeiten auf dem Friedhof in Durlach-Aue wurde am heutigen Donnerstagmittag ein Blindgänger entdeckt. Zu keinem Zeitpunkt bestand eine Gefahr für die Bevölkerung.</p>
-<p>Die Bauarbeiter stießen während der Erdarbeiten auf den Gegenstand und deckten ihn zur ersten Sicherung mit Sand ab. Der hinzugezogene Kampfmittelbeseitigungsdienst identifizierte den Fund als eine rund 50 Zentimeter große britische Phosphor-Brandbombe.</p>
-<p>Die Spezialisten bargen das Objekt routinemäßig und transportierten es gegen 14:00 Uhr sicher ab. Während des Polizeieinsatzes und der Bergung waren lediglich kurzzeitige und eng begrenzte Absperrungen in der unmittelbaren Umgebung erforderlich.</p>
-                                    </div></div>]]></content>
-        <published>2026-04-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lesung von Ronald Reng: „Der Deutsche Sommer“]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-von-ronald-reng-der-deutsche-sommer</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-von-ronald-reng-der-deutsche-sommer"/>
-        <updated>2026-04-09T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Die Stadtbibliothek Karlsruhe lädt am 23. April 2026, zu einer Lesung mit dem Autor und Sportjournalisten Ronald Reng ein. In Kooperation mit der Stephanus Buchhandlung stellt er im Lesecafé der Stadtbibliothek sein aktuelles Buch vor.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Die <strong>Stadtbibliothek Karlsruhe</strong> lädt am Donnerstag, 23. April 2026, von 19:30 bis 21 Uhr zu einer Lesung mit dem Autor und Sportjournalisten <strong>Ronald Reng</strong> ein. In Kooperation mit der Stephanus Buchhandlung stellt er im Lesecafé der Stadtbibliothek im Neuen Ständehaus sein aktuelles Buch „Der Deutsche Sommer“ vor.</p>
-<p>Darin blickt Reng auf die Fußball-Weltmeisterschaft in Deutschland zurück – eine Zeit, in der Millionen Gäste aus aller Welt das Land besuchten und ein Gefühl von Leichtigkeit, Offenheit und gemeinsamer Begeisterung entstand. Menschen, die zuvor kaum Berührung mit nationalen Symbolen hatten, schmückten sich mit Schwarz-Rot-Gold, Immigrantinnen und Immigranten schwenkten erstmals die deutsche Fahne, und internationale Umfragen erklärten Deutschland zum „coolsten Land der Welt“. Reng geht der Frage nach, wie dieses Hochgefühl entstehen konnte – und ob ein solcher gesellschaftlicher Moment heute noch möglich wäre.</p>
-<p>„Der Deutsche Sommer“ reiht sich in das umfangreiche Werk des mehrfach ausgezeichneten Sportjournalisten und Autors ein, der mit Bestsellern wie „Der Traumhüter“, der Biografie über Robert Enke oder umfassenden Fußball-Geschichtsbildern wie „Matchdays“ oder „1974 – Eine deutsche Begegnung“ vielbeachtete Beiträge zur Kultur des Fußballs vorgelegt hat.</p>
-<p>Die Lesung verspricht nicht nur tiefgehende Einblicke in ein prägendes Kapitel der deutschen WM‑Geschichte, sondern auch ein Gespräch mit dem Autor über die gesellschaftlichen Aspekte von Fußball-Großereignissen.</p>
-<p>Tickets sind online unter <a href="http://www.stephanusbuch.de/" title="Link zur Seite" target="_blank" rel="noreferrer">www.stephanusbuch.de</a> sowie an der Abendkasse erhältlich. Die Lesung findet im Lesecafé im Erdgeschoss der Stadtbibliothek im Neuen Ständehaus statt.</p>
-
-                                    </div></div>]]></content>
-        <published>2026-04-09T00:00:00.000Z</published>
     </entry>
 </feed>
