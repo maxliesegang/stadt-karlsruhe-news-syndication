@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-20T06:20:35.694Z</updated>
+    <updated>2026-04-20T10:03:00.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -42,10 +42,26 @@
         <published>2026-04-17T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[„Erfolgreich implementiert“]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erfolgreich-implementiert</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erfolgreich-implementiert"/>
+        <updated>2026-04-17T00:00:02.000Z</updated>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Wie können Städte und Gemeinden schneller zu dringend benötigtem Wohnraum kommen? Diese Frage treibt auch die Verwaltung in der Fächerstadt um. Eine Antwort darauf bietet nach Einschätzung von Bürgermeister Daniel Fluhrer das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung, kurz „Bauturbo“, genannt.</p>
+<p>Nachdem der Bundestag im Herbst 2025 die rechtlichen Voraussetzungen geschaffen hatte, läuft nun seit Januar die Pilotphase – und das mit „sehr erfreulicher Entwicklung“, wie Fluhrer bei einem Pressegespräch bilanzierte: „Karlsruhe hat den Bauturbo erfolgreich implementiert“.</p>
+<p>Insgesamt 58 Vorhaben seien bisher eingereicht worden, davon wurde bei 19 eine Zustimmung erteilt, während es 28 Ablehnungen gab. Letzteres führt Monika Regner, Leiterin des Bauordnungsamts, darauf zurück, dass teilweise „Altfälle“, die in der Vergangenheit bereits negativ beschieden wurden, nun noch einmal auf die Agenda kämen. Um die Akzeptanz in der Bevölkerung nicht zu gefährden, bedürfe es hier einer „sehr differenzierten Abwägung“, sagte Regner.</p>
+<p>Die Zahl der mit dem Bauturbo ermöglichten Wohneinheiten bezifferte die Leiterin des Stadtplanungsamts, Heike Dederer-Schöberl, auf aktuell rund 40. Weitere 250 seien schon „planerisch angeschoben“ mit Aussicht auf Realisierung, ergänzte Fluhrer, so etwa auf dem BMD-Areal in Durlach.</p>
+<p>In erster Linie entstehe der Zuwachs durch Aufstockungen, was den Zielen der Stadt entspreche. Man wolle „die bisherige Philosophie nicht konterkarieren“, so Dederer-Schöberl, wonach Bauen in zweiter Reihe und im Außenbereich ebenso wenig Priorität genießen wie Umnutzung von Gewerbeimmobilien in Wohnraum.</p>
+<p>Die Implementierung des Bauturbo bedeutete für die städtischen Dienststellen erheblichen Aufwand. So musste unter anderem die Hauptsatzung angepasst werden, damit nicht jeder Einzelfall in den Gemeinderat geht. Vorhaben mit städtebaulicher Relevanz werden nun dem Planungsausschuss vorgelegt.</p>
+<p>Zudem erstellt das Stadtplanungsamt bei größeren Vorhaben, die einen Bebauungsplan ersetzen, städtebauliche Verträge. Doch der Mehraufwand lohne, betonen die Verantwortlichen, denn „es ist ein Signal an die Bauherren“, so Bürgermeister Fluhrer. -eck-</p>
+                                    </div></div>]]></content>
+        <published>2026-04-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Schädlingsbekämpfer stehen in den Startlöchern]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-a1fbb95ea1e7649fb7f7d05e5eb5ab38</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-a1fbb95ea1e7649fb7f7d05e5eb5ab38"/>
-        <updated>2026-04-17T00:00:02.000Z</updated>
+        <updated>2026-04-17T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Die Stadt geht gegen invasive Arten vor. Zur Bekämpfung der Ameise "Tapinoma Magnum" kommt bald Heißwasserdampf zum Einsatz.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Karlsruhe hat invasiven Arten den Kampf angesagt: Mit einem neu eingestellten Schädlingsbekämpfer und einem weiteren Kollegen rückt die Stadt den Ameisenarten „Tapinoma magnum“ und „Lasius neglectus“ zu Leibe. Bei einem Pressegespräch wurde nun das geplante Vorgehen erläutert.</p>
@@ -60,7 +76,7 @@
         <title type="html"><![CDATA[Quartiersbudgets schließen an erfolgreiches Förderprojekt „City Transformation“ an]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/quartiersbudgets-schliessen-an-erfolgreiches-foerderprojekt-city-transformation-an</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/quartiersbudgets-schliessen-an-erfolgreiches-foerderprojekt-city-transformation-an"/>
-        <updated>2026-04-16T00:00:03.000Z</updated>
+        <updated>2026-04-16T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Zum "Fest der Sinne" am 25. und 26. April wird es viele Aktionen gefördert durch Quartiersbudgets geben.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Karlsruher Innenstadt ist lebendig und bunt – und das nicht zuletzt dank des Engagements der Gewerbetreibenden in der City, die mit vielen kleinen und großen Aktionen immer wieder für frischen Wind in den Quartieren rund um die Kaiserstraße sorgen. Zur Unterstützung hat die <strong>Stadt Karlsruhe</strong> gemeinsam mit der <strong>"Karlsruhe Marketing und Event Gesellschaft"</strong> und der <strong>"City Initiative Karlsruhe" Quartiersbudgets</strong> ins Leben gerufen, die anschließend an das erfolgreiche Förderprojekt „City Transformation“ die Weiterentwicklung und Belebung der Karlsruher Innenstadt unterstützen.</p>
@@ -80,7 +96,7 @@
         <title type="html"><![CDATA[Ortschaftsratssitzung in Hohenwettersbach]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsratssitzung-in-hohenwettersbach</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsratssitzung-in-hohenwettersbach"/>
-        <updated>2026-04-16T00:00:04.000Z</updated>
+        <updated>2026-04-16T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Der Ortschaftsrat Hohenwettersbach kommt unter der Leitung von Ortsvorsteherin Elke Ernemann zu seiner nächsten Sitzung am Mittwoch, 22. April, um 19 Uhr, zusammen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der <strong>Ortschaftsrat Hohenwettersbach</strong> kommt unter der Leitung von <strong>Ortsvorsteherin Elke Ernemann</strong> zu seiner nächsten Sitzung am <strong>Mittwoch, 22. April, um 19 Uhr</strong>, zusammen. Im <strong>Bürgersaal des Rathauses, Kirchplatz 4</strong>, beraten die Stadtteilvertreterinnen und Stadtteilvertreter unter anderem über folgende Tagesordnungspunkte:</p>
@@ -93,7 +109,7 @@
         <title type="html"><![CDATA[ASD: Präsentation der Räumlichkeiten der "Bezirksgruppe Südwest"]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/asd-praesentation-der-raeumlichkeiten-der-bezirksgruppe-suedwest</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/asd-praesentation-der-raeumlichkeiten-der-bezirksgruppe-suedwest"/>
-        <updated>2026-04-16T00:00:05.000Z</updated>
+        <updated>2026-04-16T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Der Allgemeine Soziale Dienst der Stadt Karlsruhe stellt die neuen Räume der "Bezirksgruppe Südwest" in der Bannwaldallee 60 vor.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die <strong>"Bezirksgruppe Südwest" des Allgemeinen Sozialen Dienstes</strong> der Stadt Karlsruhe ist zum 9. März 2026 von der Albert-Braun-Str. 2a+b <strong>in die neuen Räumlichkeiten in der Bannwaldallee 60</strong>, Hinterhaus, erstes Obergeschoss, umgezogen.</p>
@@ -105,7 +121,7 @@
         <title type="html"><![CDATA[Sozialausschuss tagt am 22. April]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sozialausschuss-tagt-oeffentlich</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sozialausschuss-tagt-oeffentlich"/>
-        <updated>2026-04-16T00:00:06.000Z</updated>
+        <updated>2026-04-16T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Der Karlsruher Sozialausschuss kommt am 22. April 2026 zusammen. Auf der Tagesordnung steht unter anderem die Neustrukturierung der Stadtbibliothek.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Unter Vorsitz von <strong>Bürgermeisterin Yvette Melchien</strong> treffen sich die Mitglieder des <strong>Sozialausschusses</strong> am <strong>Mittwoch, 22. April 2026</strong>, um <strong>16:30 Uhr</strong> zur nächsten öffentlichen Sitzung. Im <strong>Bürgersaal des Karlsruher Rathauses am Marktplatz</strong> befasst sich das Gremium mit der Neustrukturierung der Stadtbibliothek sowie der Kinder- und Jugendbibliothek in einem erweiterten Ständehaus und einem Antrag der Fraktion die Linke zu bezahlbarem Wohnraum.</p>
@@ -117,27 +133,12 @@
         <title type="html"><![CDATA[Leseförderung digital erweitert]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesefoerderung-digital-erweitert</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesefoerderung-digital-erweitert"/>
-        <updated>2026-04-15T00:00:07.000Z</updated>
+        <updated>2026-04-15T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Mit dem Projekt „Karlsruher Kinder lesen" soll Lesen digital unterstützt werden. Beim Zoobesuch beispielsweise können QR-Codes per Smartphone „gesammelt“ werden. Dadurch erhalten Kinder passende Geschichten für Zuhause.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Leseförderung – allerdings für digitale Lesegewohnheiten – erweitern: Das will die Stadt mit dem Projekt „Karlsruher Kinder lesen" ermöglichen. Ein entsprechendes Konzept wurde kürzlich im Kulturausschuss vorgestellt. Ergänzend zum klassischen Buch soll etwa das Smartphone dienen, um Kinder spielerisch ans Lesen heranzuführen.</p>
 <p>Der Zoo und die KVV bieten das Konzept als App bereits an – bei Besuchen im Zoo beispielsweise können QR-Codes „gesammelt“ werden. Dadurch erhalten Kinder Zugang zu passenden Geschichten für Zuhause, die die Eindrücke vor Ort aufgreifen und vertiefen. Dabei hilft das sogenannte „Leseband“, eine Technologie der Karlsruhe Firma Readio: Eine mit Ton unterlegte, bewegte Textleiste lässt Lesen in individueller Geschwindigkeit zu. &nbsp;</p>
 <p>Auch weitere Institutionen wie&nbsp; Naturkundemuseum, Karlsruher Bäder und ZKM sollen künftig ebenfalls mit Lese-Geschichten ausgestattet werden, so das Kulturamt. Das Projekt wird von der<br> Stiftung Lesen unterstützt und soll Kinder in den Fokus rücken, die&nbsp;besonders in der finanziell schwierigen Situation von Kommunen nicht vernachlässigt werden dürfen. -nke-</p>
-                                    </div></div>]]></content>
-        <published>2026-04-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mehr Grün für ein besseres Stadtklima]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mehr-gruen-fuer-ein-besseres-stadtklima-1</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mehr-gruen-fuer-ein-besseres-stadtklima-1"/>
-        <updated>2026-04-15T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Dächer, Fassaden und Hinterhöfe haben großes Potenzial für zusätzliche Begrünung. Das Karlsruher Gartenbauamt fördert private Entsiegelung und Begrünung.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Zum Auftakt der Gartensaison im Frühjahr setzt die Stadt Karlsruhe ein klares Zeichen für die Entwicklung lebendiger und zukunftsfähiger Grünräume. Neben öffentlichen Flächen stehen auch private Dächer, Fassaden und Hinterhöfe im Fokus, da diese großes Potenzial für zusätzliche Begrünung bieten.</p>
-<p>Begrünte Flächen helfen aktiv bei der Anpassung an den Klimawandel: Sie kühlen Gebäude, verbessern die Luftqualität, binden Feinstaub, speichern Regenwasser und bieten Lebensräume für Kleinstlebewesen. Sie machen das Klima in der Stadt nachhaltig besser insbesondere an heißen Sommertagen.</p>
-<h4>Hof-, Dach- und Fassadenbegrünung</h4>
-<p>Mit dem Förderprogramm „Hof-, Dach- und Fassadenbegrünung“ unterstützt die Stadt Karlsruhe das Engagement von Bürgerinnen und Bürgern, private Innenhöfe, Dächer und Fassaden zu begrünen. Gefördert werden unter anderem die Entsiegelung von Freiflächen mit anschließender Bepflanzung, der Umbau von Schottergärten in blühende Gärten sowie die Begrünung von Fassaden und Dächern.</p>
-<p>Das Gartenbauamt der Stadt Karlsruhe kann unter <a href="tel:07211336732" title="Telefonnummer anrufen">0721 133-6732</a> oder <a href="#" title="E-Mail senden" data-mailto-token="drzckf1xilvewfviuvilexRxsr5bricjilyv5uv" data-mailto-vector="-9">gruenfoerderung(at)gba.karlsruhe.de</a> für einen Termin zur ersten Besichtigung kontaktiert werden. Neben einer kostenlosen Beratung durch das Gartenbauamt stellt die Stadt Karlsruhe eine finanzielle Förderung von maximal 5.000 Euro je Vorhaben zur Verfügung. Weitere Informationen gibt es auf der <a href="https://www.karlsruhe.de/gruenfoerderung" title="Link zur Seite" target="_blank">Internetseite der Stadt Karlsruhe</a>.</p>
                                     </div></div>]]></content>
         <published>2026-04-15T00:00:00.000Z</published>
     </entry>
