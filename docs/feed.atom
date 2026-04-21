@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-21T09:44:23.753Z</updated>
+    <updated>2026-04-21T17:09:45.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,10 +13,24 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Einladung zum Planungsworkshop „PikoPark Kaiserallee“]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/einladung-zum-planungsworkshop-pikopark-kaiserallee</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/einladung-zum-planungsworkshop-pikopark-kaiserallee"/>
+        <updated>2026-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Das Karlsruher Gartenbauamt lädt am 8. Mai 2026 Bürgerinnen und Bürger zum Planungsworkshop für den PikoPark auf der Grünfläche vor der Christuskirche ein.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Das <strong>Gartenbauamt</strong> lädt alle interessierten Bürgerinnen und Bürger herzlich zu einem offenen <strong>Planungsworkshop für den neuen PikoPark auf der Grünfläche vor der Christuskirche</strong> in der Kaiserallee ein. Der Workshop findet am <strong>Freitag, 8. Mai 2026, von 15 bis 18 Uhr</strong> statt und wird gemeinsam mit Schülerinnen und Schülern des Helmholtz-Gymnasium Karlsruhe gestaltet.</p>
+<p>Ein PikoPark ist ein naturnaher, vielfältiger Begegnungsraum, der die Artenvielfalt fördert, das Mikroklima verbessert und zugleich als Erholungsort für Menschen aller Altersgruppen dient. Auf einem Teil der Grünfläche sollen so durch heimische Bepflanzung, schattenspendende Bäume sowie biodiversitätsfördernde Elemente wie Trockenmauern, Totholz und Sandlinsen wertvolle, naturnahe Lebensräume entstehen.</p>
+<h4>Um Anmeldung wird gebeten</h4>
+<p>Alle Interessierten sind eingeladen, ihre Ideen einzubringen und die Gestaltung dieses neuen Stadtraums aktiv mitzuprägen.&nbsp;Aufgrund begrenzter Platzkapazität ist eine Teilnahme nur nach vorheriger Anmeldung möglich: <a href="#" title="E-Mail senden" data-mailto-token="drzckf1erklifrjveRxsr5bricjilyv5uv" data-mailto-vector="-9">naturoasen(at)gba.karlsruhe.de</a>.</p>
+                                    </div></div>]]></content>
+        <published>2026-04-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grußbotschaft von OB Dr. Frank Mentrup zum Ridván-Fest der Bahá'í-Gemeinschaft]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/grussbotschaft-von-ob-dr-frank-mentrup-zum-ridvan-fest-der-bahai-gemeinschaft-1</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/grussbotschaft-von-ob-dr-frank-mentrup-zum-ridvan-fest-der-bahai-gemeinschaft-1"/>
-        <updated>2026-04-20T00:00:00.000Z</updated>
+        <updated>2026-04-20T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[Vom 21. April bis zum 2. Mai 2026 feiert die Bahá’í-Gemeinde das Ridván-Fest, das an zentrale menschliche Werte erinnert. Der Karlsruher Bahá’í-Gemeinde übermittelt Oberbürgermeister Dr. Frank Mentrup seine Glückwünsche.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Vom <strong>21. April bis zum 2. Mai 2026</strong> feiert die<strong> Bahá’í-Gemeinde</strong> das <strong>Ridván-Fest</strong>, das an zentrale menschliche Werte erinnert.&nbsp;Oberbürgermeister Dr. Frank Mentrup übermittelt&nbsp;der Karlsruher Bahá’í-Gemeinde seine Glückwünsche.</p>
@@ -37,7 +51,7 @@
         <title type="html"><![CDATA[Zoodirektor spricht über Artenschutz]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zoodirektor-spricht-ueber-artenschutz</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zoodirektor-spricht-ueber-artenschutz"/>
-        <updated>2026-04-20T00:00:01.000Z</updated>
+        <updated>2026-04-20T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Zoodirektor Dr. Matthias Reinschmidt spricht in einem Vortrag am 23. April über den Wandel des Zoos hin zum modernen Artenschutzzentrum.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der <strong>Karlsruher Zoo</strong> beendet seine <strong>Wintervortragsreihe</strong> am <strong>Donnerstag, 23. April 2026, um 18.15 Uhr</strong> mit <strong>Zoodirektor Dr. Matthias Reinschmidt</strong>. Er spricht über den Wandel des Zoos hin zum modernen Artenschutzzentrum: „Was kann ein moderner Zoo heute zum Artenschutz und zum Biodiversitätserhalt beitragen? Artenschutz global und lokal“.</p>
@@ -50,7 +64,7 @@
         <title type="html"><![CDATA[Sechster Grötzinger Klimatag lädt zum Mitmachen ein]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinsam-fuer-die-zukunft-der-6-groetzinger-klimatag-laedt-zum-mitmachen-ein</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinsam-fuer-die-zukunft-der-6-groetzinger-klimatag-laedt-zum-mitmachen-ein"/>
-        <updated>2026-04-20T00:00:02.000Z</updated>
+        <updated>2026-04-20T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Am 25. April 2026 zeigen 40 Initiativen und Organisationen, wie klimabewusstes Handeln im Alltag gelingt. Das vielfältige Angebot richtet sich an alle Altersgruppen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am <strong>Samstag, den 25. April 2026</strong>, verwandelt sich die Mühlstraße in Karlsruhe-Grötzingen von <strong>11 bis 17 Uhr</strong> in eine Aktionsmeile voller Ideen für eine nachhaltige Zukunft. Die Ortverwaltung Grötzingener und der Naturtreff Grötzingen laden zum sechsten <strong>Grötzinger Klimatag</strong> ein, einem bunten, vielfältigen Markt zum Mitmachen und Vernetzen rund um die Themen Klimaschutz, Naturschutz und Nachhaltigkeit.</p>
@@ -65,7 +79,7 @@
         <title type="html"><![CDATA[Kunterbuntes Museumsfest im Pfinzgaumuseum am 26. April]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kunterbuntes-museumsfest-im-pfinzgaumuseum-am-26-april</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kunterbuntes-museumsfest-im-pfinzgaumuseum-am-26-april"/>
-        <updated>2026-04-17T00:00:03.000Z</updated>
+        <updated>2026-04-17T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Das Pfinzgaumuseum in der Karlsburg Durlach feiert am Sonntag, 26. Mai 2026 sein jährliches Museumsfest mit Aktionen, Unterhaltung und Führungen durch die Ausstellungen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Das <strong>Pfinzgaumuseum in der Karlsburg Durlach</strong> feiert am <strong>Sonntag, 26. Mai 2026</strong>, <strong>zwischen 11 und 18 Uhr&nbsp;sein jährliches Museumsfest</strong>. Im Festsaal der Karlsburg und in den Museumsräumen&nbsp;finden Aktionen und Führungen für kleine und große Besucherinnen und Besucher statt. Auf dem Programm stehen Rundgänge durch die Dauerausstellung und die Sonderausstellung „Als die Karlsburg Kaserne war. Das Badische Train-Bataillon Nr. 14 in Durlach“.&nbsp;</p>
@@ -78,7 +92,7 @@
         <title type="html"><![CDATA[Karlsruhe setzt Maßstäbe bei Pflegequalität und Artenvielfalt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-setzt-massstaebe-bei-pflegequalitaet-und-artenvielfalt</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-setzt-massstaebe-bei-pflegequalitaet-und-artenvielfalt"/>
-        <updated>2026-04-17T00:00:04.000Z</updated>
+        <updated>2026-04-17T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Das Karlsruher Gartenbauamt möchte die naturnahe Mahd verbessern, um die Akzeptanz in der Bevölkerung zu stärken.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Das Gartenbauamt führt ab diesem Jahr einen neuen Lehrgang ein, mit dem <strong>Mitarbeitende von Landschaftspflegefirmen</strong> sowie des Gartenbauamts gezielt und <strong>praxisnah in der naturnahen Mahd</strong> geschult werden.&nbsp;Mit der Einführung dieses Qualifizierungsangebots verfolgt das Gartenbauamt das Ziel, die <strong>Pflegequalität deutlich zu erhöhen und zugleich die Akzeptanz in der Bevölkerung zu stärke</strong>n. So soll die Zahl der&nbsp;Rückmeldungen und Reklamationen aus der Bürgerschaft reduziert werden.&nbsp;Die naturnahe Mahd leistet einen wichtigen Beitrag zur Förderung der Biodiversität und zu einem insektenfreundlichen, zukunftsorientierten Grünflächenmanagement in Karlsruhe.</p>
@@ -94,7 +108,7 @@
         <title type="html"><![CDATA[„Erfolgreich implementiert“]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erfolgreich-implementiert</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erfolgreich-implementiert"/>
-        <updated>2026-04-17T00:00:05.000Z</updated>
+        <updated>2026-04-17T00:00:06.000Z</updated>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Wie können Städte und Gemeinden schneller zu dringend benötigtem Wohnraum kommen? Diese Frage treibt auch die Verwaltung in der Fächerstadt um. Eine Antwort darauf bietet nach Einschätzung von Bürgermeister Daniel Fluhrer das Gesetz zur Beschleunigung des Wohnungsbaus und zur Wohnraumsicherung, kurz „Bauturbo“, genannt.</p>
 <p>Nachdem der Bundestag im Herbst 2025 die rechtlichen Voraussetzungen geschaffen hatte, läuft nun seit Januar die Pilotphase – und das mit „sehr erfreulicher Entwicklung“, wie Fluhrer bei einem Pressegespräch bilanzierte: „Karlsruhe hat den Bauturbo erfolgreich implementiert“.</p>
@@ -110,7 +124,7 @@
         <title type="html"><![CDATA[Schädlingsbekämpfer stehen in den Startlöchern]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-a1fbb95ea1e7649fb7f7d05e5eb5ab38</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-a1fbb95ea1e7649fb7f7d05e5eb5ab38"/>
-        <updated>2026-04-17T00:00:06.000Z</updated>
+        <updated>2026-04-17T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Die Stadt geht gegen invasive Arten vor. Zur Bekämpfung der Ameise "Tapinoma Magnum" kommt bald Heißwasserdampf zum Einsatz.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Karlsruhe hat invasiven Arten den Kampf angesagt: Mit einem neu eingestellten Schädlingsbekämpfer und einem weiteren Kollegen rückt die Stadt den Ameisenarten „Tapinoma magnum“ und „Lasius neglectus“ zu Leibe. Bei einem Pressegespräch wurde nun das geplante Vorgehen erläutert.</p>
@@ -125,7 +139,7 @@
         <title type="html"><![CDATA[Quartiersbudgets schließen an erfolgreiches Förderprojekt „City Transformation“ an]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/quartiersbudgets-schliessen-an-erfolgreiches-foerderprojekt-city-transformation-an</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/quartiersbudgets-schliessen-an-erfolgreiches-foerderprojekt-city-transformation-an"/>
-        <updated>2026-04-16T00:00:07.000Z</updated>
+        <updated>2026-04-16T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Zum "Fest der Sinne" am 25. und 26. April wird es viele Aktionen gefördert durch Quartiersbudgets geben.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Karlsruher Innenstadt ist lebendig und bunt – und das nicht zuletzt dank des Engagements der Gewerbetreibenden in der City, die mit vielen kleinen und großen Aktionen immer wieder für frischen Wind in den Quartieren rund um die Kaiserstraße sorgen. Zur Unterstützung hat die <strong>Stadt Karlsruhe</strong> gemeinsam mit der <strong>"Karlsruhe Marketing und Event Gesellschaft"</strong> und der <strong>"City Initiative Karlsruhe" Quartiersbudgets</strong> ins Leben gerufen, die anschließend an das erfolgreiche Förderprojekt „City Transformation“ die Weiterentwicklung und Belebung der Karlsruher Innenstadt unterstützen.</p>
@@ -138,19 +152,6 @@
 <p>Die Mittel werden von der Stadt Karlsruhe, der "Karlsruhe Marketing und Event Gesellschaft" und der "City Initiative Karlsruhe" finanziert. 2026 stehen insgesamt 150.000 EUR für Projekte zur Verfügung, hinzukommen 15.000 EUR Eigenanteil der jeweiligen Antragsstellenden. Die Vergabe der Gelder erfolgt in regelmäßigen Abständen durch die jeweiligen Quartiersgremien, die paritätisch mit Vertreterinnen und Vertretern der Akteure im Quartier und der Stadt besetzt sind.</p>
 <p>Alle relevanten Informationen für Antragsstellerinnen und Antragssteller sind online abrufbar auf <a href="https://www.karlsruhe.de/mobilitaet-stadtbild/stadtentwicklung/innenstadtmanagement" title="Link zur Seite" target="_blank">karlsruhe.de</a>.</p>
 
-                                    </div></div>]]></content>
-        <published>2026-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ortschaftsratssitzung in Hohenwettersbach]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsratssitzung-in-hohenwettersbach</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsratssitzung-in-hohenwettersbach"/>
-        <updated>2026-04-16T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Der Ortschaftsrat Hohenwettersbach kommt unter der Leitung von Ortsvorsteherin Elke Ernemann zu seiner nächsten Sitzung am Mittwoch, 22. April, um 19 Uhr, zusammen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Der <strong>Ortschaftsrat Hohenwettersbach</strong> kommt unter der Leitung von <strong>Ortsvorsteherin Elke Ernemann</strong> zu seiner nächsten Sitzung am <strong>Mittwoch, 22. April, um 19 Uhr</strong>, zusammen. Im <strong>Bürgersaal des Rathauses, Kirchplatz 4</strong>, beraten die Stadtteilvertreterinnen und Stadtteilvertreter unter anderem über folgende Tagesordnungspunkte:</p>
-<p>Es geht um den Schulbusverkehr in dem Karlsruher Bergdorf wie auch die Ehrung der Hohenwettersbacher Blutspender.</p>
-<p>Die <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10767" title="Link zur Seite" target="_blank" rel="noreferrer">komplette Tagesordnung</a> und ihre Unterlagen sind im Ratsinformationssystem hinterlegt.</p>
                                     </div></div>]]></content>
         <published>2026-04-16T00:00:00.000Z</published>
     </entry>
