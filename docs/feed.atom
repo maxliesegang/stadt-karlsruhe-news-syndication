@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-04-29T10:10:30.873Z</updated>
+    <updated>2026-04-29T14:11:00.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,10 +13,27 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Neu in Karlsruhe: Neobiota]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neu-in-karlsruhe-neobiota</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neu-in-karlsruhe-neobiota"/>
+        <updated>2026-04-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eingewanderte Pflanzen beeinflussen die heimische Flora. Bürgerinnen und Bürger können zum Naturschutz beitragen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Um die Ausbreitung von nicht heimischen Pflanzen&nbsp;– sogenannten Neophyten&nbsp;– zu verhindern, ist die Verwaltung auf die Mithilfe der Bürgerinnen und Bürger angewiesen.</p>
+<p>Als Neophyten werden Pflanzen bezeichnet, die in einem Gebiet ursprünglich nicht heimisch waren, sondern eingewandert sind oder eingeschleppt wurden.&nbsp;Einige Neophyten wirken stark verdrängend auf andere Arten&nbsp;und können deshalb als Problempflanzen angesehen werden.</p>
+<p>In Karlsruhe sind an erster Stelle die aus Nordamerika stammende Späte Traubenkirsche und Robinie sowie der aus China stammende Götterbaum zu nennen.<br> Bereits stark ausgebreitet haben sich unter anderem Kirschlorbeer, die Kanadische Goldrute, das Indische Springkraut und der Japanische Staudenknöterich.</p>
+<p>Obwohl die meisten Arten nicht mehr aktiv gepflanzt werden, breiten sie sich invasiv aus und führen zu starken Veränderungen und Beeinträchtigungen heimischer Lebensräume und der biologischen Vielfalt. Einige dieser Arten, wie beispielsweise das Indische Springkraut und der Götterbaum stehen auf der europäischen Unionsliste der invasiven Arten, die eine Anpflanzung untersagt.</p>
+<p>Die Ausbreitung erfolgt häufig durch die Ablagerungen von Grünschnitt und Gartenabraum oder mit Pflanzteilen kontaminiertem Boden in der freien Natur. Viele dieser invasiven Pflanzen können nämlich weiterwachsen, nachdem sie ausgerissen und entsorgt worden sind. Bei einigen Arten reicht ein kleines Pflanzenstück, um eine neue Population zu begründen. Grünschnitt enthält auch häufig Samen, aus denen die nächste Generation heranwachsen kann.&nbsp;</p>
+<p>Bürgerinnen und Bürger tragen daher zum Naturschutz bei, wenn sie ihre Gartenabfälle, Kompost und Grünschnitt in dafür vorgesehene Grünabfall-Container, Laubsacksammlungen, Kompostierungsanlagen oder in der Restmülltonne entsorgen. Hierbei gilt es zu beachten, dass eine normale Kompostierung im Garten für die meisten invasiven Neophyten nicht ausreichend ist. Nur bei einer ausreichenden Hitzeentwicklung von 55 Grad, die in vielen betrieblichen Kompostieranlagen vorherrscht, werden die Samen und Pflanzenteile abgetötet und können sich nicht weiter ausbreiten.&nbsp;</p>
+<p>Bei Fragen berät der Umwelt- und Arbeitsschutz gerne. Weitere Informationen bietet die Homepage des <a href="http://www.karlsruhe.de/umwelt-klima/naturschutz/artenschutz" title="Link zur Seite" target="_blank">Umwelt- und Arbeitsschutzes</a>.&nbsp;</p>
+                                    </div></div>]]></content>
+        <published>2026-04-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zwei Ortschaftsräte tagen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwei-ortschaftsraete-am-6-mai</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwei-ortschaftsraete-am-6-mai"/>
-        <updated>2026-04-29T00:00:00.000Z</updated>
+        <updated>2026-04-29T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[Die Ortschaftsräte von Durlach und Grötzingen kommen am 6. Mai 2026 zu öffentlichen Sitzungen zusammen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am <strong>Mittwoch, 6. Mai 2026</strong>, kommen in Durlach und Grötzingen die <strong>Ortschaftsräte</strong> zusammen. Unter Vorsitz von <strong>Ortsvorsteherin Alexandra Ries</strong> treffen sich an diesem Tag <strong>um 17 Uhr</strong> die Ortschaftsräte im <strong>Bürgersaal des Durlacher Rathauses</strong>. Dort geht es unter anderem laut <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10717" title="Link zur Seite" target="_blank" rel="noreferrer">Tagesordnung</a> um das Baugebiet "Oberer Säuterich" sowie die Ehrung der örtlichen Blutspenderinnen und Blutspender.&nbsp;</p>
@@ -28,7 +45,7 @@
         <title type="html"><![CDATA[Michelin-Areal bleibt weiterhin Industriefläche]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/michelin-areal-bleibt-weiterhin-industrieflaeche</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/michelin-areal-bleibt-weiterhin-industrieflaeche"/>
-        <updated>2026-04-29T00:00:01.000Z</updated>
+        <updated>2026-04-29T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Die Firma Michelin und die Stadt Karlsruhe stellen gemeinsam die Weichen für die künftige Nutzung des Areals im Stadtteil Grünwinkel. Nach dem Ende der Reifenproduktion ist hier weiterhin eine industrielle Nutzung geplant.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>In den vergangenen Monaten haben die Stadt Karlsruhe und die Firma&nbsp;Michelin Reifenwerke AG &amp; Co. KGaA auf Basis einer gemeinsamen Kooperationsvereinbarung verschiedene Szenarien für die Nachnutzung des rund 126.000 Quadratmeter großen Industrieareals im Westen der Stadt in enger Zusammenarbeit intensiv geprüft. Im Mittelpunkt stand dabei zum einen das Ziel, die vorhandene Flächeninfrastruktur sinnvoll weiterzuentwickeln, neue Impulse für produzierende Unternehmen zu setzen und den Wirtschaftsstandort Karlsruhe langfristig zu stärken. Zum anderen war das Bestreben die Revitalisierung in einer gemeinsamen Gesellschaft zu forcieren. Das Ergebnis hat gezeigt, dass eine zukunftsweisende Standortentwicklung durch einen Investor am besten abgebildet wird.</p>
@@ -45,7 +62,7 @@
         <title type="html"><![CDATA[OB Mentrup sendet Dank zur Verabschiedung von Ministerpräsident Winfried Kretschmann]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-mentrup-zur-verabschiedung-von-winfried-kretschmann</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-mentrup-zur-verabschiedung-von-winfried-kretschmann"/>
-        <updated>2026-04-29T00:00:02.000Z</updated>
+        <updated>2026-04-29T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Mit Kretschmanns Abschied ende eine prägende Ära der Landespolitik, meint OB Mentrup. Karlsruhes Rolle als "Residenz des Rechts" habe er hervorgehoben und gestärkt und die Stadt als starken Partner wahrgenommen und gefördert.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Anlässlich der Verabschiedung von Winfried Kretschmann aus dem Amt des Ministerpräsidenten von Baden-Württemberg spricht Oberbürgermeister Dr. Frank Mentrup im Namen der Stadt Karlsruhe und ihres Gemeinderates wie auch persönlich seinen aufrichtigen wie herzlichen Dank und seine hohe Anerkennung für Kretschmanns langjähriges Wirken zum Wohle Baden-Württembergs und seiner Menschen aus.</p>
@@ -63,7 +80,7 @@
         <title type="html"><![CDATA[Ausschuss für Umwelt und Gesundheit tagt öffentlich]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-umwelt-und-gesundheit-tagt-oeffentlich-3</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-umwelt-und-gesundheit-tagt-oeffentlich-3"/>
-        <updated>2026-04-29T00:00:03.000Z</updated>
+        <updated>2026-04-29T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Auf der Tagesordnung der Sitzung am 8. Mai 2026 steht unter anderem das Stadtbaumkonzept der Stadt Karlsruhe.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der <strong>Ausschuss für Umwelt und Gesundheit</strong> kommt mit dem Naturschutzbeirat unter der Leitung von Erste Bürgermeisterin Bettina Lisbach zu seiner nächsten öffentlichen Sitzung am <strong>Freitag, 8. Mai 2026, um 16:30 Uhr</strong>, zusammen. Auf der Tagesordnung steht unter anderem das Stadtbaumkonzept der Stadt Karlsruhe sowie die Umstellung des städtischen Fuhrparks auf alternative und emissionsfreie Antriebe.</p>
@@ -75,7 +92,7 @@
         <title type="html"><![CDATA[Haupt- und Finanzausschuss tagt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/haupt-und-finanzausschuss-tagt-4</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/haupt-und-finanzausschuss-tagt-4"/>
-        <updated>2026-04-29T00:00:04.000Z</updated>
+        <updated>2026-04-29T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Am 5. Mai 2026 kommt der Haupt- und Finanzausschuss im Bürgersaal des Rathauses am Marktplatz zusammen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am <strong>Dienstag, 5. Mai 2026, um 16:30 Uhr</strong> tagt der <strong>Haupt- und Finanzausschuss</strong> im Bürgersaal des Rathauses am Marktplatz. Das Gremium berät über die Vergabe freigestellter Schülerverkehre im Rahmen der Inklusion an 17 Karlsruher Schulen für das Schuljahr 2026/2027 sowie über die Annahme des Angebots von Zuwendungen.</p>
@@ -88,7 +105,7 @@
         <title type="html"><![CDATA[Glasfaserausbau: OB Mentrup bittet um Öffnung des Förderprogramms für Großstädte]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/glasfaserausbau-ob-mentrup-bittet-um-oeffnung-des-foerderprogramms-fuer-grossstaedte</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/glasfaserausbau-ob-mentrup-bittet-um-oeffnung-des-foerderprogramms-fuer-grossstaedte"/>
-        <updated>2026-04-29T00:00:05.000Z</updated>
+        <updated>2026-04-29T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Mentrup wendet sich in einem Schreiben an Bundesminister für Digitales und Staatsmodernisierung, Dr. Karsten Wildberger.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Versorgung mit Glasfaser ist für Unternehmen sowie für Bürgerinnen und Bürger Karlsruhes ein wesentlicher Standortfaktor.</p>
@@ -99,47 +116,170 @@
         <published>2026-04-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Macht auf die Tür!]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/macht-auf-die-tuer</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/macht-auf-die-tuer"/>
-        <updated>2026-04-28T00:00:06.000Z</updated>
-        <summary type="html"><![CDATA[„Türen auf für Studierende“ lautet das Motto der diesjährigen Wohnraumkampagne. In der Innenstadt laden sechs große Türen zum Aufmachen ein.]]></summary>
+        <title type="html"><![CDATA[Planungsausschuss tagt in öffentlicher Sitzung]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungsausschuss-tagt-in-oeffentlicher-sitzung</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungsausschuss-tagt-in-oeffentlicher-sitzung"/>
+        <updated>2026-04-29T00:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Am 7. Mai 2026 tritt der Planungsausschuss des Karlsruher Gemeinderats zur öffentlichen Sitzung im Bürgersaal zusammen. Das Gremium berät über drei Anträge.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>„Türen auf für Studierende“ lautet das Motto der diesjährigen Wohnraumkampagne „Dach gesucht“, die sich zum Ziel setzt, Studierenden in Karlsruhe ein Zimmer zu vermitteln. Aufmerksam darauf machen seit 28. April in der Kaiserstraße zwischen Marktplatz und Ritterstraße sechs große Türen, die für zwei Wochen zum Aufmachen einladen. „Zimmer frei? Einfach anrufen! 0721 6909192“ steht dahinter.</p>
-<p>Dieser „Impuls motiviert potenzielle Vermieter“, so Bürgermeisterin Gabriele Luczak-Schwarz zum Ziel der Kampagne – nämlich Eigentümerinnen und Eigentümern von ungenutztem Wohnraum zu bewegen, Studierenden ein Zuhause zu bieten – „sei es ein frei gewordenes Zimmer, ein umgebauter Dachboden oder auch ein Kellerraum“, so Luczak-Schwarz weiter.</p>
-<p>Zusätzlich macht die Kampagne auf alternative Modelle, wie etwa „Wohnen für Hilfe“, aufmerksam. Die Idee: Studierende helfen im Haushalt oder im Garten, sind Gesprächspartner und unterstützen im Alltag. Im Gegenzug dürfen sie beim Anbieter wohnen. „Dies ist eine tolle Symbiose: Statt Miete Unterstützung“, meinte Luczak-Schwarz zu dem Modell, dass das Miteinander zwischen Generationen und Kulturen zu fördere.</p>
-<p>Wie wichtig die Kampagne ist, zeigte Michael Postert, Geschäftsführer des Studierendenwerks, auf. So böten sie in Pforzheim und Karlsruhe derzeit etwa 2.700 Wohnungen an. Trotzdem: „Über 2.000 stehen auf der Warteliste.“ Jede offene Tür könne ein neues Zuhause werden und sei eine Chance für &nbsp;Studierende, gab Postert zu bedenken.</p>
-<p>Karlsruhe hat etwa 40.000 Studierende. Seit 2012 macht die Kampagne „Dach gesucht“ mit Aktionen im öffentlichen Raum auf die studentische Wohnraumsituation aufmerksam. Beteiligt sind das Wissenschaftsbüro der städtischen Wirtschaftsförderung, das Studierendenwerk sowie die Paritätischen Sozialdienste. Das Projekt wird auch vom &nbsp;baden-württembergischen Wirtschaftsministerium unterstützt. -has-</p>
-<p>Weitere Informationen auf&nbsp;<a href="http://www.dachgesucht.de/" target="_blank" rel="noreferrer">www.dachgesucht.de</a>.</p>
-
+                                        <p>Am <strong>Donnerstag, 7. Mai 2026</strong>, tritt der Planungsausschuss des Karlsruher Gemeinderats zur öffentlichen Sitzung im <strong>Bürgersaal </strong>des Rathauses am Marktplatz zusammen.</p>
+<p>Das Gremium berät ab <strong>16:30 Uhr</strong> über drei Anträge der Ratsfraktionen. Zwei davon widmen sich Themen der Verkehrssicherheit, der dritte der Umwandlung des Seitenstreifens auf der Bundesautobahn 5 zwischen Karlsruhe-Durlach und Karlsruhe-Nord.</p>
+<p>Die Unterlagen zur Sitzung sind im <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10518" title="Link zur Seite" target="_blank" rel="noreferrer">Sitzungskalender</a> hinterlegt.</p>
                                     </div></div>]]></content>
-        <published>2026-04-28T00:00:00.000Z</published>
+        <published>2026-04-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zum Schutz der Igel: Mähroboter nachts nicht fahren lassen]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zum-schutz-der-igel-maehroboter-nachts-nicht-fahren-lassen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zum-schutz-der-igel-maehroboter-nachts-nicht-fahren-lassen"/>
-        <updated>2026-04-28T00:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Mähroboter stellen eine erhebliche Gefahr für nachtaktive Kleintiere dar.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Ab dem Frühjahr mähen viele Bürgerinnen und Bürger wieder regelmäßig ihren Rasen. Ziel ist ein gleichmäßiges und gepflegtes Grün. Hierbei kommen sehr oft Rasenmähroboter zum Einsatz. Mähroboter, die nachts in Betrieb sind, stellen eine erhebliche Gefahr für nachtaktive Kleintiere, insbesondere für den Igel, dar. Diese Tiere nehmen die sich langsam bewegenden Mähroboter nicht als Bedrohung wahr und werden bei einer Kollision häufig schwer verletzt oder sogar getötet. Igel sind eine geschützte Art und spielen eine wichtige Rolle im Ökosystem. Ihr Bestand ist in den letzten Jahren stark zurückgegangen, unter anderem aufgrund der Gefahren in menschlichen Siedlungsgebieten.</p>
-<p>Eine nächtliche Außerbetriebnahme von Mährobotern ist eine einfache und effektive Maßnahme, um unnötige Verletzungen und Tötungen von Igeln und anderen nachtaktiven Kleintieren wie Amphibien zu verhindern. Das Aussetzen des Mähroboter kann sich dabei an den Hauptaktivitätszeiten des Igels orientieren. Diese sind die Dämmerungs- und Nachtzeit in der Zeit von einer halben Stunde vor Sonnenuntergang bis eine halbe Stunde nach Sonnenaufgang in den Monate März bis November.</p>
-<p>Als Kulturfolger finden Igel in Grün- und Parkanlagen sowie auf Friedhöfen geeignete Ersatzlebensräume, so dass die Bestände in den städtischen Bereichen zum Teil die in der freien Landschaft übertreffen. Insbesondere Städte mit großen innerstädtischen Grünflächen wie Karlsruhe stellen daher ein wichtiges Refugium für diese Art dar und tragen somit eine besondere Verantwortung für ihren Schutz.&nbsp;</p>
-<p>Der Umwelt und Artenschutz der Stadt Karlsruhe informiert auf seiner <a href="https://www.karlsruhe.de/umwelt-klima/naturschutz/artenschutz" target="_blank">Homepage</a> über weitere einfache Mittel zum Erhalt der biologischen Vielfalt vor der eigenen Haustür. Außerdem berät der städtische Umwelt- und Arbeitsschutz auch gerne per <a href="#" title="Link zur Seite" target="_blank" data-mailto-token="drzckf1ldnvck4risvzkjjtylkqRbricjilyv5uv" data-mailto-vector="-9">E-Mail</a>.</p>
+        <title type="html"><![CDATA[Vorerst Weiterbetrieb für das "Rappele"]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinderat-stimmt-betriebskonzept-fuer-rappele-zu</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinderat-stimmt-betriebskonzept-fuer-rappele-zu"/>
+        <updated>2026-04-29T00:00:08.000Z</updated>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
+    <!-- SKIP NAVIGATION -->
+    <!--TYPO3SEARCH_end-->
+    <nav aria-label="Sprunglink"> <a href="#footer" title="Footer der Seite anspringen">Footer der Seite anspringen</a> </nav>
+    <!--TYPO3SEARCH_begin-->
+    
+    
 
-                                    </div></div>]]></content>
-        <published>2026-04-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seehund Gina im Zoo Karlsruhe gestorben]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/seehund-gina-im-zoo-karlsruhe-gestorben</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/seehund-gina-im-zoo-karlsruhe-gestorben"/>
-        <updated>2026-04-28T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Das Tier wurde aufgrund altersbedingter Beschwerden erlöst. Es hat ein sehr hohes Alter erreicht.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Im Zoo Karlsruhe ist der weibliche Seehund Gina gestorben. Sie wurde am 13. Juli 1992 im Tierpark Bern in der Schweiz geboren und lebte seit dem 3. November 1993 in Karlsruhe. Mit einem Alter von 33 Jahren zählte sie zu den ältesten Seehunden im europäischen Zoobestand. Die Lebenserwartung von Seehunden liegt in der Regel bei etwa 30 bis 35 Jahren.</p>
-<div><p>In den vergangenen Wochen hatte sich der Zustand des Tieres zunehmend verschlechtert. Gina stand unter enger Beobachtung des Tierpflege-Teams sowie der Zootierärzte. Ihr Allgemeinzustand baute sichtbar ab, auch das Sehvermögen ließ deutlich nach. Zuletzt kam sie kaum noch aus dem Wasser und nahm seit einigen Tagen nahezu keine Nahrung mehr auf. Nach sorgfältiger Abwägung wurde das Tier von den Veterinären erlöst.</p><p>  „Wenn solche Charaktertiere sterben, ist es immer ein trauriger Moment. Viele Generationen von Zoogästen haben sie kennenlernen dürfen. Es ist aber auch sehr schön, dass sie ein solch hohes Alter erreichen durfte“, sagt Zoodirektor Dr. Matthias Reinschmidt. Der Körper wird nun im Rahmen der üblichen veterinärmedizinischen Routine in der Pathologie untersucht, um weitere Erkenntnisse über den Zustand des Tieres zu gewinnen.<br> „Mit dem Tod von Gina endet eine jahrzehntelange Tradition der Seehundhaltung im Zoo Karlsruhe. Wir werden mittelfristig den Bereich etwas umbauen und ihn den Seelöwen zusätzlich zur Verfügung stellen. Damit werden diese mehr Platz bekommen“, erläutert Reinschmidt.</p></div>
-                                    </div></div>]]></content>
-        <published>2026-04-28T00:00:00.000Z</published>
+
+        
+                <div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
+                        <!-- date -->
+                        <div>
+
+                                <p><time itemprop="datePublished" datetime="2026-04-29">
+                                        vor 7 Stunden
+                                    </time>
+                                </p>
+
+                                
+
+                                
+                                
+                                
+                                    <h2>
+                                        Gemeinderat folgt Vorschlag der Verwaltung: Halbseitige Öffnung des Rheinstrandbads ab Pfingstferien
+                                    </h2>
+                                
+                            </div>
+
+                        <div>
+                                
+                                
+                                        <div>
+                                            
+                                                
+                                                    
+                                                        
+
+
+<img alt="Der Erlebnisbereich des Rheinstrandbads Rappenwört, vom Rutschenturm aus gesehen." title="Rheinstrandbad Rappenwört" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/c/e/csm_rheinstrandbad_rappenwoert-1777451192_1e15cc4210.jpeg">
+
+        
+    
+
+        
+            
+        
+    
+
+                                                    
+                                                    
+                                                    
+                                                
+                                            
+                                        </div>
+                                    
+
+                                
+                                
+                                    <p>Viele Freunde des "Rappele" können vorerst aufatmen: Das Freibad im Karlsruher Westen wird zunächst nicht, wie noch im Zuge der Haushaltsberatungen vorgeschlagen, für zwei Jahre schließen. Bürgerschaftliches Engagement und die Gründung des&nbsp;Fördervereins Rheinstrandbad&nbsp;Rappenwört e.V. veranlasste Verwaltung und Bäderbetriebe dazu, sich das Betriebskonzept anzusehen und verschiedene Varianten zu prüfen, wie das Rheinstrandbad doch für Badegäste zugänglich bleiben kann. Die nun vom Gemeinderat einstimmig beschlossene Variante sieht vor, dass Erlebnisbecken, Sprungturmbecken und Wellenbecken im südlichen Bereich durch die Bäderbetriebe bewirtschaftet werden und im Zeitraum von Pfingsten bis Ende August, donnerstags bis sonntags von 10 bis 20 Uhr öffnen. Kinderplanschbecken und Mehrzweckbecken werden durch einen Zaun abgetrennt und bleiben vorerst geschlossen.</p>
+                                
+
+                                
+                                
+                                    
+                                        <div>
+                                            
+
+        
+    
+        
+        
+                <div>
+                                <a aria-label="Bild in Lightbox öffnen" data-fancybox="images202807" rel="gallery202807" href="https://www.karlsruhe.de/fileadmin/_processed_/7/c/rheinstrandbad-img_2960-jpg-1777458031_223985_7759d23557.jpeg" data-caption="Der nördliche Teil mit Mehrzweckbecken und Kleinkindbereich (hier links in einer Luftaufnahme aus dem Jahr 2015) wird durch einen bereits bestehenden Zaun abgesperrt, der Erlebnisbereich mit Rutschen und Wellenbecken bleibt für die Badegäste geöffnet. © Stadt Karlsruhe, Roland Fränkle">
+                                    
+
+
+
+
+
+<img alt="Luftaufnahme des Rheinstrandbad" title="Rheinstrandbad-IMG_2960.JPG" src="https://www.karlsruhe.de/fileadmin/_processed_/7/c/csm_rheinstrandbad-img_2960-jpg-1777458031_63d1b1ed52.jpeg">
+
+                                </a>
+                                
+                                    
+                                
+                            </div>
+            
+    
+
+    
+
+
+
+
+
+
+
+
+<div id="c202806">
+        
+        <p>Der nördliche Bereich des Rheinstrandbads, so der Vorschlag, steht künftig unter der Ägide des Fördervereins. Da dieser noch recht jung sei und die finanziellen sowie personellen Ressourcen in der kurzen Zeit nicht akquieren könne, "muss sich noch vieles entwickeln", führte Bürgermeisterin Yvette Melchien in der Gemeinderatssitzung aus, "aber: Wir sind sehr froh und dankbar für das Engagement und die angekündigte Unterstützung".&nbsp;</p>
+<p>Einer ursprünglich avisierten Einsparsumme von rund 900.000 Euro durch die vollständige Schließung des Rheinstrandbads für zwei Jahre steht nun ein Finanzierungsdelta von rund 250.000 Euro gegenüber – eine Lücke, die durch eine Umschichtung innerhalb der bestehenden Zuschüsse erfolgen soll: Die beiden Gesellschaften Europabad und Fächerbad erhalten jeweils rund 126.430 Euro weniger Verlustausgleich, um die Mehraufwendungen zu decken. Falls deren operative Ergebnisse 2026 dafür nicht ausreichen, kann der Fehlbetrag einmalig über das Eigenkapital der Gesellschaften ausgeglichen werden.</p>
+<h4>"Bei Einsparkurs auch eine der besten Bäderlandschaften nicht außen vor lassen"</h4>
+<p>In den Reihen der Stadträtinnen und Stadträte stieß das vorgeschlagene Konzept auf Wohlwollen: Alle hoben die besondere Aufenthaltsqualität des "Rappele" hervor, die durch den Weiterbetrieb vorerst erhalten bleiben könne, auch wenn einige Fraktionen erklärten, sich mit der Entscheidung schwergetan zu haben. "Lässt es sich rechtfertigen, dass 250.000 Euro für Investitionen möglicherweise bei den anderen Bädern fehlen?", fragte etwa Verena Anlauf (Grüne). "Unser Rappele war eine Mammutaufgabe", erklärte Thomas Hock (FDP/FW) und dankte der Verwaltung für den Versuch, trotz Sparkurs eine Lösung zu finden. Auch Mathias Tröndle ließ für die SPD ähnliches verlauten: Seine Fraktion setze mit dem Votum für den Verwaltungsvorschlag ein "Zeichen der Anerkennung", der Stadtrat betonte jedoch auch: "Wir können, dürfen und wollen beim Einsparkurs auch eine der besten Bäderlandschaften nicht außen vor lassen." Für eine übergreifende Schau wie etwa im Rahmen eines Bäderforums plädierte auch Detlef Hofmann. "Vielleicht müssen wir uns von dem ein oder anderen Bad verabschieden", sagte der Vorsitzende der CDU-Fraktion. "Das jetzt allein auf Rappenwört abzuwälzen, ist nicht fair."</p>
+<p>KAL-Stadträtin Sonja Döring hob die vielen positiven Wirkungen des Rheinstrandbads zur Abkühlung an heißen Tagen, Lernort für das Schwimmen und sichere Bewegen im Wasser sowie Ruhe und Aufenthalt in der Natur vor, die ihre Fraktion gegen den enormen Kostenfaktor abgewogen habe. Zustimmung gab es auch von Seiten der AfD, auch wenn Andreas Seidler den Zugriff auf den Verlustausgleich als eine im Rahmen der Haushaltskonsolidierung "schlechte Gewohnheit" kritisierte: "Jedoch ist es auch hier so: 'Not kennt kein Gebot'", erklärte der Stadtrat.</p>
+<h4>Sorge vor Überforderung des Ehrenamts</h4>
+<p>Das Engagement des Fördervereins erntete fraktionsübergreifend viel Lob, schließlich gebe es auch in Karlsruhe positive Beispiele – wenngleich ein "Rappele" nicht etwa mit dem "Wölfle", dem Freibad in Wolfartsweier, vergleichbar sei, wie Oberbürgermeister Dr. Frank Mentrup abschließend zu bedenken gab. Jedoch hatten die Mitglieder des Gemeinderats auch Sorgen: FÜR-Stadtrat Friedemann Kalmbach drängte auf eine langfristig tragfähige Lösung, "unser größtes Schwimmbad auf die Schultern von Ehrenamtlichen zu laden, ist eine Überforderung". Dass man die Ehrenamtlichen gegebenenfalls "bitter enttäuschen" müsse, falls 2027 die Gelder für den finanziellen Ausgleich fehlen, befürchtete Verena Anlauf. Fabian Gaukel (Volt) blieb hingegen optimistisch: Der Förderverein habe nun Zeit, sich zu beweisen und eine Entscheidung könne nach der "Testsaison" getroffen werden. AfD-Stadtrat Oliver Schnell nutzte die öffentliche Bühne des Gemeinderats für einen Appell an die Bevölkerung, ein klares Zeichen für das Rheinstrandbad zu setzen und es im Sommer rege zu besuchen.</p>
+    </div>
+
+
+
+
+        
+    <div id="c202785">
+                        <p>Dies ist ein Beitrag der<strong>&nbsp;StadtZeitung</strong>, die auch in gedruckter Form erscheint. Alle Ausgaben des <a href="http://www.bnn.de/epaper-stadtzeitung" title="Link zur Seite" target="_blank" rel="noreferrer">ePapers</a>&nbsp;sind digital verfügbar.</p>
+<p>Mehr zu städtischen Themen und den Aktivitäten der Stadtverwaltung Karlsruhe unter <a href="http://www.karlsruhe.de/stadtzeitung" title="Link zur Seite" target="_blank">www.karlsruhe.de/stadtzeitung</a>.</p>
+                    </div>
+
+    
+
+
+
+
+
+                                        </div>
+                                    
+                                
+
+                                
+                                    
+                                    
+                                        
+    
+
+
+                                    
+                                
+                            </div>
+                    </div>
+            
+    
+
+
+
+</div></div>]]></content>
+        <published>2026-04-29T00:00:00.000Z</published>
     </entry>
 </feed>
