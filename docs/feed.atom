@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-05-20T10:56:20.092Z</updated>
+    <updated>2026-05-20T15:35:19.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -49,7 +49,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-05-20">
-                                        gerade eben
+                                        vor 6 Stunden
                                     </time>
                                 </p>
 
@@ -138,7 +138,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-05-20">
-                                        vor 3 Stunden
+                                        vor 8 Stunden
                                     </time>
                                 </p>
 
@@ -300,7 +300,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-05-19">
-                                        gerade eben
+                                        Gestern
                                     </time>
                                 </p>
 
@@ -465,7 +465,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-05-18">
-                                        Gestern
+                                        Montag, 18. Mai 2026
                                     </time>
                                 </p>
 
