@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-05-22T14:48:28.893Z</updated>
+    <updated>2026-05-22T17:56:56.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,10 +13,23 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Zwischen Grafiken und Malereien]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwischen-grafiken-und-malereien</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwischen-grafiken-und-malereien"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Seit dem 23. Mai sind im Kunstmuseum  drei neue Ausstellungen zu sehen: „Expressiv! Grafik von Dürer bis Schlichter“, „Update! Die Sammlung neu sichten“ sowie „Neue Deutsche Malerei“ von Werner-Stober-Preisträger Tino Zimmermann.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Seit dem 23. Mai sind im Kunstmuseum&nbsp; drei neue Ausstellungen zu sehen: „Expressiv! Grafik von Dürer bis Schlichter“ zeigt rund 250 Werke aus dem eigenen Archiv, von Dürer über Rembrandt bis Schlichter und Lüpertz. Dabei ist Material auf fünf Jahrhunderten zu sehen – der Fokus der Grafiken liegt auf menschlichen Emotionen. Die Ausstellung läuft bis zum 4. Oktober 2026. &nbsp;</p>
+<p>Im Rahmen der Sammlungsschau „Update! Die Sammlung neu sichten“ wird nun zum vierten Mal Material neu arrangiert. Dabei sind großformatige Tapisserien und Fotos ebenso wie filigrane Landschaftszeichnungen zu sehen – unter anderem von der diesjährigen art-Karlsruhe-Preisträgerin Shanee Roe, Karl Hubbuch, Gustav Kampmann oder Georg Baselitz. An einer „Wünsch dir was“-Wand können Besucherinnen und Besucher zudem noch nie ausgestellte Bilder aus der Sammlung des Kunstmuseums als Favoriten markieren. Das meistgewünschte Motiv soll künftig ausgestellt werden.</p>
+<p>Als dritte Ausstellung vermittelt der Werner-Stober-Preisträger Tino Zimmermann mit „Neue Deutsche Malerei“ eine umlaufende Erzählung aus großen Wandbildern. Aus der Perspektive eines Hofnarren soll dort das politische Zeitgeschehen kommentiert werden, mit stark kontrastierenden Farben. -nke-</p>
+                                    </div></div>]]></content>
+        <published>2026-05-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mitarbeitende des Gartenbauamts fördern biologische Vielfalt in Karlsruhe]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mitarbeitende-des-gartenbauamts-foerdern-biologische-vielfalt-in-karlsruhe</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mitarbeitende-des-gartenbauamts-foerdern-biologische-vielfalt-in-karlsruhe"/>
-        <updated>2026-05-22T00:00:00.000Z</updated>
+        <updated>2026-05-22T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[Zum internationalen Tag der biologischen Vielfalt am 22. Mai ruft die Stadt Bürgerinnen und Bürger zum Mitmachen auf. Jede Person kann einen Beitrag zu Artenreichtum leisten.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Zum internationalen Tag der biologischen Vielfalt am 22. Mai, der im Jahr 2000 von den Vereinten Nationen eingeführt wurde, macht die Stadt Karlsruhe darauf aufmerksam, dass naturnahe Grünflächen für Mensch, Klima und Artenvielfalt wichtig sind. Bürgerinnen und Bürger können selbst aktiv werden.</p>
@@ -32,7 +45,7 @@
         <title type="html"><![CDATA[Lesung zum Internationalen Tag der Leichten Sprache]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-zum-internationalen-tag-der-leichten-sprache</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-zum-internationalen-tag-der-leichten-sprache"/>
-        <updated>2026-05-21T00:00:01.000Z</updated>
+        <updated>2026-05-21T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Am 28. Mai 2026 findet eine Lesung in Leichter und Einfacher Sprache in der Stadtbibliothek statt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Anlässlich des Internationalen Tages der Leichten Sprache am 28. Mai 2026 veranstaltet das Netzwerk Leichte Sprache Karlsruhe eine Lesung in Leichter und Einfacher Sprache.&nbsp;Die Lesung findet um 16 Uhr in der Zentralbibliothek Karlsruhe statt.&nbsp;Der Eintritt ist frei.</p>
@@ -48,7 +61,7 @@
         <title type="html"><![CDATA[Neuer Stadtplan für Karlsruhe]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neuer-stadtplan-fuer-karlsruhe</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neuer-stadtplan-fuer-karlsruhe"/>
-        <updated>2026-05-21T00:00:02.000Z</updated>
+        <updated>2026-05-21T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Das städtische Liegenschaftsamt hat den Stadtplan Karlsruhe in der zweiten Auflage aufgelegt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der amtliche Stadtplan des Liegenschaftsamtes der Stadt Karlsruhe ist neu gedruckt worden und in zweiter Auflage wieder im Buchhandel sowie bei der Stadtinformation erhältlich. Die erste Auflage war in kurzer Zeit ausverkauft.</p>
@@ -61,7 +74,7 @@
         <title type="html"><![CDATA[Stadt setzt beim Fuhrpark auf Elektrofahrzeuge]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-setzt-beim-fuhrpark-auf-elektrofahrzeuge</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-setzt-beim-fuhrpark-auf-elektrofahrzeuge"/>
-        <updated>2026-05-21T00:00:03.000Z</updated>
+        <updated>2026-05-21T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Im Ausschuss für Umwelt und Gesundheit wurde über die Umstellung des städtischen Fuhrparks auf emissionsfreie Antriebe gesprochen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>“Die Entwicklung derzeit ist sehr positiv”, hob Jan Laux bei der jüngsten Sitzung des Ausschusses für Umwelt und Gesundheit mit Blick auf die Elektrifizierung des städtischen Fuhrparks hervor. Laux ist zuständig für den Bereich Mobilität beim Team Sauberes Karlsruhe (TSK), das mit seinen Abfallsammel- und Winterdienstfahrzeugen einen Großteil des insgesamt 615 Fahrzeuge umfassenden städtischen Fahrparks stellt.</p>
@@ -75,7 +88,7 @@
         <title type="html"><![CDATA[Stadt Karlsruhe entwickelt Kulturkonzept 2035 weiter]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-karlsruhe-entwickelt-kulturkonzept-2035-weiter</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-karlsruhe-entwickelt-kulturkonzept-2035-weiter"/>
-        <updated>2026-05-20T00:00:04.000Z</updated>
+        <updated>2026-05-20T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Kulturakteure diskutieren im Anne-Frank-Haus die Zukunft der Karlsruher Kulturlandschaft.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Stadt Karlsruhe hat im Anne-Frank-Haus bei der zweiten Kulturwerkstatt die <strong>Weiterentwicklung des Kulturkonzepts 2035</strong>&nbsp;vorangebracht. Kulturbürgermeister Dr. Albert Käuflein hatte Kulturschaffende und Gemeinderatsmitglieder eingeladen, gemeinsam die künftige Ausrichtung der städtischen Kulturarbeit zu gestalten. Mit 118 Anmeldungen verzeichnete die Veranstaltung eine Rekordbeteiligung.&nbsp;Die Fertigstellung des Kulturkonzepts 2035 ist für das vierte Quartal 2026 geplant.</p>
@@ -91,7 +104,7 @@
         <title type="html"><![CDATA[Schadstoffannahmestelle Nordbeckenstraße geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-geschlossen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-geschlossen"/>
-        <updated>2026-05-20T00:00:05.000Z</updated>
+        <updated>2026-05-20T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Die Schadstoffannahmestelle Nordbeckenstraße ist am 26. Mai und 2. Juni 2026 geschlossen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -180,7 +193,7 @@
         <title type="html"><![CDATA[Ameisenbekämpfung in Neureut gestartet]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-696100e106da03ae8235508b44a9f69e</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-696100e106da03ae8235508b44a9f69e"/>
-        <updated>2026-05-20T00:00:06.000Z</updated>
+        <updated>2026-05-20T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Die organisierte Bekämpfung der großen Drüsenameise Tapinoma magnum hat im Karlsruher Stadtteil Neureut begonnen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -342,7 +355,7 @@
         <title type="html"><![CDATA[15 Jahre Behördennummer 115]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/15-jahre-behoerdennummer-115</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/15-jahre-behoerdennummer-115"/>
-        <updated>2026-05-19T00:00:07.000Z</updated>
+        <updated>2026-05-19T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Die Behördennummer 115 hat ihren 15. Geburtstag gefeiert – und Karlsruhe hat mitgefeiert. Die Stadtverwaltung nahm den Geburtstag auch zum Anlass, die Nummer der Rathauszentrale, die 133-0, zur Behördennummer 115 umzuziehen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -501,21 +514,6 @@
 
 
 </div></div>]]></content>
-        <published>2026-05-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stadtbaumkonzept im Auschuss für Umwelt- und Gesundheit vorgestellt]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sadtbaumkonzept-im-auschuss-fuer-umwelt-und-gesundheit-vorgestellt</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sadtbaumkonzept-im-auschuss-fuer-umwelt-und-gesundheit-vorgestellt"/>
-        <updated>2026-05-19T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[In der Mai-Sitzung des Ausschusses für Umwelt und Gesundheit haben die Mitglieder über das städtische Baumkonzept gesprochen und den Zustand der Karlsruher Bäume beleuchtet.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>In der Mai-Sitzung des Ausschusses für Umwelt und Gesundheit haben die Mitglieder über das städtische Baumkonzept gesprochen. Pascal Marin vom Gartenbauamt hat dabei erläutert, dass das Stadtbaumkonzept&nbsp;darlegt, wie in Zukunft mit Stadtbäumen und Stadtgrün umgegangen wird, wo der Fokus beim Baumschutz gelegt werden soll. Das vorrangige Ziel sei, den Baumbestand insgesamt mindestens auf einem konstanten Niveau zu erhalten. &nbsp;So sollen Bäume, die aufgrund von alters- oder klimabedingten Schäden gefällt werden müssen, vollständig nachgepflanzt werden.</p>
-<p>Um zu analysieren, wie es um den Baumbestand bestellt ist, nutzen Marin und seine Kollegen das städtische Baumkataster&nbsp;sowie Auswertungen von Satellitenbildern. Im Jahr 2025 zählte das Gartenbauamt 136.030 Bäume in seinem Bestand – nicht darunter fallen Bäume im Wald und auf privaten Grundstücken. Die absoluten Zahlen des Baumkatasters zeigten, so Marin, einen leichten Abwärtstrend beim städtischen Baumbestand in den letzten zehn Jahren. „Generell haben wir in den letzten Jahren mehr Fällungen als Pflanzungen in der Stadt vorgenommen. Wir haben ein Delta von über 4.000 Bäumen.“ 2024 wurden 1202 Bäume gefällt und 588 gepflanzt, im vergangenen Jahr standen 950 Fällungen 850 Pflanzungen gegenüber.</p>
-<p>Ein großer Teil der Bäume müsse klimawandelbedingt gefällt werden, fasste Erste Bürgermeisterin Bettina Lisbach zusammen. „Auch viele Baumaßnahmen spielen eine Rolle.“ Nicht nur die großen wie zum Beispiel Staatstheater oder Landratsamt. Auch viele kleinere Baumaßnahmen an Verkehrswegen bedingten Baumfällungen, etwa beim barrierefreien Ausbau von Haltestellen oder der Anlage von Radwegen. Erschwerend komme hinzu, dass nicht an jedem Ort, an dem ein Baum gefällt wird, auch nachgepflanzt werden könne. Dennoch sei das Ziel, betonte Lisbach, eine ausgeglichene Bilanz zu erzielen.</p>
-<p>Kopfzerbrechen bereite laut Marin zudem die Diversität der Stadtbäume, denn es dominieren drei Gattungen, die insgesamt mehr als die Hälfte des Karlsruher Baumbestands ausmachen: Ahorn (31,48 Prozent), Hainbuche (10,89 Prozent) und Eiche (9,89 Prozent). Jede dieser Art habe zunehmend mit Trockenheit und Hitze zu kämpfen, erläuterte Marin. Daher werde das Stadtbaumkonzept neue, klimanagepasste Baumarten priorisieren. Insgesamt gebe es rund 9.000 Bäume, die sich in der schlechtesten Vitalitätsstufe befinden. Satellitendaten zeigen, dass die Vitalität der Stadtbäume seit 2016 abgenommen hat. Lisbach bilanzierte: „Die Situation ist nicht schön.“</p>
-<p>Im Rahmen des Stadtbaumkonzepts können in begrenztem Umfang Fördermittel der Kreditanstalt für Wiederaufbau verwendet werden, die Pflanzungen, Sanierungen und die Erstellung des Konzepts mit 80 Prozent fördert. Projektlaufzeit ist bis 19.07.2028. -gia-</p>
-                                    </div></div>]]></content>
         <published>2026-05-19T00:00:00.000Z</published>
     </entry>
 </feed>
