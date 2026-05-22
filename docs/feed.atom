@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-05-22T04:06:45.262Z</updated>
+    <updated>2026-05-22T10:55:02.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,10 +13,26 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Mitarbeitende des Gartenbauamts fördern biologische Vielfalt in Karlsruhe]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mitarbeitende-des-gartenbauamts-foerdern-biologische-vielfalt-in-karlsruhe</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mitarbeitende-des-gartenbauamts-foerdern-biologische-vielfalt-in-karlsruhe"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zum internationalen Tag der biologischen Vielfalt am 22. Mai ruft die Stadt Bürgerinnen und Bürger zum Mitmachen auf. Jede Person kann einen Beitrag zu Artenreichtum leisten.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Zum internationalen Tag der biologischen Vielfalt am 22. Mai, der im Jahr 2000 von den Vereinten Nationen eingeführt wurde, macht die Stadt Karlsruhe darauf aufmerksam, dass naturnahe Grünflächen für Mensch, Klima und Artenvielfalt wichtig sind. Bürgerinnen und Bürger können selbst aktiv werden.</p>
+<p>Immer mehr Menschen leben in der Fächerstadt. Dichte Bebauung, heiße Sommer, Verkehrslärm und versiegelte Flächen prägen den urbanen Alltag. Umso wichtiger sind grüne Rückzugsorte: Sie bieten Erholung, verbessern das Stadtklima und schaffen wertvolle Lebensräume für Tiere und Pflanzen. Artenreiche Wiesen, heimische Sträucher und alte Bäume sind wahre Multitalente. Sie kühlen ihre Umgebung, speichern Wasser und bieten Nahrung sowie Schutz für Wildbienen, Schmetterlinge, Käfer, Vögel und viele weitere Arten. Damit diese Lebensräume dauerhaft erhalten bleiben, brauchen sie jedoch die richtige Pflege.</p>
+<h4>Naturnahe Mahd 2.0</h4>
+<p>Hier setzt das Gartenbauamt der Stadt Karlsruhe an: Seit dem vergangenen Jahr übernehmen neben spezialisierten Landschaftspflegefirmen auch Mitarbeitende des Gartenbauamts selbst die naturnahe Pflege städtischer Grünflächen. Im Rahmen des Projekts „Naturnahe Mahd 2.0“ engagieren sich Beschäftigte freiwillig und lassen sich von Fachspezialistinnen und -spezialisten im Umgang mit artenreichen Wiesen schulen. Bereits in diesem Jahr pflegen die städtischen Mitarbeitenden rund fünf Hektar naturnahe Grünflächen. Dabei beobachten sie direkt, wie sich die angepasste Pflege positiv auf Flora und Fauna auswirkt.</p>
+<p>Doch biologische Vielfalt gelingt nicht allein auf öffentlichen Flächen. Die Stadt Karlsruhe ruft deshalb alle Bürgerinnen und Bürger dazu auf, selbst aktiv zu werden und kleine Beiträge mit großer Wirkung zu leisten.</p>
+<p>Schon wenige Maßnahmen können helfen:</p><ul> 	<li>Balkone und Gärten mit heimischen, insektenfreundlichen Pflanzen gestalten,</li> 	<li>Rasenflächen seltener mähen und Blühflächen zulassen,</li> 	<li>auf chemische Pflanzenschutzmittel verzichten,</li> 	<li>Laub- und Totholzecken als Lebensraum erhalten oder</li> 	<li>als Patin oder Pate eine Grünfläche des Gartenbauamts unterstützen.</li> </ul><p>Selbst kleine Flächen können so zu wertvollen Lebensräumen werden. Jede Wildblume, jeder Nistplatz und jeder unversiegelte Quadratmeter trägt dazu bei, Karlsruhe widerstandsfähiger gegen Hitze und lebenswerter für Mensch und Natur zu machen.</p>
+                                    </div></div>]]></content>
+        <published>2026-05-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lesung zum Internationalen Tag der Leichten Sprache]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-zum-internationalen-tag-der-leichten-sprache</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesung-zum-internationalen-tag-der-leichten-sprache"/>
-        <updated>2026-05-21T00:00:00.000Z</updated>
+        <updated>2026-05-21T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[Am 28. Mai 2026 findet eine Lesung in Leichter und Einfacher Sprache in der Stadtbibliothek statt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Anlässlich des Internationalen Tages der Leichten Sprache am 28. Mai 2026 veranstaltet das Netzwerk Leichte Sprache Karlsruhe eine Lesung in Leichter und Einfacher Sprache.&nbsp;Die Lesung findet um 16 Uhr in der Zentralbibliothek Karlsruhe statt.&nbsp;Der Eintritt ist frei.</p>
@@ -32,7 +48,7 @@
         <title type="html"><![CDATA[Neuer Stadtplan für Karlsruhe]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neuer-stadtplan-fuer-karlsruhe</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neuer-stadtplan-fuer-karlsruhe"/>
-        <updated>2026-05-21T00:00:01.000Z</updated>
+        <updated>2026-05-21T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Das städtische Liegenschaftsamt hat den Stadtplan Karlsruhe in der zweiten Auflage aufgelegt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der amtliche Stadtplan des Liegenschaftsamtes der Stadt Karlsruhe ist neu gedruckt worden und in zweiter Auflage wieder im Buchhandel sowie bei der Stadtinformation erhältlich. Die erste Auflage war in kurzer Zeit ausverkauft.</p>
@@ -45,7 +61,7 @@
         <title type="html"><![CDATA[Stadt setzt beim Fuhrpark auf Elektrofahrzeuge]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-setzt-beim-fuhrpark-auf-elektrofahrzeuge</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-setzt-beim-fuhrpark-auf-elektrofahrzeuge"/>
-        <updated>2026-05-21T00:00:02.000Z</updated>
+        <updated>2026-05-21T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Im Ausschuss für Umwelt und Gesundheit wurde über die Umstellung des städtischen Fuhrparks auf emissionsfreie Antriebe gesprochen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>“Die Entwicklung derzeit ist sehr positiv”, hob Jan Laux bei der jüngsten Sitzung des Ausschusses für Umwelt und Gesundheit mit Blick auf die Elektrifizierung des städtischen Fuhrparks hervor. Laux ist zuständig für den Bereich Mobilität beim Team Sauberes Karlsruhe (TSK), das mit seinen Abfallsammel- und Winterdienstfahrzeugen einen Großteil des insgesamt 615 Fahrzeuge umfassenden städtischen Fahrparks stellt.</p>
@@ -59,7 +75,7 @@
         <title type="html"><![CDATA[Stadt Karlsruhe entwickelt Kulturkonzept 2035 weiter]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-karlsruhe-entwickelt-kulturkonzept-2035-weiter</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-karlsruhe-entwickelt-kulturkonzept-2035-weiter"/>
-        <updated>2026-05-20T00:00:03.000Z</updated>
+        <updated>2026-05-20T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Kulturakteure diskutieren im Anne-Frank-Haus die Zukunft der Karlsruher Kulturlandschaft.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Stadt Karlsruhe hat im Anne-Frank-Haus bei der zweiten Kulturwerkstatt die <strong>Weiterentwicklung des Kulturkonzepts 2035</strong>&nbsp;vorangebracht. Kulturbürgermeister Dr. Albert Käuflein hatte Kulturschaffende und Gemeinderatsmitglieder eingeladen, gemeinsam die künftige Ausrichtung der städtischen Kulturarbeit zu gestalten. Mit 118 Anmeldungen verzeichnete die Veranstaltung eine Rekordbeteiligung.&nbsp;Die Fertigstellung des Kulturkonzepts 2035 ist für das vierte Quartal 2026 geplant.</p>
@@ -75,7 +91,7 @@
         <title type="html"><![CDATA[Schadstoffannahmestelle Nordbeckenstraße geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-geschlossen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-geschlossen"/>
-        <updated>2026-05-20T00:00:04.000Z</updated>
+        <updated>2026-05-20T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Die Schadstoffannahmestelle Nordbeckenstraße ist am 26. Mai und 2. Juni 2026 geschlossen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -164,7 +180,7 @@
         <title type="html"><![CDATA[Ameisenbekämpfung in Neureut gestartet]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-696100e106da03ae8235508b44a9f69e</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-696100e106da03ae8235508b44a9f69e"/>
-        <updated>2026-05-20T00:00:05.000Z</updated>
+        <updated>2026-05-20T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Die organisierte Bekämpfung der großen Drüsenameise Tapinoma magnum hat im Karlsruher Stadtteil Neureut begonnen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -181,7 +197,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-05-20">
-                                        Gestern
+                                        Mittwoch, 20. Mai 2026
                                     </time>
                                 </p>
 
@@ -326,7 +342,7 @@
         <title type="html"><![CDATA[15 Jahre Behördennummer 115]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/15-jahre-behoerdennummer-115</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/15-jahre-behoerdennummer-115"/>
-        <updated>2026-05-19T00:00:06.000Z</updated>
+        <updated>2026-05-19T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Die Behördennummer 115 hat ihren 15. Geburtstag gefeiert – und Karlsruhe hat mitgefeiert. Die Stadtverwaltung nahm den Geburtstag auch zum Anlass, die Nummer der Rathauszentrale, die 133-0, zur Behördennummer 115 umzuziehen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -488,291 +504,18 @@
         <published>2026-05-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sportehrung würdigt ausgezeichnete Karlsruher Leistungen]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sportehrung-wuerdigt-ausgezeichnete-karlsruher-leistungen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sportehrung-wuerdigt-ausgezeichnete-karlsruher-leistungen"/>
-        <updated>2026-05-18T00:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Einmal im Jahr ehrt Karlsruhe seine Spitzenathleten für ihre Leistungen des vergangenen Jahres mit den Sportmedaillen. Die Auszeichnung für besondere Verdienste um den Sport erhielt der ehemalige Sportbürgermeister Dr. Martin Lenz.]]></summary>
+        <title type="html"><![CDATA[Stadtbaumkonzept im Auschuss für Umwelt- und Gesundheit vorgestellt]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sadtbaumkonzept-im-auschuss-fuer-umwelt-und-gesundheit-vorgestellt</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sadtbaumkonzept-im-auschuss-fuer-umwelt-und-gesundheit-vorgestellt"/>
+        <updated>2026-05-19T00:00:08.000Z</updated>
+        <summary type="html"><![CDATA[In der Mai-Sitzung des Ausschusses für Umwelt und Gesundheit haben die Mitglieder über das städtische Baumkonzept gesprochen und den Zustand der Karlsruher Bäume beleuchtet.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Einmal im Jahr ehrt die Stadt Karlsruhe seine Spitzenathletinnen und -athleten für ihre sportlichen Leistungen des vergangenen Jahres mit den Sportmedaillen, so auch in diesem April.</p>
-<p>Bürgermeisterin Yvette Melchien eröffnete die Veranstaltung im Südwerk, die sportlich durch die&nbsp;Golden Paws Cheerleader und den Budo Club Karlsruhe umrahmt wurde. Rund 180 Sportlerinnen und Sportler stehen auf der Liste der Geehrten und decken ein breites Spektrum an Sportarten ab. Wie bei den vergangenen Ehrungen wurden auch in diesem Jahr viele Medaillen im Kanurennsport, Triathlon, Sambo und in der Leichtathletik verteilt, aber auch im Karnevalistischen Tanzsport, Caporeira und Sportschießen hatten die Karlsruherinnen und Karlsruher bei nationalen wie internationalen Meisterschaften "abgeräumt".</p>
-
-                                    </div><div>
-                                            
-
-
-        
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="c203647">
-    <p>Die Medaille für besondere Verdienste um den Sport erhielt der ehemalige Sportbürgermeister Dr. Martin Lenz. Unter anderem als Präsident des Badischen Sportbundes und KSC-Vizepräsident hatte er das sportliche Leben in Karlsruhe maßgeblich mitgestaltet und unterstützt, stets die soziale und integrative Komponente des gemeinsamen Sportmachens betont. Dem Vorschlag des Sportkreises, Dr. Martin Lenz 2026 für diese besondere Würdigung vorzusehen, sei man gern gefolgt, betonte Lenz' Amtsnachfolgerin Yvette Melchien.</p>
-</div>
-
-
-
-
-        
-    
-        
-        
-                <div>
-                                <a aria-label="Bild in Lightbox öffnen" data-fancybox="images203652" rel="gallery203652" href="https://www.karlsruhe.de/fileadmin/_processed_/1/7/sportehrung_2026-_medaille_fuer_besondere_verdienste_um_den_sport-1779369865_225126_339a6786e9.jpeg" data-caption="Die Medaille für besondere Verdienste um den Sport erhielt der ehemalige Sportbürgermeister Dr. Martin Lenz  (r.), überreicht vom Vorsitzenden des Sportkreises Dr. Andreas Ramin (l.) und Bürgermeisterin Yvette Melchien. © Thomas Riedel">
-                                    
-
-
-
-
-
-<img alt="Die Medaille für besondere Verdienste um den Sport erhielt der ehemalige Sportbürgermeister Dr. Martin Lenz  (r.), überreicht vom Vorsitzenden des Sportkreises Dr. Andreas Ramin (l.) und Bürgermeisterin Yvette Melchien." title="Sportehrung 2026: Medaille für besondere Verdienste um den Sport" src="https://www.karlsruhe.de/fileadmin/_processed_/1/7/csm_sportehrung_2026-_medaille_fuer_besondere_verdienste_um_den_sport-1779369865_b8a2580a51.jpeg">
-
-                                </a>
-                                
-                                    
-                                
-                            </div>
-            
-    
-
-    
-
-
-
-
-
-
-
-
-        
-    <div id="c203653">
-                        <p>Dies ist ein Beitrag der StadtZeitung, die auch in gedruckter Form erscheint. Alle Ausgaben des <a href="http://www.bnn.de/epaper-stadtzeitung" title="Link zur Seite" target="_blank" rel="noreferrer">ePapers</a> sind digital verfügbar.</p>
-<p>Mehr zu städtischen Themen und den Aktivitäten der Stadtverwaltung Karlsruhe unter <a href="http://www.karlsruhe.de/stadtzeitung" title="Link zur Seite" target="_blank">www.karlsruhe.de/stadtzeitung</a>.</p>
-                    </div>
-
-    
-
-
-
-
-
-                                        </div></div>]]></content>
-        <published>2026-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drei neue Ausstellungen im Kunstmuseum Karlsruhe]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/drei-neue-ausstellungen-im-kunstmuseum-karlsruhe</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/drei-neue-ausstellungen-im-kunstmuseum-karlsruhe"/>
-        <updated>2026-05-18T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Ab 23. Mai 2026 zeigt das Museum grafische Arbeiten von Dürer bis Schlichter, neue deutsche Malerei des Werner-Stobe-Preisträgers Tino Zimmermann und den vierten Szenenwechsel der Sammlungsschau "Update! Die Sammlung neu sichten".]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
-    <!-- SKIP NAVIGATION -->
-    <!--TYPO3SEARCH_end-->
-    <nav aria-label="Sprunglink"> <a href="#footer" title="Footer der Seite anspringen">Footer der Seite anspringen</a> </nav>
-    <!--TYPO3SEARCH_begin-->
-    
-    
-
-
-        
-                <div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
-                        <!-- date -->
-                        <div>
-
-                                <p><time itemprop="datePublished" datetime="2026-05-18">
-                                        Montag, 18. Mai 2026
-                                    </time>
-                                </p>
-
-                                
-
-                                
-                                
-                                
-                                    <h2>
-                                        Grafische Arbeiten von Dürer bis Schlichter, neue deutsche Malerei und einen Szenenwechsel der Sammlungsschau "Update!"
-                                    </h2>
-                                
-                            </div>
-
-                        <div>
-                                
-                                
-                                        <div>
-                                            
-                                                
-                                                    
-                                                        
-
-
-<img alt="Eine Zeichnung des Künstlers Karl Hubbuch mit dem Titel &quot;Selbstbildnis, wütend&quot;." title="Karl Hubbuch: &quot;Selbstbildnis, wütend&quot; (1922)" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/e/8/csm_karl_hubbuch-_-selbstbildnis-_wuetend-_-1922--1779100449_fc9e11a70c.jpeg">
-
-        
-    
-
-        
-            
-        
-    
-
-                                                    
-                                                    
-                                                    
-                                                
-                                            
-                                        </div>
-                                    
-
-                                
-                                
-                                    <div itemprop="articleBody">
-                                        <p>Ab dem 23. Mai 2026 präsentiert das Kunstmuseum Karlsruhe mit der Ausstellung <strong><a href="https://kunstmuseum-karlsruhe.de/exhibition/expressiv-grafik-von-duerer-bis-schlichter-2/" title="Link zur Seite" target="_blank" rel="noreferrer">Expressiv! Grafik von Dürer bis Schlichter</a></strong>&nbsp;erstmals umfassend die Schätze seiner grafischen Sammlung: Rund 250 Werke von Dürer, Rembrandt und Schlichter spannen einen Bogen über fünf Jahrhunderte menschlicher Emotionen. Ergänzt wird die Präsentation durch den vierten „Szenenwechsel“ der Sammlungsschau <strong><a href="https://kunstmuseum-karlsruhe.de/exhibition/updatedie-sammlung-neu-sichten-szenenwechsel-3/" title="Link zur Seite" target="_blank" rel="noreferrer">Update! Die Sammlung neu sichten</a></strong>, die seit 2023 in wechselnden Konstellationen zentrale Themen und Fragestellungen der Gegenwart verhandelt und die Bestände des Hauses immer wieder neu kontextualisiert. Auch der Projektraum wird neu bespielt: Werner-Stober-Preisträger Tino Zimmermann stellt mit seiner Ausstellung <strong><a href="https://kunstmuseum-karlsruhe.de/exhibition/tino-zimmermann-neue-deutsche-malerei-kunstpreis-der-werner-stober-stiftung/" title="Link zur Seite" target="_blank" rel="noreferrer">Neue Deutsche Malerei</a> </strong>aktuelle malerische Fragestellungen zur Diskussion. Die Eröffnung der drei Ausstellungen findet am Donnerstag, 22. Mai, 19 Uhr statt.</p>
-<h4><strong>Ausstellung grafischer Werke: "Expressiv!"</strong></h4>
-<p>Ein schmerzverzerrtes Gesicht, zum Himmel erhobene Arme, ein leises, kaum wahrnehmbares Lächeln oder zerwühltes Haar: Die Bildsprache der Gefühle ist universell und wird unabhängig von Zeit und Kultur verstanden. Die Ausstellung „Expressiv! Grafik von Dürer bis Schlichter“ beleuchtet zentrale Bestände der eigenen Sammlung aus neuen Perspektiven und zeigt in thematischen Räumen, wie Künstlerinnen und Künstler seit Jahrhunderten die innere Gefühlswelt sichtbar machen.</p>
-<p>Von Albrecht Dürer über Rembrandt und Guido Reni bis zu Käthe Kollwitz und Rudolf Schlichter entfaltet sich ein breites Spektrum künstlerischer Strategien. In rund 250 Aquarellen, Zeichnungen und Druckgrafiken aus dem 15. bis 21. Jahrhundert präsentiert das Kunstmuseum Karlsruhe facettenreiche Annäherungen an menschliche Emotionen.</p>
-                                    </div>
-                                
-
-                                
-                                
-                                    
-                                        <div>
-                                            
-
-        
-    <div id="c203406">
-                    
-                        <h2>Veranstaltungen zur Ausstellung "Expressiv!"</h2>
-                    
-                    <div>
-                        <p><strong>Kuratorinnenführung: </strong>Donnerstag, 28. Mai, um 17 Uhr (Kosten: 2 Euro zzgl. Eintritt)</p>
-<p><strong>Öffentliche Führungen: </strong>freitags um 16 Uhr und sonntags um 15:15 Uhr (Kosten: 2 Euro zzgl. Eintritt)</p>
-<p><strong>Kunsthäppchen: </strong>Mittwoch, 10. Juni, und Mittwoch, 1. Juli, jeweils 15 Uhr (Kosten: 2 Euro zzgl. Eintritt)</p>
-<p><strong>ARTtoNight: </strong>Donnerstag, 18. Juli, 19 bis 23 Uhr (Kosten: 5 Euro)</p>
-                    </div>
-                </div>
-
-    
-
-
-
-
-
-
-<div id="c203407">
-        
-        <h4><strong>Vierter Szenenwechsel der Sammlungsschau "Update! Die Sammlung neu sichten"</strong></h4>
-<p>Von großformatigen Tapisserien bis zu filigranen Zeichnungen, von Porträt über Stillleben bis Landschaft: Der vierte Szenenwechsel der Ausstellung „Update! Die Sammlung neu sichten“ lädt dazu ein, die Bestände des Kunstmuseums neu zu entdecken.</p>
-<p>Neben Neuzugängen von Margret Eicher, Lea Gocht und Shanee Roe, erwarten die Besucherinnen und Besucher unter anderem Werke von Karl Hubbuch, Gustav Kampmann, Candida Höfer, Timm Ulrichs und Georg Baselitz. Die zweite Auflage der „Wünsch Dir Was“-Wand lädt alle Besucherinnen und Besucher ein, aus 100 Werken der Sammlung ihr Lieblingsmotiv zu wählen. Das Werk mit den meisten Stimmen wird ab November 2026 in die Ausstellung aufgenommen. Auch gibt es einen neuen Kinderaudioguide und in der beliebten Kid’s Zone wartet eine neue spannende Aufgabe für die jungen Museumsbesucherinnen und -besucher.</p>
-    </div>
-
-
-
-
-        
-    
-        
-        
-                <div>
-                                <a aria-label="Bild in Lightbox öffnen" data-fancybox="images203408" rel="gallery203408" href="https://www.karlsruhe.de/fileadmin/_processed_/9/0/playground-_von_elsa_-_johanna_-2018--1779101247_224898_285b897a1e.jpeg" data-caption="Die Fotografie &quot;Playground&quot; (2018) von Elsa &amp; Johanna. © Kunstmuseum Karlsruhe">
-                                    
-
-
-
-
-
-<img alt="&quot;Playground&quot; von Elsa &amp; Johanna (2018)" title="&quot;Playground&quot; von Elsa &amp; Johanna (2018)" src="https://www.karlsruhe.de/fileadmin/_processed_/9/0/csm_playground-_von_elsa_-_johanna_-2018--1779101247_4e530bce40.jpeg">
-
-                                </a>
-                                
-                                    
-                                
-                            </div>
-            
-    
-
-    
-
-
-
-
-
-
-
-
-<div id="c203409">
-        
-        <p>Mit „Update! Die Sammlung neu sichten“ präsentiert das Kunstmuseum Karlsruhe seine Bestände in einem dynamischen Szenenwechsel. Rund 200 Werke von 70 Künstlerinnen und Künstlern treten auf 1.500 Quadratmetern in medien- und epochenübergreifende Dialoge. Themenräume zu Identität, Ritualen, Natur, Geschlechtergerechtigkeit, Heimat und der Erfahrungen von Fremdheit verbinden historische Positionen mit Gegenwartskunst. Der „Szenenwechsel 4“ ist die fünfte Neupräsentation seit 2023 und reagiert auf aktuelle gesellschaftliche Debatten.</p>
-<h4><strong>"Neue deutsche Malerei" im Projektraum</strong></h4>
-<p>Unter dem ironischen Titel „Neue Deutsche Malerei“ übersetzt Werner-Stober-Preisträger Tino Zimmermann das Gefühl politischen Stillstands in eine eigenständige malerische Form. In reduzierten Farben zeigen seine raumumspannenden Wandmalereien Büroräume, in denen die erwartbare Handlung ausbleibt: Organisation und Verantwortung ersetzt der Künstler durch absurde Gesten und merkwürdige Zwischenzustände. Das Ergebnis ist eine Atmosphäre der Untätigkeit und Irritation, die Fragen zu politischen Entwicklungen und institutionellen Ordnungen aufwirft. Die Szenen lesen sich dabei weniger als Kommentare zu Einzelereignissen, sondern vielmehr als Verdichtungen eines allgemeinen politischen Klimas.</p>
-<p>Die Präsentation ist Teil des langfristigen Projekts „On the Relevance of Painting (And Other Thoughts)“, in dem der Künstler seit 2020 die Möglichkeiten der zeitgenössischen Malerei untersucht.</p>
-    </div>
-
-
-
-
-        
-    
-        
-        
-                <div>
-                                <a aria-label="Bild in Lightbox öffnen" data-fancybox="images203410" rel="gallery203410" href="https://www.karlsruhe.de/fileadmin/_processed_/1/a/mutter-_von_tino_zimmermann_-2023--1779101366_224901_4d7ae73c82.jpeg" data-caption="&quot;Mutter&quot; von Tino Zimmermann (2023). © Tino Zimmermann">
-                                    
-
-
-
-
-
-<img alt="&quot;Mutter&quot; von Tino Zimmermann (2023)" title="&quot;Mutter&quot; von Tino Zimmermann (2023)" src="https://www.karlsruhe.de/fileadmin/_processed_/1/a/csm_mutter-_von_tino_zimmermann_-2023--1779101366_1f1d721aac.jpeg">
-
-                                </a>
-                                
-                                    
-                                
-                            </div>
-            
-    
-
-    
-
-
-
-
-
-
-
-                                        </div>
-                                    
-                                
-
-                                
-                                    
-                                    
-                                        
-    
-
-
-                                    
-                                
-                            </div>
-                    </div>
-            
-    
-
-
-
-</div></div>]]></content>
-        <published>2026-05-18T00:00:00.000Z</published>
+                                        <p>In der Mai-Sitzung des Ausschusses für Umwelt und Gesundheit haben die Mitglieder über das städtische Baumkonzept gesprochen. Pascal Marin vom Gartenbauamt hat dabei erläutert, dass das Stadtbaumkonzept&nbsp;darlegt, wie in Zukunft mit Stadtbäumen und Stadtgrün umgegangen wird, wo der Fokus beim Baumschutz gelegt werden soll. Das vorrangige Ziel sei, den Baumbestand insgesamt mindestens auf einem konstanten Niveau zu erhalten. &nbsp;So sollen Bäume, die aufgrund von alters- oder klimabedingten Schäden gefällt werden müssen, vollständig nachgepflanzt werden.</p>
+<p>Um zu analysieren, wie es um den Baumbestand bestellt ist, nutzen Marin und seine Kollegen das städtische Baumkataster&nbsp;sowie Auswertungen von Satellitenbildern. Im Jahr 2025 zählte das Gartenbauamt 136.030 Bäume in seinem Bestand – nicht darunter fallen Bäume im Wald und auf privaten Grundstücken. Die absoluten Zahlen des Baumkatasters zeigten, so Marin, einen leichten Abwärtstrend beim städtischen Baumbestand in den letzten zehn Jahren. „Generell haben wir in den letzten Jahren mehr Fällungen als Pflanzungen in der Stadt vorgenommen. Wir haben ein Delta von über 4.000 Bäumen.“ 2024 wurden 1202 Bäume gefällt und 588 gepflanzt, im vergangenen Jahr standen 950 Fällungen 850 Pflanzungen gegenüber.</p>
+<p>Ein großer Teil der Bäume müsse klimawandelbedingt gefällt werden, fasste Erste Bürgermeisterin Bettina Lisbach zusammen. „Auch viele Baumaßnahmen spielen eine Rolle.“ Nicht nur die großen wie zum Beispiel Staatstheater oder Landratsamt. Auch viele kleinere Baumaßnahmen an Verkehrswegen bedingten Baumfällungen, etwa beim barrierefreien Ausbau von Haltestellen oder der Anlage von Radwegen. Erschwerend komme hinzu, dass nicht an jedem Ort, an dem ein Baum gefällt wird, auch nachgepflanzt werden könne. Dennoch sei das Ziel, betonte Lisbach, eine ausgeglichene Bilanz zu erzielen.</p>
+<p>Kopfzerbrechen bereite laut Marin zudem die Diversität der Stadtbäume, denn es dominieren drei Gattungen, die insgesamt mehr als die Hälfte des Karlsruher Baumbestands ausmachen: Ahorn (31,48 Prozent), Hainbuche (10,89 Prozent) und Eiche (9,89 Prozent). Jede dieser Art habe zunehmend mit Trockenheit und Hitze zu kämpfen, erläuterte Marin. Daher werde das Stadtbaumkonzept neue, klimanagepasste Baumarten priorisieren. Insgesamt gebe es rund 9.000 Bäume, die sich in der schlechtesten Vitalitätsstufe befinden. Satellitendaten zeigen, dass die Vitalität der Stadtbäume seit 2016 abgenommen hat. Lisbach bilanzierte: „Die Situation ist nicht schön.“</p>
+<p>Im Rahmen des Stadtbaumkonzepts können in begrenztem Umfang Fördermittel der Kreditanstalt für Wiederaufbau verwendet werden, die Pflanzungen, Sanierungen und die Erstellung des Konzepts mit 80 Prozent fördert. Projektlaufzeit ist bis 19.07.2028. -gia-</p>
+                                    </div></div>]]></content>
+        <published>2026-05-19T00:00:00.000Z</published>
     </entry>
 </feed>
