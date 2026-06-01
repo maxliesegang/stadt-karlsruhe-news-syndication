@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-06-01T13:41:47.993Z</updated>
+    <updated>2026-06-01T20:20:10.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -64,10 +64,26 @@
         <published>2026-06-01T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[„Den Männern besser einheizen!“: Luise Naumann warb für mehr politische Teilhabe von Frauen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-2c4ed6a2f6859fda1e2dc9586cd76f04</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-2c4ed6a2f6859fda1e2dc9586cd76f04"/>
+        <updated>2026-05-29T00:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Vor 125 Jahren wurde Luise Karoline Duppler in Karlsruhe geboren. Die CDU-Politikerin gehörte von 1953 bis 1965 dem Karlsruher Gemeinderat an und ermutigte Frauen, politisch teilzunehmen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Vor 125 Jahren, am 19. Mai 1901, wurde Luise Karoline Duppler in Karlsruhe geboren. Sie studierte nach dem Besuch des Mädchengymnasiums Medizin in Heidelberg und Freiburg. Das Studium brach sie 1924 nach der Hochzeit mit dem Ministerialrat Erich Naumann ab, um sich fortan um ihre Familie mit drei Söhnen zu kümmern.</p>
+<p>Als ihr Mann 1935 aufgrund seiner jüdischen Abstammung zwangsweise in den Ruhestand versetzt wurde, musste sie zum größten Teil für den Unterhalt der Familie sorgen. Ihre Erfahrungen in der Zeit des Nationalsozialismus veranlassten sie, sich nach dem Zweiten Weltkrieg politisch zu betätigen.</p>
+<p>Als aktive Protestantin trat sie der CDU bei, die sich als politische Heimat für evangelische und katholische Christen anbot. 1948 übernahm sie den Vorsitz der CDU-Frauengruppe in Karlsruhe, 1950 in Nordbaden, zudem war sie Mitglied des CDU-Landesvorstands.</p>
+<p>Von 1953 bis 1965 gehörte sie dem Gemeinderat an, ihre Arbeitsschwerpunkte waren hier das Krankenhaus- und Schulwesen. Aus eher konservativer Perspektive sah Naumann traditionell den Frauen zugeordnete Themen wie Schulen, Fürsorge oder Krankenhäuser auch als für Politikerinnen besonders geeignet.</p>
+<p>Andererseits erkannte sie angesichts der wenigen Frauen in den Parlamenten, dass diese sich gegen die Vorherrschaft der Männer in den Parteien durchsetzen mussten. So forderte sie in einer Veranstaltung zum Landtagswahlkampf 1956 die Frauen auf: „Wählen Sie – und wählen Sie richtig. Aber danach entschließen Sie sich, einer Partei beizutreten, – dann werden wir das nächste Mal den Männern besser einheizen!“.</p>
+<p>Luise Naumann war zudem 1948 an der Gründung der bis 1968 bestehenden Notverkaufsstelle beteiligt. Diese stellte Bedürftigen aus Trümmern geborgenen Hausrat zur Verfügung, später versorgte die Stelle diese mit preiswerter Kleidung. Luise Naumann erhielt für ihr Engagement 1969 das Bundesverdienstkreuz, 1974 verstarb sie. -vs-</p>
+                                    </div></div>]]></content>
+        <published>2026-05-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jungkrötenwanderung beginnt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jungkroetenwanderung-beginnt-1</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jungkroetenwanderung-beginnt-1"/>
-        <updated>2026-05-29T00:00:04.000Z</updated>
+        <updated>2026-05-29T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Die Kaulquappen der Erdkröten im Schlossgartenteich und auch mehrerer Amphibienarten in weiteren Gewässern haben sich in den vergangenen Wochen entwickelt und werden bald als kleine Kröten, Frösche und Molche das Wasser verlassen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Kaulquappen der Erdkröten im Schlossgartenteich und auch mehrerer Amphibienarten in weiteren Gewässern haben sich in den vergangenen Wochen entwickelt und werden bald als kleine Kröten, Frösche und Molche das Wasser verlassen. Sie machen sich dann auf den Weg in die umliegenden Wiesen und Gebüsche im Schlossgarten sowie in den Hardtwald. Sie suchen schattige und geschützte Bereiche, in denen sie den Sommer verbringen.</p>
@@ -82,7 +98,7 @@
         <title type="html"><![CDATA[Bürgerbüro Wettersbach geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerbuero-wettersbach-geschlossen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerbuero-wettersbach-geschlossen"/>
-        <updated>2026-05-29T00:00:05.000Z</updated>
+        <updated>2026-05-29T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Das Bürgerbüro für den Karlsruher Höhenstadtteilverbund Wettersbach ist am Freitag, 5. Juni 2026, betriebsbedingt zu.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -171,7 +187,7 @@
         <title type="html"><![CDATA[Schadstoffannahmestelle Nordbeckenstraße Anfang Juni zu]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-anfang-juni-zu</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schadstoffannahmestelle-nordbeckenstrasse-anfang-juni-zu"/>
-        <updated>2026-05-29T00:00:06.000Z</updated>
+        <updated>2026-05-29T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Die Schadstoffannahmestelle in der Karlsruher Nordbeckenstraße 1 bleibt aus betrieblichen Gründen von 2. bis einschließlich 6. Juni 2026 geschlossen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Das Team Sauberes Karlsruhe informiert, dass die Schadstoffannahmestelle in der Nordbeckenstraße 1 aus betrieblichen Gründen von Dienstag, 2. Juni, bis einschließlich Samstag, 6. Juni 2026, geschlossen bleibt.</p>
@@ -183,7 +199,7 @@
         <title type="html"><![CDATA[Büro für Integration: „Biografiegespräche der Vielfalt“]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/biografiegespraeche-der-vielfalt</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/biografiegespraeche-der-vielfalt"/>
-        <updated>2026-05-29T00:00:07.000Z</updated>
+        <updated>2026-05-29T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Zum 13. und 14. Juni 2026 lädt das Büro für Integration im Rahmen des Projekts „Biografiegespräche der Vielfalt – Menschen erzählen sich ihr Leben“ für eine Veranstaltung im Schloss Flehingen in Oberderdingen ein.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Zu&nbsp;<strong>Samstag und Sonntag, 13. und 14. Juni 2026</strong>, lädt das Büro für Integration im Rahmen des Projekts <strong>„Biografiegespräche der Vielfalt – Menschen erzählen sich ihr Leben“</strong>&nbsp;für einer Veranstaltung im <strong>Schloss Flehingen in Oberderdingen</strong> ein. An dem Wochenende haben Teilnehmende die Möglichkeit, sich in einem respektvollen und offenen Rahmen auszutauschen, persönliche Lebensgeschichten zu teilen und die Perspektiven anderer zu erfahren.</p>
@@ -194,18 +210,6 @@
 <h4>Anmeldung</h4>
 <p>Die Anmeldung für die Veranstaltung ist bis zum <strong>Freitag, 5. Juni,</strong>&nbsp;möglich. Die Veranstaltung ist kostenfrei.&nbsp;Da die Teilnehmerzahl begrenzt ist, erfolgt die Vergabe der Plätze nach Losverfahren.</p>
 <p>Weitere Informationen und die Möglichkeit zur Anmeldung per E-Mail unter <a href="#" title="E-Mail senden" data-mailto-token="drzckf1slvif5wlvi5zekvxirkzfeRjas5bricjilyv5uv" data-mailto-vector="-9">buero.fuer.integration(at)sjb.karlsruhe.de</a>.</p>
-                                    </div></div>]]></content>
-        <published>2026-05-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neu im Gremium: OB Mentrup verpflichtet Leyla Duran]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neu-im-gremium-ob-mentrup-verpflichtet-leyla-duran</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neu-im-gremium-ob-mentrup-verpflichtet-leyla-duran"/>
-        <updated>2026-05-29T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Ein neues Gesicht nimmt seit diesem Monat im Bürgersaal Platz: Leyla Duran ist als neue Stadträtin für die Gemeinderatsfraktion "Die Linke" verpflichtet worden.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Ein neues Gesicht nimmt seit diesem Monat im Bürgersaal Platz: Leyla Duran ist als neue Stadträtin für die Gemeinderatsfraktion „Die Linke“ verpflichtet worden. Oberbürgermeister Dr. Frank Mentrup nahm ihr zu Beginn der Mai-Sitzung des Gemeinderats den Eid ab. „Betrachten Sie dies als ihre künftige Marschroute“, gab das Stadtoberhaupt ihr mit auf den Weg.</p>
-<p>Die Neu-Stadträtin ist 46 Jahre alt, arbeitet als Sozialarbeiterin und lebt in der Nordstadt. Bei der Wahl zum Gemeinderat trat sie 2024 auf Listenplatz 11 an und erhielt 11.108 Stimmen, was für das sechstbeste Resultat ihrer Partei sorgte. Leyla Duran folgt auf Stadträtin Franziska Buresch, die aus gesundheitlichen Gründen das Gremium verlassen musste. -has-</p>
                                     </div></div>]]></content>
         <published>2026-05-29T00:00:00.000Z</published>
     </entry>
