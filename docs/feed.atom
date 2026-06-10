@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-06-10T11:42:00.506Z</updated>
+    <updated>2026-06-10T15:49:07.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -33,7 +33,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-06-10">
-                                        vor 2 Stunden
+                                        vor 6 Stunden
                                     </time>
                                 </p>
 
