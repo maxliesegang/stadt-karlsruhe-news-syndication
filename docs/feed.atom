@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-06-11T12:13:19.065Z</updated>
+    <updated>2026-06-11T22:05:16.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,17 +13,29 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Stabiler und attraktiver Büromarkt]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stabiler-bueromarkt</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stabiler-bueromarkt"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Der Karlsruher Büromarkt zeigt sich als stabiler und attraktiver B-Standort im nationalen Vergleich.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Der Karlsruher Büromarkt zeigt sich stabiler und attraktiv im nationalen Vergleich. „Im Gegensatz zu anderen steht Karlsruhe gut da“, resümierte Wirtschaftsdezernentin Gabriele Luczak-Schwarz bei der Vorstellung des Büromarktberichts im Ausschuss für Wirtschaft und Wissenschaft.&nbsp;</p>
+<p>Zwischen den Jahren 2019 und 2025 habe sich die Zahl der sozialversicherungspflichtigen Beschäftigten „sehr positiv“ entwickelt, so Elena Steiger von der städtischen Wirtschaftsförderung. Aktuell seien rund 190.000 Personen in Karlsruhe beschäftigt, knapp zwei Drittel davon arbeiten in Büros. Bis 2028, so die Prognose, sei weiterhin mit einer leichten Zunahme zu rechnen, danach bleibe der Anteil gleich. Die Mieten betragen in Karlsruhe derzeit im Schnitt 11 Euro pro Quadratmeter, in den Toplagen seien Spitzenmieten in Höhe von bis zu 19 Euro zu erzielen. Damit liege die Fächerstadt etwa hinter Stuttgart (35 Euro/qm) oder Mannheim (22 Euro/qm). Dies mache Karlsruhe attraktiv, um hier Büros anzumieten, so Steiger weiter. Zwischen modernen und älteren Standorten herrsche eine starke Polarisierung. Mit einer Leerstandsquote von 6,4 Prozent sei der Gipfel erreicht, so die Prognose der Wirtschaftsförderung. Insgesamt verfüge der Büromarkt Karlsruhe demnach über eine stabile Ausgangsbasis und gute strukturelle Voraussetzungen, um langfristig Wachstum zu ermöglichen.</p>
+                                    </div></div>]]></content>
+        <published>2026-06-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ausschuss für Eigenbetrieb Abfallwirtschaft und Stadtreinigung tagt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-eigenbetrieb-abfallwirtschaft-und-stadtreinigung-tagt</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-eigenbetrieb-abfallwirtschaft-und-stadtreinigung-tagt"/>
-        <updated>2026-06-11T00:00:00.000Z</updated>
+        <updated>2026-06-11T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[Der Ausschuss des Eigenbetriebs Abfallwirtschaft und Stadtreinigung tagt am Dienstag, 16. Juni 2026, ab 16:30 Uhr in der Kantine des Team Sauberes Karlsruhe, Ottostraße 21, in öffentlicher Sitzung.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article">
                         <!-- date -->
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-06-11">
-                                        vor 2 Stunden
+                                        vor 6 Stunden
                                     </time>
                                 </p>
 
@@ -96,7 +108,7 @@
         <title type="html"><![CDATA[Ortschaftsräte von Durlach, Grötzingen, Stupferich und Hohenwettersbach tagen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-durlach-groetzingen-stupferich-und-hohenwettersbach-tagen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-durlach-groetzingen-stupferich-und-hohenwettersbach-tagen"/>
-        <updated>2026-06-11T00:00:01.000Z</updated>
+        <updated>2026-06-11T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Am Mittwoch, 17. Juni 2026, finden in mehreren Karlsruher Stadtteilen öffentliche Sitzungen der Ortschaftsräte statt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am Mittwoch, 17. Juni 2026, finden in mehreren Karlsruher Stadtteilen öffentliche Sitzungen der Ortschaftsräte statt.</p>
@@ -112,7 +124,7 @@
         <title type="html"><![CDATA[Ortschaftsräte Wettersbach und Wolfartsweier tagen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-wetterbach-und-wolfartsweier-tagen-1</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-wetterbach-und-wolfartsweier-tagen-1"/>
-        <updated>2026-06-11T00:00:02.000Z</updated>
+        <updated>2026-06-11T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Die Ortschaftsräte von Wettersbach und Wolfartsweier tagen in öffentlicher Sitzung am Dienstag, 16. Juni 2026, jeweils ab 19 Uhr.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Ortschaftsräte von Wettersbach und Wolfartsweier tagen in öffentlicher Sitzung am Dienstag, 16. Juni 2026, jeweils ab 19 Uhr.&nbsp;</p>
@@ -126,7 +138,7 @@
         <title type="html"><![CDATA[Gaming-Aktionen in Stadtbibliothek und Stadtmedienzentrum]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gaming-aktionen-im-rahmen-des-digitaltags</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gaming-aktionen-im-rahmen-des-digitaltags"/>
-        <updated>2026-06-11T00:00:03.000Z</updated>
+        <updated>2026-06-11T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Am Donnerstag, 25. Juni 2026 findet in der Stadtbibliothel ein Aktionstag rund um Gaming statt. Dabei wird eine Führung durch das Stadtmedienzentrum angeboten, die Informatikerin Dr. Johanna Pirker hält in der Stadtbibliothek eine Lesung zu Gaming.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Am <strong>Donnerstag, 25.</strong><strong> Juni</strong><strong> 2026 </strong>findet in der Stadtbibliothek ein Aktionstag rund um Gaming statt. Im Fokus steht die Frage, wie Gaming unsere Welt verändert. Die Veranstaltung findet im Rahmen des "Digitaltags" gemeinsam mit RetroGames e. V. und dem Stadtmedienzentrum Karlsruhe statt.</p>
@@ -142,7 +154,7 @@
         <title type="html"><![CDATA[Jugendhilfeausschuss tagt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jugendhilfeausschuss-tagt</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jugendhilfeausschuss-tagt"/>
-        <updated>2026-06-11T00:00:04.000Z</updated>
+        <updated>2026-06-11T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Die Mitglieder des Jugendhilfeausschusses treffen sich am 19. Juni zu ihrer nächsten Sitzung im Bürgersaal des Rathauses am Marktplatz.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Unter Vorsitz von Bürgermeisterin Yvette Melchien treffen sich die Mitglieder des Jugendhilfeausschusses am Freitag, 19. Juni, zu ihrer nächsten Sitzung. Beginn im Bürgersaal des Rathauses am Marktplatz ist um 16:30 Uhr.&nbsp;</p>
@@ -154,7 +166,7 @@
         <title type="html"><![CDATA[Engagierte Pflegeeltern gesucht – Vielfalt ausdrücklich willkommen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/engagierte-pflegeeltern-gesucht-vielfalt-ausdruecklich-willkommen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/engagierte-pflegeeltern-gesucht-vielfalt-ausdruecklich-willkommen"/>
-        <updated>2026-06-11T00:00:05.000Z</updated>
+        <updated>2026-06-11T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Viele Kinder können aus unterschiedlichen Gründen nicht bei ihren leiblichen Eltern aufwachsen. In solchen Situationen bieten Pflegefamilien ihnen Sicherheit, Geborgenheit und neue Perspektiven.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Viele Kinder können aus unterschiedlichen Gründen nicht bei ihren leiblichen Eltern aufwachsen. In solchen Situationen bieten Pflegefamilien ihnen Sicherheit, Geborgenheit und neue Perspektiven. Gesucht werden verantwortungsbewusste Menschen, die sich dieser wichtigen Aufgabe stellen möchten – unabhängig von Familienstand, Lebensform oder Herkunft. Entscheidend ist nicht die familiäre Konstellation, sondern die Fähigkeit, Kindern mit Geduld, Verständnis und Verlässlichkeit zu begegnen. Kinder brauchen vor allem stabile Beziehungen und Menschen, die für sie da sind.&nbsp;</p>
@@ -169,7 +181,7 @@
         <title type="html"><![CDATA[Planungsausschuss berät über Freiflächen-Photovoltaik]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungsausschuss-beraet-ueber-freiflaechen-photovoltaik</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungsausschuss-beraet-ueber-freiflaechen-photovoltaik"/>
-        <updated>2026-06-11T00:00:06.000Z</updated>
+        <updated>2026-06-11T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Mit Freiflächen-Photovoltaik, dem Sanierungsgebiet Grünwettersbach, Werbeanlagen und der Grünsatzung beschäftigt sich der Planungsausschuss des Gemeinderats in seiner Sitzung am 18. Juni.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Zu seiner nächsten öffentlichen Sitzung tritt der Planungsausschuss des Gemeinderats am<strong> Donnerstag, 18. Juni 2026, um 16:30 Uhr</strong> im Bürgersaal des Rathauses zusammen.</p>
@@ -182,7 +194,7 @@
         <title type="html"><![CDATA[Malwettbewerb des Team Sauberes Karlsruhe]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/malwettbewerb-des-team-sauberes-karlsruhe</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/malwettbewerb-des-team-sauberes-karlsruhe"/>
-        <updated>2026-06-10T00:00:07.000Z</updated>
+        <updated>2026-06-10T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Schnapp dir Stifte, Farben und Papier: Der Malwettbewerb des Team Sauberes Karlsruhe (TSK) startet wieder! Ab sofort können Karlsruher Kinder im Grundschulalter kreative Bilder für den Jahreskalender 2027 des TSK gestalten.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -269,19 +281,6 @@
 
 
 </div></div>]]></content>
-        <published>2026-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tonie-Figuren Tauschbörse in der Kinder- und Jugendbibliothek]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tonie-figuren-tauschboerse-in-der-kinder-und-jugendbibliothek</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tonie-figuren-tauschboerse-in-der-kinder-und-jugendbibliothek"/>
-        <updated>2026-06-10T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Am 3. Juli 2026 können Tonie-Hörerinnen und -Hörer ihre Figuren tauschen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Die Kinder- und Jugendbibliothek lädt alle Tonie Fans herzlich zur offenen <strong>Tonie-Figuren Tauschbörse</strong> ein. Ohne Anmeldung und völlig kostenfrei können große und kleine Besucherinnen und Besucher ihre ausgehörten Tonies am <strong>Freitag, 3. Juli ab 15 Uhr</strong> mitbringen und vor Ort,&nbsp;U-Boot (1. OG), mit anderen tauschen. Eine ideale Gelegenheit, geliebten Figuren ein neues Zuhause zu geben und gleichzeitig frischen Hörspaß zu entdecken.</p>
-<p>Neben dem Tauschen lädt die Veranstaltung dazu ein, in entspannter Atmosphäre zu stöbern, ins Gespräch zu kommen und neue Lieblingsgeschichten kennenzulernen. Tonie-Fans werden darum gebeten, eigene Tonies zum Tauschen mitzubringen. Der Eintritt ist kostenfrei.&nbsp;</p>
-
-                                    </div></div>]]></content>
         <published>2026-06-10T00:00:00.000Z</published>
     </entry>
 </feed>
