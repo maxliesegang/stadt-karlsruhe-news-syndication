@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-06-13T21:20:25.751Z</updated>
+    <updated>2026-06-14T10:51:03.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -31,12 +31,22 @@
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinderat-beschliesst-abfallwirtschaftskonzept"/>
         <updated>2026-06-12T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[Der Gemeinderat hat das Abfallwirtschaftskonzept der Stadt Karlsruhe beschlossen. Damit werden die strategischen Grundlagen für eine zukunftsfähige Abfallwirtschaft für Karlsruhe festgelegt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
+    <!-- SKIP NAVIGATION -->
+    <!--TYPO3SEARCH_end-->
+    <nav aria-label="Sprunglink"> <a href="#footer" title="Footer der Seite anspringen">Footer der Seite anspringen</a> </nav>
+    <!--TYPO3SEARCH_begin-->
+    
+    
+
+
+        
+                <div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
                         <!-- date -->
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-06-12">
-                                        Gestern
+                                        Freitag, 12. Juni 2026
                                     </time>
                                 </p>
 
@@ -99,7 +109,13 @@
                                     
                                 
                             </div>
-                    </div></div>]]></content>
+                    </div>
+            
+    
+
+
+
+</div></div>]]></content>
         <published>2026-06-12T00:00:00.000Z</published>
     </entry>
     <entry>
