@@ -14,7 +14,10 @@ Use the most specific `AGENTS.md` available for the file you are editing.
 This repository currently uses a small module-based TypeScript scraper:
 
 - `src/index.ts`: pipeline orchestration
-- `src/scraper.ts`: fetch + parse + content extraction + ID generation
+- `src/scraper.ts`: HTTP fetch + listing parsing + bounded concurrency + article ID creation
+- `src/date.ts`: German date-string parsing
+- `src/url.ts`: shared URL resolution
+- `src/extractor.ts`: article body extraction (Readability → Cheerio fallback)
 - `src/feed.ts`: tracking I/O + change detection + Atom generation
 - `src/config.ts`: environment configuration, selectors, shared types
 

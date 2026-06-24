@@ -5,7 +5,10 @@ Context for `src/` (TypeScript application code).
 ## Module Responsibilities
 
 - `index.ts`: orchestrates steps only (fetch, scrape, detect, generate, save).
-- `scraper.ts`: HTTP fetch, listing parsing, date parsing, content extraction, ID creation.
+- `scraper.ts`: HTTP fetch, listing parsing, concurrency, content extraction, ID creation.
+- `date.ts`: German date-string parsing (`parseGermanDate`).
+- `url.ts`: shared URL resolution (`resolveHttpUrl`).
+- `extractor.ts`: article body extraction (Readability → Cheerio fallback).
 - `feed.ts`: tracking load/save, change detection, Atom feed writing.
 - `config.ts`: environment defaults, selectors, constants, shared types.
 

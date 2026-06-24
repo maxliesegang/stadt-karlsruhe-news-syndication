@@ -1,5 +1,6 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { generateId, normalizeLink, parseGermanDate } from './scraper.js';
+import { createArticleId, normalizeArticleLink } from './scraper.js';
+import { parseGermanDate } from './date.js';
 
 describe('parseGermanDate', () => {
   afterEach(() => {
@@ -24,25 +25,25 @@ describe('parseGermanDate', () => {
   });
 });
 
-describe('normalizeLink', () => {
+describe('normalizeArticleLink', () => {
   it('normalizes relative links', () => {
-    const normalized = normalizeLink('/aktuelles/testartikel');
+    const normalized = normalizeArticleLink('/aktuelles/testartikel');
 
     expect(normalized).toBe('https://www.karlsruhe.de/aktuelles/testartikel');
   });
 
   it('rejects non-http links', () => {
-    const normalized = normalizeLink('javascript:alert(1)');
+    const normalized = normalizeArticleLink('javascript:alert(1)');
 
     expect(normalized).toBe('');
   });
 });
 
-describe('generateId', () => {
+describe('createArticleId', () => {
   it('is deterministic for same content and date', () => {
     const date = new Date('2026-02-24T12:00:00.000Z');
-    const first = generateId('<p>same</p>', date);
-    const second = generateId('<p>same</p>', date);
+    const first = createArticleId('<p>same</p>', date);
+    const second = createArticleId('<p>same</p>', date);
 
     expect(first).toBe(second);
   });

@@ -183,11 +183,18 @@ Tracking data is persisted in `data/tracking.json` and committed to git.
 stadt-karlsruhe-news-syndication/
 ├── src/
 │   ├── index.ts              # Pipeline orchestration
-│   ├── scraper.ts            # Fetching + parsing + content extraction
+│   ├── scraper.ts            # Fetching + listing parsing + ID creation
+│   ├── date.ts               # German date-string parsing
+│   ├── url.ts                # Shared URL resolution
+│   ├── extractor.ts          # Article body extraction (Readability → Cheerio)
 │   ├── feed.ts               # Tracking state + Atom generation
 │   ├── config.ts             # Shared config, selectors, and types
-│   ├── scraper.test.ts       # Scraper/date/link unit tests
-│   └── feed.test.ts          # Tracking unit tests
+│   ├── scraper.test.ts       # Scraper/link/ID unit tests
+│   ├── feed.test.ts          # Tracking + feed-content unit tests
+│   └── extraction.test.ts    # Content extraction tests (against fixtures)
+├── scripts/
+│   ├── test-extraction.ts   # Refreshes saved HTML fixtures from the live site
+│   └── fixtures/            # Saved article HTML used by extraction tests
 ├── .github/workflows/
 │   └── update-feed.yml      # GitHub Actions (runs every 4 hours)
 ├── docs/
@@ -199,6 +206,7 @@ stadt-karlsruhe-news-syndication/
 ├── package.json
 ├── tsconfig.json
 ├── README.md
+├── CLAUDE.md                # Quick orientation for Claude Code
 └── AGENTS.md                # Guide for AI agents
 ```
 
@@ -208,8 +216,11 @@ The source code is split by responsibility:
 
 1. **`src/index.ts`** - Main pipeline (fetch, scrape, detect, generate, save)
 2. **`src/config.ts`** - Environment values, selectors, constants, shared types
-3. **`src/scraper.ts`** - HTTP fetching, date parsing, listing parsing, content extraction, ID generation
-4. **`src/feed.ts`** - Tracking load/save, change detection, Atom feed writing
+3. **`src/scraper.ts`** - HTTP fetching, listing parsing, bounded concurrency, article ID creation
+4. **`src/date.ts`** - German date-string parsing (`parseGermanDate`)
+5. **`src/url.ts`** - Shared URL resolution (`resolveHttpUrl`)
+6. **`src/extractor.ts`** - Article body extraction (Readability with a Cheerio fallback)
+7. **`src/feed.ts`** - Tracking load/save, change detection, Atom feed writing
 
 ### Tech Stack
 
@@ -262,7 +273,7 @@ If the scraper returns 0 articles:
 If dates aren't parsed correctly:
 
 1. Check console output for warnings about unparsed dates
-2. Add new patterns to `parseGermanDate()` in `src/scraper.ts`
+2. Add new patterns to `parseGermanDate()` in `src/date.ts`
 3. Test with actual website data
 
 ### Content extraction issues
@@ -271,7 +282,7 @@ If articles have missing or incorrect content:
 
 1. Check if @mozilla/readability is extracting properly (console logs show method used)
 2. Update cheerio fallback selectors in `CONFIG.SELECTORS.contentContainers` (in `src/config.ts`)
-3. Adjust extraction heuristics in `extractContent()` (`src/scraper.ts`) if content is missing
+3. Adjust extraction heuristics in `extractContent()` (`src/extractor.ts`) if content is missing
 
 ## Contributing
 
@@ -280,10 +291,10 @@ If articles have missing or incorrect content:
 The codebase is intentionally simple and split into focused modules:
 
 - `src/index.ts` keeps orchestration linear and easy to follow
-- `src/scraper.ts` contains scraping and extraction behavior
+- `src/scraper.ts` drives fetching and listing parsing, delegating dates (`date.ts`), URLs (`url.ts`), and body extraction (`extractor.ts`)
 - `src/feed.ts` contains tracking and feed generation behavior
 - `src/config.ts` centralizes selectors and environment-driven settings
-- Unit tests in `src/*.test.ts` cover parser and tracking behavior
+- Unit tests in `src/*.test.ts` cover parsing, tracking, and content extraction
 
 ### For AI Agents
 

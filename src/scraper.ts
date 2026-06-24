@@ -8,17 +8,11 @@ import * as cheerio from 'cheerio';
 import { createHash } from 'node:crypto';
 import type { Element } from 'domhandler';
 import { CONFIG, type Article } from './config.js';
+import { parseGermanDate } from './date.js';
+import { resolveHttpUrl } from './url.js';
 import { extractContent } from './extractor.js';
 
 type ListingCandidate = Omit<Article, 'id' | 'content'> & { position: number };
-
-const ONE_DAY_MS = 24 * 60 * 60 * 1000;
-
-const RELATIVE_DATE_PATTERNS = [
-  { pattern: /vor\s+(\d+)\s+stunde(n)?/i, milliseconds: 60 * 60 * 1000 },
-  { pattern: /vor\s+(\d+)\s+minute(n)?/i, milliseconds: 60 * 1000 },
-  { pattern: /vor\s+(\d+)\s+tag(en)?/i, milliseconds: ONE_DAY_MS },
-] as const;
 
 // ============================================================================
 // HTTP FETCHING
@@ -41,101 +35,18 @@ export async function fetchHtml(url: string): Promise<string> {
 }
 
 // ============================================================================
-// GERMAN DATE PARSING
-// ============================================================================
-
-function parseRelativeDate(text: string, now: Date): Date | null {
-  for (const { pattern, milliseconds } of RELATIVE_DATE_PATTERNS) {
-    const match = text.match(pattern);
-    if (!match) continue;
-
-    const amount = Number.parseInt(match[1], 10);
-    if (Number.isNaN(amount)) continue;
-
-    return new Date(now.getTime() - amount * milliseconds);
-  }
-
-  return null;
-}
-
-export function parseGermanDate(text: string): Date {
-  const now = new Date();
-  const trimmed = text.trim();
-
-  if (!trimmed) {
-    console.warn('  Could not parse empty date, using current time');
-    return now;
-  }
-
-  const relativeDate = parseRelativeDate(trimmed, now);
-  if (relativeDate) return relativeDate;
-
-  // "Gestern" = yesterday
-  if (/gestern/i.test(trimmed)) {
-    return new Date(now.getTime() - ONE_DAY_MS);
-  }
-
-  // "Heute" = today
-  if (/heute/i.test(trimmed)) {
-    return now;
-  }
-
-  // Absolute date: "15. Januar 2024"
-  const monthNameMatch = trimmed.match(/(\d{1,2})\.\s+([a-zäöüß]+)\s+(\d{4})/i);
-  if (monthNameMatch) {
-    const day = Number.parseInt(monthNameMatch[1], 10);
-    const monthName = monthNameMatch[2].toLocaleLowerCase('de-DE');
-    const year = Number.parseInt(monthNameMatch[3], 10);
-    const month = CONFIG.GERMAN_MONTHS[monthName];
-
-    if (month !== undefined) {
-      return new Date(year, month, day);
-    }
-  }
-
-  // Numeric date: "15.01.2024"
-  const numericMatch = trimmed.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
-  if (numericMatch) {
-    const day = Number.parseInt(numericMatch[1], 10);
-    const month = Number.parseInt(numericMatch[2], 10) - 1;
-    const year = Number.parseInt(numericMatch[3], 10);
-    return new Date(year, month, day);
-  }
-
-  // ISO date and all parsable browser formats
-  const parsed = new Date(trimmed);
-  if (!Number.isNaN(parsed.getTime())) {
-    return parsed;
-  }
-
-  console.warn(`  Could not parse date "${trimmed}", using current time`);
-  return now;
-}
-
-// ============================================================================
 // URL NORMALIZATION
 // ============================================================================
 
-export function normalizeLink(link: string): string {
-  const trimmed = link.trim();
-  if (!trimmed) return '';
-
-  try {
-    const normalized = new URL(trimmed, CONFIG.SOURCE_URL);
-    if (normalized.protocol !== 'http:' && normalized.protocol !== 'https:') {
-      return '';
-    }
-    return normalized.href;
-  } catch {
-    return '';
-  }
+export function normalizeArticleLink(link: string): string {
+  return resolveHttpUrl(link, CONFIG.SOURCE_URL) ?? '';
 }
 
 // ============================================================================
 // ID GENERATION
 // ============================================================================
 
-export function generateId(content: string, date: Date): string {
+export function createArticleId(content: string, date: Date): string {
   const dateStr = date.toISOString().slice(0, 10);
   const hashInput = `${dateStr}|${content}`;
   return createHash('md5').update(hashInput).digest('hex');
@@ -182,7 +93,7 @@ function parseListingCandidate(
   }
 
   const rawLink = element.find('a').first().attr('href') ?? '';
-  const link = normalizeLink(rawLink);
+  const link = normalizeArticleLink(rawLink);
   if (!link) {
     console.log(`  [${position}] Skipping "${title}": invalid link`);
     return null;
@@ -245,7 +156,7 @@ export async function scrapeArticles(html: string): Promise<Article[]> {
         console.log(`[${candidate.position}/${elements.length}] ${candidate.title}`);
         const detailHtml = await fetchHtml(candidate.link);
         const content = extractContent(detailHtml, candidate.link);
-        const id = generateId(content, candidate.date);
+        const id = createArticleId(content, candidate.date);
 
         return {
           id,

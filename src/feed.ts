@@ -8,11 +8,12 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import * as cheerio from 'cheerio';
 import { CONFIG, type Article, type TrackingData } from './config.js';
+import { resolveHttpUrl } from './url.js';
 
 type ChangeDetectionResult = {
   newCount: number;
   updatedCount: number;
-  unchanged: number;
+  unchangedCount: number;
   updatedTracking: TrackingData;
 };
 
@@ -20,22 +21,17 @@ function isPlaceholderImage(value: string): boolean {
   return value.trimStart().startsWith('data:image/gif;base64,');
 }
 
-function normalizeUrl(value: string, baseUrl: string): string {
+function normalizeContentUrl(value: string, baseUrl: string): string {
   const trimmed = value.trim();
 
+  // Leave non-navigational schemes (data:, mailto:, anchors, …) untouched so
+  // we don't break inline content; everything else is resolved to an absolute
+  // http(s) URL, falling back to the original on failure.
   if (!trimmed || /^(data:|mailto:|tel:|javascript:|#)/i.test(trimmed)) {
     return trimmed;
   }
 
-  try {
-    const absolute = new URL(trimmed, baseUrl);
-    if (absolute.protocol !== 'http:' && absolute.protocol !== 'https:') {
-      return trimmed;
-    }
-    return absolute.href;
-  } catch {
-    return trimmed;
-  }
+  return resolveHttpUrl(trimmed, baseUrl) ?? trimmed;
 }
 
 function firstSrcsetUrl(srcset: string): string {
@@ -55,7 +51,7 @@ function normalizeSrcset(srcset: string, baseUrl: string): string {
       if (parts.length === 0 || !parts[0]) return '';
 
       const [url, ...descriptor] = parts;
-      const normalizedUrl = normalizeUrl(url, baseUrl);
+      const normalizedUrl = normalizeContentUrl(url, baseUrl);
       return [normalizedUrl, ...descriptor].join(' ');
     })
     .filter(Boolean)
@@ -115,7 +111,7 @@ export function prepareContentForFeed(content: string, articleUrl: string): stri
     const srcset = img.attr('srcset')?.trim();
 
     if (src) {
-      img.attr('src', normalizeUrl(src, articleUrl));
+      img.attr('src', normalizeContentUrl(src, articleUrl));
     }
     if (srcset) {
       if (isPlaceholderImage(srcset)) {
@@ -130,7 +126,7 @@ export function prepareContentForFeed(content: string, articleUrl: string): stri
     const link = $(element);
     const href = link.attr('href')?.trim();
     if (href) {
-      link.attr('href', normalizeUrl(href, articleUrl));
+      link.attr('href', normalizeContentUrl(href, articleUrl));
     }
   });
 
@@ -173,7 +169,7 @@ function toTrackingEntry(article: Article, lastSeen: string): TrackingData[strin
 export function detectChanges(articles: Article[], tracking: TrackingData): ChangeDetectionResult {
   let newCount = 0;
   let updatedCount = 0;
-  let unchanged = 0;
+  let unchangedCount = 0;
   const now = new Date().toISOString();
   const updatedTracking: TrackingData = { ...tracking };
 
@@ -187,14 +183,14 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
       updatedTracking[article.id] = toTrackingEntry(article, now);
     } else {
       // Unchanged - just update lastSeen
-      unchanged++;
+      unchangedCount++;
       updatedTracking[article.id] = { ...existing, lastSeen: now };
     }
   }
 
-  console.log(`Changes: ${newCount} new, ${updatedCount} updated, ${unchanged} unchanged`);
+  console.log(`Changes: ${newCount} new, ${updatedCount} updated, ${unchangedCount} unchanged`);
 
-  return { newCount, updatedCount, unchanged, updatedTracking };
+  return { newCount, updatedCount, unchangedCount, updatedTracking };
 }
 
 // ============================================================================
