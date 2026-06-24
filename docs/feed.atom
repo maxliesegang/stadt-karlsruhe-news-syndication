@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-06-24T14:41:23.888Z</updated>
+    <updated>2026-06-24T17:59:48.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,10 +13,23 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[Gebühren werden leicht erhöht]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gebuehren-werden-leicht-erhoeht</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gebuehren-werden-leicht-erhoeht"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die Gebühren für das Badische KONServatorium und die Jugendmusikschule Neureut werden zu Beginn des neuen Schuljahres am 1. September 2026 um rund zehn Prozent erhöht.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Die Gebühren für das Badische KONServatorium und die Jugendmusikschule Neureut werden zu Beginn des neuen Schuljahres am 1. September 2026 um rund zehn Prozent erhöht. Einer entsprechenden Satzungsänderung hat der Gemeinderat mit großer Mehrheit zugestimmt. Grund für die Erhöhung ist neben allgemeinen Preissteigerungen die Haushaltssicherung.</p>
+<p>Üblicherweise erfolgen die Gebührenerhöhungen am KONS im zweijährigen Turnus. Ziel ist es, den Kostendeckungsgrad zu stabilisieren. Oliver Schnell (AfD) bezeichnete die Erhöhung als gerechtfertigt, bemängelte aber den aus seiner Sicht „geringen Kostendeckungsgrad“ von rund 20 Prozent. Dieser müsse künftig höher ausfallen, zumal die Musikkurse eine freiwillige Leistung seien, so Schnell. Tanja Kaufmann (Die LINKE) bezeichnete diese und weitere Gebührenerhöhungen in den Bereichen Bildung und Kultur als „nicht verkraftbar“ für junge Menschen und lehnte den Verwaltungsvorschlag ab.</p>
+<p>Der Erwachsenenzuschlag wird künftig einheitlich ab dem vollendeten 27. Lebensjahr erhoben, die bisherige Regelung entfällt. Bisher mussten Erwachsene ab 18 Jahren den Zuschlag zahlen. Ausgenommen waren Schülerinnen und Schüler, Studierende und Teilnehmende von FSJ, FÖJ und BFD. Aufgrund des hohen Verwaltungsaufwandes bei den Nachweisen wurde die Satzungsregelung nun angepasst. Ebenfalls neu: Wer kurzfristig die Teilnahme an einem Kurs absagt, muss künftig eine Stornogebühr entrichten. -jd-</p>
+                                    </div></div>]]></content>
+        <published>2026-06-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mehr Rücksicht, Aufmerksamkeit und gegenseitiger Respekt für mehr Sicherheit]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mehr-ruecksicht-aufmerksamkeit-und-gegenseitiger-respekt-fuer-mehr-sicherheit</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mehr-ruecksicht-aufmerksamkeit-und-gegenseitiger-respekt-fuer-mehr-sicherheit"/>
-        <updated>2026-06-24T00:00:00.000Z</updated>
+        <updated>2026-06-24T00:00:01.000Z</updated>
         <summary type="html"><![CDATA[In den kommenden Wochen wird die Stadt die Einhaltung der geltenden Verkehrsregeln, insbesondere in verkehrsberuhigten Bereichen, verstärkt kontrollieren.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Mit Beginn der Sommermonate werden Karlsruhes Wohnquartiere, verkehrsberuhigte Bereiche und Aufenthaltsflächen wieder verstärkt genutzt. Kinder spielen im Freien, Familien halten sich länger im öffentlichen Raum auf und viele Menschen verbringen ihre Freizeit im unmittelbaren Wohnumfeld. Um die Sicherheit aller Verkehrsteilnehmenden zu gewährleisten, wird die Stadt Karlsruhe die Einhaltung der geltenden Verkehrsregeln, insbesondere in verkehrsberuhigten Bereichen, daher verstärkt kontrollieren.</p>
@@ -36,7 +49,7 @@
         <title type="html"><![CDATA[Zwei Schließtage der Schadstoffannahmestelle Nordbecken]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwei-schliesstage-der-schadstoffannahmestelle-nordbeckens</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwei-schliesstage-der-schadstoffannahmestelle-nordbeckens"/>
-        <updated>2026-06-24T00:00:01.000Z</updated>
+        <updated>2026-06-24T00:00:02.000Z</updated>
         <summary type="html"><![CDATA[Das Team Sauberes Karlsruhe informiert, dass die Schadstoffannahmestelle in der Nordbeckenstraße aus betrieblichen Gründen am 25. Juni und am 30. Juni 2026 geschlossen bleibt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Das Team Sauberes Karlsruhe informiert, dass die Schadstoffannahmestelle in der Nordbeckenstraße aus betrieblichen Gründen am Donnerstag, 25. Juni 2026, und am Dienstag, 30. Juni 2026, geschlossen bleibt.</p>
@@ -48,7 +61,7 @@
         <title type="html"><![CDATA[Gemeinderat stimmt Neuausrichtung der Sperrmüllentsorgung zu]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinderat-stimmt-neuausrichtung-der-sperrmuellentsorgung-zu</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinderat-stimmt-neuausrichtung-der-sperrmuellentsorgung-zu"/>
-        <updated>2026-06-24T00:00:02.000Z</updated>
+        <updated>2026-06-24T00:00:03.000Z</updated>
         <summary type="html"><![CDATA[Zum 1. Januar 2027 wird der Straßensperrmüll im gesamten Stadtgebiet eingestellt. Gleichzeitig wird der Service „Sperrmüll auf Abruf“ erweitert und durch einen kostenpflichtigen Express-Service ergänzt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Der Gemeinderat hat in seiner Sitzung am 23. Juni 2026 eine Neuausrichtung der Sperrmüllentsorgung in Karlsruhe beschlossen. Zum 1. Januar 2027 wird der Straßensperrmüll im gesamten Stadtgebiet eingestellt. Gleichzeitig wird der Service „Sperrmüll auf Abruf“ erweitert und durch einen kostenpflichtigen Express-Service ergänzt.</p>
@@ -60,7 +73,7 @@
         <title type="html"><![CDATA[Öffentliche Sitzung des Forums Ehrenamt]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/oeffentliche-sitzung-des-forums-ehrenamt</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/oeffentliche-sitzung-des-forums-ehrenamt"/>
-        <updated>2026-06-23T00:00:03.000Z</updated>
+        <updated>2026-06-23T00:00:04.000Z</updated>
         <summary type="html"><![CDATA[Ds Forum Ehrenmt kommt am 30. Juni 2026 zusammen. Interessierte können sich für die öffentliche Sitzung anmelden.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Unter dem Vorsitz von Bürgermeister Dr. Albert Käuflein tagt das <strong>Forum Ehrenamt</strong> am <strong>Dienstag, 30. Juni 2026</strong>, um 18 Uhr im <strong>Großen Sitzungssaal im Rathaus am Marktplatz</strong> (Karl-Friedrich-Straße 10, 76133 Karlsruhe). Es stehen im Mittelpunkt der Sitzung die Raumförderung für Stadtteilhäuser in Karlsruhe, die Weiterentwicklung des Forum Ehrenamts sowie die Planung des ersten Karlsruher Engagement-Campus. Darüber hinaus wird der aktuelle Prozess zur Entwicklung einer städtischen Strategie zur Förderung von Ehrenamt und Engagement vorgestellt.</p>
@@ -72,7 +85,7 @@
         <title type="html"><![CDATA[TSK treibt E-Mobilität weiter voran]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tsk-treibt-e-mobilitaet-weiter-voran</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tsk-treibt-e-mobilitaet-weiter-voran"/>
-        <updated>2026-06-22T00:00:04.000Z</updated>
+        <updated>2026-06-22T00:00:05.000Z</updated>
         <summary type="html"><![CDATA[Vorreiter in Baden-Württemberg: Umweltschutz funktioniert in Karlsruhe auch mit Nutzfahrzeugen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Das Team Sauberes Karlsruhe treibt die Elektrifizierung seiner Fahrzeuge der Entsorgungslogistik weiter voran und setzt dabei auf eine zuverlässige Ladeinfrastruktur für den täglichen Einsatz im Stadtgebiet.</p>
@@ -84,7 +97,7 @@
         <title type="html"><![CDATA[Ameisen-Weg-Woche in Neureut]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ameisen-weg-woche-in-neureut</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ameisen-weg-woche-in-neureut"/>
-        <updated>2026-06-22T00:00:05.000Z</updated>
+        <updated>2026-06-22T00:00:06.000Z</updated>
         <summary type="html"><![CDATA[Die Stadtverwaltung lädt zu Information, Austausch und gemeinsamem Handeln gegen die Tapinoma magnum ein.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Die Stadtverwaltung Karlsruhe lädt alle interessierten Bürgerinnen und Bürger herzlich zur <strong>Ameisen-Weg-Woche in Neureut</strong> ein. Die Ausbreitung der invasiven Ameisenart Tapinoma magnum stellt sowohl betroffene Anwohnerinnen und Anwohner als auch die Stadt vor erhebliche Herausforderungen. Nur durch gemeinsames Handeln besteht eine realistische Chance, die Ausbreitung der Kolonien wirksam einzudämmen.</p>
@@ -101,7 +114,7 @@
         <title type="html"><![CDATA[Idyllischer Naturgarten lädt zu Besuch ein]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/idyllischer-naturgarten-laedt-zu-besuch-ein</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/idyllischer-naturgarten-laedt-zu-besuch-ein"/>
-        <updated>2026-06-22T00:00:06.000Z</updated>
+        <updated>2026-06-22T00:00:07.000Z</updated>
         <summary type="html"><![CDATA[Am 27. Juni 2026 öffnet von 14 bis 17 Uhr der Garten des "Roten Hauses" in Rüppurr im Rahmen der Reihe "Offene Pforte".]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Idyllisch wird es am  kommenden Wochenende, wenn am <strong>Samstag, 27. Juni</strong>, von <strong>14 bis 17 Uhr </strong>in der <a href="https://kalender.karlsruhe.de/db/termine/stadtleben/offene_pforte_der_idyllische" title="Link zur Seite" target="_blank" rel="noreferrer">Rastatter Straße 17</a> der Naturgarten auf der Südseite des denkmalgeschützten „Roten Hauses“ in Rüppurr seine Pforte aufschließt.&nbsp;Große Bäume spenden Schatten und drei Sitzgelegenheiten, eine davon auf einer Steinterrasse mit Tischen und Sonnenschutz, laden dazu ein, sich niederzulassen, um die Atmosphäre des Naturgartens zu genießen.</p>
@@ -116,7 +129,7 @@
         <title type="html"><![CDATA[20 Jahre EnergieForum Karlsruhe]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/20-jahre-energieforum-karlsruhe-jubilaeumsfeier-setzt-starke-impulse-fuer-die-zukunft</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/20-jahre-energieforum-karlsruhe-jubilaeumsfeier-setzt-starke-impulse-fuer-die-zukunft"/>
-        <updated>2026-06-22T00:00:07.000Z</updated>
+        <updated>2026-06-22T00:00:08.000Z</updated>
         <summary type="html"><![CDATA[Mit einer Jubiläumsveranstaltung feierte das EnergieForum der Wirtschaftsförderung Karlsruhe sein 20-jähriges Bestehen. Rund 100 Expertinnen und Experten aus Wissenschaft, Wirtschaft, Start-ups und Politik kamen zusammen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Mit einer Jubiläumsveranstaltung hat das EnergieForum der Wirtschaftsförderung Karlsruhe sein 20-jähriges Bestehen gefeiert. Rund 100 Expertinnen und Experten aus Wissenschaft, Wirtschaft, Start-ups und Politik kamen zusammen, um auf zwei Jahrzehnte erfolgreicher Netzwerkarbeit zurückzublicken und neue Ideen für die Zukunft zu entwickeln.</p>
@@ -128,25 +141,6 @@
 <p>„Gerade in Zeiten großer Transformation brauchen wir Netzwerke, die verbinden, inspirieren und Projekte möglich machen“, bestätigte Torben Stieglitz, Direktor der Wirtschaftsförderung Karlsruhe.&nbsp;„Im EnergieForum leben wir dieses vertrauensvolle Netzwerken und gestalten zusammen die Zukunft“, sagte Andrea Bühler, Clustermanagerin, und lädt zu weiteren Veranstaltungen ein.&nbsp;Die Veranstaltung stand zugleich im Zeichen der EFFEKTE-Wissenschaftsreihe mit dem Thema „Energie und Gesundheit“ in Zusammenarbeit mit dem Wissenschaftsbüro der Wirtschaftsförderung.</p>
 <p>Nachmittags präsentierten Hochschulen und Unternehmen ein vielfältiges Mitmachprogramm rund um Energie, Mobilität und Gesundheit. Ein Beispiel war das Radeln zur Stromerzeugung; als Anreiz gab es einen gesunden Smoothie zur Stärkung. Das Wirtschaftsministerium präsentierte den Bosch Health Truck. Hierbei war auch das Karlsruher Institut für Technologie (KIT) involviert und gestaltete digitale Zukunftsthemen im Gesundheitsbereich mit. Die Innovationen machten anschaulich, wie Wissenschaft und Technologie zusammenwirken, um Energie, Gesundheit und Wohlbefinden nachhaltig zu verbessern.</p>
 <p>Am Abend fand im TRIANGEL die Podiumsdiskussion „Energie und Gesundheit im Fokus“ statt, bei der Expertinnen und Experten aus Wissenschaft und Wirtschaft über Synergien zwischen Energie und Gesundheit diskutierten.</p>
-
-                                    </div></div>]]></content>
-        <published>2026-06-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karlsruhe beteiligt sich am Aktionstag „Kommunen am Limit“]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-beteiligt-sich-am-aktionstag-kommunen-am-limit</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-beteiligt-sich-am-aktionstag-kommunen-am-limit"/>
-        <updated>2026-06-22T00:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Deutscher Städtetag, Deutscher Landkreistag und Deutscher Städte und Gemeindebund fordern beim gemeinsamen Aktionstag wirksame Maßnahmen gegen die kommunale Finanzkrise.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Die Stadt Karlsruhe beteiligt sich am heutigen Montag, 22. Juni, am <strong>Aktionstag „Kommunen am Limit“</strong>, um auf die dramatische kommunale Finanzsituation aufmerksam zu machen. Die drei kommunalen Spitzenverbände – Deutscher Städtetag, Deutscher Landkreistag und Deutscher Städte und Gemeindebund – haben gemeinsam zu diesem Aktionstag aufgerufen und fordern von Bund und Ländern, endlich entschlossen zu handeln und wirksame Maßnahmen gegen die kommunale Finanzkrise zu ergreifen.</p>
-<h4>Dramatische Finanzlage</h4>
-<p>Die Finanzlage der Städte, Landkreise und Gemeinden ist dramatisch: Das kommunale Defizit lag 2025 bei rund 30 Milliarden Euro – ein historischer Höchststand, Tendenz steigend. Neben der Unterfinanzierung des ÖPNV und des Städtischen Klinikums tragen auch davongaloppierende Sozialausgaben in Karlsruhe dazu bei, dass sich der kommunale Haushalt in einer strukturellen Schieflage befindet. Ein Grund hierfür ist, dass die von Bund und Ländern an die Kommunen delegierten Aufgaben nicht auskömmlich gegenfinanziert werden.&nbsp;</p>
-<p>So konnte noch im Jahr 2023 ein Überschuss in Höhe von rund 20 Millionen Euro erreicht werden. Davon ist Karlsruhe inzwischen weit entfernt: Nachdem für den Haushalt 2026/2027 jährlich rund 80 Millionen in einem gemeinsamen Kraftakt eingespart werden mussten, war bereits im März 2026 eine erneute Haushaltsperre in Höhe von 60 Millionen Euro notwendig geworden, weil die Gewerbesteuereinnahmen unvorhergesehen eingebrochen sind. Allein bis Ende 2026 wird mit Kreditverbindlichkeiten in Höhe von über einer Milliarde Euro gerechnet, obwohl Karlsruhe seit 2021 durch einschneidende Maßnahmen insgesamt rund 300 Millionen Euro eingespart hat. Betroffen sind hiervon alle Bereiche: der Wegfall des Geschwisterkindzuschusses in Kitas, Kürzungen bei Bauunterhaltung, Straßen und Gebäuden sowie im Kultur- und Sozialbereich und bei Zuschüssen für Vereine und Institutionen.</p>
-<h4>Appell an&nbsp;Bundesregierung und die Ministerpräsidentenkonferenz</h4>
-<p>„Die Kommunen sind finanziell am Limit“, sagt Oberbürgermeister Dr. Frank Mentrup. „Eigentlich müsste man sagen, sie befinden sich im freien Fall. Daher werden viele Aktionen gestartet, um an die Bundesregierung und die Ministerpräsidentenkonferenz zu appellieren, sich noch intensiver und vor allem verantwortungsvoller um die kommunale Finanzsituation zu kümmern.“</p>
-<p>Gemeinsam mit den Kommunen und ihren drei kommunalen Spitzenverbände fordert die Stadt Karlsruhe deshalb von Bund und Ländern:<br> • Das kommunale Finanzierungsdefizit muss strukturell beseitigt werden. Dies kann über eine deutliche Erhöhung des kommunalen Anteils an den Gemeinschaftssteuern sowie notwendige Reformen in den sozialen Sicherungssystemen geschehen.<br> • Der Grundsatz „Wer bestellt, bezahlt auch“ muss sofort für jede Aufgabenübertragung oder -ausweitung von Bund und Ländern gelten – mit einem vollständigen finanziellen und dynamisierten Ausgleich für alle Aufgaben, die den Kommunen von Bund und Ländern übertragen werden.</p>
-<p>Die kommunale Finanzkrise ist nicht abstrakt. Sie ist sehr konkret vor Ort spürbar. Bund und Länder müssen handeln, damit der Staat vor Ort für seine Bürgerinnen und Bürger handlungsfähig bleibt.</p>
 
                                     </div></div>]]></content>
         <published>2026-06-22T00:00:00.000Z</published>
