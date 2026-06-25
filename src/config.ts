@@ -51,7 +51,7 @@ export const CONFIG = {
   TRACKING: {
     // Drop tracking entries for articles not seen within this many days, so
     // `tracking.json` stays bounded as old articles leave the source listing.
-    retentionDays: parsePositiveInteger(process.env.TRACKING_RETENTION_DAYS, 30),
+    retentionDays: parsePositiveInteger(process.env.TRACKING_RETENTION_DAYS, 365),
   },
 
   // CSS selectors for HTML parsing

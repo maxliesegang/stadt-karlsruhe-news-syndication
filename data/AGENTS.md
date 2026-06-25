@@ -17,7 +17,7 @@ Context for `data/` (persistent tracking state).
 1. Treat `tracking.json` as machine-managed state; prefer updating it via runtime (`npm run start`) rather than manual edits.
 2. Never reset, truncate, or bulk-rewrite tracking history unless explicitly requested.
    Routine runs prune entries whose `lastSeen` is older than
-   `TRACKING_RETENTION_DAYS` (default 30); that automatic aging-out is expected.
+   `TRACKING_RETENTION_DAYS` (default 365); that automatic aging-out is expected.
 3. Preserve JSON object shape per entry:
    - `contentHash` (string — `md5(content)`)
    - `lastSeen` (ISO timestamp — refreshed every run)

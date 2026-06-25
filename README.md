@@ -137,7 +137,7 @@ All configuration is managed through environment variables:
 | `MAX_ARTICLES`            | `100`                                | Maximum articles in feed                |
 | `OUTPUT_FILE`             | `docs/feed.atom`                     | Feed output path                        |
 | `TRACKING_FILE`           | `data/tracking.json`                 | Change tracking file path               |
-| `TRACKING_RETENTION_DAYS` | `30`                                 | Prune entries unseen for this many days |
+| `TRACKING_RETENTION_DAYS` | `365`                                | Prune entries unseen for this many days |
 
 See [.env.example](.env.example) for all options.
 
@@ -175,7 +175,7 @@ therefore deterministic — it only changes when an article does, so subscribers
 aren't re-notified on every run.
 
 To keep the file bounded, entries for articles not seen within
-`TRACKING_RETENTION_DAYS` (default 30) are pruned. Tracking data is persisted in
+`TRACKING_RETENTION_DAYS` (default 365) are pruned. Tracking data is persisted in
 `data/tracking.json` and committed to git.
 
 ### Feed Limits
