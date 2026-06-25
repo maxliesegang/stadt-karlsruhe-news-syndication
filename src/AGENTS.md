@@ -8,8 +8,10 @@ Context for `src/` (TypeScript application code).
 - `scraper.ts`: HTTP fetch, listing parsing, concurrency, content extraction, ID creation.
 - `date.ts`: German date-string parsing (`parseGermanDate`).
 - `url.ts`: shared URL resolution (`resolveHttpUrl`).
+- `hash.ts`: shared MD5 helper (`md5`) for identity and content hashing.
+- `time.ts`: shared millisecond duration constants (`SECOND_MS`, `MINUTE_MS`, `HOUR_MS`, `DAY_MS`).
 - `extractor.ts`: article body extraction (Readability → Cheerio fallback).
-- `feed.ts`: tracking load/save, change detection, Atom feed writing.
+- `feed.ts`: tracking load/save, change detection, pruning, Atom feed writing.
 - `config.ts`: environment defaults, selectors, constants, shared types.
 
 ## Coding Rules
@@ -20,7 +22,9 @@ Context for `src/` (TypeScript application code).
    - Skip broken entries with warnings.
    - Continue processing remaining articles.
 4. Keep extraction strategy order: Readability first, Cheerio fallback.
-5. Keep IDs deterministic: MD5 of `YYYY-MM-DD|content`.
+5. Keep article identity deterministic and content-independent: `id = md5(link)`.
+   Detect content edits via a separate `contentHash = md5(content)` stored in
+   tracking (do not fold content back into the id).
 6. Keep feed/tracking compatibility with existing data shape (`Article`, `TrackingData`).
 
 ## Environment and Config

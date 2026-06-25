@@ -13,7 +13,7 @@ type TestCase = {
   notContains?: string[];
 };
 
-// Add a new entry here when you add a URL to scripts/test-extraction.ts
+// Add a new entry here when you add a URL to scripts/fetch-fixtures.ts
 // and have run the fetcher to save the HTML fixture.
 const TEST_CASES: TestCase[] = [
   {

@@ -2,16 +2,21 @@
  * German date parsing
  * Turns the various date strings found on karlsruhe.de into `Date` objects,
  * falling back to the current time when a value cannot be understood.
+ *
+ * Absolute dates ("15. Januar 2024", "15.01.2024") are anchored to UTC midnight
+ * so the same input yields the same instant regardless of the machine's
+ * timezone — local runs and the UTC CI runner agree, and feed timestamps stay
+ * stable. `now` is injectable to keep the relative/fallback paths deterministic
+ * and testable.
  */
 
 import { CONFIG } from './config.js';
-
-const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+import { DAY_MS, HOUR_MS, MINUTE_MS } from './time.js';
 
 const RELATIVE_DATE_PATTERNS = [
-  { pattern: /vor\s+(\d+)\s+stunde(n)?/i, milliseconds: 60 * 60 * 1000 },
-  { pattern: /vor\s+(\d+)\s+minute(n)?/i, milliseconds: 60 * 1000 },
-  { pattern: /vor\s+(\d+)\s+tag(en)?/i, milliseconds: ONE_DAY_MS },
+  { pattern: /vor\s+(\d+)\s+stunde(n)?/i, milliseconds: HOUR_MS },
+  { pattern: /vor\s+(\d+)\s+minute(n)?/i, milliseconds: MINUTE_MS },
+  { pattern: /vor\s+(\d+)\s+tag(en)?/i, milliseconds: DAY_MS },
 ] as const;
 
 function parseRelativeDate(text: string, now: Date): Date | null {
@@ -28,8 +33,7 @@ function parseRelativeDate(text: string, now: Date): Date | null {
   return null;
 }
 
-export function parseGermanDate(text: string): Date {
-  const now = new Date();
+export function parseGermanDate(text: string, now: Date = new Date()): Date {
   const trimmed = text.trim();
 
   if (!trimmed) {
@@ -42,7 +46,7 @@ export function parseGermanDate(text: string): Date {
 
   // "Gestern" = yesterday
   if (/gestern/i.test(trimmed)) {
-    return new Date(now.getTime() - ONE_DAY_MS);
+    return new Date(now.getTime() - DAY_MS);
   }
 
   // "Heute" = today
@@ -59,7 +63,7 @@ export function parseGermanDate(text: string): Date {
     const month = CONFIG.GERMAN_MONTHS[monthName];
 
     if (month !== undefined) {
-      return new Date(year, month, day);
+      return new Date(Date.UTC(year, month, day));
     }
   }
 
@@ -69,7 +73,7 @@ export function parseGermanDate(text: string): Date {
     const day = Number.parseInt(numericMatch[1], 10);
     const month = Number.parseInt(numericMatch[2], 10) - 1;
     const year = Number.parseInt(numericMatch[3], 10);
-    return new Date(year, month, day);
+    return new Date(Date.UTC(year, month, day));
   }
 
   // ISO date and all parsable browser formats

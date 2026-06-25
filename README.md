@@ -129,14 +129,15 @@ npm run typecheck
 
 All configuration is managed through environment variables:
 
-| Variable          | Default                              | Description               |
-| ----------------- | ------------------------------------ | ------------------------- |
-| `SOURCE_URL`      | `https://www.karlsruhe.de/aktuelles` | News source URL           |
-| `GITHUB_USERNAME` | -                                    | Your GitHub username      |
-| `FEED_URL`        | Auto-generated                       | Published feed URL        |
-| `MAX_ARTICLES`    | `100`                                | Maximum articles in feed  |
-| `OUTPUT_FILE`     | `docs/feed.atom`                     | Feed output path          |
-| `TRACKING_FILE`   | `data/tracking.json`                 | Change tracking file path |
+| Variable                  | Default                              | Description                             |
+| ------------------------- | ------------------------------------ | --------------------------------------- |
+| `SOURCE_URL`              | `https://www.karlsruhe.de/aktuelles` | News source URL                         |
+| `GITHUB_USERNAME`         | -                                    | Your GitHub username                    |
+| `FEED_URL`                | Auto-generated                       | Published feed URL                      |
+| `MAX_ARTICLES`            | `100`                                | Maximum articles in feed                |
+| `OUTPUT_FILE`             | `docs/feed.atom`                     | Feed output path                        |
+| `TRACKING_FILE`           | `data/tracking.json`                 | Change tracking file path               |
+| `TRACKING_RETENTION_DAYS` | `30`                                 | Prune entries unseen for this many days |
 
 See [.env.example](.env.example) for all options.
 
@@ -148,27 +149,34 @@ The scraper uses @mozilla/readability (from Firefox Reader View) as the primary 
 
 ### ID Generation
 
-Articles are identified using MD5 hashes of their content and date:
+Each article is identified by a stable MD5 hash of its (canonical) URL:
 
 ```
-md5(content + date) → "e26cb58274098ee7c9bca9d45b2bba8e"
+md5(link) → "e26cb58274098ee7c9bca9d45b2bba8e"
 ```
 
-This ensures:
-
-- Content changes result in new IDs (treated as new articles)
-- Stable IDs for unchanged content
-- No duplicate entries in the feed
+Because the identity is independent of the body text, an article keeps the same
+ID when its content is edited — letting the system tell _updates_ apart from
+genuinely _new_ articles, with no duplicate entries in the feed.
 
 ### Change Detection
 
-The system tracks articles using MD5 hashing:
+Each run compares the freshly scraped body against the last-known content hash
+(`md5(content)`) stored per article in `data/tracking.json`:
 
-1. **New articles** → Added to feed
-2. **Content changes** → New ID generated, treated as new article
-3. **No changes** → Last-seen timestamp updated
+1. **New** (ID not seen before) → added to the feed
+2. **Updated** (ID seen, content hash differs) → `lastModified` advances
+3. **Unchanged** (ID seen, content hash matches) → only `lastSeen` updated
 
-Tracking data is persisted in `data/tracking.json` and committed to git.
+Each entry's `lastModified` (which only advances when its content actually
+changes) drives the feed entry's `atom:updated`, and the feed-level `updated` is
+the newest entry change rather than wall-clock time. The generated `feed.atom` is
+therefore deterministic — it only changes when an article does, so subscribers
+aren't re-notified on every run.
+
+To keep the file bounded, entries for articles not seen within
+`TRACKING_RETENTION_DAYS` (default 30) are pruned. Tracking data is persisted in
+`data/tracking.json` and committed to git.
 
 ### Feed Limits
 
@@ -186,14 +194,17 @@ stadt-karlsruhe-news-syndication/
 │   ├── scraper.ts            # Fetching + listing parsing + ID creation
 │   ├── date.ts               # German date-string parsing
 │   ├── url.ts                # Shared URL resolution
+│   ├── hash.ts               # Shared MD5 helper (identity + content hashing)
+│   ├── time.ts               # Shared millisecond duration constants
 │   ├── extractor.ts          # Article body extraction (Readability → Cheerio)
-│   ├── feed.ts               # Tracking state + Atom generation
+│   ├── feed.ts               # Tracking state + change detection + Atom generation
 │   ├── config.ts             # Shared config, selectors, and types
-│   ├── scraper.test.ts       # Scraper/link/ID unit tests
+│   ├── scraper.test.ts       # Scraper link/ID unit tests
+│   ├── date.test.ts          # German date-parsing unit tests
 │   ├── feed.test.ts          # Tracking + feed-content unit tests
-│   └── extraction.test.ts    # Content extraction tests (against fixtures)
+│   └── extractor.test.ts     # Content extraction tests (against fixtures)
 ├── scripts/
-│   ├── test-extraction.ts   # Refreshes saved HTML fixtures from the live site
+│   ├── fetch-fixtures.ts    # Refreshes saved HTML fixtures from the live site
 │   └── fixtures/            # Saved article HTML used by extraction tests
 ├── .github/workflows/
 │   └── update-feed.yml      # GitHub Actions (runs every 4 hours)
@@ -219,8 +230,9 @@ The source code is split by responsibility:
 3. **`src/scraper.ts`** - HTTP fetching, listing parsing, bounded concurrency, article ID creation
 4. **`src/date.ts`** - German date-string parsing (`parseGermanDate`)
 5. **`src/url.ts`** - Shared URL resolution (`resolveHttpUrl`)
-6. **`src/extractor.ts`** - Article body extraction (Readability with a Cheerio fallback)
-7. **`src/feed.ts`** - Tracking load/save, change detection, Atom feed writing
+6. **`src/hash.ts`** - Shared MD5 helper (`md5`) for identity and content hashing
+7. **`src/extractor.ts`** - Article body extraction (Readability with a Cheerio fallback)
+8. **`src/feed.ts`** - Tracking load/save, change detection, retention pruning, Atom feed writing
 
 ### Tech Stack
 

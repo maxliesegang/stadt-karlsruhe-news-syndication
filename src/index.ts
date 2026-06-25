@@ -62,8 +62,8 @@ async function main(): Promise<void> {
     const { updatedTracking } = detectChanges(articles, tracking);
     console.log();
 
-    // 4. Generate feed
-    await generateFeed(articles);
+    // 4. Generate feed (uses tracking for stable per-entry timestamps)
+    await generateFeed(articles, updatedTracking);
     console.log();
 
     // 5. Save tracking

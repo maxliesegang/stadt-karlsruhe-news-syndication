@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { detectChanges, prepareContentForFeed } from './feed.js';
+import { detectChanges, prepareContentForFeed, pruneTracking, renderAtomFeed } from './feed.js';
+import { md5 } from './hash.js';
 import type { Article, TrackingData } from './config.js';
 
 function buildArticle(overrides: Partial<Article>): Article {
@@ -15,29 +16,37 @@ function buildArticle(overrides: Partial<Article>): Article {
 }
 
 describe('detectChanges', () => {
-  it('classifies new, updated, and unchanged entries and updates tracking shape', () => {
+  it('classifies new, updated, and unchanged entries from the content hash', () => {
+    const unchangedContent = '<p>unchanged content</p>';
+    const editedContent = '<p>freshly edited content</p>';
+
     const newArticle = buildArticle({
       id: 'new-id',
       link: 'https://www.karlsruhe.de/new',
     });
     const updatedArticle = buildArticle({
       id: 'updated-id',
-      link: 'https://www.karlsruhe.de/updated-new-link',
+      link: 'https://www.karlsruhe.de/updated',
+      content: editedContent,
     });
     const unchangedArticle = buildArticle({
       id: 'unchanged-id',
       link: 'https://www.karlsruhe.de/unchanged',
+      content: unchangedContent,
     });
 
+    const priorModified = '2026-06-10T00:00:00.000Z';
     const tracking: TrackingData = {
       'updated-id': {
-        contentHash: 'updated-id',
-        lastSeen: '2026-02-20T00:00:00.000Z',
-        link: 'https://www.karlsruhe.de/updated-old-link',
+        contentHash: md5('<p>stale content</p>'),
+        lastSeen: '2026-06-20T00:00:00.000Z',
+        lastModified: priorModified,
+        link: 'https://www.karlsruhe.de/updated',
       },
       'unchanged-id': {
-        contentHash: 'unchanged-id',
-        lastSeen: '2026-02-20T00:00:00.000Z',
+        contentHash: md5(unchangedContent),
+        lastSeen: '2026-06-20T00:00:00.000Z',
+        lastModified: priorModified,
         link: 'https://www.karlsruhe.de/unchanged',
       },
     };
@@ -47,22 +56,81 @@ describe('detectChanges', () => {
     expect(result.newCount).toBe(1);
     expect(result.updatedCount).toBe(1);
     expect(result.unchangedCount).toBe(1);
+    expect(result.prunedCount).toBe(0);
+
+    // Tracking now stores the hash of the article body, not the article id.
+    expect(result.updatedTracking['updated-id'].contentHash).toBe(md5(editedContent));
+    expect(result.updatedTracking['unchanged-id'].contentHash).toBe(md5(unchangedContent));
     expect(result.updatedTracking['new-id']).toMatchObject({
-      contentHash: 'new-id',
+      contentHash: md5(newArticle.content),
       link: 'https://www.karlsruhe.de/new',
     });
-    expect(result.updatedTracking['updated-id']).toMatchObject({
-      contentHash: 'updated-id',
-      link: 'https://www.karlsruhe.de/updated-new-link',
-    });
-    expect(result.updatedTracking['unchanged-id']).toMatchObject({
-      contentHash: 'unchanged-id',
-      link: 'https://www.karlsruhe.de/unchanged',
-    });
+
+    // lastModified advances only when the body changed; unchanged carries over.
+    expect(result.updatedTracking['unchanged-id'].lastModified).toBe(priorModified);
+    expect(result.updatedTracking['updated-id'].lastModified).not.toBe(priorModified);
+    expect(result.updatedTracking['new-id'].lastModified).not.toBe(priorModified);
 
     for (const id of ['new-id', 'updated-id', 'unchanged-id']) {
-      expect(new Date(result.updatedTracking[id].lastSeen).toString()).not.toBe('Invalid Date');
+      const { lastSeen, lastModified } = result.updatedTracking[id];
+      expect(new Date(lastSeen).toString()).not.toBe('Invalid Date');
+      expect(new Date(lastModified).toString()).not.toBe('Invalid Date');
     }
+  });
+});
+
+describe('pruneTracking', () => {
+  it('drops entries older than the retention window and keeps recent ones', () => {
+    const now = new Date('2026-06-25T00:00:00.000Z');
+    const tracking: TrackingData = {
+      stale: {
+        contentHash: 'a',
+        lastSeen: '2026-01-01T00:00:00.000Z',
+        lastModified: '2026-01-01T00:00:00.000Z',
+        link: 'https://www.karlsruhe.de/stale',
+      },
+      fresh: {
+        contentHash: 'b',
+        lastSeen: '2026-06-24T00:00:00.000Z',
+        lastModified: '2026-06-24T00:00:00.000Z',
+        link: 'https://www.karlsruhe.de/fresh',
+      },
+    };
+
+    const { tracking: result, prunedCount } = pruneTracking(tracking, now);
+
+    expect(prunedCount).toBe(1);
+    expect(result.stale).toBeUndefined();
+    expect(result.fresh).toBeDefined();
+  });
+});
+
+describe('renderAtomFeed', () => {
+  it('is deterministic and drives entry timestamps from tracked lastModified', () => {
+    const article = buildArticle({
+      id: 'a1',
+      link: 'https://www.karlsruhe.de/a1',
+      date: new Date('2026-06-01T00:00:00.000Z'),
+    });
+    const lastModified = '2026-06-18T09:30:00.000Z';
+    const tracking: TrackingData = {
+      a1: {
+        contentHash: md5(article.content),
+        lastSeen: '2026-06-24T00:00:00.000Z',
+        lastModified,
+        link: article.link,
+      },
+    };
+
+    const first = renderAtomFeed([article], tracking);
+    const second = renderAtomFeed([article], tracking);
+
+    // Same inputs → byte-identical output (no wall-clock timestamps leak in).
+    expect(first).toBe(second);
+    // Entry + feed atom:updated reflect the content-change time, not the run time.
+    expect(first).toContain(`<updated>${lastModified}</updated>`);
+    // Publish date stays the article's own date.
+    expect(first).toContain('<published>2026-06-01T00:00:00.000Z</published>');
   });
 });
 

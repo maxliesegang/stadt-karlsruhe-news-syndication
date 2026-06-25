@@ -22,27 +22,13 @@ regenerates the feed every 4 hours.
 Run `npm run check` before considering a change done. Use `npm start` to validate scraper/feed
 behavior against the live site.
 
-## Module map (`src/`)
+## Working rules
 
-- `index.ts` — pipeline orchestration only
-- `scraper.ts` — HTTP fetch, listing parsing, bounded concurrency, article ID creation
-- `date.ts` — German date-string parsing (`parseGermanDate`)
-- `url.ts` — shared URL resolution (`resolveHttpUrl`)
-- `extractor.ts` — article body extraction (Readability → Cheerio fallback)
-- `feed.ts` — tracking I/O, change detection, Atom feed generation
-- `config.ts` — env-driven config, CSS selectors, constants, shared types (`Article`, `TrackingData`)
+All working rules — module map, guardrails, and conventions — live in [AGENTS.md](AGENTS.md) and
+its nested files. Read the most specific one for the file you are editing:
 
-## Conventions
-
-This repo uses nested `AGENTS.md` files as the source of truth for working rules. Read the most
-specific one for the file you are editing:
-
-- [AGENTS.md](AGENTS.md) — repo-wide guardrails
+- [AGENTS.md](AGENTS.md) — repo-wide guardrails and module map
 - [src/AGENTS.md](src/AGENTS.md) — source code rules
 - [.github/workflows/AGENTS.md](.github/workflows/AGENTS.md) — CI behavior
 - [docs/AGENTS.md](docs/AGENTS.md) — published output
 - [data/AGENTS.md](data/AGENTS.md) — tracking state
-
-Highlights: keep changes small and module boundaries clear; add selectors/constants in `config.ts`
-rather than scattering literals; never hand-edit generated artifacts (`docs/feed.atom`,
-`data/tracking.json`); preserve the `tracking.json` entry shape and deterministic MD5 article IDs.

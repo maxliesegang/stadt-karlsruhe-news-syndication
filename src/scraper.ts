@@ -5,12 +5,12 @@
 
 import { ofetch } from 'ofetch';
 import * as cheerio from 'cheerio';
-import { createHash } from 'node:crypto';
 import type { Element } from 'domhandler';
 import { CONFIG, type Article } from './config.js';
 import { parseGermanDate } from './date.js';
 import { resolveHttpUrl } from './url.js';
 import { extractContent } from './extractor.js';
+import { md5 } from './hash.js';
 
 type ListingCandidate = Omit<Article, 'id' | 'content'> & { position: number };
 
@@ -46,10 +46,11 @@ export function normalizeArticleLink(link: string): string {
 // ID GENERATION
 // ============================================================================
 
-export function createArticleId(content: string, date: Date): string {
-  const dateStr = date.toISOString().slice(0, 10);
-  const hashInput = `${dateStr}|${content}`;
-  return createHash('md5').update(hashInput).digest('hex');
+// Identity is derived from the article's stable URL, not its content, so that
+// editing an article's body is detected as an *update* (see feed.detectChanges)
+// rather than producing a brand-new entry each time the text changes.
+export function createArticleId(link: string): string {
+  return md5(link);
 }
 
 // ============================================================================
@@ -156,7 +157,7 @@ export async function scrapeArticles(html: string): Promise<Article[]> {
         console.log(`[${candidate.position}/${elements.length}] ${candidate.title}`);
         const detailHtml = await fetchHtml(candidate.link);
         const content = extractContent(detailHtml, candidate.link);
-        const id = createArticleId(content, candidate.date);
+        const id = createArticleId(candidate.link);
 
         return {
           id,

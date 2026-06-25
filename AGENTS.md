@@ -17,8 +17,10 @@ This repository currently uses a small module-based TypeScript scraper:
 - `src/scraper.ts`: HTTP fetch + listing parsing + bounded concurrency + article ID creation
 - `src/date.ts`: German date-string parsing
 - `src/url.ts`: shared URL resolution
+- `src/hash.ts`: shared MD5 helper (identity + content hashing)
+- `src/time.ts`: shared millisecond duration constants
 - `src/extractor.ts`: article body extraction (Readability → Cheerio fallback)
-- `src/feed.ts`: tracking I/O + change detection + Atom generation
+- `src/feed.ts`: tracking I/O + change detection + retention pruning + Atom generation
 - `src/config.ts`: environment configuration, selectors, shared types
 
 ## Global Guardrails

@@ -47,6 +47,13 @@ export const CONFIG = {
     minContentLength: 100,
   },
 
+  // Tracking state
+  TRACKING: {
+    // Drop tracking entries for articles not seen within this many days, so
+    // `tracking.json` stays bounded as old articles leave the source listing.
+    retentionDays: parsePositiveInteger(process.env.TRACKING_RETENTION_DAYS, 30),
+  },
+
   // CSS selectors for HTML parsing
   SELECTORS: {
     articles: [
@@ -110,7 +117,11 @@ export type TrackingData = Record<
   string,
   {
     contentHash: string;
+    // Last time the article was seen in a run (refreshed every run).
     lastSeen: string;
+    // Last time the article's content actually changed; drives the feed entry's
+    // atom:updated so unchanged entries keep a stable timestamp.
+    lastModified: string;
     link: string;
   }
 >;

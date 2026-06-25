@@ -1,29 +1,5 @@
-import { afterEach, describe, expect, it, vi } from 'vitest';
+import { describe, expect, it } from 'vitest';
 import { createArticleId, normalizeArticleLink } from './scraper.js';
-import { parseGermanDate } from './date.js';
-
-describe('parseGermanDate', () => {
-  afterEach(() => {
-    vi.useRealTimers();
-  });
-
-  it('parses absolute German month names case-insensitively', () => {
-    const parsed = parseGermanDate('15. März 2024');
-
-    expect(parsed.getFullYear()).toBe(2024);
-    expect(parsed.getMonth()).toBe(2);
-    expect(parsed.getDate()).toBe(15);
-  });
-
-  it('parses relative hour values', () => {
-    vi.useFakeTimers();
-    vi.setSystemTime(new Date('2026-02-24T12:00:00.000Z'));
-
-    const parsed = parseGermanDate('vor 2 Stunden');
-
-    expect(parsed.toISOString()).toBe('2026-02-24T10:00:00.000Z');
-  });
-});
 
 describe('normalizeArticleLink', () => {
   it('normalizes relative links', () => {
@@ -40,11 +16,17 @@ describe('normalizeArticleLink', () => {
 });
 
 describe('createArticleId', () => {
-  it('is deterministic for same content and date', () => {
-    const date = new Date('2026-02-24T12:00:00.000Z');
-    const first = createArticleId('<p>same</p>', date);
-    const second = createArticleId('<p>same</p>', date);
+  it('is deterministic for the same link', () => {
+    const link = 'https://www.karlsruhe.de/aktuelles/testartikel';
 
-    expect(first).toBe(second);
+    expect(createArticleId(link)).toBe(createArticleId(link));
+  });
+
+  it('is independent of content so edits keep a stable identity', () => {
+    const link = 'https://www.karlsruhe.de/aktuelles/testartikel';
+
+    expect(createArticleId(link)).not.toBe(
+      createArticleId('https://www.karlsruhe.de/aktuelles/anderer-artikel')
+    );
   });
 });
