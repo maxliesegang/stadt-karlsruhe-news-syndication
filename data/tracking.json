@@ -615,31 +615,31 @@
   },
   "5afe8cce4793b552a10258447a48b166": {
     "contentHash": "d0e21bfff623a4fb38d555f98d69741b",
-    "lastSeen": "2026-06-26T04:08:58.782Z",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
     "lastModified": "2026-06-25T10:47:00.743Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/integrationsausschuss-trifft-sich-zur-juli-sitzung"
   },
   "da15a4e09290f296dac1eafb573152bb": {
     "contentHash": "259fe282dfe29cf68f3f9843bb6c0950",
-    "lastSeen": "2026-06-26T04:08:58.782Z",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
     "lastModified": "2026-06-25T10:47:01.743Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hitzefrei-im-kunstmuseum-karlsruhe"
   },
   "808c2611151d1b1d38b64821d8d7fd52": {
     "contentHash": "b7237c46446fbc3b557df649ed6172a8",
-    "lastSeen": "2026-06-26T04:08:58.782Z",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
     "lastModified": "2026-06-25T10:47:02.743Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gartenbauamt-bittet-um-unterstuetzung-beim-giessen-von-stadtbaeumen"
   },
   "b4c562c3968c41f49de053a68b93568c": {
     "contentHash": "ba56425f5d33abb16ae87f96661d34b9",
-    "lastSeen": "2026-06-26T04:08:58.782Z",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
     "lastModified": "2026-06-25T10:47:03.743Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/flaggentag-der-buergermeisterinnen-und-buergermeister-fuer-den-frieden-2"
   },
   "e6d868c87ec10fb5dbd32a14384635c6": {
     "contentHash": "c6bcb861f2c4b6070d5ac107eaa1ea0f",
-    "lastSeen": "2026-06-26T04:08:58.782Z",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
     "lastModified": "2026-06-25T10:47:04.743Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bauausschuss-tagt-am-2-juli"
   },
@@ -651,8 +651,26 @@
   },
   "c9152a8072b6dcede98c9f4d059b822c": {
     "contentHash": "b0d264c8a7cfd816e2dc8f588f5143cb",
-    "lastSeen": "2026-06-26T04:08:58.782Z",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
     "lastModified": "2026-06-25T14:41:17.734Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/land-fuehrt-juniorklassen-ein"
+  },
+  "ffd959d3c1d588de59e2905c6dfcd4c0": {
+    "contentHash": "e98b6857468fdf1d847c8ad9b7d1dd34",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
+    "lastModified": "2026-06-26T10:55:09.087Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-sonderausstellung-lost-places-in-karlsruhe-fotografien-von-harald-wacker-im-stadtmuseum"
+  },
+  "2e4fae2b0c32895d5b02b980e848e108": {
+    "contentHash": "8a2fea5210486bd9ef22ad981293f02d",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
+    "lastModified": "2026-06-26T10:55:10.087Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/eroeffnung-der-ausstellung-weinbrenner-architekt-und-stadtplaner"
+  },
+  "6a6dd113d1a1ce4393f49d8900e2b788": {
+    "contentHash": "315b7ff7ed73c9701e3eb43ba2dffdea",
+    "lastSeen": "2026-06-26T10:55:09.087Z",
+    "lastModified": "2026-06-26T10:55:11.087Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schulgeld-und-schuelerbefoerderung-angepasst"
   }
 }
