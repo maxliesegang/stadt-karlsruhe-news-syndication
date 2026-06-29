@@ -651,44 +651,56 @@
   },
   "c9152a8072b6dcede98c9f4d059b822c": {
     "contentHash": "b0d264c8a7cfd816e2dc8f588f5143cb",
-    "lastSeen": "2026-06-29T12:38:31.055Z",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
     "lastModified": "2026-06-25T14:41:17.734Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/land-fuehrt-juniorklassen-ein"
   },
   "ffd959d3c1d588de59e2905c6dfcd4c0": {
     "contentHash": "e98b6857468fdf1d847c8ad9b7d1dd34",
-    "lastSeen": "2026-06-29T12:38:31.055Z",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
     "lastModified": "2026-06-26T10:55:09.087Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-sonderausstellung-lost-places-in-karlsruhe-fotografien-von-harald-wacker-im-stadtmuseum"
   },
   "2e4fae2b0c32895d5b02b980e848e108": {
     "contentHash": "8a2fea5210486bd9ef22ad981293f02d",
-    "lastSeen": "2026-06-29T12:38:31.055Z",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
     "lastModified": "2026-06-26T10:55:10.087Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/eroeffnung-der-ausstellung-weinbrenner-architekt-und-stadtplaner"
   },
   "6a6dd113d1a1ce4393f49d8900e2b788": {
     "contentHash": "315b7ff7ed73c9701e3eb43ba2dffdea",
-    "lastSeen": "2026-06-29T12:38:31.055Z",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
     "lastModified": "2026-06-26T10:55:11.087Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schulgeld-und-schuelerbefoerderung-angepasst"
   },
   "0228cbf702af739ac936e3e1e0e0ee55": {
     "contentHash": "520bd6af694c9d68e886952741f7cea8",
-    "lastSeen": "2026-06-29T12:38:31.055Z",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
     "lastModified": "2026-06-26T14:34:48.007Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hitze-in-karlsruhe-stadt-informiert-ueber-kuehle-orte-gratis-trinkwasser-und-abgeschaltete-brunnen"
   },
   "fcaadeb2789da5f2b6a1e75fba0686a5": {
     "contentHash": "f410c2bad709d087dc066e2b1db28e6c",
-    "lastSeen": "2026-06-29T12:38:31.055Z",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
     "lastModified": "2026-06-29T12:38:31.055Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ueberlebensinseln-fuer-insekten-und-kleintiere-naturnahe-gruenpflege-schafft-wertvolle-rueckzugsraeume"
   },
   "7dbd599cb2ef6346a74e1f33037a3321": {
     "contentHash": "22c4f628ed517dc0d09da6dc345cd0ff",
-    "lastSeen": "2026-06-29T12:38:31.055Z",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
     "lastModified": "2026-06-29T12:38:32.055Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/feuerwehr-karlsruhe-beweist-fitness-beim-staeffeleslauf"
+  },
+  "40b74e2376e6234db7d2dda322a3c0d9": {
+    "contentHash": "721205e498ae10a418f8e1eb8a73e696",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
+    "lastModified": "2026-06-29T18:11:05.653Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/naechste-schritte-fuer-karlsruhe2040-das-ziel-im-blick"
+  },
+  "548fd9826dd8b4af5c7467ff69b0f04b": {
+    "contentHash": "7307e7152c5c8317f44918b49d6c7431",
+    "lastSeen": "2026-06-29T18:11:05.653Z",
+    "lastModified": "2026-06-29T18:11:06.653Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/prioritaeten-sind-gesetzt"
   }
 }
