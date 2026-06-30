@@ -657,7 +657,7 @@
   },
   "ffd959d3c1d588de59e2905c6dfcd4c0": {
     "contentHash": "e98b6857468fdf1d847c8ad9b7d1dd34",
-    "lastSeen": "2026-06-29T21:38:13.426Z",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
     "lastModified": "2026-06-26T10:55:09.087Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-sonderausstellung-lost-places-in-karlsruhe-fotografien-von-harald-wacker-im-stadtmuseum"
   },
@@ -675,32 +675,50 @@
   },
   "0228cbf702af739ac936e3e1e0e0ee55": {
     "contentHash": "520bd6af694c9d68e886952741f7cea8",
-    "lastSeen": "2026-06-29T21:38:13.426Z",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
     "lastModified": "2026-06-26T14:34:48.007Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hitze-in-karlsruhe-stadt-informiert-ueber-kuehle-orte-gratis-trinkwasser-und-abgeschaltete-brunnen"
   },
   "fcaadeb2789da5f2b6a1e75fba0686a5": {
     "contentHash": "f410c2bad709d087dc066e2b1db28e6c",
-    "lastSeen": "2026-06-29T21:38:13.426Z",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
     "lastModified": "2026-06-29T12:38:31.055Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ueberlebensinseln-fuer-insekten-und-kleintiere-naturnahe-gruenpflege-schafft-wertvolle-rueckzugsraeume"
   },
   "7dbd599cb2ef6346a74e1f33037a3321": {
     "contentHash": "22c4f628ed517dc0d09da6dc345cd0ff",
-    "lastSeen": "2026-06-29T21:38:13.426Z",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
     "lastModified": "2026-06-29T12:38:32.055Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/feuerwehr-karlsruhe-beweist-fitness-beim-staeffeleslauf"
   },
   "40b74e2376e6234db7d2dda322a3c0d9": {
     "contentHash": "721205e498ae10a418f8e1eb8a73e696",
-    "lastSeen": "2026-06-29T21:38:13.426Z",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
     "lastModified": "2026-06-29T18:11:05.653Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/naechste-schritte-fuer-karlsruhe2040-das-ziel-im-blick"
   },
   "548fd9826dd8b4af5c7467ff69b0f04b": {
     "contentHash": "7307e7152c5c8317f44918b49d6c7431",
-    "lastSeen": "2026-06-29T21:38:13.426Z",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
     "lastModified": "2026-06-29T18:11:06.653Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/prioritaeten-sind-gesetzt"
+  },
+  "3ab719737f889c580780029ed63d6837": {
+    "contentHash": "d8686d329c1fd57931aad680d50883e2",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
+    "lastModified": "2026-06-30T11:13:41.353Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sauberkeit-im-oeffentlichen-raum"
+  },
+  "d0ab9e64167ab5ca41aeb3638e341ad2": {
+    "contentHash": "0dbfbf3950feaea110c8e2cd2da90678",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
+    "lastModified": "2026-06-30T11:13:42.353Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/eichenprozessionsspinner-im-stadtwald-was-besucherinnen-und-besucher-jetzt-wissen-muessen"
+  },
+  "bb4bdd6840f6ecb77d25ad4b3f7dce46": {
+    "contentHash": "6770aacf5c7a11b9393446bff3f9536b",
+    "lastSeen": "2026-06-30T11:13:41.353Z",
+    "lastModified": "2026-06-30T11:13:43.353Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadt-karlsruhe-ist-wieder-online"
   }
 }
