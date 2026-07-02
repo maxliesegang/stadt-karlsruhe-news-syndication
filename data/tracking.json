@@ -723,25 +723,25 @@
   },
   "d1a35440dd4cdd65b5a1bc39cb21c8e0": {
     "contentHash": "133c0a60d62bf9ccde34450207497ae9",
-    "lastSeen": "2026-07-02T07:38:37.322Z",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
     "lastModified": "2026-07-02T03:59:44.138Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/muellabfuhr-und-oeffnungszeiten-der-stationaeren-entsorgungseinrichtungen-am-10-juli-2026"
   },
   "6105871cb7737fd6b841abe03ea376eb": {
     "contentHash": "a3bd1483d951fd85fea72ba9915e72fa",
-    "lastSeen": "2026-07-02T07:38:37.322Z",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
     "lastModified": "2026-07-02T07:38:37.322Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sommerhitze-in-karlsruhe-so-koennen-buergerinnen-und-buerger-wildtieren-helfen"
   },
   "d202d132b37a460caba2791b3678056d": {
     "contentHash": "46e25525151ae64a14dfe45a42aed191",
-    "lastSeen": "2026-07-02T07:38:37.322Z",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
     "lastModified": "2026-07-01T11:28:08.708Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fuenf-gaerten-oeffnen-ihre-pforten"
   },
   "65d0fbfcf8bf982a22067b9286ff2e2f": {
     "contentHash": "2da2e7c5f0cdae89599dd77821c759f0",
-    "lastSeen": "2026-07-02T07:38:37.322Z",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
     "lastModified": "2026-07-01T11:28:09.708Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sicher-nicht-gegen-die-fahrtrichtung"
   },
@@ -750,5 +750,35 @@
     "lastSeen": "2026-07-02T07:38:37.322Z",
     "lastModified": "2026-07-01T11:28:10.708Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sperrmuell-auf-abruf"
+  },
+  "bb9894ff75277ee860fcc9acbf70ab31": {
+    "contentHash": "0745cef568ed15c244e2736f0fdb48b4",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
+    "lastModified": "2026-07-02T10:45:18.854Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sportausschuss-tagt-1"
+  },
+  "45ae0086ad40b79aa95fddff4c8406c5": {
+    "contentHash": "a88cd2d7de572179a0cb7b729592c239",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
+    "lastModified": "2026-07-02T10:45:19.854Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-umwelt-und-gesundheit-tagt"
+  },
+  "01e7c29a3855a0880dc066ff871bd886": {
+    "contentHash": "81f9deb405f158fb07cdad6e68d3cc74",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
+    "lastModified": "2026-07-02T10:45:20.854Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gartenbauamt-vergibt-giesskannen"
+  },
+  "48daa3872a85ddbeaa6004b43f31c7cb": {
+    "contentHash": "e4e0f57bf8ef026cc9b4b9b4187ccd92",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
+    "lastModified": "2026-07-02T10:45:21.854Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gastkonzert-aus-der-partnerstadt-nancy-jugend-bigband-le-gateau-sur-la-cerise"
+  },
+  "9e307438d9005c621484c20d63b45b9c": {
+    "contentHash": "57cbf51d80e495bca40ba6c50c4b172b",
+    "lastSeen": "2026-07-02T10:45:18.854Z",
+    "lastModified": "2026-07-02T10:45:22.854Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/verkehrsuntersuchung-thema-im-planungsausschuss"
   }
 }
