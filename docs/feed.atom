@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-07-03T03:43:43.055Z</updated>
+    <updated>2026-07-03T07:26:57.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -223,7 +223,7 @@
         <title type="html"><![CDATA[Müllabfuhr und Öffnungszeiten der stationären Entsorgungseinrichtungen am 10. Juli 2026]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/muellabfuhr-und-oeffnungszeiten-der-stationaeren-entsorgungseinrichtungen-am-10-juli-2026</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/muellabfuhr-und-oeffnungszeiten-der-stationaeren-entsorgungseinrichtungen-am-10-juli-2026"/>
-        <updated>2026-07-02T03:59:44.138Z</updated>
+        <updated>2026-07-03T07:26:57.798Z</updated>
         <summary type="html"><![CDATA[Die städtische Müllabfuhr ist aufgrund einer betrieblichen Veranstaltung am Freitag, 10. Juli, nicht im Einsatz. Daher kann es im gesamten Stadtgebiet zu Verschiebungen bei den Abholtagen für Bioabfall, Papier und Restmüll kommen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -240,7 +240,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-07-01">
-                                        Gestern
+                                        Mittwoch, 1. Juli 2026
                                     </time>
                                 </p>
 
