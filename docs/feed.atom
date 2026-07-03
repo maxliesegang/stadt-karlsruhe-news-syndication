@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-07-03T17:37:49.401Z</updated>
+    <updated>2026-07-03T21:12:59.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[Quartiersküchen und Hülsenfrüchte]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/quartierskuechen-und-huelsenfruechte</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/quartierskuechen-und-huelsenfruechte"/>
-        <updated>2026-07-03T17:37:49.401Z</updated>
+        <updated>2026-07-03T21:12:59.811Z</updated>
         <summary type="html"><![CDATA[Quartiersküchen, Hülsenfrüchte in der Gemeinschaftsverpflegung, Direktvermarktung und Circular Economy. Mit diesen Themen befassten sich die Teilnehmerinnen und Teilnehmer beim Karlsruher Ernährungsgipfel.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -33,7 +33,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-07-03">
-                                        vor 6 Stunden
+                                        vor 10 Stunden
                                     </time>
                                 </p>
 
