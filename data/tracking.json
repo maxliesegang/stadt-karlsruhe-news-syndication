@@ -753,7 +753,7 @@
   },
   "bb9894ff75277ee860fcc9acbf70ab31": {
     "contentHash": "44e931cb31848b376887bd9e297a28be",
-    "lastSeen": "2026-07-06T12:08:24.623Z",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
     "lastModified": "2026-07-04T03:36:32.247Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sportausschuss-tagt-1"
   },
@@ -789,13 +789,13 @@
   },
   "8b1378a45831c844501394b632d94322": {
     "contentHash": "9bd99f250f529c664681dc5fadf443c3",
-    "lastSeen": "2026-07-06T12:08:24.623Z",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
     "lastModified": "2026-07-03T10:41:54.356Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vielfaeltige-ideen-fuer-die-innenstadt"
   },
   "9f3c2fc3e6a8d2e67fe53bdc4f34969f": {
     "contentHash": "057199297ef2d2253bce525ff71cb57e",
-    "lastSeen": "2026-07-06T12:08:24.623Z",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
     "lastModified": "2026-07-03T10:41:55.356Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zukunftsfaehige-spielplatzentwicklung"
   },
@@ -807,26 +807,38 @@
   },
   "31ad8bbccce63acf4c7818c7b1541005": {
     "contentHash": "2d5673430f04f130b653f489d20c8176",
-    "lastSeen": "2026-07-06T12:08:24.623Z",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
     "lastModified": "2026-07-05T03:54:53.313Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/quartierskuechen-und-huelsenfruechte"
   },
   "de0b0136e3896c3dc313dc1312242b86": {
     "contentHash": "fb4379b651781afea84cb908b8482636",
-    "lastSeen": "2026-07-06T12:08:24.623Z",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
     "lastModified": "2026-07-03T14:19:36.126Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ort-der-besinnung-und-erinnerung"
   },
   "a245f7b7b5f96eeadcba9c96cd8626f6": {
     "contentHash": "60a8d412add63cf11d46917b511f24bc",
-    "lastSeen": "2026-07-06T12:08:24.623Z",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
     "lastModified": "2026-07-06T12:08:24.623Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/radfruehstueck-als-auftakt-zum-stadtradeln"
   },
   "4958bdd5608ecd8415cf840150842caa": {
     "contentHash": "b70e46fadc8007e31c626597000379ef",
-    "lastSeen": "2026-07-06T12:08:24.623Z",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
     "lastModified": "2026-07-06T12:08:25.623Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-7a18a4a3890b783530c5fa946ec15710"
+  },
+  "9e91e6ccc023e2d35e31be9cc0b9c0ea": {
+    "contentHash": "b2bb40f5f5fa690919452e3bb2e3faf3",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
+    "lastModified": "2026-07-06T18:13:46.786Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/es-geht-weiter-1"
+  },
+  "745bfb3b357582dc3d92f4e51bba556c": {
+    "contentHash": "f5a800a5f8eebc3188ded30319f291df",
+    "lastSeen": "2026-07-06T18:13:46.786Z",
+    "lastModified": "2026-07-06T18:13:47.786Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinsam-verschieden"
   }
 }
