@@ -843,7 +843,7 @@
   },
   "43a61d8ecb9316f9f4d2a1ecda9e4315": {
     "contentHash": "052160d0ca3cd64efe1fe33b18b5f1f5",
-    "lastSeen": "2026-07-09T07:40:58.020Z",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
     "lastModified": "2026-07-07T11:12:23.784Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/effekte-reihe-physische-fitness-als-indikator-fuer-gesundheit"
   },
@@ -861,7 +861,7 @@
   },
   "74aaf384d712a5b08eb7d7d0422feabc": {
     "contentHash": "fe878633d4020f50c762bafe4a46041a",
-    "lastSeen": "2026-07-09T07:40:58.020Z",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
     "lastModified": "2026-07-07T14:47:44.502Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gefoerderter-neubau-beschlossen-erweiterung-zum-staendehaus"
   },
@@ -873,20 +873,44 @@
   },
   "f7810939f840dfa5299466f0ed141802": {
     "contentHash": "8bd4ecdfa18a4fffb0146b438cadd7ce",
-    "lastSeen": "2026-07-09T07:40:58.020Z",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
     "lastModified": "2026-07-08T14:25:41.140Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-orgelfabrik-programm-ab-august"
   },
   "f0d9135ddb739daae957379cbcbb0634": {
     "contentHash": "ad1189b5ded342251df6a3ec06d8a080",
-    "lastSeen": "2026-07-09T07:40:58.020Z",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
     "lastModified": "2026-07-08T14:25:42.140Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gesund-trinken-in-der-sommerhitze"
   },
   "24ded1a10dd5fc67f9ef565d36bdf757": {
     "contentHash": "30afc0df511cea96e87c020960461bee",
-    "lastSeen": "2026-07-09T07:40:58.020Z",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
     "lastModified": "2026-07-08T14:25:43.140Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sommerthemen-in-der-stadtbibliothek"
+  },
+  "acba462dc801496dda05bb91fba7f4c7": {
+    "contentHash": "2aefa5626ae6315d4276b2ea5ac6eceb",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
+    "lastModified": "2026-07-09T11:13:34.444Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/groetzinger-ortschaftsraete-treffen-sich"
+  },
+  "ffb5adca20370edaa1a7cfae97b3f3ad": {
+    "contentHash": "73f766e331c16cca1441ba5a7952fa40",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
+    "lastModified": "2026-07-09T11:13:35.444Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-fuer-eigenbetrieb-abfallwirtschaft-und-stadtreinigung-tagt-1"
+  },
+  "9e74a592955522370f21ff9bbe02fc04": {
+    "contentHash": "f8737f3f3d9470303b020e7c77fe879c",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
+    "lastModified": "2026-07-09T11:13:36.444Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-aa5a5dd42e4554a9c4d62d4bb0d42a72"
+  },
+  "7a4fa2fef2cab86b5f1fcba7fc5297de": {
+    "contentHash": "1f9afc9ab62e29182fcad873ef47ef6b",
+    "lastSeen": "2026-07-09T11:13:34.444Z",
+    "lastModified": "2026-07-09T11:13:37.444Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/haupt-und-finanzausschuss-tagt-oeffentlich-juli-2026"
   }
 }
