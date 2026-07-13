@@ -85,8 +85,8 @@ describe('pruneTracking', () => {
     const tracking: TrackingData = {
       stale: {
         contentHash: 'a',
-        lastSeen: '2026-01-01T00:00:00.000Z',
-        lastModified: '2026-01-01T00:00:00.000Z',
+        lastSeen: '2025-01-01T00:00:00.000Z',
+        lastModified: '2025-01-01T00:00:00.000Z',
         link: 'https://www.karlsruhe.de/stale',
       },
       fresh: {
