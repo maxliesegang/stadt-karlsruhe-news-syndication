@@ -9,8 +9,10 @@ Context for `src/` (TypeScript application code).
 - `date.ts`: German date-string parsing (`parseGermanDate`).
 - `url.ts`: shared URL resolution (`resolveHttpUrl`).
 - `hash.ts`: shared MD5 helper (`md5`) for identity and content hashing.
+- `errors.ts`: shared `errorMessage(error)` for turning unknown throwables into text.
 - `time.ts`: shared millisecond duration constants (`SECOND_MS`, `MINUTE_MS`, `HOUR_MS`, `DAY_MS`).
 - `extractor.ts`: article body extraction (Readability → Cheerio fallback).
+- `content.ts`: feed content HTML rewriting (`prepareContentForFeed`: lazy images, `<picture>`, absolute URLs).
 - `feed.ts`: tracking load/save, change detection, pruning, Atom feed writing.
 - `config.ts`: environment defaults, selectors, constants, shared types.
 

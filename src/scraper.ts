@@ -10,6 +10,7 @@ import { CONFIG, type Article } from './config.js';
 import { parseGermanDate } from './date.js';
 import { resolveHttpUrl } from './url.js';
 import { extractContent } from './extractor.js';
+import { errorMessage } from './errors.js';
 import { md5 } from './hash.js';
 
 type ListingCandidate = Omit<Article, 'id' | 'content'> & { position: number };
@@ -29,8 +30,7 @@ export async function fetchHtml(url: string): Promise<string> {
     console.log(`  ✓ Fetched ${Math.round(html.length / 1024)}KB`);
     return html;
   } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    throw new Error(`Failed to fetch ${url}: ${message}`, { cause: error });
+    throw new Error(`Failed to fetch ${url}: ${errorMessage(error)}`, { cause: error });
   }
 }
 
@@ -105,9 +105,9 @@ function parseListingCandidate(
     element.find('time[datetime]').first().attr('datetime') ||
     firstNonEmptyText(element, CONFIG.SELECTORS.date) ||
     element.text();
-  const date = parseGermanDate(dateText);
+  const publishedAt = parseGermanDate(dateText);
 
-  return { position, title, date, link, description };
+  return { position, title, publishedAt, link, description };
 }
 
 async function mapWithConcurrency<T, R>(
@@ -124,7 +124,10 @@ async function mapWithConcurrency<T, R>(
   const worker = async (): Promise<void> => {
     while (cursor < items.length) {
       const index = cursor++;
-      results[index] = await mapper(items[index]);
+      const item = items[index];
+      if (item !== undefined) {
+        results[index] = await mapper(item);
+      }
     }
   };
 
@@ -162,14 +165,13 @@ export async function scrapeArticles(html: string): Promise<Article[]> {
         return {
           id,
           title: candidate.title,
-          date: candidate.date,
+          publishedAt: candidate.publishedAt,
           link: candidate.link,
           description: candidate.description,
           content,
         };
       } catch (error) {
-        const message = error instanceof Error ? error.message : String(error);
-        console.warn(`  ✗ Failed "${candidate.title}": ${message}`);
+        console.warn(`  ✗ Failed "${candidate.title}": ${errorMessage(error)}`);
         return null;
       }
     }

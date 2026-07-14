@@ -6,9 +6,8 @@
 import { Feed } from 'feed';
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { dirname } from 'node:path';
-import * as cheerio from 'cheerio';
-import { CONFIG, type Article, type TrackingData } from './config.js';
-import { resolveHttpUrl } from './url.js';
+import { CONFIG, type Article, type TrackingData, type TrackingEntry } from './config.js';
+import { prepareContentForFeed } from './content.js';
 import { md5 } from './hash.js';
 import { DAY_MS, SECOND_MS } from './time.js';
 
@@ -17,124 +16,9 @@ type ChangeDetectionResult = {
   updatedCount: number;
   unchangedCount: number;
   prunedCount: number;
-  updatedTracking: TrackingData;
+  // Tracking state to persist after this run (merged, then retention-pruned).
+  nextTracking: TrackingData;
 };
-
-function isPlaceholderImage(value: string): boolean {
-  return value.trimStart().startsWith('data:image/gif;base64,');
-}
-
-function normalizeContentUrl(value: string, baseUrl: string): string {
-  const trimmed = value.trim();
-
-  // Leave non-navigational schemes (data:, mailto:, anchors, …) untouched so
-  // we don't break inline content; everything else is resolved to an absolute
-  // http(s) URL, falling back to the original on failure.
-  if (!trimmed || /^(data:|mailto:|tel:|javascript:|#)/i.test(trimmed)) {
-    return trimmed;
-  }
-
-  return resolveHttpUrl(trimmed, baseUrl) ?? trimmed;
-}
-
-function firstSrcsetUrl(srcset: string): string {
-  const firstCandidate = srcset.split(',')[0]?.trim();
-  if (!firstCandidate) return '';
-  return firstCandidate.split(/\s+/)[0] ?? '';
-}
-
-function normalizeSrcset(srcset: string, baseUrl: string): string {
-  const trimmed = srcset.trim();
-  if (!trimmed || trimmed.startsWith('data:')) return trimmed;
-
-  return trimmed
-    .split(',')
-    .map((candidate) => {
-      const parts = candidate.trim().split(/\s+/);
-      if (parts.length === 0 || !parts[0]) return '';
-
-      const [url, ...descriptor] = parts;
-      const normalizedUrl = normalizeContentUrl(url, baseUrl);
-      return [normalizedUrl, ...descriptor].join(' ');
-    })
-    .filter(Boolean)
-    .join(', ');
-}
-
-export function prepareContentForFeed(content: string, articleUrl: string): string {
-  const $ = cheerio.load(content, null, false);
-
-  $('img').each((_, element) => {
-    const img = $(element);
-    const src = img.attr('src')?.trim() ?? '';
-    const dataSrc = img.attr('data-src')?.trim() ?? '';
-    const srcset = img.attr('srcset')?.trim() ?? '';
-    const dataSrcset = img.attr('data-srcset')?.trim() ?? '';
-
-    if (dataSrc && (!src || isPlaceholderImage(src))) {
-      img.attr('src', dataSrc);
-    }
-
-    if (dataSrcset && (!srcset || isPlaceholderImage(srcset))) {
-      img.attr('srcset', dataSrcset);
-    }
-
-    img.removeAttr('data-src');
-    img.removeAttr('data-srcset');
-    img.removeAttr('loading');
-    img.removeAttr('decoding');
-  });
-
-  $('picture').each((_, element) => {
-    const picture = $(element);
-    const img = picture.find('img').first();
-
-    if (img.length === 0) {
-      picture.remove();
-      return;
-    }
-
-    const src = img.attr('src')?.trim() ?? '';
-    if (!src || isPlaceholderImage(src)) {
-      const source = picture.find('source').first();
-      const sourceSrcset =
-        source.attr('data-srcset')?.trim() ?? source.attr('srcset')?.trim() ?? '';
-      const sourceUrl = firstSrcsetUrl(sourceSrcset);
-      if (sourceUrl) {
-        img.attr('src', sourceUrl);
-      }
-    }
-
-    picture.replaceWith(img);
-  });
-
-  $('img').each((_, element) => {
-    const img = $(element);
-    const src = img.attr('src')?.trim();
-    const srcset = img.attr('srcset')?.trim();
-
-    if (src) {
-      img.attr('src', normalizeContentUrl(src, articleUrl));
-    }
-    if (srcset) {
-      if (isPlaceholderImage(srcset)) {
-        img.removeAttr('srcset');
-      } else {
-        img.attr('srcset', normalizeSrcset(srcset, articleUrl));
-      }
-    }
-  });
-
-  $('a[href]').each((_, element) => {
-    const link = $(element);
-    const href = link.attr('href')?.trim();
-    if (href) {
-      link.attr('href', normalizeContentUrl(href, articleUrl));
-    }
-  });
-
-  return $.root().html()?.trim() ?? content.trim();
-}
 
 // ============================================================================
 // TRACKING
@@ -168,21 +52,9 @@ type ChangeStatus = 'new' | 'updated' | 'unchanged';
  * (see scraper.createArticleId), so a known id with a different content hash
  * means the body was edited.
  */
-function classifyArticle(
-  existing: TrackingData[string] | undefined,
-  contentHash: string
-): ChangeStatus {
+function classifyArticle(existing: TrackingEntry | undefined, contentHash: string): ChangeStatus {
   if (!existing) return 'new';
   return existing.contentHash === contentHash ? 'unchanged' : 'updated';
-}
-
-function toTrackingEntry(
-  link: string,
-  contentHash: string,
-  lastSeen: string,
-  lastModified: string
-): TrackingData[string] {
-  return { contentHash, lastSeen, lastModified, link };
 }
 
 /**
@@ -215,7 +87,8 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
   const now = new Date();
   const nowIso = now.toISOString();
   const counts: Record<ChangeStatus, number> = { new: 0, updated: 0, unchanged: 0 };
-  const updatedTracking: TrackingData = { ...tracking };
+  // Prior tracking with this run's entries merged in, before retention pruning.
+  const mergedTracking: TrackingData = { ...tracking };
 
   // Per-change second offset keeps the timestamps of articles changed in the
   // same run distinct, while staying stable once written.
@@ -234,10 +107,15 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
         ? (existing?.lastModified ?? existing?.lastSeen ?? nowIso)
         : new Date(now.getTime() + changeOffset++ * SECOND_MS).toISOString();
 
-    updatedTracking[article.id] = toTrackingEntry(article.link, contentHash, nowIso, lastModified);
+    mergedTracking[article.id] = {
+      contentHash,
+      lastSeen: nowIso,
+      lastModified,
+      link: article.link,
+    };
   }
 
-  const { tracking: prunedTracking, prunedCount } = pruneTracking(updatedTracking, now);
+  const { tracking: prunedTracking, prunedCount } = pruneTracking(mergedTracking, now);
 
   console.log(
     `Changes: ${counts.new} new, ${counts.updated} updated, ${counts.unchanged} unchanged, ${prunedCount} pruned`
@@ -248,7 +126,7 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
     updatedCount: counts.updated,
     unchangedCount: counts.unchanged,
     prunedCount,
-    updatedTracking: prunedTracking,
+    nextTracking: prunedTracking,
   };
 }
 
@@ -260,7 +138,7 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
 // last changed), falling back to the publish date for articles not yet tracked.
 function entryUpdatedAt(article: Article, tracking: TrackingData): Date {
   const tracked = tracking[article.id];
-  return tracked ? new Date(tracked.lastModified) : article.date;
+  return tracked ? new Date(tracked.lastModified) : article.publishedAt;
 }
 
 /**
@@ -272,7 +150,7 @@ function entryUpdatedAt(article: Article, tracking: TrackingData): Date {
 export function renderAtomFeed(articles: Article[], tracking: TrackingData): string {
   // Newest first, capped at the feed size limit.
   const entries = [...articles]
-    .sort((a, b) => b.date.getTime() - a.date.getTime())
+    .sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime())
     .slice(0, CONFIG.MAX_ARTICLES)
     .map((article) => ({ article, updated: entryUpdatedAt(article, tracking) }));
 
@@ -304,14 +182,14 @@ export function renderAtomFeed(articles: Article[], tracking: TrackingData): str
       description: article.description,
       content: prepareContentForFeed(article.content, article.link),
       date: updated,
-      published: article.date,
+      published: article.publishedAt,
     });
   }
 
   return feed.atom1();
 }
 
-export async function generateFeed(articles: Article[], tracking: TrackingData): Promise<void> {
+export async function writeFeed(articles: Article[], tracking: TrackingData): Promise<void> {
   const atom = renderAtomFeed(articles, tracking);
   const count = Math.min(articles.length, CONFIG.MAX_ARTICLES);
   console.log(`Adding ${count} articles to feed (max: ${CONFIG.MAX_ARTICLES})`);

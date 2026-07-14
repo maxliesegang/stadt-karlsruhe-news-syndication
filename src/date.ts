@@ -13,6 +13,12 @@
 import { CONFIG } from './config.js';
 import { DAY_MS, HOUR_MS, MINUTE_MS } from './time.js';
 
+// Parse a captured regex group into an integer, yielding NaN for a missing
+// group so callers can guard with a single Number.isNaN check.
+function parseIntGroup(value: string | undefined): number {
+  return value ? Number.parseInt(value, 10) : Number.NaN;
+}
+
 const RELATIVE_DATE_PATTERNS = [
   { pattern: /vor\s+(\d+)\s+stunde(n)?/i, milliseconds: HOUR_MS },
   { pattern: /vor\s+(\d+)\s+minute(n)?/i, milliseconds: MINUTE_MS },
@@ -24,7 +30,7 @@ function parseRelativeDate(text: string, now: Date): Date | null {
     const match = text.match(pattern);
     if (!match) continue;
 
-    const amount = Number.parseInt(match[1], 10);
+    const amount = parseIntGroup(match[1]);
     if (Number.isNaN(amount)) continue;
 
     return new Date(now.getTime() - amount * milliseconds);
@@ -57,12 +63,12 @@ export function parseGermanDate(text: string, now: Date = new Date()): Date {
   // Absolute date: "15. Januar 2024"
   const monthNameMatch = trimmed.match(/(\d{1,2})\.\s+([a-zäöüß]+)\s+(\d{4})/i);
   if (monthNameMatch) {
-    const day = Number.parseInt(monthNameMatch[1], 10);
-    const monthName = monthNameMatch[2].toLocaleLowerCase('de-DE');
-    const year = Number.parseInt(monthNameMatch[3], 10);
+    const day = parseIntGroup(monthNameMatch[1]);
+    const monthName = monthNameMatch[2]?.toLocaleLowerCase('de-DE') ?? '';
+    const year = parseIntGroup(monthNameMatch[3]);
     const month = CONFIG.GERMAN_MONTHS[monthName];
 
-    if (month !== undefined) {
+    if (month !== undefined && !Number.isNaN(day) && !Number.isNaN(year)) {
       return new Date(Date.UTC(year, month, day));
     }
   }
@@ -70,10 +76,12 @@ export function parseGermanDate(text: string, now: Date = new Date()): Date {
   // Numeric date: "15.01.2024"
   const numericMatch = trimmed.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
   if (numericMatch) {
-    const day = Number.parseInt(numericMatch[1], 10);
-    const month = Number.parseInt(numericMatch[2], 10) - 1;
-    const year = Number.parseInt(numericMatch[3], 10);
-    return new Date(Date.UTC(year, month, day));
+    const day = parseIntGroup(numericMatch[1]);
+    const month = parseIntGroup(numericMatch[2]) - 1;
+    const year = parseIntGroup(numericMatch[3]);
+    if (!Number.isNaN(day) && !Number.isNaN(month) && !Number.isNaN(year)) {
+      return new Date(Date.UTC(year, month, day));
+    }
   }
 
   // ISO date and all parsable browser formats

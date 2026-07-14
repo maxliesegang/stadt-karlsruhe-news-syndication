@@ -7,6 +7,7 @@ import * as cheerio from 'cheerio';
 import { Readability } from '@mozilla/readability';
 import { JSDOM } from 'jsdom';
 import { CONFIG } from './config.js';
+import { errorMessage } from './errors.js';
 
 function hasMeaningfulContent(content: string): boolean {
   return content.trim().length >= CONFIG.SCRAPER.minContentLength;
@@ -53,8 +54,7 @@ export function extractContent(html: string, url: string): string {
       }
     }
   } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    console.warn(`  Readability failed: ${message}`);
+    console.warn(`  Readability failed: ${errorMessage(error)}`);
   }
 
   // Fallback: Cheerio-based extraction

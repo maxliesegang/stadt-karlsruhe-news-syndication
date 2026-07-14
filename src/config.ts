@@ -107,21 +107,22 @@ export const CONFIG = {
 export type Article = {
   id: string;
   title: string;
-  date: Date;
+  // Publication date parsed from the listing (see date.parseGermanDate).
+  publishedAt: Date;
   link: string;
   description: string;
   content: string;
 };
 
-export type TrackingData = Record<
-  string,
-  {
-    contentHash: string;
-    // Last time the article was seen in a run (refreshed every run).
-    lastSeen: string;
-    // Last time the article's content actually changed; drives the feed entry's
-    // atom:updated so unchanged entries keep a stable timestamp.
-    lastModified: string;
-    link: string;
-  }
->;
+export type TrackingEntry = {
+  contentHash: string;
+  // Last time the article was seen in a run (refreshed every run).
+  lastSeen: string;
+  // Last time the article's content actually changed; drives the feed entry's
+  // atom:updated so unchanged entries keep a stable timestamp.
+  lastModified: string;
+  link: string;
+};
+
+// Tracking state keyed by stable article id (`md5(link)`).
+export type TrackingData = Record<string, TrackingEntry>;

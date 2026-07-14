@@ -11,7 +11,7 @@
 
 import { CONFIG } from './config.js';
 import { fetchHtml, scrapeArticles } from './scraper.js';
-import { loadTracking, detectChanges, saveTracking, generateFeed } from './feed.js';
+import { loadTracking, detectChanges, saveTracking, writeFeed } from './feed.js';
 
 const DIVIDER = '='.repeat(60);
 
@@ -59,15 +59,15 @@ async function main(): Promise<void> {
 
     // 3. Load tracking and detect changes
     const tracking = await loadTracking();
-    const { updatedTracking } = detectChanges(articles, tracking);
+    const { nextTracking } = detectChanges(articles, tracking);
     console.log();
 
-    // 4. Generate feed (uses tracking for stable per-entry timestamps)
-    await generateFeed(articles, updatedTracking);
+    // 4. Render and write feed (uses tracking for stable per-entry timestamps)
+    await writeFeed(articles, nextTracking);
     console.log();
 
     // 5. Save tracking
-    await saveTracking(updatedTracking);
+    await saveTracking(nextTracking);
 
     // Done!
     const duration = ((Date.now() - startTime) / 1000).toFixed(1);

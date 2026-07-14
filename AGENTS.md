@@ -18,8 +18,10 @@ This repository currently uses a small module-based TypeScript scraper:
 - `src/date.ts`: German date-string parsing
 - `src/url.ts`: shared URL resolution
 - `src/hash.ts`: shared MD5 helper (identity + content hashing)
+- `src/errors.ts`: shared unknown-error → message helper
 - `src/time.ts`: shared millisecond duration constants
 - `src/extractor.ts`: article body extraction (Readability → Cheerio fallback)
+- `src/content.ts`: feed content HTML rewriting (lazy images, `<picture>`, absolute URLs)
 - `src/feed.ts`: tracking I/O + change detection + retention pruning + Atom generation
 - `src/config.ts`: environment configuration, selectors, shared types
 

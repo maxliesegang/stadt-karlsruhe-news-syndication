@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { detectChanges, prepareContentForFeed, pruneTracking, renderAtomFeed } from './feed.js';
+import { detectChanges, pruneTracking, renderAtomFeed } from './feed.js';
+import { prepareContentForFeed } from './content.js';
 import { md5 } from './hash.js';
 import type { Article, TrackingData } from './config.js';
 
@@ -7,7 +8,7 @@ function buildArticle(overrides: Partial<Article>): Article {
   return {
     id: 'default-id',
     title: 'Default title',
-    date: new Date('2026-02-24T12:00:00.000Z'),
+    publishedAt: new Date('2026-02-24T12:00:00.000Z'),
     link: 'https://www.karlsruhe.de/default',
     description: 'Default description',
     content: '<p>Default content</p>',
@@ -59,22 +60,23 @@ describe('detectChanges', () => {
     expect(result.prunedCount).toBe(0);
 
     // Tracking now stores the hash of the article body, not the article id.
-    expect(result.updatedTracking['updated-id'].contentHash).toBe(md5(editedContent));
-    expect(result.updatedTracking['unchanged-id'].contentHash).toBe(md5(unchangedContent));
-    expect(result.updatedTracking['new-id']).toMatchObject({
+    expect(result.nextTracking['updated-id']?.contentHash).toBe(md5(editedContent));
+    expect(result.nextTracking['unchanged-id']?.contentHash).toBe(md5(unchangedContent));
+    expect(result.nextTracking['new-id']).toMatchObject({
       contentHash: md5(newArticle.content),
       link: 'https://www.karlsruhe.de/new',
     });
 
     // lastModified advances only when the body changed; unchanged carries over.
-    expect(result.updatedTracking['unchanged-id'].lastModified).toBe(priorModified);
-    expect(result.updatedTracking['updated-id'].lastModified).not.toBe(priorModified);
-    expect(result.updatedTracking['new-id'].lastModified).not.toBe(priorModified);
+    expect(result.nextTracking['unchanged-id']?.lastModified).toBe(priorModified);
+    expect(result.nextTracking['updated-id']?.lastModified).not.toBe(priorModified);
+    expect(result.nextTracking['new-id']?.lastModified).not.toBe(priorModified);
 
     for (const id of ['new-id', 'updated-id', 'unchanged-id']) {
-      const { lastSeen, lastModified } = result.updatedTracking[id];
-      expect(new Date(lastSeen).toString()).not.toBe('Invalid Date');
-      expect(new Date(lastModified).toString()).not.toBe('Invalid Date');
+      const entry = result.nextTracking[id];
+      expect(entry).toBeDefined();
+      expect(new Date(entry?.lastSeen ?? '').toString()).not.toBe('Invalid Date');
+      expect(new Date(entry?.lastModified ?? '').toString()).not.toBe('Invalid Date');
     }
   });
 });
@@ -110,7 +112,7 @@ describe('renderAtomFeed', () => {
     const article = buildArticle({
       id: 'a1',
       link: 'https://www.karlsruhe.de/a1',
-      date: new Date('2026-06-01T00:00:00.000Z'),
+      publishedAt: new Date('2026-06-01T00:00:00.000Z'),
     });
     const lastModified = '2026-06-18T09:30:00.000Z';
     const tracking: TrackingData = {
