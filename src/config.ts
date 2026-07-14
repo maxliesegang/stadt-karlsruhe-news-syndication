@@ -1,12 +1,10 @@
 /**
  * Configuration and constants
  * All environment variables and static configuration in one place
+ *
+ * Environment variables are loaded by Node's native `--env-file` support (see
+ * the `start`/`dev` scripts in package.json); no runtime dotenv dependency.
  */
-
-import { config as dotenvConfig } from 'dotenv';
-
-// Load environment variables
-dotenvConfig();
 
 function parsePositiveInteger(value: string | undefined, fallback: number): number {
   if (!value) return fallback;

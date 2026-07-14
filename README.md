@@ -115,9 +115,6 @@ npm run start
 # Watch mode (auto-restart on file changes)
 npm run dev
 
-# Build TypeScript
-npm run build
-
 # Run tests
 npm test
 
@@ -248,7 +245,6 @@ The source code is split by responsibility:
 - **jsdom** - DOM implementation for Readability
 - **feed** - Atom/RSS feed generation
 - **ofetch** - Modern fetch wrapper with retry
-- **dotenv** - Environment variable management
 
 **Development:**
 

@@ -2,6 +2,26 @@
 
 Repository-wide instructions for AI agents working in `stadt-karlsruhe-news-syndication`.
 
+## What this is
+
+An automated Atom feed generator for [Stadt Karlsruhe news](https://www.karlsruhe.de/aktuelles).
+A small ESM TypeScript pipeline scrapes the news listing, extracts each article's body, tracks
+changes, and writes an Atom feed that is published via GitHub Pages. A GitHub Actions workflow
+regenerates the feed every 4 hours.
+
+## Commands
+
+| Command         | Purpose                                                       |
+| --------------- | ------------------------------------------------------------- |
+| `npm start`     | Run the generator once (fetch → scrape → detect → write feed) |
+| `npm run dev`   | Same, in watch mode                                           |
+| `npm test`      | Run the Vitest unit + fixture tests                           |
+| `npm run check` | Full gate: typecheck + lint + format check + tests            |
+
+The app runs directly from source via `tsx` (no build/emit step); `npm run typecheck` type-checks
+with `--noEmit`. Run `npm run check` before considering a change done. Use `npm start` to validate
+scraper/feed behavior against the live site.
+
 ## Scope Model
 
 Use the most specific `AGENTS.md` available for the file you are editing.
@@ -31,7 +51,8 @@ This repository currently uses a small module-based TypeScript scraper:
 2. Preserve generated/runtime artifacts expected by CI:
    - `docs/feed.atom`
    - `data/tracking.json`
-3. Do not manually edit compiled files in `dist/`; regenerate with `npm run build`.
+3. The app runs from source via `tsx`; there is no build/emit step. Use `npm run typecheck`
+   (`tsc --noEmit`) for type confidence.
 4. Prefer updating selectors/config in `src/config.ts` rather than hardcoding values elsewhere.
 5. Keep Node ESM + TypeScript style consistent (existing import/export patterns).
 6. Validate behavior after meaningful logic changes:
