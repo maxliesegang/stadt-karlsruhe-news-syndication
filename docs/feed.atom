@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-07-14T13:55:18.886Z</updated>
+    <updated>2026-07-15T13:51:50.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,34 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Zwei Gärten öffnen ihre Pforten]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwei-gaerten-oeffnen-ihre-pforten</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwei-gaerten-oeffnen-ihre-pforten"/>
+        <updated>2026-07-15T13:51:49.857Z</updated>
+        <summary type="html"><![CDATA[Am Wochenende erlauben zwei Gärten in Beiertheim und Rüppurr Einblick ins sonst verschlossene private Grün.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Am Wochenende erlauben zwei Gärten in Beiertheim und Rüppurr Einblick ins sonst verschlossene private Grün. Im Rahmen der vom Gartenbauamt initiierten Aktion "Offene Pforte" sind über den ganzen Sommer Gärten und Höfe für Besuche geöffnet.</p>
+<h4>Beiertheimer Idyll im Innenhof</h4>
+<p>Ein etwa 150 Quadratmeter großer Garten ist Teil eines Blockinnenhofs in der <strong><a href="https://kalender.karlsruhe.de/db/termine/stadtleben/offene_pforte_der_blockinnenhof-1" title="Link zur Seite" target="_blank" rel="noreferrer">Karolinenstraße 10</a></strong>. Während der Besichtigungszeit am <strong>Samstag, 18. Juli</strong>, von <strong>10 bis 17 Uhr </strong>können Besucherinnen und Besucher von der Haustür bis zum Hof durchgehen. Neben einem Sitzplatz ist dort ein Auslauf für die dort beheimateten Schildkröten und davor ein Beet mit mehreren Bonsaipflanzen. Ein Teil der Pflanzen in Kübeln oder Töpfen ist nicht winterfest und überwintert im Keller. Im Sommer werden Kräuter, Stauden und Gehölze sowie verschiedene Sommerblumen und Tomaten gepflanzt. Einen zweiten Teil des Hofes betreuen Mieter des Nachbarhauses.</p>
+<h4>Familiärer Hausgarten in Rüppurr</h4>
+<p>Im kleinen, aber abwechslungsreichen Stadtgarten in der <strong><a href="https://kalender.karlsruhe.de/db/termine/stadtleben/offene_pforte_der_familiare" title="Link zur Seite" target="_blank" rel="noreferrer">Neckarstraße 15</a></strong> gibt es auf zwei Ebenen eine Menge zu entdecken. Im unteren Bereich liegt ein Schwimmteich mit Biotop, ein Gewächshaus und eine Spielfläche für die Kinder der Gartenbesitzer, eingerahmt von Rabatten. Im oberen Bereich befindet sich der Nutzgarten mit kleinem Gemüsebeet, Hühnergehege und Beerensträuchern, sowie viele Blumen und Rosenbögen. Die familiäre grüne Oase ist am <strong>Sonntag, 19. Juli</strong>, von <strong>9 bis 12 Uhr </strong>geöffnet.</p>
+                                    </div></div>]]></content>
+        <published>2026-07-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grötzinger Tunnel: Provisorische Öffnung ab Samstag geplant]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/groetzinger-tunnel-provisorische-oeffnung-ab-samstag-geplant</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/groetzinger-tunnel-provisorische-oeffnung-ab-samstag-geplant"/>
+        <updated>2026-07-15T13:51:50.857Z</updated>
+        <summary type="html"><![CDATA[Der durch einen Fahrzeugbrand beschädigte Grötzinger Tunnel wird voraussichtlich am 18. Juli 2026 wieder provisorisch geöffnet.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Der durch einen Fahrzeugbrand beschädigte Grötzinger Tunnel (B10) wird voraussichtlich am Samstag, 18. Juli 2026, wieder provisorisch geöffnet. Bis dahin sind die Reinigungsarbeiten sowie erste Reparaturmaßnahmen abgeschlossen. Das Tiefbauamt als Betreiber des Tunnels und das Regierungspräsidium Karlsruhe als Eigentümer begutachteten gestern die Schäden am Bauwerk. So müssen vor allem Fahrbahnbelag, Branderkennungskabel, verbaute Funktechnik für Rettungskräfte sowie Teile der Beleuchtung repariert werden.</p>
+<p>Wie das Tiefbauamt mitteilt, ist die Hauptreparatur des Tunnels im August vorgesehen. Dabei muss der Tunnel erneut gesperrt werden. Die Stadt Karlsruhe informiert hierzu rechtzeitig.</p>
+<p>Im Grötzinger Tunnel kam es am Montagabend dieser Woche zu einem Fahrzeugbrand. Das betroffene Fahrzeug brannte vollständig aus und beschädigte dabei Teile des Bauwerks. Seitdem ist der Tunnel gesperrt.&nbsp;</p>
+                                    </div></div>]]></content>
+        <published>2026-07-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Erbschaft für blühende Parkanlagen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erbschaft-fuer-bluehende-parkanlagen</id>
@@ -119,38 +147,5 @@
 <p>Die Führung ist ebenfalls kostenlos, eine Anmeldung ist nicht erforderlich.</p>
                                     </div></div>]]></content>
         <published>2026-07-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zu Besuch im "zweiten Heimathafen"]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zu-besuch-im-zweiten-heimathafen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zu-besuch-im-zweiten-heimathafen"/>
-        <updated>2026-07-10T14:38:22.025Z</updated>
-        <summary type="html"><![CDATA[Wenn im Bürgersaal des Rathauses am Marktplatz dreimal ein lautstarkes „Batterie: Feuer“ erklingt, sind die Besatzungsmitglieder der Korvette Karlsruhe wieder zu Besuch in der Fächerstadt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Wenn im Bürgersaal des Rathauses am Marktplatz dreimal ein lautstarkes „Batterie: Feuer“ erklingt, sind die Besatzungsmitglieder der Korvette Karlsruhe wieder zu Besuch in der Fächerstadt.</p>
-<p>Stadtrat Tillmann Pfannkuch zeigte sich in Vertretung von Oberbürgermeister Dr. Frank Mentrup sichtlich erfreut, die Delegation von der Ostsee sowie die Patenschaftsgesellschaft Marineschiffe Karlsruhe empfangen zu dürfen. „Wir werden ihnen mit Treue an der Seite stehen und ihnen einen zweiten Heimathafen bieten“, so Pfannkuch. Russische Kriegsschiffe in der Ostsee verdeutlichten, wie wichtig der Schutz und die Verteidigung europäischer Werte seien. Pfannkuch überreichte einen Wandteller aus der ehemaligen Majolika-Manufaktur für das Schiffsinterieur. „Wie sie ihn bruchsicher befestigen, überlasse ich ihnen“, fügte er schmunzelnd hinzu.</p>
-<p>Mit Glückwünschen und Grüßen im Gepäck berichtete Oberleutnant zur See, Daniel Blumenberg, vom derzeitigen Geschehen an Bord. So richte man sich seit dem Flaggenwechsel von der Werft- zur Dienstflagge im Mai – die Besatzung übernahm die Verantwortung für das Schiff von der Werft – häuslicher und wohnlicher an Bord ein. In der ersten Jahreshälfte habe man vom Heimatstützpunkt Warnemünde bei Rostock Probefahrten in Nord- und Ostsee unternommen. Ab September sind weitere Seefahrten geplant, um die Systeme einzustellen und zu testen, so Blumenberg weiter. Er hoffe, das Schiff im April 2027 komplett in Dienst stellen zu können.</p>
-<p>Die Marineoffiziere sind anlässlich des Sommerfestes des Sybelcentrums für einige Tage nach Karlsruhe gekommen. Die Patenschaftsgesellschaft Marineschiffe Karlsruhe ist ein Verein, der die Verbindung zwischen der Stadt Karlsruhe und den Marineschiffen mit dem Namen „Karlsruhe“ pflegt und fördert. Im November 2024 überreichte Verteidigungsminister Boris Pistorius dem Verein den Preis „Bundeswehr und Gesellschaft".</p>
-                                    </div></div>]]></content>
-        <published>2026-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karlsruher Kandidatin gewinnt Deutschlandfinale des FameLabs]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruher-kandidatin-gewinnt-deutschlandfinale-des-famelabs</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruher-kandidatin-gewinnt-deutschlandfinale-des-famelabs"/>
-        <updated>2026-07-10T11:09:19.450Z</updated>
-        <summary type="html"><![CDATA[Die Wissenschaftlerin Mona Wellhäusser vom Karlsruher Institut für Technologie (KIT) überzeugte die Jury in ihrem dreiminütigen Vortrag mit dem Titel „Wissenschaftlicher Wackelpudding".]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Lampenfieber, Applaus und nur 180 Sekunden Zeit, um die Welt der Wissenschaft zu erklären: Mona Wellhäusser vom Karlsruher Institut für Technologie (KIT) hat das Deutschlandfinale des renommierten Wissenschaftswettbewerbs <a href="http://www.famelab-ka.de/" title="Link zur Seite" target="_blank" rel="noreferrer">FameLab</a> für sich entschieden. Vor über 1.000 begeisterten Zuschauenden setzte sie sich in Bielefeld gegen neun weitere Forschungstalente durch und überzeugte sowohl die Jury als auch das Publikum mit ihrem Vortrag über Expansionsmikroskopie.</p>
-<h4>Wackelpudding für die Wissenschaft</h4>
-<p>Dabei veranschaulichte Mona Wellhäusser mithilfe eines roten Wackelpuddings, wie Zellstrukturen unter dem Mikroskop besser sichtbar gemacht werden können. Das Geheimnis liegt darin, dass Zellen in ein quellbares Polymergel eingebettet werden. Die Biomoleküle werden chemisch an dieses Gel verankert. Gibt man nun Wasser hinzu, dehnt sich das Gel gleichmäßig in alle Richtungen aus und zieht die Moleküle physisch auseinander. So werden die winzige Zellstrukturen selbst mit herkömmlichen Lichtmikroskopen in messerscharfer Nanometer-Auflösung sichtbar. Die Jury und das Publikum waren schließlich der Meinung, dass die Doktorandin vom Institut für Biologische und Chemische Systeme (IBCS) ihre drei Minuten auf der Bühne am besten nutzte, um die berühmten „Drei Cs“, die das Fundament von FameLab bilden, zu meistern: Ihr wissenschaftlicher Inhalt (Content) war präzise und relevant, ihre Erklärungen auch für Laien absolut verständlich (Clarity) und ihr Auftritt versprühte Enthusiasmus, der auf das Publikum überging (Charisma). Somit ging der Titel nach den Siegen von Dr. Christian Scharun und Dr. Aysel Ahadova zum dritten Mal in die Fächerstadt.</p>
-<p>Die Freude in der Wahlheimat ist groß. Wissenschafts- und Wirtschaftsbürgermeisterin Gabriele Luczak-Schwarz betont die Tragweite dieses Erfolgs: „Wir sind außerordentlich stolz darauf, dass unsere Karlsruher Kandidatin Mona Wellhäusser das Deutschlandfinale von FameLab für sich entscheiden konnte. Dieser Sieg ist ein persönlicher Triumph für eine hochtalentierte Forscherin und auch ein glänzendes Aushängeschild für die Wissenschaftsstadt Karlsruhe. Uns ist es ein großes Anliegen, Spitzenforschung nahbar, verständlich und lebendig zu machen. Genau das ist hier auf höchstem Niveau gelungen. Ich drücke für das Weltfinale fest die Daumen.“</p>
-<h4>Von Karlsruhe auf die Weltbühne</h4>
-<p>Der Weg zum Sieg begann am 8. Mai im Karlsruher Kulturzentrum Tollhaus, wo das Wissenschaftsbüro der Wirtschaftsförderung Karlsruhe den regionalen Vorentscheid organisierte. Dass der Titel nun erneut nach Karlsruhe geht, unterstreicht die hohe Qualität der wissenschaftlichen Nachwuchsförderung in der Region.</p>
-<p>Für Mona Wellhäusser geht die Reise im Herbst direkt weiter: Sie wird Deutschland beim internationalen Weltfinale in Katowice (Polen) vertreten. Für sie ist das Format jedoch weit mehr als nur ein Wettbewerb, wie sie selbst erklärt:</p>
-<p>„Formate wie FameLab sind eine herrliche Möglichkeit, im Publikum Begeisterung für die Wissenschaft zu stiften und Neugierde zu wecken. Durch Einblicke in Forschungsprojekte, die sonst oft nur hinter geschlossenen Türen stattfinden, wird Wissenschaft zugänglicher, menschlicher und vertrauenswürdiger. Und vielleicht schaffen wir es sogar, zukünftige Wissenschaftlerinnen und Wissenschaftler&nbsp;zu inspirieren, und tragen so einen klitzekleinen Teil zur Innovationskraft von morgen bei.“</p>
-<p>Wer im nächsten Jahr selbst auf der Bühne stehen und die eigene Forschung ins Rampenlicht rücken möchte: Die Anmeldung für den Karlsruher FameLab-Vorentscheid 2027 startet im Winter.</p>
-                                    </div></div>]]></content>
-        <published>2026-07-10T00:00:00.000Z</published>
     </entry>
 </feed>
