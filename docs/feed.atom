@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-07-17T13:48:20.855Z</updated>
+    <updated>2026-07-20T06:51:56.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,21 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Mai-Steuerschätzung bestätigt angespannte Finanzlage der Kommunen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mai-steuerschaetzung-bestaetigt-angespannte-finanzlage-der-kommunen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mai-steuerschaetzung-bestaetigt-angespannte-finanzlage-der-kommunen"/>
+        <updated>2026-07-20T06:51:56.103Z</updated>
+        <summary type="html"><![CDATA[Belastend wirken sich insbesondere steuerliche Entlastungsmaßnahmen wie die reduzierte Umsatzsteuer in der Gastronomie, die erhöhte Pendlerpauschale sowie höhere Ehrenamts- und Übungsleiterpauschalen aus.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Die aktuelle Mai-Steuerschätzung 2026 bestätigt die schwierigen finanziellen Perspektiven für Bund, Länder und Kommunen. Wie Baden-Württembergs Finanzminister Dr. Danyal Bayaz betont, sind die Zeiten stark steigender Steuereinnahmen vorbei, während die finanziellen Herausforderungen weiter zunehmen. Belastend wirken sich insbesondere steuerliche Entlastungsmaßnahmen wie die reduzierte Umsatzsteuer in der Gastronomie, die erhöhte Pendlerpauschale sowie höhere Ehrenamts- und Übungsleiterpauschalen aus.</p>
+<p>Trotz einer Erhöhung des kommunalen Finanzausgleichs um 550 Millionen Euro im Jahr 2026 bleibt die finanzielle Situation der Städte, Gemeinden und Landkreise angespannt.</p>
+<p>Laut der aktuellen Steuerschätzung müssen die Kommunen erneut mit deutlich geringeren Einnahmen rechnen als noch im Oktober 2025 prognostiziert. Für Karlsruhe betrifft der größte Teil der Mindereinnahmen die Gewerbesteuer. Diese Entwicklungen erforderte bereits zu Beginn des Jahres eine haushaltswirtschaftliche Sperre in Höhe von rund 60 Millionen Euro, um den ursprünglichen Planansatz von minus 44,3 Millionen Euro beizubehalten.</p>
+<p>Durch die Aktualisierung der Orientierungsdaten des Landes zur Mai-Steuerschätzung 2026 besteht nun auch Klarheit bei den Gemeinschaftssteuern, dem Familienleistungsausgleich und dem kommunalen Finanzausgleich. Hier werden Einnahmeausfälle von voraussichtlich drei bis fünf Millionen Euro erwartet. Derzeit rechnet die Stadt für 2026 mit einem Ergebnis von minus 65,7 Millionen Euro. Bei diesem Stand geht die Stadt Karlsruhe von keiner weiteren haushaltswirtschaftlichen Sperre für das Jahr 2026 aus.</p>
+<p>Finanzbürgermeisterin Gabriele Luczak-Schwarz betont jedoch: „Maßgeblich für etwaige Gegensteuerungsmaßnahmen bleibt die tatsächliche Entwicklung des Haushaltsjahres 2026, die weiterhin aufmerksam beobachtet werden muss, sowie das Ergebnis der Oktober-Steuerschätzung – wir müssen weiterhin auf Sicht fahren.“</p>
+                                    </div></div>]]></content>
+        <published>2026-07-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grötzinger Tunnel wieder geöffnet]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/groetzinger-tunnel-wieder-geoeffnet</id>
@@ -126,20 +141,6 @@
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Unter Vorsitz von Ortsvorsteherin Alexandra Ries findet am Mittwoch, 22. Juli 2026, 17 Uhr, die Sitzung des Ortschaftsrats Durlach im Bürgersaal im Rathaus Durlach, Pfinztalstraße 33, 76227 Karlsruhe, statt. Auf der <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10719" target="_blank" rel="noreferrer">Tagesordnung</a> stehen unter anderem Gespräche mit den Verkehrsbetrieben Karlsruhe bezüglich der Barrierefreiheit des Schienenersatzverkehrs sowie der Rückbau von Spielanlagen.</p>
 <p>Am gleichen Tag tritt unter Vorsitz von Ortsvorsteher Alfons Gartner findet ab 19 Uhr der Ortschaftsrat Stupferich im Sitzungssaal im Rathaus Stupferich, Kleinsteinbacher Straße 16, 76228 Karlsruhe, zusammen. Auch hier steht der Rückbau von Spielplätzen auf der <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10787" target="_blank" rel="noreferrer">Tagesordnung</a>.</p>
-                                    </div></div>]]></content>
-        <published>2026-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zwei Ortschaftsräte treffen sich]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/drei-ortschaftsraete-treffen-sich</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/drei-ortschaftsraete-treffen-sich"/>
-        <updated>2026-07-16T14:03:38.611Z</updated>
-        <summary type="html"><![CDATA[Am 21. Juli kommen die Ortschaftsräte von Wettersbach und Wolfartsweier zu ihren nächsten Sitzungen zusammen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Am Dienstag, 21. Juli, kommen die Ortschaftsräte von Wettersbach und Wolfartsweier zu ihren nächsten Sitzungen zusammen.</p>
-<p>Die Wettersbacher treffen sich um 19 Uhr unter Vorsitz von Ortsvorsteherin Kerstin Tron im Bürgersaal des Grünwettersbacher Rathaus. Dort geht es laut <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10458" title="Link zur Seite" target="_blank" rel="noreferrer">Tagesordnung</a> unter anderem um den Rückbau von Spielplätzen und die Radwegeplanung an der L623.</p>
-<p>Zur gleichen Uhrzeit kommen die Ortschaftsräte von Wolfartsweier in der dortigen&nbsp;Begegnungsstätte zusammen. Zu den <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10730" title="Link zur Seite" target="_blank" rel="noreferrer">Themen</a> gehören die Blutspenderehrung und urbane Naturoasen in Wolfartsweier.</p>
-
                                     </div></div>]]></content>
         <published>2026-07-16T00:00:00.000Z</published>
     </entry>
