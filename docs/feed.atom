@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-07-23T21:09:12.985Z</updated>
+    <updated>2026-07-24T03:15:13.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[Konzertiertes Infrastrukturprojekt startet im Zentrum Karlsruhes]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/konzertiertes-infrastrukturprojekt-startet-im-zentrum-karlsruhes</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/konzertiertes-infrastrukturprojekt-startet-im-zentrum-karlsruhes"/>
-        <updated>2026-07-23T21:09:11.985Z</updated>
+        <updated>2026-07-24T03:15:12.627Z</updated>
         <summary type="html"><![CDATA[Eines der komplexesten Karlsruher Bauvorhaben der vergangenen Jahre beginnt am 30. Juli in der Weststadt. Bis Spätjahr 2027 wird am Knotenpunkt von Kriegs-, Brauer-, Garten und Reinhold-Frank-Straße die Infrastruktur erneuert.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -33,7 +33,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-07-23">
-                                        vor 5 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
@@ -297,7 +297,7 @@
         <title type="html"><![CDATA[„Lass' wachsen“]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lass-wachsen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lass-wachsen"/>
-        <updated>2026-07-23T21:09:12.985Z</updated>
+        <updated>2026-07-24T03:15:13.627Z</updated>
         <summary type="html"><![CDATA[Wirtschaftsbürgermeisterin Gabriele Luczak-Schwarz hat am vergangenen Mittwoch das Gründungs- und Gewerbezentrum für Handwerk und kleines produzierendes Gewerbe – kurz: Gewerkshaus - auf dem Michelin-Areal eröffnet.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -315,7 +315,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-07-23">
-                                        vor 9 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
