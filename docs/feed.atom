@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-07-24T10:23:33.265Z</updated>
+    <updated>2026-07-24T13:54:04.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,63 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Bei Sanierung Rücksicht auf Mauersegler und Fledermäuse nehmen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bei-sanierung-ruecksicht-auf-mauersegler-und-fledermaeuse-nehmen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bei-sanierung-ruecksicht-auf-mauersegler-und-fledermaeuse-nehmen"/>
+        <updated>2026-07-24T13:54:02.325Z</updated>
+        <summary type="html"><![CDATA[Gebäude sind für viele Tierarten unverzichtbare Lebensräume. Mit einer vorausschauenden Planung lassen sich Sanierungen und Artenschutz gut miteinander vereinbaren.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Mit den warmen Monaten kehren die Mauersegler aus ihren Winterquartieren in Afrika zurück. Bis in den Sommer hinein ziehen sie ihre Jungen in kleinen Spalten und Hohlräumen an Gebäuden auf. Gleichzeitig beginnt vielerorts die Sanierungssaison. Bei Sanierungsarbeiten an Fassaden und Dächern während der Sommermonate muss daher besonders Rücksicht auf die geschützten Gebäudebrüter genommen werden.</p>
+<p>Mauersegler sind außergewöhnlich standorttreu. Jahr für Jahr kehren sie zu denselben Brutplätzen im Stadtkreis Karlsruhe zurück. Viele Nistplätze befinden sich unter Dachvorsprüngen, hinter Fassadenverkleidungen oder in Mauerspalten. Bereits das Aufstellen eines Gerüstes oder das Anbringen von Schutznetzen und Planen kann dazu führen, dass die Vögel ihre Nester nicht mehr erreichen. Werden Altvögel ausgesperrt, können Eier oder Jungvögel im Nest verenden. Oft fällt erst während der laufenden Bauarbeiten auf, dass ein Gebäude Lebensraum für diese Tiere ist. Ist dies der Fall, kann dies zu Baustelleneinstellung bis zum Ende der Brutzeit führen und erhebliche Mehrkosten verursachen.</p>
+<p>Auch Fledermäuse nutzen häufig solche Gebäudespalten im Sommer und können ihre Quartiere unter Umständen nicht mehr verlassen oder erreichen.</p>
+<h4>Besonderer Schutz</h4>
+<p>Mauersegler und alle heimischen Fledermausarten stehen unter besonderem Schutz, ebenso ihre Nester und Quartiere. Deshalb dürfen ihre Nester und Quartiere, auch außerhalb der Brutzeit, nicht zerstört oder verschlossen werden. Ebenso ist es verboten, die Tiere während der Fortpflanzungs- und Aufzuchtzeit erheblich zu stören. Verstöße gegen diese Vorschriften können mit Bußgeldern geahndet werden.</p>
+<p>Dabei lassen sich viele Probleme vermeiden. Wer eine Dach- oder Fassadensanierung plant, sollte das Gebäude bereits im Vorfeld, am besten im Vorjahr, auf Niststätten oder Fledermausquartiere prüfen lassen. Häufig können Arbeiten zeitlich so geplant werden, dass die Tiere nicht beeinträchtigt werden. Falls Nistplätze oder Quartiere dauerhaft entfallen, können in vielen Fällen geeignete Ersatzquartiere geschaffen werden. Den Artenschutz frühzeitig einzuplanen schützt nicht nur Mauersegler und andere Gebäudebrüter, sondern verhindert auch Verzögerungen auf der Baustelle.</p>
+<p>Wer unsicher ist, ob sich an einem Gebäude geschützte Arten befinden oder welche Maßnahmen zulässig sind, kann sich vor Beginn der Arbeiten auch für eine frühzeitige Beratung an den Umwelt- und Arbeitsschutz der Stadt Karlsruhe wenden <a href="#" title="E-Mail senden" data-mailto-token="drzckf1ldnvck4risvzkjjtylkqRbricjilyv5uv" data-mailto-vector="-9">(umwelt-arbeitsschutz(at)karlsruhe.de</a> und <a href="tel:07211333101" title="Telefonnummer anrufen">0721-133 3101</a>).</p>
+                                    </div></div>]]></content>
+        <published>2026-07-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bodenfeuchtesensoren helfen bei der Bewässerung von Stadtbäumen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bodenfeuchtesensoren-helfen-bei-der-bewaesserung-von-stadtbaeumen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bodenfeuchtesensoren-helfen-bei-der-bewaesserung-von-stadtbaeumen"/>
+        <updated>2026-07-24T13:54:03.325Z</updated>
+        <summary type="html"><![CDATA[Bodenfeuchtesensoren sind ein erster Baustein für ein modernes und nachhaltiges Gießmanagement in den Testbetrieb gegangen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Das Gartenbauamt baut ein flächendeckendes Netzwerk aus Bodenfeuchtesensoren auf. Damit schafft es eine wichtige Grundlage für ein modernes und nachhaltiges Gießmanagement von Jungbäumen. Im Juli 2026 startet das System zunächst im Testbetrieb an 100 Jungbäumen.</p>
+<p>Die Sensoren befinden sich im Wurzelbereich ausgewählter Stadtbäume. Sie messen laufend die Bodenfeuchte und liefern aktuelle Daten an das Gartenbauamt.</p>
+<p>Diese Daten helfen künftig dabei, die Bewässerung gezielt zu steuern. Die Bäume sollen genau dann Wasser erhalten, wenn sie es brauchen. So lässt sich Wasser sparsamer einsetzen. Gleichzeitig kann die Bewässerung an die tatsächlichen Bedingungen vor Ort angepasst werden. Das Gießpersonal kann gezielt dort eingesetzt werden, wo der Gießbedarf am höchsten ist.</p>
+<p>Vor allem wegen zunehmender Hitze und längerer Trockenzeiten wird eine bedarfsgerechte Bewässerung immer wichtiger. Besonders Jungbäume reagieren empfindlich auf Trockenheit. Ihr Wurzelsystem entwickelt sich in den ersten Jahren noch. Die Sensoren helfen deshalb nicht nur dabei, den aktuellen Wasserbedarf besser einzuschätzen. Sie liefern auch Erkenntnisse darüber, wie lange Wasser in verschiedenen Bodenschichten verfügbar bleibt.</p>
+<p>Erste Ergebnisse aus dem Testbetrieb zeigen bereits wichtige Zusammenhänge. Das Gießwasser erreicht häufig vor allem die oberen Bodenschichten. Diese trocknen bei hohen Temperaturen jedoch schnell wieder aus. Tiefere Bodenschichten erhalten oft zu wenig Wasser. Dort sollen sich jedoch die Wurzeln der Bäume langfristig hin entwickeln. Die neuen Erkenntnisse sollen dabei helfen, die Bewässerung weiter zu verbessern und klimaresiliente Stadtbäume zu fördern.</p>
+<p><strong>Unterstützung aus der Bürgerschaft bleibt wichtig</strong></p>
+<p>Auch moderne Sensortechnik kann die Unterstützung der Karlsruherinnen und Karlsruher nicht ersetzen. Das Gartenbauamt bittet deshalb weiterhin darum, Straßen- und Parkbäume während längerer Hitze- und Trockenperioden zu gießen.</p>
+<p>Damit das Wasser möglichst gut wirkt, sollten mindestens 100 Liter oder mehr langsam ausgebracht werden. So kann es auch tiefere Bodenschichten erreichen. Am besten wird der gesamte Wurzelbereich unter der Baumkrone bewässert und nicht nur der Bereich direkt am Stamm. So gelangt das Wasser dorthin, wo die Wurzeln wachsen, und der Baum kann längere Trockenphasen besser überstehen.</p>
+<p>An einigen Bäumen weisen Schilder mit der Aufschrift „Hier misst das Gartenbauamt“ auf installierte Bodenfeuchtesensoren oder laufende Messungen hin. Diese Schilder bedeuten nicht, dass die Bäume nicht gegossen werden sollen. Im Gegenteil: Zusätzliche Wassergaben sind ausdrücklich erwünscht. Sie unterstützen den Erhalt des Stadtbaumbestandes.</p>
+                                    </div></div>]]></content>
+        <published>2026-07-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vier Millimeter große Hoffnung für eine bedrohte Art]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vier-millimeter-grosse-hoffnung-fuer-eine-bedrohte-art</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vier-millimeter-grosse-hoffnung-fuer-eine-bedrohte-art"/>
+        <updated>2026-07-24T13:54:04.325Z</updated>
+        <summary type="html"><![CDATA[Dem Zoo Karlsruhe ist die europaweit erste Nachzucht der Eleganten Harlekinkröte (Atelopus elegans) gelungen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Dem Zoo Karlsruhe ist die europaweit erste Nachzucht der Eleganten Harlekinkröte (Atelopus elegans) gelungen. Seit Anfang Juli haben rund 40 Jungtiere ihre Entwicklung von der Kaulquappe zur Kröte abgeschlossen und das Wasser verlassen. Mit einer Körpergröße von gerade einmal etwa vier Millimetern sind sie noch kaum größer als ein Reiskorn.</p>
+<p>Die Elterntiere der stark gefährdeten Amphibienart kamen im Sommer 2024 von der ecuadorianischen Organisation Wikiri nach Europa. Wikiri und das zugehörige Centro Jambatu in der Nähe von Quito widmen sich der Erforschung, Haltung und Vermehrung bedrohter Amphibienarten. Die nach Europa gebrachten Tiere wurden auf den Zoo Karlsruhe und den Tierpark Hellabrunn in München verteilt. In Karlsruhe legten sie Mitte April zwei Gelege ab. Aus den Eiern entwickelten sich Kaulquappen, die nun nach und nach ihre Metamorphose abschließen.</p>
+<p>„Diese europäische Erstnachzucht ist ein herausragender Erfolg für unseren Zoo und den Artenschutz. Sie zeigt, wie wichtig es ist, sich auch um Arten zu kümmern, die keine große Lobby haben“, sagt Zoodirektor Dr. Matthias Reinschmidt. „Viele Zoogäste kommen verständlicherweise vor allem wegen Elefanten, Eisbären oder Giraffen zu uns. Gleichzeitig investieren wir sehr viel Zeit, Fachwissen und personelle Ressourcen in solche kleinen, hochbedrohten Arten. Mit Dr. Lukas Reese haben wir einen ausgewiesenen Amphibienspezialisten, der gemeinsam mit seinem Team im Exotenhaus hervorragende Arbeit leistet.“</p>
+<h4>Anspruchsvolle Aufzucht der winzigen Amphibien</h4>
+<p>Die Zucht von Harlekinkröten stellt hohe Anforderungen an Haltung und Pflege. Wasserqualität, Temperatur, Strömung und Futter müssen während der Entwicklung der Kaulquappen genau aufeinander abgestimmt sein. Eine besondere Herausforderung beginnt nach Abschluss der Metamorphose. Während sich die Kaulquappen von Algen ernähren, sind die nur wenige Millimeter großen Harlekinkröten auf entsprechend winzige Futterinsekten angewiesen.</p>
+<p>„Dass rund 40 Tiere die Metamorphose geschafft haben, ist ein großartiges Ergebnis. Bis dahin sind jedoch viele einzelne Arbeitsschritte und sehr genaue Beobachtungen notwendig“, erläutert Dr. Lukas Reese, Zootierarzt sowie Kurator für das Exotenhaus. „Dieser Erfolg ist nur durch das große Engagement und die hohe Fachkompetenz unseres Tierpflege-Teams im Exotenhaus möglich geworden. Die Tiere und ihre Entwicklungsstadien werden intensiv betreut. Darauf können wir sehr stolz sein.“</p>
+<p>Die Elegante Harlekinkröte kommt ursprünglich in Ecuador und Kolumbien vor. In Ecuador ist nur noch eine Population bekannt. Die Weltnaturschutzunion führt die Art auf der IUCN Red List of Threatened Species als „stark gefährdet“. Neben dem Verlust geeigneter Lebensräume haben Krankheiten zu den massiven Bestandsrückgängen vieler Amphibien beigetragen. Besonders der Chytridpilz hat zahlreiche Arten der Gattung Atelopus stark dezimiert. Gesunde Reservepopulationen in menschlicher Obhut können deshalb für das langfristige Überleben dieser Tiere von entscheidender Bedeutung sein.</p>
+<h4>Zweite erfolgreiche Atelopus-Nachzucht in Karlsruhe</h4>
+<p>Für den Zoo Karlsruhe ist es bereits die zweite Art aus der Gattung der Harlekinkröten, die erfolgreich nachgezüchtet werden konnte. 2023 gelang hier erstmals in einem europäischen Zoo die Nachzucht der vom Aussterben bedrohten Rio-Pescado-Stummelfußkröte (Atelopus balios). Die Art wird mittlerweile im Rahmen von Citizen Conservation, einem Netzwerk aus Zoos, wissenschaftlichen Einrichtungen und privaten Haltungen, an mehreren Standorten erfolgreich gehalten und weitervermehrt. Damit ist es gelungen, von wenigen ebenfalls aus einer Zuchtstation in Ecuador importierten Tieren eine rasch wachsende Reservepopulation aufzubauen.</p>
+<p>„Die Entwicklung bei Atelopus balios zeigt, was aus einem ersten Zuchterfolg entstehen kann, wenn Wissen und Tiere verantwortungsvoll weitergegeben werden“, sagt Reese. Neben den beiden bereits erfolgreich vermehrten Arten hält der Zoo Karlsruhe auch Wampukrum-Harlekinkröten. Bei dieser wissenschaftlich noch nicht beschriebenen Art ist eine Nachzucht bislang noch nicht gelungen.</p>
+<p>„Harlekinkröten stehen wie kaum eine andere Tiergruppe für das weltweite Amphibiensterben. Solche Arten fallen in der öffentlichen Wahrnehmung schnell durch das Raster“, betont Reinschmidt. „Für uns sind sie jedoch die kleinen Juwelen des Zoos. Ihr Erhalt gehört genauso zu unseren Aufgaben wie der Schutz großer und bekannter Tierarten.“</p>
+                                    </div></div>]]></content>
+        <published>2026-07-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Konzertiertes Infrastrukturprojekt startet im Zentrum Karlsruhes]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/konzertiertes-infrastrukturprojekt-startet-im-zentrum-karlsruhes</id>
@@ -582,45 +639,5 @@ Ariane Durian (Vizepräsidentin IHK Karlsruhe), Christian Metzger (Werksleiter M
 <p>2019 wurde Karlsruhe von der UNESCO als erste und bisher einzige Stadt in Deutschland mit dem Titel „Creative City of Media Arts“ (Stadt der Medienkunst) ausgezeichnet und in das UNESCO Creative Cities Network (UCCN) aufgenommen. Das globale Netzwerk wurde im Jahr 2004 gegründet, um die Zusammenarbeit zwischen Städten zu fördern, die Kreativität und Kultur für den Aufbau nachhaltiger Stadtgesellschaften als wichtigen Faktor identifiziert haben.</p>
                                     </div></div>]]></content>
         <published>2026-07-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planungswerkstatt Werderplatz: Öffentlichkeitsbeteiligung liefert wichtige Impulse]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungswerkstatt-werderplatz-oeffentlichkeitsbeteiligung-liefert-wichtige-impulse</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/planungswerkstatt-werderplatz-oeffentlichkeitsbeteiligung-liefert-wichtige-impulse"/>
-        <updated>2026-07-22T14:06:47.235Z</updated>
-        <summary type="html"><![CDATA[Mit der Planungswerkstatt Werderplatz am 11. Juli 2026 ist ein wichtiger Schritt auf dem Weg zu einer höheren Aufenthaltsqualität auf dem Werderplatz gelungen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Mit der Planungswerkstatt Werderplatz am 11. Juli 2026 ist ein wichtiger Schritt auf dem Weg zu einer höheren Aufenthaltsqualität auf dem Werderplatz gelungen. Die Veranstaltung ist Teil der Bemühungen, den Platz gemeinsam mit den Menschen im Stadtteil weiterzuentwickeln. Grundlage der Veranstaltung sind zwei politische Beschlüsse des Gemeinderats: Im Juli 2025 wurde beschlossen, den westlichen Teil des Werderplatzes künftig in die bereits bestehende Fußgängerzone im östlichen Teil des Platzes einzubeziehen. Darüber hinaus stellte der Gemeinderat 100.000 Euro für die Gestaltung des Werderplatzes in den städtischen Haushalt ein.</p>
-<p>Auf Basis dieser Grundsatzentscheidungen wurde im Rahmen der Planungswerkstatt gemeinsam darüber beraten, wie die Beschlüsse konkret umgesetzt werden können. Eingeladen waren Einwohnerinnen und Einwohner der Südstadt, die über eine Zufallsauswahl aus dem Melderegister ausgewählt wurden. Darüber hinaus nahmen Vertreterinnen und Vertreter der Gemeinderatsfraktionen, Vereinen aus dem Stadtteil sowie der Kirchen und sozialer Träger an der Veranstaltung teil.</p>
-<p>Im Mittelpunkt der Veranstaltung stand die Frage, wie der Werderplatz künftig gestaltet werden kann, damit er von möglichst vielen Menschen gerne genutzt wird. Die Gestaltung eines öffentlichen Raums beeinflusst maßgeblich, wie er wahrgenommen und genutzt wird. Ein gut gestalteter Platz kann dazu beitragen, dass sich unterschiedliche Nutzergruppen dort aufhalten und der öffentliche Raum ausgewogener genutzt wird.</p>
-<p>Die Stadtverwaltung steht vor und nach der Planungswerkstatt im fachlichen Austausch mit dem KIT, das den Werderplatz im Rahmen eigener Forschung wissenschaftlich untersucht. Dadurch werden wissenschaftliche Erkenntnisse mit den Ergebnissen der Öffentlichkeitsbeteiligung verknüpft und für den weiteren Planungsprozess nutzbar gemacht.</p>
-<p>Die Ergebnisse der Planungswerkstatt werden in das weitere Verfahren eingebracht und bilden eine wesentliche Grundlage für die nachfolgenden Planungsschritte. Ziel der Stadtverwaltung ist es, den Werderplatz bis zum Spätsommer/Herbst 2027 neu zu zonieren und zu gestalten. Hierfür ist zum einen die Ausschreibung und Beauftragung Büros für die Gestaltung des Platzes und zum anderen ein Teileinzugsverfahren erforderlich.</p>
-                                    </div></div>]]></content>
-        <published>2026-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitzewelle: Einsatzkräfte am Limit]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hitzewelle-einsatzkraefte-am-limit</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hitzewelle-einsatzkraefte-am-limit"/>
-        <updated>2026-07-22T10:29:20.045Z</updated>
-        <summary type="html"><![CDATA[Stadt sucht verstärkt nach kühlen Orten. Auch die Zivilgesellschaft ist gefordert, aufeinander achtzugeben.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Mehr Möglichkeiten zur Abkühlung schaffen – das ist ein Fazit, das die Stadtverwaltung und das Städtische Klinikum nach der jüngsten Hitzewelle gezogen haben. Mit Temperaturen von weit über 30 Grad an mehreren Tagen hintereinander und Spitzen von mehr als 40 Grad Ende Juni in Karlsruhe hat sich eine außergewöhnliche Einsatzlage ergeben, berichtete erste Bürgermeisterin Bettina Lisbach bei einer Pressekonferenz im Rathaus. Über 2.500 Anrufe seien in dieser Zeit bei der integrierten Leitstelle eingegangen und führten dort zu einer angespannten Situation. „Die Einsatzkräfte von Feuerwehr und Rettungsdienst waren am Limit“, sagte Lisbach. „Das war ein außergewöhnliches Ereignis für das Städtische Klinikum“, betonte auch Dr. Björn Bergau, Leiter des integrierten Notfallzentrums. Viele kritisch kranke Personen seien zeitgleich angeliefert worden und hätten zur Gesundheitsstabilisierung eine kühle Umgebung benötigt. Das Klinikum versuche sich mit dem Üben von Abläufen und einem sogenannten Krankenhausalarmplan bestmöglich auf ähnliche Situationen vorzubereiten.</p>
-<h4>Suche nach weiteren kühlen Räumen</h4>
-<p>Die Stadt sei mit ihrem Hitzeaktionsplan, der unter anderem den Stadtplan für heiße Tage beinhaltet, schon recht gut aufgestellt, bilanzierte Lisbach. Dennoch müsse vor allem die Suche nach geeigneten kühlen Räumen intensiviert werden – auch für einen nächtlichen Aufenthalt. „Wir schaffen nicht alles auf einen Schlag“, sagte Franziska von Andrian-Werburg, Leiterin des städtischen Umwelt- und Arbeitsschutzes. „Wir müssen priorisieren und peu à peu mehr kühle Räume generieren.“ Aktuell bieten Kirchen und einige Museum Abkühlung an heißen Tagen. Außerdem soll der Stadtplan für heiße Tage dahingehend weiterentwickelt werden, das gekennzeichnet wird, welche Räume auch bei einer länger anhaltenden Hitzeperiode kühl bleiben. Letztendlich stehe aber auch die „Solidarität im Fokus“, betonte von Andrian-Werburg. „Wir sind auf Mitwirkung von Ehrenamtlichen angewiesen.“ Auch Lisbach appellierte: „Wir müssen aufeinander achtgeben.“ -gia-</p>
-                                    </div></div>]]></content>
-        <published>2026-07-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSK: Alle Wertstoffstationen und Schadstoffannahmestellen öffnen am 23. Juli 2026 erst um 10 Uhr]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tsk-alle-wertstoffstationen-und-schadstoffannahmestellen-oeffnen-am-23-juli-2026-erst-um-10-uhr</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tsk-alle-wertstoffstationen-und-schadstoffannahmestellen-oeffnen-am-23-juli-2026-erst-um-10-uhr"/>
-        <updated>2026-07-21T14:03:58.126Z</updated>
-        <summary type="html"><![CDATA[Das Team Sauberes Karlsruhe informiert, dass die städtischen Wertstoffstationen und Schadstoffannahmestellen in Karlsruhe am 23. Juli 2026, aufgrund einer betrieblichen Veranstaltung erst um 10 Uhr öffnen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Das Team Sauberes Karlsruhe informiert, dass die städtischen Wertstoffstationen und Schadstoffannahmestellen in Karlsruhe am Donnerstag, 23. Juli 2026, aufgrund einer betrieblichen Veranstaltung erst um 10 Uhr öffnen. Bürgerinnen und Bürger&nbsp;werden gebeten, die geänderten Öffnungszeiten bei ihrer Planung zu berücksichtigen.</p>
-<p>Weitere Informationen gibt es in der vollständigen&nbsp;<a href="https://www.karlsruhe.de/fileadmin/user_upload/01_Stadt_Rathaus/018_Aktuelles_Newsroom/Pressebereich/20260721_Pressemeldung_OEffnungszeiten_Wertstoffstationen_und_Schadstoffannahmestellen.pdf" title="Download" target="_blank" download="20260721_Pressemeldung_OEffnungszeiten_Wertstoffstationen_und_Schadstoffannahmestellen.pdf">Meldung<span> 212 KB (PDF)</span></a> des Teams Sauberes Karlsruhe.</p>
-                                    </div></div>]]></content>
-        <published>2026-07-21T00:00:00.000Z</published>
     </entry>
 </feed>
