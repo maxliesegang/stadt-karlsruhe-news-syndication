@@ -1257,32 +1257,56 @@
   },
   "0bcbf33d8ae620144225e5dba3854f47": {
     "contentHash": "b1a0851e5745ca13613eaa366c91a326",
-    "lastSeen": "2026-08-03T07:32:43.071Z",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
     "lastModified": "2026-07-29T17:19:23.653Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neubau-kann-kommen"
   },
   "b9b8b79bd8e7792ed175f5b127a56a79": {
     "contentHash": "cf6af1d5cfce677681eb0c1f2ca683a2",
-    "lastSeen": "2026-08-03T07:32:43.071Z",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
     "lastModified": "2026-07-30T14:12:43.727Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/wechsel-im-planungs-und-baudezernat"
   },
   "31f67f51953754bc5a3380f9cd14d6ea": {
     "contentHash": "b49d4ff46feca67906b821fdeca26a42",
-    "lastSeen": "2026-08-03T07:32:43.071Z",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
     "lastModified": "2026-07-31T10:43:49.199Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bitte-absteigen-kontrolle-in-der-kaiserstrasse"
   },
   "232a49f980370468a8fa299c57bbc9be": {
     "contentHash": "e00e5a919c4fc95a3623338bb7aa790f",
-    "lastSeen": "2026-08-03T07:32:43.071Z",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
     "lastModified": "2026-07-30T14:12:45.727Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nach-erfolgreicher-hitzefrei-aktion-ab-sofort-freier-eintritt-ab-33-c-im-kunstmuseum-karlsruhe"
   },
   "0a8e8795c6be5557c45a699931d3cc8c": {
     "contentHash": "b1fd2fae3dcb0163b13e80683b2ac1de",
-    "lastSeen": "2026-08-03T07:32:43.071Z",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
     "lastModified": "2026-07-31T14:19:36.499Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/drittes-gastro-standbein-im-zoo"
+  },
+  "6f7844198ce4875f71bf712a3467ae83": {
+    "contentHash": "08fab4979c51acbe9007991f147b0ba8",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
+    "lastModified": "2026-08-03T11:30:21.775Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/modellprojekt-streuobstwiesenerhaltung-in-groetzingen"
+  },
+  "eeb2aaabf0c158cfd2f8a23181c1bc42": {
+    "contentHash": "59f50ddf00a57fc51f840116dbc24930",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
+    "lastModified": "2026-08-03T11:30:22.775Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kulturamt-karlsruhe-veroeffentlicht-jahresbericht-das-kulturamt-im-wandel"
+  },
+  "18b3daee166d8b55e5f203a79a1e4496": {
+    "contentHash": "02daa0aa9362b266f39376880c56c841",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
+    "lastModified": "2026-08-03T11:30:23.775Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruher-wald-sendet-warnsignale"
+  },
+  "7fb2a2fe5701970de6b86e9435ea4497": {
+    "contentHash": "17eeab828c66f8fac72315f078a105d1",
+    "lastSeen": "2026-08-03T11:30:21.775Z",
+    "lastModified": "2026-08-03T11:30:24.775Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-kondoliert-zum-tod-von-doris-baitinger"
   }
 }
