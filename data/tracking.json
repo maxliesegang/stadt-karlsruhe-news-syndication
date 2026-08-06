@@ -1329,7 +1329,7 @@
   },
   "96aedcb8f8a4a2153d613d96aa9322cc": {
     "contentHash": "17281de0a9adc5923c3ec3811cf88281",
-    "lastSeen": "2026-08-06T06:34:52.462Z",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
     "lastModified": "2026-08-04T14:26:22.843Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerbuero-digital-nutzen"
   },
@@ -1359,32 +1359,50 @@
   },
   "0c59e492e488c9dd350922045f883a47": {
     "contentHash": "4f3153af7e997eac80a85ee2a14d6d9d",
-    "lastSeen": "2026-08-06T06:34:52.462Z",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
     "lastModified": "2026-08-05T10:40:51.300Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/aufruf-fuer-tierschutzpreis-2026"
   },
   "9f326263056d3a26ebc39ff23648350b": {
     "contentHash": "b862ee108fe79dafabc234cc344262d5",
-    "lastSeen": "2026-08-06T06:34:52.462Z",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
     "lastModified": "2026-08-05T10:40:52.300Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fundhund-pico-hat-ein-neues-zuhause"
   },
   "7c71c16b36e83a67ee62391676a38647": {
     "contentHash": "6c40270f2482010078e266058dde6294",
-    "lastSeen": "2026-08-06T06:34:52.462Z",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
     "lastModified": "2026-08-05T10:40:53.300Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-dr-frank-mentrup-gratuliert-stutensees-oberbuergermeister-frank-burkard-zur-wahl"
   },
   "4a9a06f3a136cc09770c4f08a8c80e5d": {
     "contentHash": "101f6efbbd5f8f9c9dfb4a7df7d24e53",
-    "lastSeen": "2026-08-06T06:34:52.462Z",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
     "lastModified": "2026-08-05T10:40:54.300Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erste-schritte-zum-pikopark-in-der-kaiserallee"
   },
   "4a9b3f75f8688409b5c5184abc9353a1": {
     "contentHash": "531a86139c7906bc396c03bad17b9baf",
-    "lastSeen": "2026-08-06T06:34:52.462Z",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
     "lastModified": "2026-08-05T14:19:17.563Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-fe23ff0f9efd39665e2e1a39800e8e8e"
+  },
+  "ef1fb39989eb9ea995de98213bed7693": {
+    "contentHash": "b22dcbc521b3de8a8c790c0adf3a05c7",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
+    "lastModified": "2026-08-06T10:43:58.700Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruher-aktion-stadtradeln-2026-endet"
+  },
+  "d5327c1660201f57a92e9692eac81313": {
+    "contentHash": "48e82f5037a29f10c7c034fcafe8c999",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
+    "lastModified": "2026-08-06T10:43:59.700Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/aktionen-im-karlsruher-stadtmuseum"
+  },
+  "6aba36ecb6e0f16483696c4ded205351": {
+    "contentHash": "0a45c3b66656b13cf5e56656eb41d7c7",
+    "lastSeen": "2026-08-06T10:43:58.700Z",
+    "lastModified": "2026-08-06T10:44:00.700Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schuelerinnentage-verzeichnen-rekordbesuch"
   }
 }
