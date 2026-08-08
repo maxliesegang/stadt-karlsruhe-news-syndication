@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { detectChanges, pruneTracking, renderAtomFeed } from './feed.js';
+import { detectChanges, parseTrackingData, pruneTracking, renderAtomFeed } from './feed.js';
 import { prepareContentForFeed } from './content.js';
 import { md5 } from './hash.js';
 import type { Article, TrackingData } from './config.js';
@@ -52,7 +52,8 @@ describe('detectChanges', () => {
       },
     };
 
-    const result = detectChanges([newArticle, updatedArticle, unchangedArticle], tracking);
+    const now = new Date('2026-06-25T10:00:00.000Z');
+    const result = detectChanges([newArticle, updatedArticle, unchangedArticle], tracking, now);
 
     expect(result.newCount).toBe(1);
     expect(result.updatedCount).toBe(1);
@@ -71,6 +72,8 @@ describe('detectChanges', () => {
     expect(result.nextTracking['unchanged-id']?.lastModified).toBe(priorModified);
     expect(result.nextTracking['updated-id']?.lastModified).not.toBe(priorModified);
     expect(result.nextTracking['new-id']?.lastModified).not.toBe(priorModified);
+    expect(result.nextTracking['new-id']?.lastModified).toBe('2026-06-25T10:00:00.000Z');
+    expect(result.nextTracking['updated-id']?.lastModified).toBe('2026-06-25T10:00:01.000Z');
 
     for (const id of ['new-id', 'updated-id', 'unchanged-id']) {
       const entry = result.nextTracking[id];
@@ -78,6 +81,32 @@ describe('detectChanges', () => {
       expect(new Date(entry?.lastSeen ?? '').toString()).not.toBe('Invalid Date');
       expect(new Date(entry?.lastModified ?? '').toString()).not.toBe('Invalid Date');
     }
+  });
+});
+
+describe('parseTrackingData', () => {
+  it('accepts legacy entries without lastModified', () => {
+    const parsed = parseTrackingData({
+      legacy: {
+        contentHash: 'abc',
+        lastSeen: '2026-06-20T00:00:00.000Z',
+        link: 'https://www.karlsruhe.de/legacy',
+      },
+    });
+
+    expect(parsed.legacy).toEqual({
+      contentHash: 'abc',
+      lastSeen: '2026-06-20T00:00:00.000Z',
+      link: 'https://www.karlsruhe.de/legacy',
+    });
+  });
+
+  it('rejects malformed persisted state with the affected entry id', () => {
+    expect(() =>
+      parseTrackingData({
+        broken: { contentHash: 'abc', lastSeen: 'not-a-date' },
+      })
+    ).toThrow('Invalid tracking entry: broken');
   });
 });
 
@@ -133,6 +162,20 @@ describe('renderAtomFeed', () => {
     expect(first).toContain(`<updated>${lastModified}</updated>`);
     // Publish date stays the article's own date.
     expect(first).toContain('<published>2026-06-01T00:00:00.000Z</published>');
+  });
+
+  it('uses lastSeen for legacy tracking entries without lastModified', () => {
+    const article = buildArticle({ id: 'legacy' });
+    const lastSeen = '2026-06-18T09:30:00.000Z';
+    const tracking: TrackingData = {
+      legacy: {
+        contentHash: md5(article.content),
+        lastSeen,
+        link: article.link,
+      },
+    };
+
+    expect(renderAtomFeed([article], tracking)).toContain(`<updated>${lastSeen}</updated>`);
   });
 });
 

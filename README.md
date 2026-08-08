@@ -138,6 +138,8 @@ All configuration is managed through environment variables:
 | `HTTP_MAX_RETRIES`         | `3`                                  | Retries after the initial HTTP attempt  |
 | `HTTP_RETRY_BASE_DELAY_MS` | `5000`                               | Initial exponential retry delay         |
 | `HTTP_USER_AGENT`          | Repository-specific identifier       | User-Agent sent to the source site      |
+| `SCRAPER_CONCURRENCY`      | `4`                                  | Concurrent article detail requests      |
+| `MIN_CONTENT_LENGTH`       | `100`                                | Minimum extracted body length           |
 | `GITHUB_USERNAME`          | -                                    | Your GitHub username                    |
 | `FEED_URL`                 | Auto-generated                       | Published feed URL                      |
 | `MAX_ARTICLES`             | `100`                                | Maximum articles in feed                |

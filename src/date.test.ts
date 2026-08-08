@@ -29,4 +29,10 @@ describe('parseGermanDate', () => {
 
     expect(parsed.toISOString()).toBe(now.toISOString());
   });
+
+  it.each(['31. Februar 2024', '31.02.2024'])('rejects impossible date %s', (value) => {
+    const now = new Date('2026-02-24T12:00:00.000Z');
+
+    expect(parseGermanDate(value, now)).toBe(now);
+  });
 });

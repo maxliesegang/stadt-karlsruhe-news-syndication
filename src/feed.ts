@@ -20,6 +20,43 @@ type ChangeDetectionResult = {
   nextTracking: TrackingData;
 };
 
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === 'object' && value !== null && !Array.isArray(value);
+}
+
+function isValidDateString(value: unknown): value is string {
+  return typeof value === 'string' && !Number.isNaN(Date.parse(value));
+}
+
+function parseTrackingEntry(id: string, value: unknown): TrackingEntry {
+  if (
+    !isRecord(value) ||
+    typeof value.contentHash !== 'string' ||
+    !isValidDateString(value.lastSeen) ||
+    typeof value.link !== 'string' ||
+    (value.lastModified !== undefined && !isValidDateString(value.lastModified))
+  ) {
+    throw new Error(`Invalid tracking entry: ${id}`);
+  }
+
+  return {
+    contentHash: value.contentHash,
+    lastSeen: value.lastSeen,
+    ...(value.lastModified === undefined ? {} : { lastModified: value.lastModified }),
+    link: value.link,
+  };
+}
+
+export function parseTrackingData(value: unknown): TrackingData {
+  if (!isRecord(value)) {
+    throw new Error('Invalid tracking data: expected an object');
+  }
+
+  return Object.fromEntries(
+    Object.entries(value).map(([id, entry]) => [id, parseTrackingEntry(id, entry)])
+  );
+}
+
 // ============================================================================
 // TRACKING
 // ============================================================================
@@ -27,7 +64,7 @@ type ChangeDetectionResult = {
 export async function loadTracking(): Promise<TrackingData> {
   try {
     const content = await readFile(CONFIG.TRACKING_FILE, 'utf-8');
-    const data = JSON.parse(content) as TrackingData;
+    const data = parseTrackingData(JSON.parse(content));
     console.log(`Loaded tracking data: ${Object.keys(data).length} entries`);
     return data;
   } catch (error) {
@@ -83,8 +120,11 @@ export function pruneTracking(
   return { tracking: retained, prunedCount };
 }
 
-export function detectChanges(articles: Article[], tracking: TrackingData): ChangeDetectionResult {
-  const now = new Date();
+export function detectChanges(
+  articles: Article[],
+  tracking: TrackingData,
+  now: Date = new Date()
+): ChangeDetectionResult {
   const nowIso = now.toISOString();
   const counts: Record<ChangeStatus, number> = { new: 0, updated: 0, unchanged: 0 };
   // Prior tracking with this run's entries merged in, before retention pruning.
@@ -138,7 +178,9 @@ export function detectChanges(articles: Article[], tracking: TrackingData): Chan
 // last changed), falling back to the publish date for articles not yet tracked.
 function entryUpdatedAt(article: Article, tracking: TrackingData): Date {
   const tracked = tracking[article.id];
-  return tracked ? new Date(tracked.lastModified) : article.publishedAt;
+  if (!tracked) return article.publishedAt;
+
+  return new Date(tracked.lastModified ?? tracked.lastSeen);
 }
 
 /**

@@ -19,6 +19,21 @@ function parseIntGroup(value: string | undefined): number {
   return value ? Number.parseInt(value, 10) : Number.NaN;
 }
 
+function createUtcDate(year: number, month: number, day: number): Date | null {
+  const date = new Date(Date.UTC(year, month, day));
+
+  // Date.UTC normalizes impossible values (for example, 31 February) into a
+  // different date. Reject those inputs instead of silently changing them.
+  return date.getUTCFullYear() === year && date.getUTCMonth() === month && date.getUTCDate() === day
+    ? date
+    : null;
+}
+
+function fallbackToNow(text: string, now: Date): Date {
+  console.warn(`  Could not parse date "${text}", using current time`);
+  return now;
+}
+
 const RELATIVE_DATE_PATTERNS = [
   { pattern: /vor\s+(\d+)\s+stunde(n)?/i, milliseconds: HOUR_MS },
   { pattern: /vor\s+(\d+)\s+minute(n)?/i, milliseconds: MINUTE_MS },
@@ -69,8 +84,11 @@ export function parseGermanDate(text: string, now: Date = new Date()): Date {
     const month = CONFIG.GERMAN_MONTHS[monthName];
 
     if (month !== undefined && !Number.isNaN(day) && !Number.isNaN(year)) {
-      return new Date(Date.UTC(year, month, day));
+      const date = createUtcDate(year, month, day);
+      if (date) return date;
     }
+
+    return fallbackToNow(trimmed, now);
   }
 
   // Numeric date: "15.01.2024"
@@ -80,8 +98,11 @@ export function parseGermanDate(text: string, now: Date = new Date()): Date {
     const month = parseIntGroup(numericMatch[2]) - 1;
     const year = parseIntGroup(numericMatch[3]);
     if (!Number.isNaN(day) && !Number.isNaN(month) && !Number.isNaN(year)) {
-      return new Date(Date.UTC(year, month, day));
+      const date = createUtcDate(year, month, day);
+      if (date) return date;
     }
+
+    return fallbackToNow(trimmed, now);
   }
 
   // ISO date and all parsable browser formats
@@ -90,6 +111,5 @@ export function parseGermanDate(text: string, now: Date = new Date()): Date {
     return parsed;
   }
 
-  console.warn(`  Could not parse date "${trimmed}", using current time`);
-  return now;
+  return fallbackToNow(trimmed, now);
 }

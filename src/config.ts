@@ -6,16 +6,18 @@
  * the `start`/`dev` scripts in package.json); no runtime dotenv dependency.
  */
 
-function parsePositiveInteger(value: string | undefined, fallback: number): number {
+function parseInteger(value: string | undefined, fallback: number, minimum: number): number {
   if (!value) return fallback;
-  const parsed = Number.parseInt(value, 10);
-  return Number.isNaN(parsed) || parsed < 1 ? fallback : parsed;
+
+  const parsed = Number(value);
+  return Number.isSafeInteger(parsed) && parsed >= minimum ? parsed : fallback;
 }
 
-function parseNonNegativeInteger(value: string | undefined, fallback: number): number {
-  if (!value) return fallback;
-  const parsed = Number.parseInt(value, 10);
-  return Number.isNaN(parsed) || parsed < 0 ? fallback : parsed;
+function defaultFeedUrl(): string {
+  const githubUsername = process.env.GITHUB_USERNAME?.trim();
+  return githubUsername
+    ? `https://${githubUsername}.github.io/stadt-karlsruhe-news-syndication/feed.atom`
+    : 'https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom';
 }
 
 export const CONFIG = {
@@ -28,21 +30,19 @@ export const CONFIG = {
     title: process.env.FEED_TITLE || 'Stadt Karlsruhe - Aktuelle Meldungen',
     description: process.env.FEED_DESCRIPTION || 'Offizielle Nachrichten der Stadt Karlsruhe',
     language: process.env.FEED_LANGUAGE || 'de',
-    url:
-      process.env.FEED_URL ||
-      'https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom',
+    url: process.env.FEED_URL || defaultFeedUrl(),
   },
 
   // Output paths
   OUTPUT_FILE: process.env.OUTPUT_FILE || 'docs/feed.atom',
   TRACKING_FILE: process.env.TRACKING_FILE || 'data/tracking.json',
-  MAX_ARTICLES: parsePositiveInteger(process.env.MAX_ARTICLES, 100),
+  MAX_ARTICLES: parseInteger(process.env.MAX_ARTICLES, 100, 1),
 
   // HTTP settings
   HTTP: {
-    maxRetries: parseNonNegativeInteger(process.env.HTTP_MAX_RETRIES, 3),
-    retryBaseDelay: parsePositiveInteger(process.env.HTTP_RETRY_BASE_DELAY_MS, 5000),
-    timeout: parsePositiveInteger(process.env.HTTP_TIMEOUT_MS, 30000),
+    maxRetries: parseInteger(process.env.HTTP_MAX_RETRIES, 3, 0),
+    retryBaseDelay: parseInteger(process.env.HTTP_RETRY_BASE_DELAY_MS, 5000, 1),
+    timeout: parseInteger(process.env.HTTP_TIMEOUT_MS, 30000, 1),
     userAgent:
       process.env.HTTP_USER_AGENT ||
       'stadt-karlsruhe-news-syndication/1.0 (+https://github.com/maxliesegang/stadt-karlsruhe-news-syndication)',
@@ -50,15 +50,15 @@ export const CONFIG = {
 
   // Scraper behavior
   SCRAPER: {
-    concurrency: 4,
-    minContentLength: 100,
+    concurrency: parseInteger(process.env.SCRAPER_CONCURRENCY, 4, 1),
+    minContentLength: parseInteger(process.env.MIN_CONTENT_LENGTH, 100, 1),
   },
 
   // Tracking state
   TRACKING: {
     // Drop tracking entries for articles not seen within this many days, so
     // `tracking.json` stays bounded as old articles leave the source listing.
-    retentionDays: parsePositiveInteger(process.env.TRACKING_RETENTION_DAYS, 365),
+    retentionDays: parseInteger(process.env.TRACKING_RETENTION_DAYS, 365, 1),
   },
 
   // CSS selectors for HTML parsing
@@ -127,7 +127,9 @@ export type TrackingEntry = {
   lastSeen: string;
   // Last time the article's content actually changed; drives the feed entry's
   // atom:updated so unchanged entries keep a stable timestamp.
-  lastModified: string;
+  // Optional for compatibility with tracking files created before this field
+  // was introduced. It is populated the next time the article is seen.
+  lastModified?: string;
   link: string;
 };
 
