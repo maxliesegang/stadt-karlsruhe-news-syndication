@@ -2,27 +2,29 @@ name: Update Feed
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # Every 4 hours
+    # Keep the four-hour cadence away from the heavily loaded top of the hour.
+    - cron: '17 */4 * * *'
   workflow_dispatch: # Manual trigger
   push:
     branches: [main] # Run on push for testing
 
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: update-feed-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
       - name: Setup Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
         with:
           node-version: '24'
           cache: 'npm'
@@ -30,7 +32,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Run quality checks
+        run: npm run check
+
       - name: Generate feed
+        timeout-minutes: 10
         run: npm start
 
       - name: Commit and push changes
@@ -38,5 +44,9 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add docs/feed.atom data/tracking.json
-          git diff --quiet && git diff --staged --quiet || \
-            (git commit -m "Update feed [skip ci]" && git push)
+          if git diff --staged --quiet; then
+            echo "No generated changes to commit"
+          else
+            git commit -m "Update feed [skip ci]"
+            git push
+          fi

@@ -23,11 +23,15 @@ Context for `src/` (TypeScript application code).
 3. Preserve resilience behavior in `scrapeArticles()`:
    - Skip broken entries with warnings.
    - Continue processing remaining articles.
-4. Keep extraction strategy order: Readability first, Cheerio fallback.
-5. Keep article identity deterministic and content-independent: `id = md5(link)`.
+4. Preserve HTTP retry behavior in `fetchHtml()`:
+   - Give every retry a fresh request/timeout signal.
+   - Retry transient network failures and configured retryable HTTP statuses only.
+   - Keep retry counts, timeout, backoff, and User-Agent environment-configurable through `CONFIG.HTTP`.
+5. Keep extraction strategy order: Readability first, Cheerio fallback.
+6. Keep article identity deterministic and content-independent: `id = md5(link)`.
    Detect content edits via a separate `contentHash = md5(content)` stored in
    tracking (do not fold content back into the id).
-6. Keep feed/tracking compatibility with existing data shape (`Article`, `TrackingData`).
+7. Keep feed/tracking compatibility with existing data shape (`Article`, `TrackingData`).
 
 ## Environment and Config
 

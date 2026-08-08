@@ -34,7 +34,7 @@ Use the most specific `AGENTS.md` available for the file you are editing.
 This repository currently uses a small module-based TypeScript scraper:
 
 - `src/index.ts`: pipeline orchestration
-- `src/scraper.ts`: HTTP fetch + listing parsing + bounded concurrency + article ID creation
+- `src/scraper.ts`: resilient HTTP fetch + listing parsing + bounded concurrency + article ID creation
 - `src/date.ts`: German date-string parsing
 - `src/url.ts`: shared URL resolution
 - `src/hash.ts`: shared MD5 helper (identity + content hashing)

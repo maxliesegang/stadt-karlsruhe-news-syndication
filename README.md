@@ -10,6 +10,7 @@ A simple, maintainable TypeScript scraper with a small module-based architecture
 - 📰 Generates valid Atom feed with full article content
 - 🎯 Uses @mozilla/readability for intelligent content extraction
 - 🔍 Tracks article changes with MD5 hashing
+- 🌐 Retries transient HTTP failures with configurable exponential backoff
 - ⏰ Auto-updates every 4 hours via GitHub Actions
 - 🚀 Deploys to GitHub Pages
 - 🔧 Environment-based configuration
@@ -83,6 +84,7 @@ git push
 GitHub Actions will automatically:
 
 - Run every 4 hours
+- Run the full quality check before generating the feed
 - Update the feed
 - Commit changes back to the repository
 
@@ -120,23 +122,37 @@ npm test
 
 # Type checking
 npm run typecheck
+
+# Full quality gate
+npm run check
 ```
 
 ### Environment Variables
 
 All configuration is managed through environment variables:
 
-| Variable                  | Default                              | Description                             |
-| ------------------------- | ------------------------------------ | --------------------------------------- |
-| `SOURCE_URL`              | `https://www.karlsruhe.de/aktuelles` | News source URL                         |
-| `GITHUB_USERNAME`         | -                                    | Your GitHub username                    |
-| `FEED_URL`                | Auto-generated                       | Published feed URL                      |
-| `MAX_ARTICLES`            | `100`                                | Maximum articles in feed                |
-| `OUTPUT_FILE`             | `docs/feed.atom`                     | Feed output path                        |
-| `TRACKING_FILE`           | `data/tracking.json`                 | Change tracking file path               |
-| `TRACKING_RETENTION_DAYS` | `365`                                | Prune entries unseen for this many days |
+| Variable                   | Default                              | Description                             |
+| -------------------------- | ------------------------------------ | --------------------------------------- |
+| `SOURCE_URL`               | `https://www.karlsruhe.de/aktuelles` | News source URL                         |
+| `HTTP_TIMEOUT_MS`          | `30000`                              | Timeout for each HTTP attempt           |
+| `HTTP_MAX_RETRIES`         | `3`                                  | Retries after the initial HTTP attempt  |
+| `HTTP_RETRY_BASE_DELAY_MS` | `5000`                               | Initial exponential retry delay         |
+| `HTTP_USER_AGENT`          | Repository-specific identifier       | User-Agent sent to the source site      |
+| `GITHUB_USERNAME`          | -                                    | Your GitHub username                    |
+| `FEED_URL`                 | Auto-generated                       | Published feed URL                      |
+| `MAX_ARTICLES`             | `100`                                | Maximum articles in feed                |
+| `OUTPUT_FILE`              | `docs/feed.atom`                     | Feed output path                        |
+| `TRACKING_FILE`            | `data/tracking.json`                 | Change tracking file path               |
+| `TRACKING_RETENTION_DAYS`  | `365`                                | Prune entries unseen for this many days |
 
 See [.env.example](.env.example) for all options.
+
+### HTTP Reliability
+
+Each page fetch has its own timeout and sends an identifiable User-Agent. Transient failures,
+including timeouts, rate limits, and selected server errors, are retried with a fresh request and
+exponential backoff. Permanent HTTP errors such as `404` fail immediately. `HTTP_MAX_RETRIES`
+counts retries after the initial request, so the default of `3` permits up to four attempts.
 
 ## How It Works
 
@@ -192,11 +208,13 @@ stadt-karlsruhe-news-syndication/
 │   ├── date.ts               # German date-string parsing
 │   ├── url.ts                # Shared URL resolution
 │   ├── hash.ts               # Shared MD5 helper (identity + content hashing)
+│   ├── errors.ts             # Shared unknown-error formatting
 │   ├── time.ts               # Shared millisecond duration constants
 │   ├── extractor.ts          # Article body extraction (Readability → Cheerio)
+│   ├── content.ts            # Feed HTML rewriting and URL normalization
 │   ├── feed.ts               # Tracking state + change detection + Atom generation
 │   ├── config.ts             # Shared config, selectors, and types
-│   ├── scraper.test.ts       # Scraper link/ID unit tests
+│   ├── scraper.test.ts       # HTTP retry and scraper link/ID unit tests
 │   ├── date.test.ts          # German date-parsing unit tests
 │   ├── feed.test.ts          # Tracking + feed-content unit tests
 │   └── extractor.test.ts     # Content extraction tests (against fixtures)
@@ -214,7 +232,7 @@ stadt-karlsruhe-news-syndication/
 ├── package.json
 ├── tsconfig.json
 ├── README.md
-├── CLAUDE.md                # Quick orientation for Claude Code
+├── CLAUDE.md                # Reference to AGENTS.md for Claude Code
 └── AGENTS.md                # Guide for AI agents
 ```
 
@@ -228,8 +246,11 @@ The source code is split by responsibility:
 4. **`src/date.ts`** - German date-string parsing (`parseGermanDate`)
 5. **`src/url.ts`** - Shared URL resolution (`resolveHttpUrl`)
 6. **`src/hash.ts`** - Shared MD5 helper (`md5`) for identity and content hashing
-7. **`src/extractor.ts`** - Article body extraction (Readability with a Cheerio fallback)
-8. **`src/feed.ts`** - Tracking load/save, change detection, retention pruning, Atom feed writing
+7. **`src/errors.ts`** - Shared conversion of unknown errors into loggable messages
+8. **`src/time.ts`** - Shared millisecond duration constants
+9. **`src/extractor.ts`** - Article body extraction (Readability with a Cheerio fallback)
+10. **`src/content.ts`** - Feed HTML rewriting for images, pictures, and absolute URLs
+11. **`src/feed.ts`** - Tracking load/save, change detection, retention pruning, Atom feed writing
 
 ### Tech Stack
 
@@ -244,7 +265,7 @@ The source code is split by responsibility:
 - **cheerio** - Fast HTML parsing (jQuery-like API)
 - **jsdom** - DOM implementation for Readability
 - **feed** - Atom/RSS feed generation
-- **ofetch** - Modern fetch wrapper with retry
+- **ofetch** - Modern HTTP client
 
 **Development:**
 

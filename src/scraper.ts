@@ -15,23 +15,67 @@ import { md5 } from './hash.js';
 
 type ListingCandidate = Omit<Article, 'id' | 'content'> & { position: number };
 
+const RETRYABLE_HTTP_STATUSES = new Set([408, 409, 425, 429, 500, 502, 503, 504]);
+
 // ============================================================================
 // HTTP FETCHING
 // ============================================================================
 
 export async function fetchHtml(url: string): Promise<string> {
   console.log(`Fetching ${url}...`);
-  try {
-    const html = await ofetch<string>(url, {
-      retry: CONFIG.HTTP.maxRetries,
-      retryDelay: CONFIG.HTTP.retryDelay,
-      timeout: CONFIG.HTTP.timeout,
-    });
-    console.log(`  ✓ Fetched ${Math.round(html.length / 1024)}KB`);
-    return html;
-  } catch (error) {
-    throw new Error(`Failed to fetch ${url}: ${errorMessage(error)}`, { cause: error });
+
+  const maxAttempts = CONFIG.HTTP.maxRetries + 1;
+  let lastError: unknown;
+  let attemptsMade = 0;
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    attemptsMade = attempt;
+    try {
+      // Retry explicitly so every timeout gets a fresh AbortSignal. ofetch's
+      // built-in recursive retry can otherwise reuse the already-aborted signal.
+      const html = await ofetch<string>(url, {
+        headers: {
+          accept: 'text/html,application/xhtml+xml',
+          'user-agent': CONFIG.HTTP.userAgent,
+        },
+        retry: false,
+        timeout: CONFIG.HTTP.timeout,
+      });
+      console.log(`  ✓ Fetched ${Math.round(html.length / 1024)}KB`);
+      return html;
+    } catch (error) {
+      lastError = error;
+
+      if (attempt === maxAttempts || !isRetryableFetchError(error)) {
+        break;
+      }
+
+      const retryDelay = CONFIG.HTTP.retryBaseDelay * 2 ** (attempt - 1);
+      console.warn(
+        `  ! Attempt ${attempt}/${maxAttempts} failed: ${errorMessage(error)}. ` +
+          `Retrying in ${Math.round(retryDelay / 1000)}s...`
+      );
+      await wait(retryDelay);
+    }
   }
+
+  throw new Error(
+    `Failed to fetch ${url} after ${attemptsMade} ${attemptsMade === 1 ? 'attempt' : 'attempts'}: ${errorMessage(lastError)}`,
+    { cause: lastError }
+  );
+}
+
+function isRetryableFetchError(error: unknown): boolean {
+  if (typeof error !== 'object' || error === null) return true;
+
+  const response = (error as { response?: { status?: unknown } }).response;
+  if (!response || typeof response.status !== 'number') return true;
+
+  return RETRYABLE_HTTP_STATUSES.has(response.status);
+}
+
+function wait(duration: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, duration));
 }
 
 // ============================================================================

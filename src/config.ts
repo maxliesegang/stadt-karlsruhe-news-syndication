@@ -12,6 +12,12 @@ function parsePositiveInteger(value: string | undefined, fallback: number): numb
   return Number.isNaN(parsed) || parsed < 1 ? fallback : parsed;
 }
 
+function parseNonNegativeInteger(value: string | undefined, fallback: number): number {
+  if (!value) return fallback;
+  const parsed = Number.parseInt(value, 10);
+  return Number.isNaN(parsed) || parsed < 0 ? fallback : parsed;
+}
+
 export const CONFIG = {
   // Source URLs
   SOURCE_URL: process.env.SOURCE_URL || 'https://www.karlsruhe.de/aktuelles',
@@ -34,9 +40,12 @@ export const CONFIG = {
 
   // HTTP settings
   HTTP: {
-    maxRetries: 3,
-    retryDelay: 1000,
-    timeout: 30000,
+    maxRetries: parseNonNegativeInteger(process.env.HTTP_MAX_RETRIES, 3),
+    retryBaseDelay: parsePositiveInteger(process.env.HTTP_RETRY_BASE_DELAY_MS, 5000),
+    timeout: parsePositiveInteger(process.env.HTTP_TIMEOUT_MS, 30000),
+    userAgent:
+      process.env.HTTP_USER_AGENT ||
+      'stadt-karlsruhe-news-syndication/1.0 (+https://github.com/maxliesegang/stadt-karlsruhe-news-syndication)',
   },
 
   // Scraper behavior

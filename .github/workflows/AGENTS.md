@@ -8,8 +8,9 @@ Context for `.github/workflows/` (CI automation).
 
 1. Run on schedule (every 4 hours), manual trigger, and push to `main`.
 2. Install deps via `npm ci`.
-3. Run generator via `npm start`.
-4. Commit only generated artifacts (`docs/feed.atom`, `data/tracking.json`).
+3. Run the full `npm run check` quality gate before generation.
+4. Run generator via `npm start`.
+5. Commit only generated artifacts (`docs/feed.atom`, `data/tracking.json`).
 
 ## Rules
 
@@ -18,6 +19,8 @@ Context for `.github/workflows/` (CI automation).
 3. Avoid introducing self-triggering commit loops; keep `[skip ci]` in auto-commit message.
 4. Keep runtime setup consistent with project requirements (Node + npm).
 5. If changing schedule or triggers, document intent in workflow comments.
+6. Keep per-ref concurrency with stale runs cancelled so overlapping jobs do not race to push.
+7. Keep job and generation timeouts bounded so stalled network requests cannot occupy a runner indefinitely.
 
 ## Validation
 
