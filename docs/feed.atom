@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-13T02:47:52.131Z</updated>
+    <updated>2026-08-13T09:33:45.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,20 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Störung nach Unfall im Karoline-Luise-Tunnel]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stoerung-nach-unfall-im-karoline-luise-tunnel</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stoerung-nach-unfall-im-karoline-luise-tunnel"/>
+        <updated>2026-08-13T09:33:45.724Z</updated>
+        <summary type="html"><![CDATA[Der Karoline-Luise-Tunnel ist derzeit wegen einer Beschädigung durch einen Unfall gesperrt. Die Wartungsfirma arbeitet daran, die Störung schnellstmöglich zu beheben. Die Stadt informiert, sobald der Tunnel wieder geöffnet ist.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Der Karoline-Luise-Tunnel ist derzeit wegen einer Beschädigung gesperrt. Am Mittwochmittag gegen 12 Uhr versuchte ein zu hohes Fahrzeug, in das Parkhaus des Ettlinger-Tor-Centers einzufahren. Beim Wenden in der Einfahrt wurde unter anderem das Brandmeldelinienkabel beschädigt. Infolgedessen kam es zur Sperrung des Tunnels. Im weiteren Verlauf des Mittwochs wurden Reparaturarbeiten zur Beseitigung der Störung durchgeführt. Diese waren zunächst erfolgreich, jedoch führte das beschädigte Kabel in der Nacht erneut zu einer Vollsperrung. Die Sperrung besteht weiterhin. Die Wartungsfirma arbeitet daran, die Störung schnellstmöglich zu beheben. Eine verlässliche Angabe zur Dauer der Arbeiten ist jedoch derzeit nicht möglich. Die Stadt informiert, sobald der Tunnel wieder geöffnet ist.</p>
+<p>Bei Wiedereröffnung des Tunnels wird voraussichtlich eine Geschwindigkeitsbegrenzung von 30 km/h gelten. Eine umfassende Reparatur, die den Austausch des beschädigten Kabels beinhaltet, wird so bald wie möglich geplant. Ziel ist es, den Tunnel wieder ohne Einschränkungen befahrbar zu machen. Für diese Arbeiten wird voraussichtlich zu einem späteren Zeitpunkt eine erneute Sperrung erforderlich sein.</p>
+<p>Das Brandmeldelinienkabel ist ein wesentlicher Bestandteil der Sicherheitsausstattung des Karoline-Luise-Tunnels. Es dient der Signalübertragung im Brandfall. Eine Beschädigung verhindert die zuverlässige Funktion, weshalb in einem solchen Fall besondere Maßnahmen zu ergreifen sind, die unter anderem eine Geschwindigkeitsbegrenzung umfassen.</p>
+
+                                    </div></div>]]></content>
+        <published>2026-08-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rathaus Neureut bleibt am 17. August 2026 ab 10:30 Uhr geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-rathaus-neureut-bleibt-am-17-august-2026-ab-1030-uhr-geschlossen</id>
@@ -193,151 +207,5 @@
 <p>Die Stadt Karlsruhe ist in vielen Bereichen von den Folgen des Klimawandels betroffen – zum Beispiel durch zunehmende Hitze in der Stadt. Seit der Veröffentlichung der ersten Klimaanpassungsstrategie im Jahr 2013 setzt die Verwaltung erfolgreich Maßnahmen in diesem wichtigen Handlungsfeld um. Schwerpunkte sind Hitzeschutz, Begrünung, Starkregenvorsorge und der Umgang mit Trockenheit.</p>
                                     </div></div>]]></content>
         <published>2026-08-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spielplätze zukunftsfähig gestalten]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/spielplaetze-zukunftsfaehig-gestalten</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/spielplaetze-zukunftsfaehig-gestalten"/>
-        <updated>2026-08-07T13:13:41.917Z</updated>
-        <summary type="html"><![CDATA[Um den Großteil der Spielplätze auch in Zukunft erhalten zu können, muss die Stadt sich in den nächsten fünf Jahren von 80 Spielflächen trennen – so ein Beschluss im Zuge der Haushaltsberatungen, der nun in einer ersten Tranche umgesetzt wird.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>„Hmm, lecker - Sandkuchen“, „Komm‘ da sofort runter“ und „Nein, nicht in den Mund nehmen“: Spielplätze bereichern schon immer das Leben in Karlsruhe. Über dreihundert sind es bisweilen. Um den Großteil davon auch in Zukunft erhalten zu können, muss die Stadt sich in den nächsten fünf Jahren von 80 Spielflächen trennen – so ein Beschluss im Zuge der Haushaltsberatungen. Das Gartenbauamt hat dem Gemeinderat jetzt eine Liste mit den ersten<a href="https://web1.karlsruhe.de/ris/oparl/bodies/0001/downloadfiles/00679800.pdf" title="Link zur Seite" target="_blank" rel="noreferrer"> 20 Standorten</a> vorgelegt. Die Auswahl erfolgte nach mehreren Kriterien, etwa erhöhter Reparatur- und Sanierungsaufwand, wie gut der Spielplatz angenommen wird und ob andere Spielflächen in der Nähe sind. Abgebaute, noch intakte Spielgeräte werden auf anderen Spielplätzen weiterverwendet. Die freiwerdenden Flächen sollen zu öffentlichen Grünflächen werden.</p>
-<p>„Wir müssen die verbleibenden Spielplätze sichern und instandhalten“, so Jorinda Fahringer (GRÜNE). Trotz des Rückbaus habe die Stadt im Landesvergleich ein gutes Angebot.</p>
-<p>„Wir haben eine wahnsinnig hohe Spielplatzdichte in Karlsruhe – die höchste in den Großstädten des Landes“, betonte Bettina Meier-Augenstein (CDU). Daran werde der Beschluss nichts ändern.</p>
-<p>So sah es auch Elke Ernemann (SPD): „Attraktive Spielplätze gibt es fußläufig überall.“ Auch habe im Rahmen der Anhörungen kein Ortschaftsrat dem Plan widersprochen – „weil es Sinn macht“.</p>
-<p>Dr. Paul Schmidt (AfD) begrüßte, dass die Entscheidung über den Spielplatz Albgrün/Theodor-Söhner-Weg zunächst zurückgestellt wurde. Außerdem wollte er noch zwei weitere Spielplätze erhalten wissen, was der Rat ablehnte.</p>
-                                    </div><div>
-                                            
-
-        
-    
-        
-        
-                <div>
-                    
-                            
-
-
-
-
-
-<img alt="Blick auf den Spieplatz am Oberbühlweg in Grötzingen." title="" src="https://www.karlsruhe.de/fileadmin/user_upload/01_Stadt_Rathaus/018_Aktuelles_Newsroom/StadtZeitung/Spielplaetze/2026-06-12_Obermuehlweg._1.jpg">
-
-                            
-                                
-                            
-                        
-                </div>
-            
-    
-
-    
-
-
-
-
-
-
-
-
-<div id="c207651">
-        
-        <p>Auch Thomas Hock (FDP) fand es gut, „den wichtigen Spielplatz da rauszunehmen“. Aufgrund der sehr guten Vorbereitung durch das Gartenbauamt sei es leicht gefallen, die Entscheidung mitzugehen.</p>
-<p>Kaputte Wipptiere abzubauen sei ok, befand Adina Geißinger (Volt). &nbsp;</p>
-<p>Sparen an dieser Stelle sei nicht leicht, dennoch sei das Angebot an Spielplätzen in Karlsruhe immer noch überdurchschnittlich, urteilte Michael Haug (KAL).</p>
-<p>„Wir nehmen nicht nur etwas weg, sondern wir geben auch etwas“, betonte Friedemann Kalmbach (FÜR) mit Blick auf die freiwerdenden Flächen. Darauf könne genauso „Urban Gardening“ stattfinden wie auch Blüh- oder Biodiversitäts-Patenschaften, so die Stellungnahme der Verwaltung auf seinen Antrag.</p>
-    </div>
-
-
-
-
-        
-    
-        
-        
-                <div>
-                    
-                            
-
-
-
-
-
-<img alt="Blick auf die Spielfläche am Alte Bach in Hagsfeld. " title="" src="https://www.karlsruhe.de/fileadmin/_processed_/0/e/csm_Hagsfeld_Alte_Bach_Spielweg_a4e65616e0.jpg">
-
-                            
-                                
-                            
-                        
-                </div>
-            
-    
-
-    
-
-
-
-
-
-
-
-
-<div id="c207876">
-        
-        <p>Einzig Die Linke stimmte gegen den Rückbau der Spielplätze. Dies stehe nicht im Verhältnis zu den Konsequenzen, so Tanja Kaufmann.</p>
-<p>„Die nächsten 60 werden nicht so schlecht sein, das wird noch wehtun“, blickte Oberbürgermeister Dr. Frank Mentrup auf die noch ausstehenden Rückbau-Tranchen. Die Alternative sei, irgendwann Spielplätze absperren zu müssen, weil sie nicht mehr nutzbar seien. -has-</p>
-    </div>
-
-
-
-
-        
-    
-        
-        
-                
-                        <div>
-                            <a title="" aria-label=" in Lightbox öffnen" data-fancybox="images207879" rel="gallery207879" href="https://www.karlsruhe.de/fileadmin/_processed_/6/2/UEbersichtsplan_230794_d5b0fec499.jpg" data-caption="Der Übersichtplan zeigt die hohe Spielplatzdichte in Karlsruhe. In einer ersten Tranche werden nun 20 von ihnen zurückgebaut (orange), um die Qualität der anderen aufrecht zu erhalten. (Klicken zum Vergrößern) © Stadt Karlsruhe, Gartenbauamt">
-                                
-
-
-
-
-
-<img alt="Übersichtsplan über den geplanten Rückbau von Spielplätzen" title="" src="https://www.karlsruhe.de/fileadmin/_processed_/6/2/csm_UEbersichtsplan_fb56a90bee.jpg">
-
-                            </a>
-                            
-                                
-                            
-                        </div>
-                    
-            
-    
-
-    
-
-
-
-
-
-
-
-
-        
-    <div id="c207650">
-                        <p>Dieser Beitrag gehört zur <strong>StadtZeitung</strong>, die auch in gedruckter Form erscheint. Alle Ausgaben des <a href="http://www.bnn.de/epaper-stadtzeitung" title="Link zur Seite" target="_blank" rel="noreferrer">ePapers</a> sind digital verfügbar.</p>
-
-<p>Mehr zu städtischen Themen und den Aktivitäten der Stadtverwaltung Karlsruhe unter <a href="https://www.karlsruhe.de/stadtzeitung" target="_blank">www.karlsruhe.de/stadtzeitung</a></p>
-                    </div>
-
-    
-
-
-
-
-
-                                        </div></div>]]></content>
-        <published>2026-08-07T00:00:00.000Z</published>
     </entry>
 </feed>
