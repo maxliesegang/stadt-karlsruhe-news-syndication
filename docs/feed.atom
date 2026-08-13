@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-13T09:33:45.724Z</updated>
+    <updated>2026-08-13T13:47:34.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,31 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Auf den Spuren der Bundesgartenschau 1967]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/auf-den-spuren-der-bundesgartenschau-1967</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/auf-den-spuren-der-bundesgartenschau-1967"/>
+        <updated>2026-08-13T13:47:33.834Z</updated>
+        <summary type="html"><![CDATA[Bei einer besonderen Führung am kommenden Sonntag, 16. August, können Interessierte mehr über die Geschichte und die bis heute sichtbaren Spuren dieser Gartenschau erfahren. Beginn ist um 11 Uhr.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Die Bundesgartenschau 1967 hat das Bild des Karlsruher Stadtgartens nachhaltig geprägt. Bei einer besonderen Führung am kommenden Sonntag, 16. August 2026, können Interessierte mehr über die Geschichte und die bis heute sichtbaren Spuren dieser Gartenschau erfahren. Beginn ist um 11 Uhr. Unter dem Titel „Auf den Spuren der Bundesgartenschau 1967“ lädt das Gartenbauamt zu einem Rundgang ein. Durch den Stadtgarten führen Robert Mürb, der damalige gärtnerische und künstlerische Leiter der Bundesgartenschau und langjährige Gartenoberbaudirektor, sowie einer seiner Nachfolger, Gartenbaudirektor Helmut Kern.</p>
+<p>Während des Spaziergangs vermitteln die beiden Einblicke in die Geschichte und Gestaltung der Bundesgartenschau. Dabei zeigen sie, welche Elemente und gestalterischen Ideen von 1967 bis heute im Stadtgarten erhalten geblieben sind. Treffpunkt ist am Stadtgarteneingang bei der Nancyhalle. Die Führung ist kostenfrei, für den Besuch des Zoologischen Stadtgartens ist jedoch eine gültige Eintrittskarte erforderlich. Diese kann online unter <a href="http://www.zoo-karlsruhe.de/" target="_blank" rel="noreferrer">www.zoo-karlsruhe.de</a> oder vor Ort an den Kassen erworben werden.</p>
+                                    </div></div>]]></content>
+        <published>2026-08-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karlsruhe macht Barrierefreiheit sichtbar]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-macht-barrierefreiheit-sichtbar</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-macht-barrierefreiheit-sichtbar"/>
+        <updated>2026-08-13T13:47:34.834Z</updated>
+        <summary type="html"><![CDATA[Aufkleber an Eingängen zu öffentlichen Einrichtungen weisen nun auf Barrierefreiheit hin.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>„Karlsruhe barrierefrei – Wir sind dabei“ – so lautet das Motto einer durch die Stadt Karlsruhe ins Leben gerufenen Aktion. Durch das Anbringen von Aufklebern machen die Stadt und zahlreiche Partnerinnen und Partner des Projektes "Web-App Karlsruhe barrierefrei" auf die barrierefreie Zugänglichkeit von öffentlichen Orten in Karlsruhe aufmerksam. Über den QR-Code auf dem Aufkleber gelangen Nutzerinnen und Nutzer direkt zu "Karlsruhe barrierefrei".</p>
+<p>Die ersten Aufkleber wurden bereits angebracht: Am Rathaus am Marktplatz, Rathaus an der Alb und dem Tourismusbüro Karlsruhe wird nun sichtbar auf die Barrierefreiheit hingewiesen. Als nächstes folgen das BBBank Wildparkstadion, Hotels sowie Geschäfte und gastronomische Einrichtungen in der Innenstadt.</p>
+<p>Mit der Anwendung "Karlsruhe barrierefrei" können sich Menschen darüber informieren, wie barrierefrei ein Ort ist – rund 600 Orten in Karlsruhe wurden bereits aufgenommen. Die Web-App macht die Teilhabe leichter, in dem sie barrierefreie Zugänge zu städtischen Einrichtungen, Hotels, Restaurants und Einkaufsläden sowie Live-Informationen zu Aufzügen an Bahnhöfen liefert.</p>
+                                    </div></div>]]></content>
+        <published>2026-08-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Störung nach Unfall im Karoline-Luise-Tunnel]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stoerung-nach-unfall-im-karoline-luise-tunnel</id>
@@ -181,31 +206,5 @@
 <p>Das Ordnungs- und Bürgeramt weist darauf hin, dass Versammlungen nach dem Versammlungsgesetz grundsätzlich lediglich anmeldepflichtig sind und keiner behördlichen Genehmigung bedürfen. Beschränkungen oder ein Verbot einer Versammlung kommen nur in begründeten Ausnahmefällen in Betracht und unterliegen hohen rechtlichen Anforderungen.</p>
                                     </div></div>]]></content>
         <published>2026-08-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grötzinger Tunnel eine Nacht gesperrt]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/groetzinger-tunnel-eine-nacht-gesperrt</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/groetzinger-tunnel-eine-nacht-gesperrt"/>
-        <updated>2026-08-10T13:44:23.476Z</updated>
-        <summary type="html"><![CDATA[In der Nacht von Dienstag, 11. August, auf Mittwoch, 12. August, wird der Grötzinger Tunnel für Reparaturarbeiten für neun Stunden gesperrt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Nach dem Fahrzeugbrand vom 13. Juli im Grötzinger Tunnel stehen jetzt Reparaturarbeiten an der Brandmeldeanlage des Tunnels an. Hierfür muss das Bauwerk vollständig gesperrt werden.&nbsp;Die Sperrung beginnt am <strong>Dienstag, 11. August 2026, um 20</strong> <strong>Uhr </strong>und dauert bis <strong>Mittwoch, 12. August 2026, um 5 Uhr</strong>.&nbsp;</p>
-<p>Verkehrsteilnehmende werden gebeten, sich auf die nächtliche Sperrung einzustellen und den Bereich nach Möglichkeit zu umfahren. Es kann zu entsprechenden Einschränkungen im Verkehrsablauf kommen.</p>
-                                    </div></div>]]></content>
-        <published>2026-08-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wie heiß ist es wirklich in Karlsruhe?]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/wie-heiss-ist-es-wirklich-in-karlsruhe</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/wie-heiss-ist-es-wirklich-in-karlsruhe"/>
-        <updated>2026-08-10T13:44:24.476Z</updated>
-        <summary type="html"><![CDATA[Städtische Klimasensoren liefern umfangreiche Wetterdaten. An rund 100 Standorten werden Temperatur, Luftfeuchte und Sonnenstrahlung erfasst.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Der diesjährige Sommer zeigt: Karlsruhe ist eine der heißesten Städte in Deutschland. Wie heiß es genau an knapp 100 unterschiedlichen Orten in Karlsruhe ist, zeigt seit kurzem das neue städtische Klimasensor-Netzwerk.</p>
-<p>Die Messdaten sind auf <a href="http://www.karlsruhe.de/stadtklima" target="_blank">www.karlsruhe.de/stadtklima</a> für die Öffentlichkeit verfügbar. Eine interaktive Karte zeigt, wo es im Stadtgebiet aktuell besonders warm oder eher kühler ist. Durch das Auswählen eines Sensors kann man zudem den Temperaturverlauf der letzten zehn Tage an dem ausgewählten Sensor und im gesamten Stadtgebiet vergleichen. Bei Interesse lassen sich die Daten auch herunterladen.</p>
-<p>Knapp 100 Messsensoren wurden an ausgewählten Standorten in allen Stadtteilen installiert und erfassen in der Regel alle zehn Minuten aktuelle Wetterdaten wie Temperatur, Luftfeuchte und Sonnenstrahlung. Die Daten helfen dabei, kleinräumige Unterschiede im Stadtklima sichtbar zu machen und die Wirkung von Grünflächen, Gewässern, Frischluftschneisen oder Begrünungsmaßnahmen besser zu verstehen.</p>
-<p>Die Stadt Karlsruhe ist in vielen Bereichen von den Folgen des Klimawandels betroffen – zum Beispiel durch zunehmende Hitze in der Stadt. Seit der Veröffentlichung der ersten Klimaanpassungsstrategie im Jahr 2013 setzt die Verwaltung erfolgreich Maßnahmen in diesem wichtigen Handlungsfeld um. Schwerpunkte sind Hitzeschutz, Begrünung, Starkregenvorsorge und der Umgang mit Trockenheit.</p>
-                                    </div></div>]]></content>
-        <published>2026-08-10T00:00:00.000Z</published>
     </entry>
 </feed>
