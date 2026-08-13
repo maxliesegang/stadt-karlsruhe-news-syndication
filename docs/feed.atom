@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-12T21:03:41.853Z</updated>
+    <updated>2026-08-13T02:47:52.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -16,14 +16,14 @@
         <title type="html"><![CDATA[Rathaus Neureut bleibt am 17. August 2026 ab 10:30 Uhr geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-rathaus-neureut-bleibt-am-17-august-2026-ab-1030-uhr-geschlossen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-rathaus-neureut-bleibt-am-17-august-2026-ab-1030-uhr-geschlossen"/>
-        <updated>2026-08-12T21:03:41.853Z</updated>
+        <updated>2026-08-13T02:47:52.131Z</updated>
         <summary type="html"><![CDATA[Das Rathaus Neureut bleibt am Montag, 17. August 2026, ab 10:30 Uhr aus dienstlichen Gründen geschlossen. Auch die telefonische Erreichbarkeit ist an diesem Tag eingeschränkt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
                         <!-- date -->
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-08-12">
-                                        vor 12 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
