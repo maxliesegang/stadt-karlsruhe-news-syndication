@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-13T21:03:01.558Z</updated>
+    <updated>2026-08-14T02:46:05.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[Umfangreiche Bauarbeiten in Durlach]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/umfangreiche-bauarbeiten-in-durlach</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/umfangreiche-bauarbeiten-in-durlach"/>
-        <updated>2026-08-13T21:03:01.558Z</updated>
+        <updated>2026-08-14T02:46:04.883Z</updated>
         <summary type="html"><![CDATA[Ab Montag, 17. August, laufen im Stadtteil Durlach umfangreiche Arbeiten zur Erneuerung der Verkehrs- und Versorgungsinfrastruktur. Hiervon betroffen sind der Straßenverkehr und der ÖPNV.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -33,7 +33,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-08-13">
-                                        vor 6 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
@@ -285,14 +285,14 @@
         <title type="html"><![CDATA[Rathaus Neureut bleibt am 17. August 2026 ab 10:30 Uhr geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-rathaus-neureut-bleibt-am-17-august-2026-ab-1030-uhr-geschlossen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-rathaus-neureut-bleibt-am-17-august-2026-ab-1030-uhr-geschlossen"/>
-        <updated>2026-08-13T02:47:52.131Z</updated>
+        <updated>2026-08-14T02:46:05.883Z</updated>
         <summary type="html"><![CDATA[Das Rathaus Neureut bleibt am Montag, 17. August 2026, ab 10:30 Uhr aus dienstlichen Gründen geschlossen. Auch die telefonische Erreichbarkeit ist an diesem Tag eingeschränkt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
                         <!-- date -->
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-08-12">
-                                        Gestern
+                                        Mittwoch, 12. August 2026
                                     </time>
                                 </p>
 
