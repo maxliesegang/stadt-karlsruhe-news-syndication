@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-14T13:42:47.166Z</updated>
+    <updated>2026-08-14T17:11:26.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,23 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Spannende Zeiten an der Säge]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/spannende-zeiten-an-der-saege</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/spannende-zeiten-an-der-saege"/>
+        <updated>2026-08-14T17:11:26.900Z</updated>
+        <summary type="html"><![CDATA[Wenn Bäume unkontrolliert fallen, entsteht häufig hohe Spannung im Holz. Den daraus resultierenden Risiken für Forst- und Feuerwehrleute soll nun mit gezielter Ausbildung am "Spannungssimulator" begegnet werden.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Mit routinierten Griffen setzt Hans-Peter Heidt seine Motorsäge an. Einige schnelle Schnitte, dann ist der Stamm durchtrennt. Doch ganz gegen alle Gesetze der Schwerkraft fallen die Hälften nicht etwa zu Boden, sondern schnellen seitwärts – bis sie von starken Klammern gebremst werden. Wäre das bei Arbeiten im Wald oder an Straßenbäumen passiert, "kann das Holz meterweit springen", erklärt Bernd Struck, Leiter des Forstreviers Mitte, "und dann hat man ein großes Problem".</p>
+<h4>Beanspruchung durch Extremwetterereignisse</h4>
+<p>Damit dies dem Feuerwehrmann und gelernten Forstwirt Hans-Peter Heidt erspart bleibt, gewährleistet der "Spannungssimulator". Hinter dieser Bezeichnung verbirgt sich ein Gemeinschaftsprojekt von Forstamt und Branddirektion, die sich um die Sicherheit ihrer Beschäftigten Gedanken machten. Arbeitssicherheit habe oberste Priorität, betont Forstamtschef Dr. Stefan Wilhelm, "für mich gibt es nichts Schlimmeres, als wenn meinen Leuten etwas passiert". Wie Branddirektor Florian Geldner ergänzt, nehme dabei die Beanspruchung durch extreme Wetterereignisse weiter zu. Erst vor wenigen Wochen hatte ein katastrophales Sommergewitter für viel Arbeit bei Feuerwehr und Forst gesorgt. Gerade nach solchen Stürmen liegen entwurzelte Stämme "kreuz und quer durcheinander", weiß Förster Bernd Struck aus Erfahrung, "wie bei einem Mikado-Spiel". Dadurch entsteht zum Teil enorme Spannung in den Stämmen, die sich beim Sägen urplötzlich entlädt und zu schweren Verletzungen führen kann.</p>
+<h4>Schwierige Schnittstrukturen üben</h4>
+<p>Um die Einsatzkräfte darauf vorzubereiten, wurde – schon vor dem letzten Sturm – die Beschaffung des "Spannungssimulators" beschlossen. Das rund 80.000 Euro teure und aus Mitteln zur Klimaanpassung finanzierte Spezialgerät kann Baumstämme fixieren und in alle erdenkliche Richtungen verdrehen. So lassen sich schwierige Schnittstrukturen üben, etwa auch, wie man vermeidet, dass die Motorsäge einfach steckenbleibt und nichts mehr geht. "Für uns als Feuerwehrleute ist das ein extremer Zugewinn", lobt Hans-Peter Heidt die neuen Trainingsmöglichkeiten. Denn im Gegensatz zu den Kollegen im Forst, die nach der Devise "in der Ruhe liegt die Kraft" umgestürzte Bäume erst einmal "lesen", zählt bei der Feuerwehr jede Sekunde, wenn es um die Rettung eingeklemmter Personen geht. "Wir haben am Anfang den schwierigsten Job", bestätigt Florian Geldner, daher müsse jeder Handgriff sitzen.</p>
+<h4>Konzept für weitere Dienststellen</h4>
+<p>Stationiert wird der "Spannungssimulator" nun im Betriebshof des Forstbezirks Mitte an der Fiduciastraße, berichtet Wilhelm. Dort sollen künftig auch die freiwilligen Feuerwehren üben können. Für die Nutzung durch weitere städtische Dienststellen, wie beispielsweise das Gartenbauamt, werde nach Geldners Worten nun ein Konzept erstellt. Den Bedarf hierfür gebe es in jedem Fall, fügt der Feuerwehrchef hinzu: "Es werden noch mehr Stürme kommen". -eck-</p>
+                                    </div></div>]]></content>
+        <published>2026-08-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digitales Grünflächenmanagement von Parks und Grünanlagen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/digitales-gruenflaechenmanagement-staerkt-die-pflege-der-parks-und-gruenanlagen</id>
@@ -435,78 +452,5 @@
 
                                     </div></div>]]></content>
         <published>2026-08-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rathaus Neureut bleibt am 17. August 2026 ab 10:30 Uhr geschlossen]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-rathaus-neureut-bleibt-am-17-august-2026-ab-1030-uhr-geschlossen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/das-rathaus-neureut-bleibt-am-17-august-2026-ab-1030-uhr-geschlossen"/>
-        <updated>2026-08-14T02:46:05.883Z</updated>
-        <summary type="html"><![CDATA[Das Rathaus Neureut bleibt am Montag, 17. August 2026, ab 10:30 Uhr aus dienstlichen Gründen geschlossen. Auch die telefonische Erreichbarkeit ist an diesem Tag eingeschränkt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
-                        <!-- date -->
-                        <div>
-
-                                <p><time itemprop="datePublished" datetime="2026-08-12">
-                                        Mittwoch, 12. August 2026
-                                    </time>
-                                </p>
-
-                                
-
-                                
-                                
-                                
-                            </div>
-
-                        <div>
-                                
-                                
-                                        <div>
-                                            
-                                                
-                                                    
-                                                        
-
-
-<img alt="Außenansicht des Gebäudes der Ortsverwaltung Neureut" title="Rathaus Neureut" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/2/f/csm_rathaus_neureut-1717402630_3c29a5f617.jpeg">
-
-        
-    
-
-        
-            
-        
-    
-
-                                                    
-                                                    
-                                                    
-                                                
-                                            
-                                        </div>
-                                    
-
-                                
-                                
-                                    <p>Das Rathaus Neureut bleibt am Montag, 17. August 2026, ab 10:30 Uhr aus dienstlichen Gründen geschlossen. Auch die telefonische Erreichbarkeit ist an diesem Tag eingeschränkt.</p>
-                                
-
-                                
-                                
-                                    
-                                
-
-                                
-                                    
-                                    
-                                        
-    
-
-
-                                    
-                                
-                            </div>
-                    </div></div>]]></content>
-        <published>2026-08-12T00:00:00.000Z</published>
     </entry>
 </feed>
