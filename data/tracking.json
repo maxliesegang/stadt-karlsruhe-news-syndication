@@ -1509,7 +1509,7 @@
   },
   "43312c0112aebf099d7c0a2940edd01f": {
     "contentHash": "c1162ae0927dc665f93a10a51417ebdf",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
     "lastModified": "2026-08-17T09:00:33.063Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/digitales-gruenflaechenmanagement-staerkt-die-pflege-der-parks-und-gruenanlagen"
   },
@@ -1533,44 +1533,50 @@
   },
   "0cb45a5fb4c2a00a123eb01e99259224": {
     "contentHash": "b891f45b9b76ee4a6fd1b570edffb01f",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
     "lastModified": "2026-08-14T17:11:26.900Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/spannende-zeiten-an-der-saege"
   },
   "3cc01738d983a8f877109593310d7945": {
     "contentHash": "d3b595f662f4376b1f97e7f4bd61b92f",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
     "lastModified": "2026-08-17T13:05:21.004Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-ist-weiterhin-fairtrade-stadt"
   },
   "5c988ae7e8d2816aba3b0ead0425c387": {
     "contentHash": "7d6ede09df53e2665453f90be14058ce",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
     "lastModified": "2026-08-17T13:05:22.004Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/immer-mehr-pflegeantraege-werden-online-gestellt"
   },
   "6dffa67f76a1204ecbba54ddaa0195e0": {
     "contentHash": "de998ed54c74f5ae09efa1f60507a171",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
     "lastModified": "2026-08-17T13:05:23.004Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/offene-ateliers-durlach-und-groetzingen-2026"
   },
   "67e17e0d0551e2d46cb46568afaaffc5": {
     "contentHash": "0e0a3483e49c2584bdbc0c5bbe71bb59",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
     "lastModified": "2026-08-17T13:05:24.004Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/chronistin-der-stadtgeschichte"
   },
   "62a2a1c31454042eada92328dae31073": {
     "contentHash": "370ad170d7f1816972405c1273d454bf",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
     "lastModified": "2026-08-18T13:07:48.325Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tierschutzwidrige-haltung-von-fischen-als-deko-objekte"
   },
   "a346b4e4075c4e4988fef1378419e4fa": {
-    "contentHash": "5d69431328b73aa994a606613bc1a53e",
-    "lastSeen": "2026-08-19T08:54:50.888Z",
-    "lastModified": "2026-08-18T16:48:21.519Z",
+    "contentHash": "3ac3c6bd224e2dc282f482f7f1c1bbf9",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
+    "lastModified": "2026-08-19T13:08:49.886Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fahrradverleihsystem-bleibt-erhalten"
+  },
+  "9e94f290ce428dee46ded5e58cf8b389": {
+    "contentHash": "37594a54381799128b4e171885414428",
+    "lastSeen": "2026-08-19T13:08:48.886Z",
+    "lastModified": "2026-08-19T13:08:48.886Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-gratuliert-neuem-dhbw-direktor"
   }
 }

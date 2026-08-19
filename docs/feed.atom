@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-18T16:48:21.519Z</updated>
+    <updated>2026-08-19T13:08:49.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,17 +13,30 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
+        <title type="html"><![CDATA[OB gratuliert neuem DHBW-Rektor]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-gratuliert-neuem-dhbw-direktor</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-gratuliert-neuem-dhbw-direktor"/>
+        <updated>2026-08-19T13:08:48.886Z</updated>
+        <summary type="html"><![CDATA[Der bisherige Prorektor und Dekan der Fakultät Technik, Prof. Dr. Roland Küstermann, übernimmt zum 1. Oktober 2026 die Leitung der Dualen Hochschule Baden-Württemberg Karlsruhe.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Karlsruhes Oberbürgermeister Dr. Frank Mentrup gratuliert Prof. Dr. Roland Küstermann zu seiner Wahl&nbsp;zum Rektor der Dualen Hochschule Baden-Württemberg (DHBW) Karlsruhe. Küstermann&nbsp;tritt sein neues Amt am 1. Oktober 2026 an und folgt auf Prof. Dr.-Ing. Stephan Schenkel, der die Hochschule elf Jahre lang als Rektor geprägt hat.</p>
+<p>"Die Wahl durch den Hochschulrat ist ein großer Vertrauensbeweis und eine Würdigung Ihres bisherigen Wirkens. Für die Aufgaben, welche Sie nun im neuen Amt erwarten werden, sind Sie nach langjähriger Erfahrung insbesondere als Prorektor und Dekan der Fakultät Technik glänzend gerüstet. Ich freue mich auf eine künftig fruchtbare Zusammenarbeit", schreibt Mentrup.</p>
+<p>Aus dem Rathaus wünsche das Stadtoberhaupt Küstermann für seine bevorstehenden Herausforderungen eine glückliche Hand und viel Erfolg.</p>
+                                    </div></div>]]></content>
+        <published>2026-08-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fahrradverleihsystem bleibt erhalten]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fahrradverleihsystem-bleibt-erhalten</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fahrradverleihsystem-bleibt-erhalten"/>
-        <updated>2026-08-18T16:48:21.519Z</updated>
+        <updated>2026-08-19T13:08:49.886Z</updated>
         <summary type="html"><![CDATA[Das Fahrradverleihsystem "KVV Nextbike" bleibt nach dem Willen des Gemeinderats weiterhin erhalten. In dem neuen, ab 2027 gültigen Vertrag wird der jährliche Zuschuss an den KVV angepasst.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Auch in den kommenden Jahren können die Bürgerinnen und Bürger sowie Gäste sich weiterhin mit Leihfahrrädern durch die Fächerstadt bewegen. Der Gemeinderat sprach sich jetzt für die Fortführung dieses Angebots aus, indem er die die Verwalltung beauftragte, einen neuen Vertrag mit dem Karlsruher Verkehrsverbund (KVV) abzuschließen. Der KVV will die Vergabe des Fahrrad-Verleihsystems ab März 2027 ausschreiben und damit die Weichen für die nächsten sechs Jahre stellen. Zugleich beschloss der Gemeinderat, den in den Beratungen zum Doppelhaushalt verankerten Sperrvermerk für den Zuschuss zum Bike-Sharing aufzuheben. Der städtische Zuschuss soll sich künftig auf 75.000 Euro pro Jahr belaufen, was eine deutliche Reduzierung der bisherigen Zuwendungen bedeutet. Diese hatten sich zuletzt auf 270.000 Euro jährlich belaufen. Beschlossen wurde die Neuregelung mit den Stimmen von Grüne, SPD, Volt, KAL und Die Linke sowie der Einzelstadträte Max Braun (Die Partei) und Friedemann Kalmbach (FÜR). Dagegen votierten die Fraktionen von CDU, AfD und FDP/FW.</p>
+                                        <p>Auch in den kommenden Jahren können die Bürgerinnen und Bürger sowie Gäste sich weiterhin mit Leihfahrrädern durch die Fächerstadt bewegen. Der Gemeinderat sprach sich jetzt für die Fortführung dieses Angebots aus, indem er die Verwaltung beauftragte, einen neuen Vertrag mit dem Karlsruher Verkehrsverbund (KVV) abzuschließen. Der KVV will die Vergabe des Fahrrad-Verleihsystems ab März 2027 ausschreiben und damit die Weichen für die nächsten sechs Jahre stellen. Zugleich beschloss der Gemeinderat, den in den Beratungen zum Doppelhaushalt verankerten Sperrvermerk für den Zuschuss zum Bike-Sharing aufzuheben. Der städtische Zuschuss soll sich künftig auf 75.000 Euro pro Jahr belaufen, was eine deutliche Reduzierung der bisherigen Zuwendungen bedeutet. Diese hatten sich zuletzt auf 270.000 Euro jährlich belaufen. Beschlossen wurde die Neuregelung mit den Stimmen von Grüne, SPD, Volt, KAL und Die Linke sowie der Einzelstadträte Max Braun (Die Partei) und Friedemann Kalmbach (FÜR). Dagegen votierten die Fraktionen von CDU, AfD und FDP/FW.</p>
 <h4>Baustein zur nachhaltigen Mobilität</h4>
-<p>"Nextbike" sei "sicherlich eine schöne Ergänzung" zu den Angeboten des KVV, sagte Bettina Meier-Augenstein (CDU), begründete aber die Ablehnung ihrer Fraktion mit den Kosten. Es müsse es eine Möglichkeit geben, ein Fahrradverleihsystem anzubieten, das den städtischen Haushalt nicht belaste. Auch Dr. Stefan Noé (FDP) verwies auf die Kosten und kritisierte den Beschluss als "einseitige Bevorzugung des Fahrrad-Sharings". Dagegen verteidigte Ceren Akbaba (Grüne) die Leihräder als "Standortfaktor, der die Stadt für junge Menschen attraktiver macht", während Sibel Uysal in Nextbike einen "wichtigen Baustein des Mobilittätskonzepts" sah. Nachhaltige Mobilität werde dadurch "im Alltag einfach und unkompliziert" zur Verfügung gestellt.</p>
+<p>"Nextbike" sei "sicherlich eine schöne Ergänzung" zu den Angeboten des KVV, sagte Bettina Meier-Augenstein (CDU), begründete aber die Ablehnung ihrer Fraktion mit den Kosten. Es müsse es eine Möglichkeit geben, ein Fahrradverleihsystem anzubieten, das den städtischen Haushalt nicht belaste. Auch Dr. Stefan Noé (FDP) verwies auf die Kosten und kritisierte den Beschluss als "einseitige Bevorzugung des Fahrrad-Sharings". Dagegen verteidigte Ceren Akbaba (Grüne) die Leihräder als "Standortfaktor, der die Stadt für junge Menschen attraktiver macht", während Sibel Uysal in Nextbike einen "wichtigen Baustein des Mobilitätskonzepts" sah. Nachhaltige Mobilität werde dadurch "im Alltag einfach und unkompliziert" zur Verfügung gestellt.</p>
 <h4>Flächendeckende Versorgung angestrebt</h4>
-<p>Fabian Gaukel (Volt) verwies zudem darauf, dass nur durch städtische Zuschüsse eine adäquate Bedienung auch von Randgebieten möglich sei". Die bestätigte Oberbürgermeister Dr. Frank Mentrup: "Wenn wir das fortsetzen möchten, müssen wir einen Eigenbeitrag leisten". Die Fahrräder sollten nicht wie die E-Scooter dem freien Markt überlassen werden, zumal es auch um die Versorgung der Nachbarkommunen gehe. Mentrup hofft, dass diese ebenfalls bei der Fortsetzung von "Nextbike" mitziehen. -eck-&nbsp;</p>
+<p>Fabian Gaukel (Volt) verwies zudem darauf, dass nur durch städtische Zuschüsse eine adäquate Bedienung auch von Randgebieten möglich sei. Dies bestätigte Oberbürgermeister Dr. Frank Mentrup: "Wenn wir das fortsetzen möchten, müssen wir einen Eigenbeitrag leisten". Die Fahrräder sollten nicht wie die E-Scooter dem freien Markt überlassen werden, zumal es auch um die Versorgung der Nachbarkommunen gehe. Mentrup hofft, dass diese ebenfalls bei der Fortsetzung von "Nextbike" mitziehen. -eck-&nbsp;</p>
 
                                     </div></div>]]></content>
         <published>2026-08-18T00:00:00.000Z</published>
@@ -135,19 +148,6 @@
 <h4>Gartenbauamt nutzt seit 25 Jahren&nbsp;Grünflächeninformationssystem</h4>
 <p>Das Gartenbauamt Karlsruhe strebt seit vielen Jahren eine umfassende Digitalisierung im kommunalen Grünflächenmanagement an. Bereits vor rund 25 Jahren führte die Stadt als eine der ersten Städte Deutschlands ein Grünflächeninformationssystem ein. Dieses dokumentiert sämtliche Grünflächen in der Zuständigkeit des Gartenbauamts, erfasst Bäume sowie Ausstattungen wie Spielgeräte, Tore oder Abfallbehälter und unterstützt unter anderem die Pflegeplanung, die Vergabe von Leistungen sowie die rechtssichere Dokumentation der Baumkontrollen.</p>
 <p>Das Gartenbauamt arbeitet gemeinsam mit dem Liegenschaftsamt, dem Amt für Informationstechnik und Digitalisierung sowie dem Softwareunternehmen IP SYSCON an der Einführung des neuen Grünflächenmanagementsystem.&nbsp;Mit dem neuenSystem investiert die Stadt Karlsruhe in eine moderne und leistungsfähige Verwaltung. Die Digitalisierung unterstützt die Beschäftigten bei ihrer täglichen Arbeit und schafft gleichzeitig die Grundlage dafür, die städtischen Grünflächen auch künftig effizient, nachhaltig und in hoher Qualität zu pflegen.</p>
-                                    </div></div>]]></content>
-        <published>2026-08-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Führungen im Pfinzgaumuseum im August und September]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fuehrungen-im-pfinzgaumuseum-im-august-und-september</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fuehrungen-im-pfinzgaumuseum-im-august-und-september"/>
-        <updated>2026-08-14T13:42:45.166Z</updated>
-        <summary type="html"><![CDATA[Im August und September finden Führungen durch die Sonderausstellung „Als die Karlsburg Kaserne war. Das Badische Train-Bataillon Nr. 14 in Durlach“ im Pfinzgaumuseum statt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p><strong>Führung durch die Sonderausstellung „Als die Karlsburg Kaserne war. Das Badische Train-Bataillon Nr. 14 in Durlach“ im Pfinzgaumuseum</strong></p>
-<p>Am <strong>Sonntag, 23. August sowie am 6. September, jeweils um 15 Uhr</strong> führt Eva Unterburg durch die Sonderausstellung „Als die Karlsburg Kaserne war. Das Badische Train-Bataillon Nr. 14 in Durlach“ im Pfinzgaumuseum in der Karlsburg Durlach. Bei dieser Zeitreise tauchen die Teilnehmenden in ein vergangenes Durlach ein, in dem blau-uniformierte Soldaten auf den Straßen und Reiter auf dem Schlossplatz ein alltäglicher Anblick waren und die Karlsburg als Kaserne diente. Bei dem Rundgang berichtet Unterburg Spannendes über Aufgaben und Ausbildung der Train-Soldaten, über die vom Militär genutzten Gebäude und die eindrucksvollen persönlichen Erinnerungsstücke, mit denen die Soldaten ihrer Dienstzeit gedachten.</p>
-<p>Eine Anmeldung ist nicht erforderlich, die Teilnahme an der Führung ist kostenlos beziehungsweise im Eintrittspreis inbegriffen.</p>
                                     </div></div>]]></content>
         <published>2026-08-14T00:00:00.000Z</published>
     </entry>
