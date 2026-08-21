@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-20T13:11:02.532Z</updated>
+    <updated>2026-08-21T13:11:05.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,45 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Mehr Fundtiere seit Sommerferienbeginn]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mehr-fundtiere-seit-sommerferienbeginn</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mehr-fundtiere-seit-sommerferienbeginn"/>
+        <updated>2026-08-21T13:11:03.297Z</updated>
+        <summary type="html"><![CDATA[Interessierte können einen Hund oder eine Katze bei sich aufnehmen. Besonder schwarze Katzen warten lang auf ein neues Zuhause]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Wie fast jeden Sommer kommt es zu Ferienbeginn gehäuft zu vermehrten Fundmeldungen von Heimtieren. Beim Tierschutzverein Karlsruhe und Umgebung e. V. wurden seit Ende Juli fünf Katzen, fünf Hunde, drei Schildkröten und zwei Ziervögel&nbsp;aufgenommen. Alle wurden auf dem Gebiet der Stadt Karlsruhe gefunden.</p>
+<p>Vier der Fundhunde waren gekennzeichnet und registriert und konnten über diese Registrierung an ihre Besitzer zurückgegeben werden. Ein am 16. August 2026 aufgefundener Hund wurde aber offenbar ausgesetzt. Er war an einen Baum angebunden im Bereich der Jakob-Dörr-Straße. Es handelt sich um einen etwa ein Jahr alten männlichen Mischling. Kennt jemand diesen Hund? Das Ordnungsamt bitte um Informationen zur Herkunft des Hundes und seinem letzten Besitzer per E-Mail an <a href="#" title="E-Mail senden" data-mailto-token="drzckf1clmRfr5bricjilyv5uv" data-mailto-vector="-9">luv(at)oa.karlsruhe.de</a>.</p>
+<p>Die fünf seit Ende Juli abgegebenen Fundkatzen sind nicht gekennzeichnet und wurden bisher nicht abgeholt. Diese und weitere Katzen warten beim Tierschutzverein Karlsruhe und Umgebung e. V. auf ein neues Zuhause. Darunter sind acht schwarze Katzen, die es besonders schwer haben, Interessenten zu finden.</p>
+<p>Wer Interesse daran hat, eine Katze aufzunehmen, kann sich an <a href="#" title="E-Mail senden" data-mailto-token="drzckf1kzvimvidzkkclexRfr5bricjilyv5uv" data-mailto-vector="-9">tiervermittlung(at)oa.karlsruhe.de</a> oder direkt an den Tierschutzverein Karlsruhe und Umgebung e. V. wenden.</p>
+
+                                    </div></div>]]></content>
+        <published>2026-08-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System-Update des Geoportals Karlsruhe von 24. bis 27. August 2026]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/system-update-des-geoportals-karlsruhe-von-24-bis-27-august-2026</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/system-update-des-geoportals-karlsruhe-von-24-bis-27-august-2026"/>
+        <updated>2026-08-21T13:11:04.297Z</updated>
+        <summary type="html"><![CDATA[Es kann zu längeren Ausfallzeiten aller Geoportal-Apps und Integrationen kommen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>In der Zeit von 24. bis voraussichtlich 27. August 2026 wird es zu längeren Ausfallzeiten von allen Geoportal-Apps und Integrationen kommen. Hiervon betroffen sind unter anderem folgende Anwendungen:</p><ul> 	<li>Stadtplan und Fachpläne</li> 	<li>Bebauungsplan-Auskunft</li> 	<li>Bodenrichtwerte-Auskunft</li> 	<li>Plan-Auskunft des NVK</li> 	<li>Karlsruhe barrierefrei</li> 	<li>Stadtplan für heiße Tage</li> 	<li>Digitaler Zwilling (3D-Stadtmodell)</li> 	<li>Sensor City-Dashboard</li> </ul><p>Außerdem sind alle Integrationen des Geoportals in karlsruhe.de-Seiten (wie zum Beispiel Kartenfenster) betroffen. Das Liegenschaftsamt bitte dies zu entschuldigen</p>
+                                    </div></div>]]></content>
+        <published>2026-08-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Südtangente: Behebung von Hitzeschäden]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/behebung-von-hitzeschaeden</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/behebung-von-hitzeschaeden"/>
+        <updated>2026-08-21T13:11:05.297Z</updated>
+        <summary type="html"><![CDATA[Am 26. August 2026 führt das Tiefbauamt auf der Südtangente beim Kühlen Krug Asphaltarbeiten durch. Hierbei werden Hitzeschäden behoben.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Durch die hohen Temperaturen der letzten Wochen kam es auf der Südtangente in Höhe der Ausfahrt Kühler Krug zu Hitzeschäden. Betroffen hiervon ist der rechte Fahrstreifen in Fahrtrichtung Westen.</p>
+<p>Diese Fahrbahnschäden lässt das Tiefbauamt am Dienstag, 25. August 2026, beseitigen. Durch die Arbeiten muss vormittags mit kurzzeitigen Verkehrsbeeinträchtigungen in diesem Bereich gerechnet werden.&nbsp;</p>
+<p>Die Arbeiten sind witterungsabhängig, es kann daher zu kurzfristigen Terminverschiebungen kommen. Das Tiefbauamt bittet um Verständnis.</p>
+                                    </div></div>]]></content>
+        <published>2026-08-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mentrup kondoliert zum Tod von Dr. Peter Reinstein]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mentrup-kondoliert-zum-tod-von-dr-peter-reinstein</id>
@@ -99,52 +138,5 @@
 <p>Bei Wohnort außerhalb des Stadtgebietes Karlsruhe können die Kontaktdaten des für den jeweiligen Wohnort zuständigen Pflegestützpunkts unter <a href="https://www.bw-pflegestuetzpunkt.de/" title="Link zur Seite" target="_blank" rel="noreferrer">bw-pflegestuetzpunkt.de</a>&nbsp;eingesehen werden.</p>
                                     </div></div>]]></content>
         <published>2026-08-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offene Ateliers Durlach und Grötzingen 2026]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/offene-ateliers-durlach-und-groetzingen-2026</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/offene-ateliers-durlach-und-groetzingen-2026"/>
-        <updated>2026-08-17T13:05:23.004Z</updated>
-        <summary type="html"><![CDATA[Mehr als 40 Kunstschaffende in Durlach und Grötzingen laden am 12. und 13. September 2026 Besucherinnen und Besucher ein, ihre Ateliers zu entdecken.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Am Samstag, 12.,&nbsp; und Sonntag, 13. September 2026, öffnen Ateliers in Durlach und Grötzingen erneut ihre Türen. Alle zwei Jahre bieten professionelle Künstlerinnen und Künstler aus beiden Stadtteilen die Gelegenheit, Kunst zu erleben, wo sie entsteht. Mehr als 40 Kunstschaffende aus den Bereichen Malerei, Zeichnung, Druckgrafik, Skulptur und Objektkunst laden Besucherinnen und Besucher ein, ihre Ateliers zu entdecken und mit ihnen ins Gespräch zu kommen.</p>
-<p>Für ein Wochenende verwandeln sich Hinterhöfe, Werkstätten und Ateliers in lebendige Orte der Begegnung und des kreativen Austauschs. Individuelle Rundgänge durch Durlach und Grötzingen ermöglichen es, die Vielfalt der regionalen Kunstszene kennenzulernen und spannende Einblicke in Arbeitsprozesse, künstlerische Inspirationen sowie die Entstehung der Werke zu gewinnen.</p>
-<p>Ein abwechslungsreiches Rahmenprogramm ergänzt die Offenen Ateliers und macht das Wochenende zu einem besonderen Kulturerlebnis für die ganze Familie.</p>
-<p><strong>Öffnungszeiten:</strong></p><ul> 	<li>Samstag, 12. September 2026, 11 Uhr bis 20 Uhr</li> 	<li>Sonntag, 13. September 2026, 11 Uhr bis 18 Uhr</li> </ul><p>Das vollständige Programm mit allen teilnehmenden Künstlerinnen und Künstlern, den geöffneten Ateliers sowie weiteren Informationen ist unter <a href="http://www.offene-ateliers.org/" title="Link zur Seite" target="_blank" rel="noreferrer">www.offene-ateliers.org</a> abrufbar.</p>
-                                    </div></div>]]></content>
-        <published>2026-08-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chronistin der Stadtgeschichte]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/chronistin-der-stadtgeschichte</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/chronistin-der-stadtgeschichte"/>
-        <updated>2026-08-17T13:05:24.004Z</updated>
-        <summary type="html"><![CDATA[Gemeinsam mit ihrem Ehemann, dem Fotojournalisten Horst Schlesiger, hat Lilo Schlesiger mehr als vier Jahrzehnte Karlsruher Geschichte fotografisch dokumentiert. Das Stadtarchiv erinnert nun an ihren 100. Geburtstag.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Die Karlsruher Fotografin Lilo Schlesiger ist weit weniger bekannt als ihr Mann Horst Schlesiger, der von 1950 bis 1990 als Bildjournalist für die Badischen Neuesten Nachrichten (BNN) das öffentliche, politische und gesellschaftliche Leben der Stadt dokumentierte. Ihrem Lebenswerk wird dies jedoch nicht gerecht: Lilo Schlesiger leistete einen großen Beitrag zu dem heute im Stadtarchiv Karlsruhe verwahrten Bildarchiv Schlesiger.</p>
-<p>Geboren wurde sie vor 100 Jahren, am 31. Juli 1926, als Liselotte Götz in Karlsruhe. Nach dem Schulbesuch begann sie zunächst in Berlin eine Lehre als Kupferstecherin, kehrte aber schon kurze Zeit später in ihre Geburtsstadt zurück, wo sie bei der Staatlichen Majolika-Manufaktur eine Ausbildung zur Keramikmalerin absolvierte.</p>
-<h4>Stimmungsvolle Natur- und Landschaftsaufnahmen</h4>
-<p>1948 heiratete sie Horst Schlesiger, mit dem sie ab 1950 auch zusammenarbeitete. So entwickelte sie viele seiner Aufnahmen in der Dunkelkammer und baute gemeinsam mit ihm das Bildarchiv Schlesiger auf. Darüber hinaus fotografierte sie ebenfalls für die BNN – oft stimmungsvolle Natur- und Landschaftsaufnahmen. Auch Personen fotografierte sie häufig, insbesondere Jubilarinnen und Jubilare, über die etwa anlässlich ihres hohen Geburtstags oder Ehejubiläums berichtet wurde. Einzelne Aufnahmen von Neu- oder Industriebauten lassen sich ebenfalls ihr zuordnen.</p>
-<p>Ihre Fotos wurden Teil des Bildarchivs Schlesiger. Daher lässt sich heute – von wenigen Ausnahmen abgesehen – nicht mehr nachvollziehen, welche Fotos im Einzelnen von ihr stammen. Damit teilt Lilo Schlesiger das Schicksal vieler Frauen ihrer Generation, die einen erheblichen, aber nicht dokumentierten Beitrag zur Karriere ihres Mannes leisteten. Nach dem Tod von Horst Schlesiger verkaufte sie 2004 das Bildarchiv Schlesiger an die Stadt Karlsruhe. Lilo Schlesiger starb am 31. Dezember 2009 in Karlsruhe. -nüb-</p>
-
-                                    </div></div>]]></content>
-        <published>2026-08-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spannende Zeiten an der Säge]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/spannende-zeiten-an-der-saege</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/spannende-zeiten-an-der-saege"/>
-        <updated>2026-08-14T17:11:26.900Z</updated>
-        <summary type="html"><![CDATA[Wenn Bäume unkontrolliert fallen, entsteht häufig hohe Spannung im Holz. Den daraus resultierenden Risiken für Forst- und Feuerwehrleute soll nun mit gezielter Ausbildung am "Spannungssimulator" begegnet werden.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Mit routinierten Griffen setzt Hans-Peter Heidt seine Motorsäge an. Einige schnelle Schnitte, dann ist der Stamm durchtrennt. Doch ganz gegen alle Gesetze der Schwerkraft fallen die Hälften nicht etwa zu Boden, sondern schnellen seitwärts – bis sie von starken Klammern gebremst werden. Wäre das bei Arbeiten im Wald oder an Straßenbäumen passiert, "kann das Holz meterweit springen", erklärt Bernd Struck, Leiter des Forstreviers Mitte, "und dann hat man ein großes Problem".</p>
-<h4>Beanspruchung durch Extremwetterereignisse</h4>
-<p>Damit dies dem Feuerwehrmann und gelernten Forstwirt Hans-Peter Heidt erspart bleibt, gewährleistet der "Spannungssimulator". Hinter dieser Bezeichnung verbirgt sich ein Gemeinschaftsprojekt von Forstamt und Branddirektion, die sich um die Sicherheit ihrer Beschäftigten Gedanken machten. Arbeitssicherheit habe oberste Priorität, betont Forstamtschef Dr. Stefan Wilhelm, "für mich gibt es nichts Schlimmeres, als wenn meinen Leuten etwas passiert". Wie Branddirektor Florian Geldner ergänzt, nehme dabei die Beanspruchung durch extreme Wetterereignisse weiter zu. Erst vor wenigen Wochen hatte ein katastrophales Sommergewitter für viel Arbeit bei Feuerwehr und Forst gesorgt. Gerade nach solchen Stürmen liegen entwurzelte Stämme "kreuz und quer durcheinander", weiß Förster Bernd Struck aus Erfahrung, "wie bei einem Mikado-Spiel". Dadurch entsteht zum Teil enorme Spannung in den Stämmen, die sich beim Sägen urplötzlich entlädt und zu schweren Verletzungen führen kann.</p>
-<h4>Schwierige Schnittstrukturen üben</h4>
-<p>Um die Einsatzkräfte darauf vorzubereiten, wurde – schon vor dem letzten Sturm – die Beschaffung des "Spannungssimulators" beschlossen. Das rund 80.000 Euro teure und aus Mitteln zur Klimaanpassung finanzierte Spezialgerät kann Baumstämme fixieren und in alle erdenkliche Richtungen verdrehen. So lassen sich schwierige Schnittstrukturen üben, etwa auch, wie man vermeidet, dass die Motorsäge einfach steckenbleibt und nichts mehr geht. "Für uns als Feuerwehrleute ist das ein extremer Zugewinn", lobt Hans-Peter Heidt die neuen Trainingsmöglichkeiten. Denn im Gegensatz zu den Kollegen im Forst, die nach der Devise "in der Ruhe liegt die Kraft" umgestürzte Bäume erst einmal "lesen", zählt bei der Feuerwehr jede Sekunde, wenn es um die Rettung eingeklemmter Personen geht. "Wir haben am Anfang den schwierigsten Job", bestätigt Florian Geldner, daher müsse jeder Handgriff sitzen.</p>
-<h4>Konzept für weitere Dienststellen</h4>
-<p>Stationiert wird der "Spannungssimulator" nun im Betriebshof des Forstbezirks Mitte an der Fiduciastraße, berichtet Wilhelm. Dort sollen künftig auch die freiwilligen Feuerwehren üben können. Für die Nutzung durch weitere städtische Dienststellen, wie beispielsweise das Gartenbauamt, werde nach Geldners Worten nun ein Konzept erstellt. Den Bedarf hierfür gebe es in jedem Fall, fügt der Feuerwehrchef hinzu: "Es werden noch mehr Stürme kommen". -eck-</p>
-                                    </div></div>]]></content>
-        <published>2026-08-14T00:00:00.000Z</published>
     </entry>
 </feed>
