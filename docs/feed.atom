@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-08-26T13:16:43.045Z</updated>
+    <updated>2026-08-26T16:59:11.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,7 +13,34 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
-        <title type="html"><![CDATA[OB Mentrup gratuliert Magret Mergen zum Geburtstag]]></title>
+        <title type="html"><![CDATA[Blindgänger in Karlsruher Südstadt ist entschärft]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/blindgaenger-in-karlsruher-suedstadt-ist-entschaerft</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/blindgaenger-in-karlsruher-suedstadt-ist-entschaerft"/>
+        <updated>2026-08-26T16:59:10.240Z</updated>
+        <summary type="html"><![CDATA[Entwarnung in der Karlsruher Südstadt: Der heute gefundene Blindgänger in der Stuttgarter Straße wurde erfolgreich entschärft.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Entwarnung in der Karlsruher Südstadt: Der heute gefundene Blindgänger in der Stuttgarter Straße wurde erfolgreich entschärft. Der Kampfmittelbeseitigungsdienst Baden-Württemberg konnte die 250 Kilogramm schwere Fliegerbombe amerikanischer Herkunft unschädlich machen.</p>
+<p>Aufgehoben sind alle Sperrungen. Das gilt auch für die Bahnstrecke zwischen Karlsruhe und Mannheim. Die Evakuierung wurde beendet. Rund 1.000 Anwohnerinnen und Anwohner konnten in ihr Zuhause zurückkehren. Zur Entschärfung des Blindgängers war das Gebiet in einem Radius von 200 Metern geräumt worden.</p>
+<p>Oberbürgermeister Dr. Frank Mentrup dankt allen Einsatzkräften von Kampfmittelbeseitigungsdienst, Polizei, Feuerwehr, den Hilfsorganisationen und den städtischen Dienststellen. „Durch ihren gemeinsamen Einsatz konnte die Weltkriegsbombe schnell, sicher und erfolgreich beseitigt werden,“ hob der Oberbürgermeister hervor.</p>
+                                    </div></div>]]></content>
+        <published>2026-08-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evakuierung in der Karlsruher Südstadt läuft an]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-5db967662a7a377cc9f7c1d5ebc0c4a2</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-5db967662a7a377cc9f7c1d5ebc0c4a2"/>
+        <updated>2026-08-26T16:59:11.240Z</updated>
+        <summary type="html"><![CDATA[Zu weitreichenden Sperrungen kommt es heute in der Karlsruher Südstadt infolge eines Blindgängerfundes. Das Gebiet wird in einem Radius von 200 Metern um die Fundstelle in der Stuttgarter Straße evakuiert. Die Evakuierung läuft zur Minute an.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Zu weitreichenden Sperrungen kommt es heute in der Karlsruher Südstadt infolge eines Blindgängerfundes. Das Gebiet in einem Radius von 200 Metern um die Fundstelle in der Stuttgarter Straße wird evakuiert. Die Evakuierung läuft zur Minute an.</p>
+<p><strong>Betroffen ist neben dem Wohngebiet auch die Bahnstrecke zwischen Karlsruhe und Mannheim.</strong> Der Karlsruher Güterbahnhof wurde bereits gesperrt. Die Sperrung der Schnellfahrstrecke folgt unmittelbar vor der Entschärfung, sobald die Evakuierung abgeschlossen ist.</p>
+<p>Für die von der Evakuierung betroffenen Menschen wurde ein Sammelpunkt in der Schule am Wasserturm in der Hedwig-Kettler-Straße 11 eingerichtet. Ratsuchende Anwohnende können sich an das Bürgertelefon unter der freigeschalteten Rufnummer <a href="tel:+497211333333" title="Telefonnummer anrufen">0721 / 133 3333</a> wenden.</p>
+<p>Der Blindgänger wurde heute, 26. August 2026, bei Bauarbeiten in der Stuttgarter Straße gefunden worden. Es handelt sich um eine 250-Kilogramm-Fliegerbombe amerikanischer Bauart. Der Fundort liegt in der Karlsruher Südstadt in einer Kleingartenanlage. Die Entschärfung durch den Kampfmittelbeseitigungsdienst Baden-Württemberg (KMBD)<strong> </strong>erfolgt aufgrund des Zustands der Bombe noch heute.</p>
+                                    </div></div>]]></content>
+        <published>2026-08-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OB Mentrup gratuliert Margret Mergen zum Geburtstag]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-mentrup-gratuliert-magret-mergen-zum-geburtstag</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-mentrup-gratuliert-magret-mergen-zum-geburtstag"/>
         <updated>2026-08-26T13:16:40.045Z</updated>
@@ -121,33 +148,5 @@
 <p>Diese Pressemeldung wurde mit Hilfe von KI bearbeitet und von einer fachkundigen Person geprüft.</p>
                                     </div></div>]]></content>
         <published>2026-08-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blütenreiche grüne Oase lädt zu Besuch ein]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bluetenreiche-gruene-oase-laedt-zu-besuch-ein</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bluetenreiche-gruene-oase-laedt-zu-besuch-ein"/>
-        <updated>2026-08-24T13:13:03.599Z</updated>
-        <summary type="html"><![CDATA[Ein Gartengrundstück in der Holtzstraße 5, nahe dem ZKM, öffnet am 30. August von 13 bis 17 Uhr im Rahmen der Karlsruher "Offenen Pforten" sein Tor.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Ein Gartengrundstück in der&nbsp;<strong>Holtzstraße 5</strong>, nahe dem ZKM, öffnet am <strong>Sonntag, 30. August</strong>, von <strong>13 bis 17 Uhr</strong>&nbsp;im Rahmen der Privatgartenschau "Offene Pforte" seine Gartentür für Besucherinnen und Besucher.</p>
-<p>Vor ungefähr 100 Jahren wurde an dieser Stelle eine Zierpflanzengärtnerei gegründet und auch heute werden auf dem Grundstück noch Sommerblumen für den Schnitt angebaut. Alte Steineinfassungen von Frühbeetkästen zeugen von der früheren Nutzung als Gartenbaubetrieb.</p>
-                                    </div></div>]]></content>
-        <published>2026-08-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jugenbibliothek: Buchtipps von Kindern für Kinder]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jugenbibliothek-buchtipps-von-kindern-fuer-kinder</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jugenbibliothek-buchtipps-von-kindern-fuer-kinder"/>
-        <updated>2026-08-24T13:13:04.599Z</updated>
-        <summary type="html"><![CDATA[Im Rahmen des Jubi-Sommer-Clubs präsentiert die Stadtbibliothek Karlsruhe das Projekt „Hör mal! – Buchtipps von Kindern für Kinder zum Anhören“.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Im Rahmen des <strong>Jubi-Sommer-Clubs</strong> präsentiert die Stadtbibliothek Karlsruhe das Projekt <strong>„Hör mal! – Buchtipps von Kindern für Kinder zum Anhören“</strong>. Kinder, die am Sommer Club teilgenommen haben, erhalten die Möglichkeit, ihr Lieblingsbuch vorzustellen und ihre persönlichen Eindrücke in einer kurzen Tonaufnahme festzuhalten. Die entstandenen Audiobeiträge werden online veröffentlicht und durch eine kurze Rezension im <strong>Bibliothekskatalog</strong> ergänzt. So entsteht ein wachsendes Hörangebot, das anderen Kindern als Inspiration für neue Leseabenteuer dient und die Vielfalt der gelesenen Bücher sichtbar macht.</p>
-<h4>So funktioniert es</h4><ul> 	<li>Im <strong>Pop‑Up‑Tonstudio</strong> der Kinder‑ und Jugendbibliothek im U‑Boot können an den <strong>Samstagen,</strong>&nbsp;<strong>5. oder 12. September,</strong> professionelle Tonaufnahmen mit Unterstützung von Querfunk erstellt werden.</li> 	<li>Darüber hinaus besteht die Möglichkeit, den eigenen Buchtipp <strong>spontan vor Ort</strong> während der Öffnungszeiten an der Auskunft der Kinder- und Jugendbibliothek aufnehmen zu lassen.</li> 	<li>Wer lieber zu Hause arbeitet, kann seinen Beitrag selbst aufnehmen und die Datei per E‑Mail an <a href="#" title="E-Mail senden" data-mailto-token="drzckf1alxveuszsczfkyvbRblckli5bricjilyv5uv" data-mailto-vector="-9">jugendbibliothek(at)kultur.karlsruhe.de</a> senden.</li> </ul><p>Das Projekt richtet sich an alle Kinder, die Freude am Lesen haben und ihre Lieblingsbücher auf kreative Weise weiterempfehlen möchten.</p>
-<h4>Radio-Workshop</h4>
-<p>Kinder ab 10 Jahren sind herzlich eingeladen, am <strong>Radio‑Workshop mit Kerstin Zeug</strong>, Redaktionsleitung bei <strong>Radio Regenbogen</strong>, teilzunehmen. Am <strong>Dienstag,&nbsp;8. September, von 10:30 bis 11:30 Uhr</strong> erhalten die Teilnehmenden einen kompakten Einblick in die Welt des Radios.</p>
-<p>Wie entsteht eine Sendung, wie arbeitet eine Moderatorin oder ein Moderator und warum sind verlässliche Informationen heute so wichtig? Der Workshop führt kreativ in Stimmen, Geschichten, Musik und Nachrichten ein und vermittelt grundlegende Medienkompetenz. Mit <strong>Anmeldung</strong> unter <a href="#" title="E-Mail senden" data-mailto-token="drzckf1alxveuszsczfkyvbRblckli5bricjilyv5uv" data-mailto-vector="-9">jugendbibliothek(at)kultur.karlsruhe.de</a>.</p>
-
-                                    </div></div>]]></content>
-        <published>2026-08-24T00:00:00.000Z</published>
     </entry>
 </feed>
