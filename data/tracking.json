@@ -1665,7 +1665,7 @@
   },
   "55688d86c24b4f34a591e24de26399cd": {
     "contentHash": "474dfb1cbcda6ecbc62d59739dfaee8f",
-    "lastSeen": "2026-08-27T09:48:05.050Z",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
     "lastModified": "2026-08-26T16:59:10.240Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/blindgaenger-in-karlsruher-suedstadt-ist-entschaerft"
   },
@@ -1674,5 +1674,53 @@
     "lastSeen": "2026-08-27T09:48:05.050Z",
     "lastModified": "2026-08-26T16:59:11.240Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-5db967662a7a377cc9f7c1d5ebc0c4a2"
+  },
+  "6df72ba082a16b95c5d8332532c401ff": {
+    "contentHash": "b8254345511001cec189c9c5e6acb1dd",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:11.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/geschichte-vielfaeltig-erlebbar"
+  },
+  "f723ce420c708663698f1988d2b45988": {
+    "contentHash": "3280607e39447b11af06ef00ce557e7a",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:12.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/halbzeit-schlosslichtspiele-und-medienkunst"
+  },
+  "366f088f09003071915f4ab458e34206": {
+    "contentHash": "1db561d7cd4cdf01a11e030b6724a542",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:13.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/weiterer-appell-an-geisterradler"
+  },
+  "42a881e3c0a73a53d78c809fedc57f75": {
+    "contentHash": "032ab2fbbba34e827a857a76d91c1c71",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:14.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/einschraenkungen-am-durlacher-stachus-ab-21-september"
+  },
+  "d70e0161651e94fa861792ebfb350ac8": {
+    "contentHash": "52045d4d2b58c1238243d14d81cd7fd8",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:15.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/weinbrenners-verlorene-bauten"
+  },
+  "af769d84f12bb9c1d413feb23f4d106e": {
+    "contentHash": "8dc064ca0c84d64505e813aca0c17a2a",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:16.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/adfc-fahrradklimatest-startet-im-september"
+  },
+  "20f3a5ffa87280921e9a5783e8938dde": {
+    "contentHash": "a7bf9ebdcb76b6c4b58777761aa83e19",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:17.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/beseitigung-von-strassenschaeden-auf-der-suedtangente"
+  },
+  "b4c4d8b713c5d9996a9b2734194a8ce3": {
+    "contentHash": "c5b51b6de99dcdaba4387c78ab6c519e",
+    "lastSeen": "2026-08-27T22:16:11.508Z",
+    "lastModified": "2026-08-27T22:16:18.508Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/adfc-fahrradklimatest-startet-im-september-standortbestimmung-fuer-stadt"
   }
 }
