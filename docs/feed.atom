@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-07T19:57:49.927Z</updated>
+    <updated>2026-09-08T12:52:38.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,24 +13,11 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
-        <title type="html"><![CDATA[Tag der offenen Tür im Sozialen Garten der Arbeitsförderung]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tag-der-offenen-tuer-im-sozialen-garten-der-arbeitsfoerderung</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tag-der-offenen-tuer-im-sozialen-garten-der-arbeitsfoerderung"/>
-        <updated>2026-09-07T14:15:12.732Z</updated>
-        <summary type="html"><![CDATA[Am Samstag, 19. September, lädt die Arbeitsförderung Karlsruhe von 10 bis 13 Uhr zum Tag der offenen Tür in den Sozialen Garten nach Wolfartsweier ein.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Am <strong>Samstag, 19. September</strong>, lädt die Arbeitsförderung Karlsruhe gGmbH (afka) <strong>von 10 bis 13 Uhr</strong> zum <a href="https://www.af-ka.de/aktuelles/sozialer-garten-tag-der-offenen-tuer" title="Link zur Seite" target="_blank" rel="noreferrer">Tag der offenen Tür</a> in den Sozialen Garten nach Wolfartsweier ein.&nbsp;Die Veranstaltung wird um 10 Uhr durch Bürgermeisterin Yvette Melchien eröffnet.</p>
-<p>Besucherinnen und Besucher können auf dem Gelände und im 100 Meter langen Gewächshaus die Vielfalt von rund 170 Tomatensorten, exotischen Kräutern, Blumen und seltenen Gemüsepflanzen entdecken. Der Soziale Garten kann mit Führung oder auf eigene Faust erkundet werden. Frisch geerntetes Obst und Gemüse gibt es am Verkaufsstand.&nbsp;Zufahrt und begrenzte Parkmöglichkeiten befinden sich an der Wettersteinstraße. Um Anreise zu Fuß, mit Fahrrad oder mit öffentlichen Verkehrsmitteln wird gebeten.</p>
-<p>Der <a href="https://www.af-ka.de/arbeitssuchende/taetigkeitsbereiche/sozialer-garten" title="Link zur Seite" target="_blank" rel="noreferrer">Soziale Garten</a> bietet langzeitarbeitslosen Menschen Beschäftigung, Stabilität und neue Perspektiven. Ein großer Teil der Ernte wird an gemeinnützige Einrichtungen für Wohnungslose, Menschen mit geringem Einkommen sowie für Bildungsprojekte mit Kindern und Jugendlichen abgegeben.&nbsp;</p>
-                                    </div></div>]]></content>
-        <published>2026-09-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kriegsstraße: Erhöhtes Verkehrsaufkommen mit Schulbeginn]]></title>
+        <title type="html"><![CDATA[Infrastrukturprojekt Kriegsstraße: Verkehrsbeeinträchtigungen zum Schulbeginn]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kriegsstrasse-mit-schulbeginn-drohen-verkehrsbehinderungen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kriegsstrasse-mit-schulbeginn-drohen-verkehrsbehinderungen"/>
         <updated>2026-09-07T14:15:13.732Z</updated>
-        <summary type="html"><![CDATA[Insbesondere während der morgendlichen und nachmittäglichen Hauptverkehrszeiten können dadurch längere Wartezeiten und Rückstaus im Umfeld der Baustelle Kriegsstraße, Reinhold-Frank-Straße, Brauerstraße und Gartenstraße entstehen.]]></summary>
+        <summary type="html"><![CDATA[Insbesondere während der morgendlichen und nachmittäglichen Hauptverkehrszeiten können längere Wartezeiten und Rückstaus im Umfeld der Baustelle Kriegsstraße, Reinhold-Frank-Straße, Brauerstraße und Gartenstraße entstehen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Seit dem 30. Juli 2026 laufen die Bauarbeiten für das Infrastrukturprojekt Kriegsstraße in den Bereichen Kriegsstraße, Reinhold-Frank-Straße, Brauerstraße und Gartenstraße. Die Arbeiten führen dort zu Einschränkungen und Veränderungen in der Verkehrsführung.</p>
 <p>Aufgrund der Baumaßnahmen steht dem Verkehr in den betroffenen Bereichen derzeit nur eine reduzierte Leistungsfähigkeit der Verkehrsanlagen zur Verfügung. Dennoch ist es seit Beginn der Arbeiten erfreulicherweise zu keinen größeren Verkehrsbehinderungen gekommen. Der Verkehr konnte bislang auch unter den veränderten Bedingungen weitgehend geordnet abgewickelt werden.</p>
@@ -40,6 +27,48 @@
 <p>Die mit den umfangreichen Baumaßnahmen verbundenen Einschränkungen lassen sich während der Bauzeit leider nicht vollständig vermeiden. Für die daraus entstehenden Beeinträchtigungen und Unannehmlichkeiten bitten die Projektverantwortlichen alle Verkehrsteilnehmenden sowie die Anliegerinnen und Anlieger um Verständnis.</p>
 <p>Umfassende und aktuelle Informationen zum Infrastrukturprojekt Kriegsstraße, zu den Bauarbeiten und zur Verkehrsführung erhalten Interessierte im Internet unter <a href="http://mobil.trk.de/karlsruhe" title="Link zur Seite" target="_blank" rel="noreferrer">mobil.trk.de/karlsruhe</a> sowie unter <a href="http://karlsruhe.de/kriegsstrasse" title="Link zur Seite" target="_blank" rel="noreferrer">karlsruhe.de/kriegsstrasse</a>.</p>
 
+                                    </div></div>]]></content>
+        <published>2026-09-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EFFEKTE: Wer entscheidet über unseren Körper?]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/effekte-wer-entscheidet-ueber-unseren-koerper</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/effekte-wer-entscheidet-ueber-unseren-koerper"/>
+        <updated>2026-09-08T12:52:37.045Z</updated>
+        <summary type="html"><![CDATA[Dürfen wir selbst über den eigenen Körper bestimmen? Wie weit reicht staatliche Regulierung und wo liegen die Grenzen von Selbstbestimmung, Verantwortung und Fortschritt? Am 15. September geht die EFFEKTE-Reihe diesen Fragen auf den Grund.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Dürfen wir selbst über den eigenen Körper bestimmen? Wie weit reicht staatliche Regulierung und wo liegen die Grenzen von Selbstbestimmung, Verantwortung und Fortschritt? Am <strong>Dienstag, 15. September 2026</strong> lädt die EFFEKTE-Reihe dazu ein, diesen Fragen auf den Grund zu gehen.</p>
+<p>Mit einer interaktiven Körperreise bringt die Stiftung Forum Recht zentrale Rechtsfragen rund um das Thema Gesundheit und Medizin von morgen in die EFFEKTE-Reihe ein. Beginn ist um <strong>19:30 Uhr im TRIANGEL Transfer | Kultur | Raum</strong> am Kronenplatz. Der Eintritt ist kostenfrei.</p>
+<h4>Workshopstationen zu verschiedenen Fragestellungen</h4>
+<p>In Kleingruppen diskutieren die Teilnehmerinnen und Teilnehmer zentrale ethische Fragestellungen aus unterschiedlichen Lebensbereichen. Im Mittelpunkt stehen die Themen Psychische Gesundheit und Digitalisierung, Organspende und Lebensende, Schwangerschaft und Fortpflanzung sowie Selbstbestimmung im Tod. Anhand von Leitfragen setzen sie sich mit aktuellen gesellschaftlichen und persönlichen Herausforderungen auseinander – etwa dem Schutz der Privatsphäre im digitalen Raum, der Entscheidungsfreiheit bei der Organspende, der Selbstbestimmung in Fragen von Schwangerschaft und Fortpflanzung sowie dem Recht auf ein selbstbestimmtes Lebensende.</p>
+<h4>Gemeinsame Diskussion zum Abschluss</h4>
+<p>Den Abschluss bildet eine gemeinsame Diskussionsrunde. Dort haben die Teilnehmerinnen und Teilnehmer die Möglichkeit, offene Fragen einzubringen, die behandelten Themen zu vertiefen und mit den Expertinnen ins Gespräch zu kommen. Als Expertinnen sind an diesem Abend mit dabei: Ann-Kathrin Langewender und Britta Wolf, beide Fachanwältinnen für Medizinrecht aus Karlsruhe. Sie werden beim Workshop die Stationen zu den Themen Fortpflanzung und Psychische Gesundheit betreuen sowie Ronja Drews, Juristin und Wissenschaftliche Mitarbeiterin im Bereich Forschungskoordination und Wissenschaftsmanagement der Stiftung Forum Recht, deren Interessen auf der Schnittstelle zwischen Recht und Ethik sowie bei der strafrechtlichen Diskussion zum Thema Sterbehilfe liegen.</p>
+
+                                    </div></div>]]></content>
+        <published>2026-09-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karoline-Luise-Tunnel am 9. September teilweise gesperrt]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/reparaturarbeiten-im-karoline-luise-tunnel-1</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/reparaturarbeiten-im-karoline-luise-tunnel-1"/>
+        <updated>2026-09-08T12:52:38.045Z</updated>
+        <summary type="html"><![CDATA[Wegen Reparaturarbeiten in Fahrtrichtung Pfalz von 9 bis etwa 15 Uhr gesperrt. Die Unterführung Karlstor sowie die Tunneldurchfahrt in Fahrtrichtung Durlach sind davon nicht betroffen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Der Karoline-Luise-Tunnel muss am Mittwoch, 9. September 2026 im Zeitraum von 9 bis etwa 15 Uhr wegen Reparaturarbeiten in Fahrtrichtung Pfalz gesperrt werden. Die Unterführung Karlstor sowie die Tunneldurchfahrt in&nbsp;Fahrtrichtung Durlach sind von der Sperrung nicht betroffen. Das Tiefbauamt&nbsp;bittet die Verkehrsteilnehmenden um Verständnis für die mit der&nbsp;Baumaßnahme verbundenen Behinderungen.</p>
+<p>Am 12. August versuchte ein zu hohes Fahrzeug, in das Parkhaus des Ettlinger-Tor-Centers einzufahren. Dabei beschädigte es beim Wenden in der Einfahrt Teile des Tunnels, unter anderem der Sicherheitsausstattung, so dass der Tunnel zunächst gesperrt werden musste.&nbsp;Seit Mitte August galt zudem aus Sicherheitsgründen in der nördlichen Röhre eine Geschwindigkeitsbegrenzung von 30 Stundenkilometern, die Ende August bereits aufgehoben werden konnte.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tag der offenen Tür im Sozialen Garten der Arbeitsförderung]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tag-der-offenen-tuer-im-sozialen-garten-der-arbeitsfoerderung</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tag-der-offenen-tuer-im-sozialen-garten-der-arbeitsfoerderung"/>
+        <updated>2026-09-07T14:15:12.732Z</updated>
+        <summary type="html"><![CDATA[Am Samstag, 19. September, lädt die Arbeitsförderung Karlsruhe von 10 bis 13 Uhr zum Tag der offenen Tür in den Sozialen Garten nach Wolfartsweier ein.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Am <strong>Samstag, 19. September</strong>, lädt die Arbeitsförderung Karlsruhe gGmbH (afka) <strong>von 10 bis 13 Uhr</strong> zum <a href="https://www.af-ka.de/aktuelles/sozialer-garten-tag-der-offenen-tuer" title="Link zur Seite" target="_blank" rel="noreferrer">Tag der offenen Tür</a> in den Sozialen Garten nach Wolfartsweier ein.&nbsp;Die Veranstaltung wird um 10 Uhr durch Bürgermeisterin Yvette Melchien eröffnet.</p>
+<p>Besucherinnen und Besucher können auf dem Gelände und im 100 Meter langen Gewächshaus die Vielfalt von rund 170 Tomatensorten, exotischen Kräutern, Blumen und seltenen Gemüsepflanzen entdecken. Der Soziale Garten kann mit Führung oder auf eigene Faust erkundet werden. Frisch geerntetes Obst und Gemüse gibt es am Verkaufsstand.&nbsp;Zufahrt und begrenzte Parkmöglichkeiten befinden sich an der Wettersteinstraße. Um Anreise zu Fuß, mit Fahrrad oder mit öffentlichen Verkehrsmitteln wird gebeten.</p>
+<p>Der <a href="https://www.af-ka.de/arbeitssuchende/taetigkeitsbereiche/sozialer-garten" title="Link zur Seite" target="_blank" rel="noreferrer">Soziale Garten</a> bietet langzeitarbeitslosen Menschen Beschäftigung, Stabilität und neue Perspektiven. Ein großer Teil der Ernte wird an gemeinnützige Einrichtungen für Wohnungslose, Menschen mit geringem Einkommen sowie für Bildungsprojekte mit Kindern und Jugendlichen abgegeben.&nbsp;</p>
                                     </div></div>]]></content>
         <published>2026-09-07T00:00:00.000Z</published>
     </entry>
@@ -118,37 +147,6 @@
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
                                         <p>Mit zunehmendem Alter verändert sich unser Schlaf: Er wird häufig leichter, kürzer und weniger erholsam. Viele ältere Menschen kennen das Problem von Ein- oder Durchschlafstörungen. Am <strong>Donnerstag, 10. September 2026</strong> um 15 Uhr ist <strong>Dr. Ingeborg Cuvelier</strong>, Fachärztin für Innere Medizin, Geriatrie und Ernährungsmedizin sowie leitende Ärztin der Mobilen Geriatrischen Rehabilitation der Klinik für Geriatrie der ViDia Kliniken zu Gast in der <strong>Stadtbibliothek</strong> in der Ständehausstraße 2. Sie beleuchtet in ihrem Vortrag, warum Schlafstörungen im Alter immer ernst genommen werden sollten, worin mögliche Ursachen bestehen und welche Behandlungsmöglichkeiten existieren. Im Anschluss an den Vortrag besteht Zeit für Fragen.</p>
 <p>Die kostenfreie Veranstaltung ist Teil der Vortragsreihe „Gut informiert und aktiv leben“ von Seniorenbüro und Stadtbibliothek.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artenschutztag bietet Einblicke und Mitmachangebote]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/artenschutztag-bietet-einblicke-und-mitmachangebote</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/artenschutztag-bietet-einblicke-und-mitmachangebote"/>
-        <updated>2026-09-04T12:43:33.443Z</updated>
-        <summary type="html"><![CDATA[Am Sonntag, 13. September, beteiligen sich 40 Institutionen und Vereine am Aktionstag im Zoologischen Stadtgarten und präsentieren ihre Arbeit in den Bereichen Biodiversität und Artenschutz.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Im Zoologischen Stadtgarten steht am <strong>Sonntag, 13. September</strong>, der ganze Tag im Zeichen des Artenschutzes. Über das gesamte Gelände verteilt präsentieren 40 Institutionen und Vereine interessante Informationen und Mitmachangebote. Der Artenschutztag wird bereits zum zehnten Mal ausgerichtet.&nbsp;<strong>Von 10 bis 17 Uhr </strong>informieren die Institutionen und Vereine am letzten Sonntag der Schulsommerferien an ihren Stationen. Der Zoo selbst gibt Einblicke in die Themenfelder Biodiversität und Artenschutz sowie die Arbeit der Artenschutzstiftung Zoo Karlsruhe.&nbsp;An zahlreichen Ständen werden speziell für Kinder Quiz-, Rätsel- und Mitmachaktionen angeboten. Die Wissensvermittlung für die gesamte Familie steht an diesem Tag im Mittelpunkt. Für den Artenschutztag fallen neben dem üblichen Zooeintritt keine zusätzlichen Kosten an.</p>
-<p>„Artenschutz ist die Grundlage unserer Arbeit. Am Artenschutztag machen wir sichtbar, wie breit dieses Engagement aufgestellt ist – vom Schutz heimischer Arten bis zu Projekten in anderen Teilen der Welt. Gleichzeitig geben wir zahlreichen Institutionen und Vereinen die Möglichkeit, ihre Arbeit vorzustellen und mit unseren Zoogästen ins Gespräch zu kommen“, erläutert Zoodirektor Dr. Matthias Reinschmidt. „Wie umfangreich sich der Zoo für bedrohte Arten und ihre Lebensräume einsetzt, ist vielen Menschen gar nicht bewusst. Der Artenschutztag bietet uns die Gelegenheit, diese Arbeit anschaulich zu vermitteln, Zusammenhänge aufzuzeigen und insbesondere auch Familien für den Schutz der biologischen Vielfalt zu begeistern“, ergänzt Artenschutzkuratorin Sandra Dollhäupl.</p>
-<h4>40 Institutionen und Vereine dabei</h4>
-<p>Erstmals dabei ist der <strong>Zoo Heidelberg</strong>, der regionale und internationale Artenschutzprojekte vorstellt. <strong>KiWi-Oberrhein</strong> informiert mit seinem GeoMobil über die Gewinnung und Verwendung von Rohstoffen sowie Recycling. Hinzu kommen vielfältige Anschauungsmaterialien zu Geologie, Biodiversität und Bautechnik. Die <strong>Arbeitsgemeinschaft Fledermausschutz Baden-Württemberg</strong> informiert über heimische Fledermausarten und ihre Arbeit, mit der die Bestände im Land stabilisiert und gezielt verbessert werden sollen. <strong>Myanmar-Chances for Nature</strong> stellt sein Engagement für Arbeitselefanten und den Schutz freilebender Elefanten in Myanmar vor. Neu vertreten sind zudem die <strong>Stadtgartenfreunde </strong>sowie die Regionalgruppe Karlsruhe von <strong>Borneo Orangutan Survival Deutschland</strong>. Auch <strong>Yaqu Pacha</strong>, die Gesellschaft zum Schutz wasserlebender Säugetierarten Lateinamerikas, sowie die <strong>Deutsche Gesellschaft für Herpetologie und Terrarienkunde</strong> sind wieder vor Ort.</p>
-<p>An einem eigenen Stand wird über die Luchs-Auswilderungen in Baden-Württemberg informiert. Das vom Land Baden-Württemberg initiierte Projekt zur Bestandsstützung der Luchse im Schwarzwald wird von der <strong>Forstlichen Versuchs- und Forschungsanstalt</strong> in Kooperation mit dem <strong>Landesjagdverband</strong>, dem <strong>WWF Deutschland</strong>, der <strong>Luchsinitiative </strong>und dem Zoo Karlsruhe umgesetzt. Die Projektpartner werden vor Ort sein. Der <strong>Bundesverband für fachgerechten Natur-, Tier- und Artenschutz</strong>, das <strong>Naturkundemuseum Karlsruhe</strong>, der <strong>Verein Plumploris</strong>, der sich für den Schutz, die Erforschung und die Bekanntheit der bedrohten Primatengattung einsetzt, sowie das <strong>Red Panda Network</strong> mit seinem Engagement für Rote Pandas sind mit zahlreichen Informationen und Aktionen vertreten. Als Institution, die sich für den Erhalt der Natur in der Region einsetzt, ist der <strong>Nationalpark Schwarzwald</strong> dabei.</p>
-<p>Unter den Teilnehmern sind zudem langjährige Förderer wie die <strong>Zoofreunde Karlsruhe</strong>. Die <strong>Zoologische Gesellschaft für Arten- und Populationsschutz</strong>, der <strong>Bund für Umwelt und Naturschutz Deutschland</strong>, <strong>Sphenisco – Schutz des Humboldt-Pinguins</strong>, <strong>Greenpeace Karlsruhe</strong>, das <strong>Liegenschaftsamt </strong>und die <strong>Karlsruher Energie- und Klimaschutzagentur</strong> präsentieren ihr Engagement ebenfalls. Themen rund um Jagd und Wildtiermanagement bringen der <strong>Deutsche Falkenorden</strong> und die <strong>Jägervereinigung Karlsruhe</strong> ein. Das <strong>Team Sauberes Karlsruhe</strong> ist ebenfalls wieder dabei. Das <strong>Gartenbauamt </strong>zeigt, wie naturnahe Pflanzungen vor der eigenen Haustür zum Erhalt der Biodiversität beitragen können. Artenkenntnis und Artenschutz im Wald rund um Karlsruhe werden von der <strong>Waldpädagogik </strong>präsentiert. Das <strong>Umweltamt </strong>informiert über Projekte der Stadt Karlsruhe, das <strong>Regierungspräsidium </strong>ist mit dem <strong>Ökomobil </strong>vor Ort. Der <strong>Amphibienschutz in Untergrombach und Grötzinge</strong>n stellt ebenfalls seine Arbeit vor. Mit dabei sind außerdem die <strong>Karlsruher Hobby-Imker</strong>, das <strong>Naturschutzzentrum Rappenwört</strong>, der <strong>NABU Bundesverband</strong>, die <strong>Wildtieranlaufstelle Karlsruhe</strong>, das <strong>Forstamt</strong>, die <strong>Biberberater </strong>und das <strong>Hauptzollamt</strong>.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinder- und Jugendflohmarkt in Durlach]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kinder-und-jugendflohmarkt-in-durlach-12-september-2026</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kinder-und-jugendflohmarkt-in-durlach-12-september-2026"/>
-        <updated>2026-09-04T12:43:34.443Z</updated>
-        <summary type="html"><![CDATA[Am 12. September lädt das Stadtamt Durlach gemeinsam mit der Arbeitsgemeinschaft Durlacher und Auer Vereine sowie dem Kinder- und Jugendhaus zum Kinder- und Jugendflohmarkt ein.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Am<strong> Samstag, 12. September</strong>, lädt das Stadtamt Durlach gemeinsam mit der Arbeitsgemeinschaft Durlacher und Auer Vereine sowie dem Kinder- und Jugendhaus Durlach zum Kinder- und Jugendflohmarkt ein. Von <strong>9 bis 14 Uhr </strong>verwandelt sich der Karlsburg-Vorplatz in einen bunten Marktplatz für junge Verkäuferinnen und Verkäufer.</p>
-<p>Kinder und Jugendliche bis einschließlich 17 Jahre haben dabei die Möglichkeit, ihre gut erhaltenen Spielsachen, Bücher, Kleidung und andere Schätze anzubieten. Gleichzeitig sammeln die jungen Teilnehmerinnen und Teilnehmer ganz praktische Erfahrungen im Verkaufen, Handeln und Verhandeln.</p>
-<p>Eine Standgebühr wird nicht erhoben. Auch eine vorherige Anmeldung ist nicht erforderlich. Wer mit einem eigenen Stand teilnehmen möchte, kann am Veranstaltungstag ab 8:30 Uhr zum Karlsburg-Vorplatz kommen. Die Standplätze werden vor Ort vergeben.</p>
-<p><strong>Witterungshinweis:</strong> Bei schlechtem Wetter, insbesondere bei Regen, Sturm oder Unwetter, muss die Veranstaltung leider entfallen.</p>
-<p>Für Rückfragen steht das Stadtamt Durlach unter der Telefonnummer <a href="tel:07211331937" title="Telefonnummer anrufen">0721 133-1937</a> oder per E-Mail an <a href="#" title="E-Mail senden" data-mailto-token="drzckf1blckliRulicrty5bricjilyv5uv" data-mailto-vector="-9">kultur[at]durlach.karlsruhe.de</a> zur Verfügung.</p>
                                     </div></div>]]></content>
         <published>2026-09-04T00:00:00.000Z</published>
     </entry>
