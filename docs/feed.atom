@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-08T19:26:07.662Z</updated>
+    <updated>2026-09-09T12:58:16.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,32 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Ein besonderer Ort für besondere Momente]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ein-besonderer-ort-fuer-besondere-momente</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ein-besonderer-ort-fuer-besondere-momente"/>
+        <updated>2026-09-09T12:58:15.258Z</updated>
+        <summary type="html"><![CDATA[Die Stadt Karlsruhe schafft ab Oktober 2026 einen neuen, festlichen Rahmen für standesamtliche Eheschließungen und Einbürgerungen - sie finden künftig im Markgräflichen Palais statt.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Die Stadt Karlsruhe schafft ab Oktober 2026 einen neuen, festlichen Rahmen für zwei der bedeutendsten Ereignisse im Leben vieler Menschen: Standesamtliche Eheschließungen und Einbürgerungen finden künftig im eindrucksvollen Markgräflichen Palais am Rondellplatz statt.&nbsp;Paare geben sich ihr Ja-Wort dann nicht mehr im Haus Solms, sondern in der eleganten und geschichtsträchtigen Atmosphäre des Markgräflichen Palais‘. Auch Einbürgerungsfeiern werden ab Oktober vom bisherigen Standort in der Kaiserallee 8 in diese repräsentativen Räumlichkeiten verlegt.</p>
+<p><strong>Historische Architektur und stilvolle Räume</strong></p>
+<p>Für unvergessliche Augenblicke braucht es einen würdigen Ort. Das Markgräfliche Palais vereint historische Architektur und stilvolle Räume, das sind ideale Voraussetzungen für bewegende Trauungen und feierliche Einbürgerungen in neu renoviertem Ambiente.&nbsp;„Wir möchten Paaren und Menschen, die eingebürgert werden, einen Ort bieten, der ihrem besonderen Moment gerecht wird – würdevoll, einzigartig und nachhaltig in Erinnerung bleibend. Das Markgräfliche Palais verbindet Geschichte und Eleganz auf beeindruckende Weise“, betont Bürgermeister Dr. Albert Käuflein.</p>
+<p>Bereits vereinbarte Termine behalten selbstverständlich ihre Gültigkeit. Trauungen im Haus Solms finden bis einschließlich September wie geplant statt. Paare mit Terminen ab Oktober wurden bereits über den neuen Ort informiert.&nbsp;Für Einbürgerungen ist der Veranstaltungsort dem vorausgehenden Einladungsschreiben zu entnehmen.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kriegsstraße 100: Stadt beteiligt Öffentlichkeit an der Bauleitplanung]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kriegsstrasse-100-stadt-beteiligt-oeffentlichkeit-an-der-bauleitplanung</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kriegsstrasse-100-stadt-beteiligt-oeffentlichkeit-an-der-bauleitplanung"/>
+        <updated>2026-09-09T12:58:16.258Z</updated>
+        <summary type="html"><![CDATA[Im Rahmen des Bebauungsplanverfahrens „Kriegsstraße 100“ führt das Stadtplanungsamt Karlsruhe am 23. September 2026 eine frühzeitige Beteiligung der Öffentlichkeit durch.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Im Rahmen des Bebauungsplanverfahrens „Kriegsstraße 100“ (Karlsruhe – Innenstadt-Ost) führt das Stadtplanungsamt Karlsruhe am&nbsp;<strong>Mittwoch, 23. September 2026, 17:30 Uhr,&nbsp;im Meidingersaal&nbsp;</strong>(Regierungspräsidium Karlsruhe,&nbsp;Karl-Friedrich-Straße 17)<strong>&nbsp;</strong>eine frühzeitige Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) durch.&nbsp;</p>
+<p><strong>Weitere Informationen finden Sie auf <a href="https://www.karlsruhe.de/bpl/bpl-kriegsstrasse-100" title="Link zur Seite" target="_blank">karlsruhe.de</a>.</strong></p>
+                                    </div></div>]]></content>
+        <published>2026-09-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infrastrukturprojekt Kriegsstraße: Verkehrsbeeinträchtigungen zum Schulbeginn]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kriegsstrasse-mit-schulbeginn-drohen-verkehrsbehinderungen</id>
@@ -117,37 +143,5 @@
 <p>Auf dem "Testfeld Autonomes Fahren Baden-Württemberg" (TAF-BW) können Fahrzeuge auf mehr als 200 Kilometern öffentlicher Straßen sicher autonom bewegt werden. Bei Bedarf kann aus der Ferne assistiert werden. Betrieben wird das Testfeld vom Karlsruher Verkehrsverbund (KVV). Prof. Dr. Alexander Pischon stellte im Rahmen des Besuchs den autonomen Betrieb auf der Schiene als wichtiges Zukunftsziel vor, an dem die Verkehrsbetriebe Karlsruhe GmbH und die Albtal-Verkehrs-Gesellschaft bereits arbeiteten. Oberbürgermeister Dr. Frank Mentrup wies auf die Rolle Karlsruhes in der Geschichte der Mobilität und ihrer Weiterentwicklung für die Zukunft hin. -red-</p>
                                     </div></div>]]></content>
         <published>2026-09-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weinfest Durlach zieht Besucherinnen und Besucher an]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/weinfest-durlach-zieht-besucherinnen-und-besucher-an</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/weinfest-durlach-zieht-besucherinnen-und-besucher-an"/>
-        <updated>2026-09-04T12:43:31.443Z</updated>
-        <summary type="html"><![CDATA[Das Weinfest auf dem Saumarkt findet am 19 und 20. September 2026 anlässlich der Durlacher Kerwe statt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Das Weinfest auf dem Saumarkt findet am 19 und 20. September 2026 anlässlich der Durlacher Kerwe statt. Öffnungszeiten: Samstag 15 bis 24 Uhr und Sonntag 12 bis 20 Uhr.</p>
-<p>Neben einem vielfältigen Weinangebot gibt es an beiden Tagen auch kulinarische Leckerbissen. Im Gewölbekeller des Rathauses werden frisch gebackene Pfälzer Klappfladen angeboten. Auf dem Saumarkt werden diverse Burgervarianten sowie Steaks, Bratwurst, Currywurst und anderes zubereitet. Gleichwohl gibt es ein großes Angebot an verschiedene Weine und Cocktails.</p>
-<h4>June Gloom,&nbsp;HeggMac,&nbsp;Andy Wilsing und Blue Light</h4>
-<p>Am Samstag tritt die Band June Gloom aus Karlsruhe auf. Sie präsentieren von 18 bis 20 Uhr eine Mischung aus Pop, Rock &amp; Country. Neben gecoverten Songs besteht ein großer Teil des Repertoires aus eigenem Songmaterial.</p>
-<p>Ab 20.30 Uhr tritt die Band HeggMac auf. Die Herren von HeggMac sind schon viele Jahrzehnte mit verschiedenen Formationen auf den Bühnen der näheren und weiteren Umgebung unterwegs. Spaß und Freude am Musizieren steht über allem. HeggMac spielt sich mit Cover-Songs aus Rock, Pop und Blues durch die letzten fünf Dekaden –nicht einfach nachgespielt, sondern spannend interpretiert: Bekannte Stücke, Titel für Aha-Momente und wahre Sahnestückchen. Die ehrliche, handgemachte Musik geht ins Ohr, in Bauch und Beine – und ins Herz.</p>
-<p>Am frühen Sonntagmittag ab 12:30 Uhr greift Andy Wilsing in die Saiten und eröffnet den musikalischen Teil des Weinfestes am Saumarkt. Von den Klassikern der 70er bis zu den Hits von heute – Live-Musik, die Generationen verbindet und den Gästen ein Lächeln ins Gesicht zaubert.</p>
-<p>Im Anschluss spielt die Band Blue Light ab 16:30 Uhr und sorgen mit Songs in eigenen Arrangements, mal laut, mal leise, handgemacht, groovig mitreißend, tanzbar und berührend für Stimmung. 5 erfahrene Musiker aus der Karlsruher Musikszene interpretieren Klassiker, Standards und Fundstücke aus Pop, Rock, Jazz und Soul im individuellen Gewand, ideenreich, spontan und überraschend.</p>
-<h4>Reges Kerwe-Treiben</h4>
-<p>Durlach hat an diesem Wochenende noch weitere Highlights zu bieten. Vom 18. bis 21. September herrscht reges Kerwe-Treiben. Zudem laden sonntags die Geschäfte in der Innenstadt Durlachs zum Bummeln und Shoppen ein. In diesem Rahmen lohnt sich ein Besuch auf dem Weinfest umso mehr.</p>
-<p>Der Eintritt ist frei. Weitere Informationen erhalten Sie im digitalen Karlsruher <a href="https://kalender.karlsruhe.de/db/termine/stadtleben/weinfest" title="Link zur Seite" target="_blank" rel="noreferrer">Veranstaltungskalender</a>.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schlaf und Schlafstörungen im Alter]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schlaf-und-schlafstoerungen-im-alter</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schlaf-und-schlafstoerungen-im-alter"/>
-        <updated>2026-09-04T12:43:32.443Z</updated>
-        <summary type="html"><![CDATA[Die Medizinerin Dr. Ingeborg Cuvelier beleuchtet in einem Vortrag in der Stadtbibliothek das Thema Schlafstörungen im Alter sowie Ursachen und Behandlungsmöglichkeiten.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Mit zunehmendem Alter verändert sich unser Schlaf: Er wird häufig leichter, kürzer und weniger erholsam. Viele ältere Menschen kennen das Problem von Ein- oder Durchschlafstörungen. Am <strong>Donnerstag, 10. September 2026</strong> um 15 Uhr ist <strong>Dr. Ingeborg Cuvelier</strong>, Fachärztin für Innere Medizin, Geriatrie und Ernährungsmedizin sowie leitende Ärztin der Mobilen Geriatrischen Rehabilitation der Klinik für Geriatrie der ViDia Kliniken zu Gast in der <strong>Stadtbibliothek</strong> in der Ständehausstraße 2. Sie beleuchtet in ihrem Vortrag, warum Schlafstörungen im Alter immer ernst genommen werden sollten, worin mögliche Ursachen bestehen und welche Behandlungsmöglichkeiten existieren. Im Anschluss an den Vortrag besteht Zeit für Fragen.</p>
-<p>Die kostenfreie Veranstaltung ist Teil der Vortragsreihe „Gut informiert und aktiv leben“ von Seniorenbüro und Stadtbibliothek.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-04T00:00:00.000Z</published>
     </entry>
 </feed>
