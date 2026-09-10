@@ -1875,7 +1875,7 @@
   },
   "bbd51ca2e2660c9ca6714e594238a658": {
     "contentHash": "fc22538e413e7e7c8c37b5d087d17b63",
-    "lastSeen": "2026-09-10T04:42:29.866Z",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
     "lastModified": "2026-09-07T14:15:13.732Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kriegsstrasse-mit-schulbeginn-drohen-verkehrsbehinderungen"
   },
@@ -1911,14 +1911,50 @@
   },
   "4842e11fa67f2d171423ecdfe8f3ea23": {
     "contentHash": "010a6a2283542923ca87bd7f61b5feb5",
-    "lastSeen": "2026-09-10T04:42:29.866Z",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
     "lastModified": "2026-09-09T12:58:15.258Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ein-besonderer-ort-fuer-besondere-momente"
   },
   "cc6745ef077e7012e27acd760deaf544": {
     "contentHash": "4c31b66f4da47f78780b11b4d725e920",
-    "lastSeen": "2026-09-10T04:42:29.866Z",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
     "lastModified": "2026-09-09T12:58:16.258Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kriegsstrasse-100-stadt-beteiligt-oeffentlichkeit-an-der-bauleitplanung"
+  },
+  "8476b4f93d766b2da1b52ee81ac85026": {
+    "contentHash": "ba5f0c848bf72fd966636fd69601a9e9",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
+    "lastModified": "2026-09-10T12:55:15.458Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/septembersitzung-des-bauausschusses"
+  },
+  "aaf76ee7fac8936a4078ac10d7fefe3d": {
+    "contentHash": "cf74cf2c0adb34ffbc8738ba447e4c79",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
+    "lastModified": "2026-09-10T12:55:16.458Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-neureut-und-wolfartsweier-tagen"
+  },
+  "eb830e7b95372390c93f0a5a87e35c74": {
+    "contentHash": "2cff11e08c7878eeb2976d4c51e69e02",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
+    "lastModified": "2026-09-10T12:55:17.458Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-gratuliert-ehemaliger-stadtraetin-marianne-krug-zum-90-geburtstag"
+  },
+  "2a8ab885c41aa2fc4ab9f0c6b704993f": {
+    "contentHash": "762515b47af75c7b795cefabae3f5cee",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
+    "lastModified": "2026-09-10T12:55:18.458Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-hohenwettersbach-und-stupferich-tagen-1"
+  },
+  "914dd8383e462088631939b29b0e1e62": {
+    "contentHash": "a7304e55e863ad0308f2c6da13894c59",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
+    "lastModified": "2026-09-10T12:55:19.458Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/grussbotschaft-von-oberbuergermeister-dr-mentrup-zu-rosch-haschana-2026"
+  },
+  "da7a0bdc4ae6c94ca6c8bbf361a4bfe4": {
+    "contentHash": "e3e9e7d19ab80c4fa2834e5c48335777",
+    "lastSeen": "2026-09-10T12:55:15.458Z",
+    "lastModified": "2026-09-10T12:55:20.458Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bundesweiter-warntag-am-10-september"
   }
 }
