@@ -2024,14 +2024,14 @@
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/amphibienschutzschranke-an-der-oestlichen-zufahrt-zum-batzenhofweg"
   },
   "c27e4fd82c20be3b5fdb9ac9cb2e7d69": {
-    "contentHash": "c8f1583039ed10b552d1dce6913ef2f7",
-    "lastSeen": "2026-09-17T04:53:49.607Z",
-    "lastModified": "2026-09-16T19:36:20.045Z",
+    "contentHash": "152878ae5ef4ac5307f5a16a05fb55ef",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
+    "lastModified": "2026-09-17T13:27:25.652Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufsfeuerwehr-zelebriert-100-jahre-mit-festakt"
   },
   "6553b416de194118cfaf24b618243ac2": {
     "contentHash": "3147ff76b5f919fcfea00662ef5a1c61",
-    "lastSeen": "2026-09-16T19:36:20.045Z",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
     "lastModified": "2026-09-16T19:36:21.045Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schritte-challenge-im-oktober-1"
   },
@@ -2061,14 +2061,44 @@
   },
   "03ae0aa9d47f9f1da98e0734742964bc": {
     "contentHash": "75de22dacfd29c78f1d4702932f87095",
-    "lastSeen": "2026-09-17T04:53:49.607Z",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
     "lastModified": "2026-09-17T04:53:49.607Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen"
   },
   "91675294af37e95cd27b60c41aeb2a99": {
     "contentHash": "aefaf384cf20488be91b4a553e4c5fc4",
-    "lastSeen": "2026-09-17T04:53:49.607Z",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
     "lastModified": "2026-09-17T04:53:50.607Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein"
+  },
+  "037398097491fc6383eade68be3fd17e": {
+    "contentHash": "f2a8ea2e22a84e98fc62cb3bc6b63218",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
+    "lastModified": "2026-09-17T13:27:20.652Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-werke-installiert"
+  },
+  "043ac86ecf01ea271288abbe8df0eeb7": {
+    "contentHash": "aa42c72a25cf6302327b48557587a706",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
+    "lastModified": "2026-09-17T13:27:21.652Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/die-wettersbacher-tagen"
+  },
+  "3bc995d1d8ba7c3878bb4a1e1feb17ad": {
+    "contentHash": "2046fb04a9f82fadd43bee9d147c861c",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
+    "lastModified": "2026-09-17T13:27:22.652Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/durlacher-und-groetzinger-tagen"
+  },
+  "fb2ba64519a441ceec06ba91db633a5d": {
+    "contentHash": "7de53e35002efc155301bbbb146af677",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
+    "lastModified": "2026-09-17T13:27:23.652Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/september-sitzung-des-planungsausschusses"
+  },
+  "a90d53f8d704697ce1f86b4b3f25e937": {
+    "contentHash": "5ea694e481c4cdbbff1b73da51578634",
+    "lastSeen": "2026-09-17T13:27:20.652Z",
+    "lastModified": "2026-09-17T13:27:24.652Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-2abf55e80f003e9a0867bbf87201fdb8"
   }
 }

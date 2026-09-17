@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-17T04:53:50.607Z</updated>
+    <updated>2026-09-17T13:27:25.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -13,108 +13,82 @@
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
     <entry>
-        <title type="html"><![CDATA[Berufsfeuerwehr zelebriert 100 Jahre mit Festakt]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufsfeuerwehr-zelebriert-100-jahre-mit-festakt</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufsfeuerwehr-zelebriert-100-jahre-mit-festakt"/>
-        <updated>2026-09-16T19:36:20.045Z</updated>
-        <summary type="html"><![CDATA[Mit einem Festabend im Rathaus ist die Veranstaltungsreihe zum Jubiläum 100 Jahre Berufsfeuerwehr Karlsruhe zu Ende gegangen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Mit einem Festabend im Rathaus ist die Veranstaltungsreihe zum Jubiläum 100 Jahre Berufsfeuerwehr Karlsruhe zu Ende gegangen. Zu diesem Anlass waren Gäste aus der Politik, Vertreterinnen und Vertreter von Feuerwehren aus ganz Baden-Württemberg sowie der lokalen „Blaulichtfamilie“ geladen.</p>
-<p>Erste Bürgermeisterin Bettina Lisbach würdigte in ihrer Rede die Arbeit der Feuerwehr, die sich für die Sicherheit der Bevölkerung einsetzt. Sie dankte den Einsatz- und Rettungskräften für ihre engagierte Arbeit insbesondere während der vergangenen Hitzewelle im Juni und des darauf folgenden Unwetters Mitte Juli.</p>
-<p>In der anschließenden Talk-Runde wurden unterschiedliche Perspektiven der Feuerwehrarbeit beleuchtet. Florian Geldner, Leiter der Karlsruher Branddirektion, Staatssekretär Reiner Moser vom Ministerium des Inneren, für Digitalisierung und Europa Baden-Württemberg, Feuerwehrfrau Catrin Möhn, der ehemalige Wachabteilungsführer Klaus Bohrer sowie Medienkünstler Jonas Denzel, der zum Jubiläum der Berufsfeuerwehr einen Beitrag für die Schlosslichtspiele produziert hat, sprachen über Teamgeist und Herausforderungen.</p>
-<p>„Eine gute Berufsfeuerwehr schafft es, sich an die Welt draußen anzupassen“, sagte Geldner mit Blick auf die sich stetig weiterentwickelnde Technik. Und: „Wir müssen Bevölkerungsschutz neu denken.“ Doch die Menschen, denen die Feuerwehr zur Hilfe komme, seien den Einsatzkräften nicht immer freundlich gesinnt. Zugleich habe die Erwartungshaltung in der Bevölkerung zugenommen, betonte Staatssekretär Moser. „Die Feuerwehr wird als selbstverständlich wahrgenommen.“ Er wünsche sich ein Umdenken in der Gesellschaft, zumal extrem herausfordernde Zeiten angebrochen seien und die gesamte Blaulichtfamilie in den kommenden Jahrzehnten stärker gefordert sein werde. Herausforderungen sieht Geldner vor allem im Bevölkerungsschutz. Und darin, weiterhin geeignetes Personal zu finden. „Wir brauchen engagierte Leute.“ Feuerwehrfrau Möhn rät anderen Frauen „sich einfach zu trauen“, was den Beruf bei der Feuerwehr angeht. Denn, das betonen alle: Die Arbeit mache Spaß, es gebe einen großen Teamgeist und eine gute Gemeinschaft. -gia-</p>
-                                    </div></div>]]></content>
-        <published>2026-09-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bürgerrathaus Grötzingen am 30. September geschlossen]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen"/>
-        <updated>2026-09-17T04:53:49.607Z</updated>
-        <summary type="html"><![CDATA[Die Ortsverwaltung Grötzingen ist wegen einer Schulung für einen Tag zu.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Das Bürgerrathaus Grötzingen ist aufgrund einer Schulung am Mittwoch, 30. September, geschlossen. Von der Schließung betroffen sind das Bürgerbüro, der Infopoint, das Standesamt sowie die Friedhofsverwaltung.</p>
-<p>Die Ortsverwaltung bittet ihre Bürgerinnen und Bürger, diesen Schließtag insbesondere bei der Planung von dringenden pass-, melde- und standesamtlichen Angelegenheiten einzuplanen.</p>
-<p>Ab dem Donnerstag, 1. Oktober, stehen alle Servicestellen wieder zu den gewohnten Öffnungszeiten zur Verfügung.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Karlsruhe spielt!": spielen, toben, zusammen sein]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein"/>
-        <updated>2026-09-17T04:53:50.607Z</updated>
-        <summary type="html"><![CDATA[An rund vierzig Standorten – verteilt über die ganze Stadt – heißt es endlich wieder: "Karlsruhe spielt!".]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Auch in diesem Jahr ist es zwischen Dienstag, 22., und Samstag, 26. September, wieder so weit: An rund vierzig Standorten – verteilt über die ganze Stadt – heißt es endlich wieder: „Karlsruhe spielt!“.</p>
-<p>Gemeinsam mit vielen ehrenamtlich Engagierten lädt das städtische Kinderbüro die Karlsruher Kinder, ihre Familien und alle, die Lust haben dabei zu sein, zum gemeinsamen Spielen, Lachen und Spaß haben ein.<br> Rund um den Weltkindertag setzt „Karlsruhe spielt!“ auf eigens dafür gesperrten Straßen und Plätzen ein sichtbares Zeichen für Kinder und macht ihre Rechte erlebbar.</p>
-<h4>Gemeinschaft für Jung und Alt</h4>
-<p>Die vergangenen Jahre haben gezeigt: „Karlsruhe spielt!“ ist nicht nur eine Aktion für die Jüngsten. Gemeinsames Spielen bringt alle Menschen im Stadtteil zusammen. Eine Partie Schach, Gummitwist oder Ballspiele machen Jung und Alt Spaß und bringen Menschen zusammen.</p>
-<p>Das städtische Kinderbüro freut sich über zahlreiche Besucherinnen und Besucher der kostenfreien Aktion. Weitere Informationen und alle Standorte finden sich unter: <a href="http://www.karlsruhe.de/ka_spielt" title="Link zur Seite" target="_blank">karlsruhe.de/ka_spielt</a>. Hier werden auch kurzfristige Änderungen bekannt gegeben.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zum Welt-Alzheimertag: Dokumentarfilm „Human Forever“]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zum-welt-alzheimertag-dokumentarfilm-human-forever</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zum-welt-alzheimertag-dokumentarfilm-human-forever"/>
-        <updated>2026-09-16T19:36:22.045Z</updated>
-        <summary type="html"><![CDATA[Zum Welt-Alzheimertag lädt das Netzwerk Demenz Karlsruhe am Mittwoch, 23. September 2026, zu dem Dokumentarfilm „Human Forever“ in der Kinemathek ein.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Anlässlich des Welt-Alzheimertags lädt das Netzwerk Demenz Karlsruhe am<strong>&nbsp;Mittwoch, 23. September 2026,&nbsp;</strong>um <strong>18 Uhr</strong> in die <strong>Kinemathek</strong>, Kaiserpassage 6, ein. Der Dokumentarfilm „Human Forever“ begleitet den jungen Pflegeaktivisten Teun Toebes auf einer dreijährigen Reise über vier Kontinente. Teun, der selbst freiwillig auf einer geschlossenen Demenzstation lebte, untersucht darin weltweite Ansätze im Umgang mit Menschen mit Demenz und mit der Erkrankung.</p>
-<p>Der niederländische Film aus dem Jahr 2023 zeigt eindrucksvoll, dass Lebensqualität für Menschen mit Demenz nicht nur von medizinischer Versorgung abhängt, sondern vor allem durch Respekt, soziale Teilhabe und zwischenmenschliche Nähe geprägt wird. Indem die Dokumentation den Menschen und nicht die Diagnose in den Fokus rückt, hinterfragt sie bestehende Pflegesysteme und eröffnet neue Perspektiven auf Menschlichkeit, Würde und ein gutes Leben mit Demenz.</p>
-<p>Der Eintritt ist frei.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verlängerung der Sonderausstellung, Vortrag und Führungen im Pfinzgaumuseum]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/verlaengerung-der-sonderausstellung-vortrag-und-fuehrungen-im-pfinzgaumuseum</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/verlaengerung-der-sonderausstellung-vortrag-und-fuehrungen-im-pfinzgaumuseum"/>
-        <updated>2026-09-16T19:36:23.045Z</updated>
-        <summary type="html"><![CDATA[Die Sonderausstellung „Als die Karlsburg Kaserne war. Das Badische Train-Bataillon Nr. 14 in Durlach“ im Pfinzgaumuseum wird verlängert. Zusätzlich stehen Vorträge und Führungen im Pfinzgaumuseum an.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <h4>Verlängerung der Sonderausstellung „Als die Karlsburg Kaserne war. Das Badische Train-Bataillon Nr. 14 in Durlach“ im Pfinzgaumuseum</h4>
-<p>Die Sonderausstellung „Als die Karlsburg Kaserne war. Das Badische Train-Bataillon Nr. 14 in Durlach“&nbsp;wird&nbsp;<strong>bis 25. Oktober 2026</strong> verlängert.&nbsp;Darin widmet sich das Pfinzgaumuseum in der Durlacher Karlsburg dem Kapitel der Durlacher Militärgeschichte: 1894 zog das Badische Train-Bataillon Nr. 14 in Durlach ein und nutzte die Karlsburg, einst Residenz der Markgrafen von Baden-Durlach, bis zum Ende des Ersten Weltkriegs als Stammgarnison. In der Ausstellung werden vielfältige historische Schätze aus den eigenen Beständen, aus dem Wehrgeschichtlichen Museum Rastatt sowie aus der Sammlung Widmann präsentiert.</p>
-<p>Der Eintrittspreis beträgt zwei Euro, ermäßigt einen Euro.</p>
-<p>Am <strong>Donnerstag, 24. September 2026, um 18 Uhr</strong>&nbsp;hält <strong>Katherine Quinlan-Flatter</strong>&nbsp;zu der Ausstellung den&nbsp;<strong>Vortrag „Es blieben in den Kriegen: Wie die deutschen Kriegerdenkmäler Geschichte erzählen“</strong>. Quinlan-Flatter zeigt die verborgene Symbolik auf, die die Kriegerdenkmäler des Ersten Weltkriegs - zwischen 1919 und 1938 errichtet -&nbsp;vermitteln wollten und die heute oft in Vergessenheit geraten sind.&nbsp;Anhand von ausgewählten Beispielen aus Baden, Württemberg und der Pfalz erläutert die Historikerin und freie Journalistin die Hintergrundgeschichten der Denkmäler und ihrer Bildhauer.</p>
-<p>Eine Anmeldung ist nicht erforderlich, die Teilnahme ist <strong>kostenlos</strong>.</p>
-<p>Am <strong>Sonntag, 11. Oktober, um 15 Uhr</strong> führt <strong>Susanne Stephan-Kabierske</strong> durch die Sonderausstellung. Bei dem Rundgang berichtet Stephan-Kabierske Spannendes über Aufgaben und Ausbildung der Train-Soldaten, über die vom Militär genutzten Gebäude und die persönlichen Erinnerungsstücke, mit denen die Soldaten ihrer Dienstzeit gedachten.</p>
-<p>Eine Anmeldung ist nicht erforderlich, die Teilnahme an der Führung ist kostenlos beziehungsweise im Eintrittspreis inbegriffen.</p>
-<h4>Führung durch die Dauerausstellung im Pfinzgaumuseum</h4>
-<p>Bei der <strong>Themenführung „Durlach für Einsteiger: Stadtgeschichte (nicht nur) für Zugezogene, Erstsemester und andere ‚Neigeschmeckte‘“</strong> am <strong>Sonntag, 27. September, um 14 Uhr</strong> führt <strong>Georg Hertweck</strong> durch die Dauerausstellung und gibt einen kompakten Überblick über die wechselvolle Geschichte der ehemaligen Markgrafenstadt Durlach.</p>
-<p>Auch hier ist keine Anmeldung erforderlich, die Führung ist kostenlos.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pyramide am Marktplatz mit Farbe besprüht]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/pyramide-am-marktplatz-mit-farbe-besprueht</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/pyramide-am-marktplatz-mit-farbe-besprueht"/>
-        <updated>2026-09-16T19:36:24.045Z</updated>
-        <summary type="html"><![CDATA[In der Nacht vom 13. auf den 14. September wurde die Pyramide auf dem Karlsruher Marktplatz mit blauer Farbe beschädigt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>In der Nacht vom 13. auf den 14. September wurde die Pyramide auf dem Marktplatz mit blauer Farbe besprüht und dadurch beschädigt. Eine tatverdächtige Person konnte bereits polizeilich ermittelt werden. Die Stadt hat Strafanzeige wegen Sachbeschädigung erstattet und unmittelbar zu Beginn der Woche die erforderlichen Reinigungsarbeiten veranlasst.</p>
-<p>„Wir hoffen, dass sich die Farbe rückstandslos entfernen lässt und die verursachende Person für die entstandenen Kosten aufkommt. Gleichzeitig wünsche ich mir, dass Zeuginnen und Zeugen bei solchen Vorfällen nicht wegschauen, sondern die Polizei verständigen und möglichst eine Personenbeschreibung weitergeben“, so Prof. Anne Sick, Leiterin des Amts für Hochbau und Gebäudewirtschaft der Stadt Karlsruhe.</p>
-<h4>Pyramide 2026 schon vier Mal beschädigt</h4>
-<p>Der aktuelle Vorfall ist leider kein Einzelfall: Allein in diesem Jahr wurde die Pyramide bereits zum vierten Mal auf diese Weise beschädigt. Die Entfernung von Farbschmierereien ist je nach verwendetem Material aufwendig. Nach der Reinigung muss zudem die Antigraffitibeschichtung wiederhergestellt werden. Die Kosten können sich auf bis zu 3000 Euro pro Einsatz belaufen.</p>
-<p>Die Pyramide ist eines der bekanntesten Wahrzeichen Karlsruhes und steht als historisches Grabmal unter besonderem Schutz. Die Stadt ist für ihren Erhalt und ihre Pflege verantwortlich. Umso ärgerlicher ist es, wenn das Bauwerk mutwillig beschädigt wird.</p>
-<p>Neben dem Aufwand für die Beseitigung solcher Schäden entstehen der Stadt erhebliche Kosten. Können die Verursacherinnen oder Verursacher nicht ermittelt werden, müssen Reinigung und Instandsetzung aus öffentlichen Mitteln finanziert werden.</p>
+        <title type="html"><![CDATA[Neue Werke installiert]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-werke-installiert</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-werke-installiert"/>
+        <updated>2026-09-17T13:27:20.652Z</updated>
+        <summary type="html"><![CDATA[Im Wettersbacher Skulpturenpark wurden zwei neue Kunstwerke aufgestellt: Eine stilisierte hohe Wasserpumpen-Installation von Pavel Schmidt und ein Stahlkunstwerk von Robert Schad. Beide sind Schenkungen des Vereins KultArt.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
+    <!-- SKIP NAVIGATION -->
+    <!--TYPO3SEARCH_end-->
+    <nav aria-label="Sprunglink zum Footer"> <a href="#footer" title="Footer der Seite anspringen">Footer der Seite anspringen</a> </nav>
+    <!--TYPO3SEARCH_begin-->
+    
+    
 
-                                    </div></div>]]></content>
-        <published>2026-09-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stehen, Sehen, Gehen]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stehen-sehen-gehen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stehen-sehen-gehen"/>
-        <updated>2026-09-16T19:36:25.045Z</updated>
-        <summary type="html"><![CDATA[Im Rahmen der Aktion "Sicherer Schulweg" führen Ordnungsamt und Polizeipräsidium Karlsruhe zwei Wochen lang verstärkt Kontrollen im Umfeld von Grundschulen und weiterführenden Schulen durch.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>„Obacht auf die Schulkinder – vor allem die Schulanfänger“, appellierte Bürgermeister Dr. Albert Käuflein im Rahmen der Aktion „Sicherer Schulweg“ zum Beginn des neuen Schuljahres. Zwei Wochen lang führen Ordnungsamt und Polizeipräsidium Karlsruhe verstärkt Kontrollen im Umfeld von Grundschulen und weiterführenden Schulen durch – so auch an der Nordschule in Neureut.</p>
-<p>Hier üben Zweitklässler heute im Beisein der Polizei, wie man über die Straße geht. „Stehen, Sehen, Gehen“, erinnert Ralf Schäfer von der Polizei (unser Bild) die Kinder. In Zweierreihen positionieren sie sich an der Straße. Eine Fahrradfahrerin nähert sich dem verkehrsberuhigten Bereich und ruft zu: „Ich mach’ schon schnell.“ Sie möchte den Kindern Platz zum Üben machen: Genauso nicht, denn maximal Schrittgeschwindigkeit ist um die Schule herum erlaubt.</p>
-<p>„Dies ist ein Fußweg“, rufen einige Zweitklässler einem anderen Fahrradfahrer zu, der gerade zwischen Kirchfeld- und Kirchhofstraße an der Schule vorbeifährt, dann aber sofort absteigt. Käuflein komprimiert es auf die Formel: „Regeln einhalten und Rücksicht aufeinander nehmen.“</p>
-                                    </div><div>
+
+        
+                <div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
+                        <!-- date -->
+                        <div>
+
+                                <p><time itemprop="datePublished" datetime="2026-09-17">
+                                        gerade eben
+                                    </time>
+                                </p>
+
+                                
+
+                                
+                                
+                                
+                                    <h2>
+                                        Zwei neue Elemente im Skulpturenpark Wettersbach
+                                    </h2>
+                                
+                            </div>
+
+                        <div>
+                                
+                                
+                                        <div>
+                                            
+                                                
+                                                    
+                                                        
+
+
+<img alt="Eine 5,40 Meter hohe Pumpe des Künstlers Pavel Schmidt." title="Pumpe" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/7/3/csm_pumpe-1789647622_82c8cebd21.jpeg">
+
+        
+    
+
+        
+            
+        
+    
+
+                                                    
+                                                    
+                                                    
+                                                
+                                            
+                                        </div>
+                                    
+
+                                
+                                
+                                    <div itemprop="articleBody">
+                                        <p>Im Wettersbacher Skulpturenpark wurden zwei neue Kunstwerke aufgestellt: Eine stilisierte hohe Wasserpumpen-Installation von Pavel Schmidt vereint im Namen internationale Bezeichnungen für Wasser: „Acqua&nbsp;– majm – (mJam) – wasser – l’eau – water – voda (woda) – nero – agua“. „Enfirme für RF“ von Robert Schad befindet sich auf der anderen Seite des Skulpturenparks, am Eingang an der Wiesenstraße.</p>
+<p>Kunst finde hier nicht hinter verschlossenen Türen statt, sondern unter freiem Himmel, eingebettet in die Landschaft, sie sei frei zugänglich, betonte die Wettersbacher Ortsvorsteherin Kerstin Tron bei der Vorstellung der Kunstwerke vor Ort. Sie bedankte sich bei allen Beteiligten vor zahlreichen Gästen. Die Kunstwerke wurden durch den örtlichen Verein KultArt der Stadt Karlsruhe gestiftet. Der öffentliche Raum werde durch Ehrenamt bereichert. Das Engagement sei alles andere alles selbstverständlich – gleichzeitig brauche es Menschen, die sich für Kunst begeistern und bereit sind, Zeit und Energie zu investieren.</p>
+
+                                    </div>
+                                
+
+                                
+                                
+                                    
+                                        <div>
                                             
 
         
@@ -129,7 +103,8 @@
 
 
 
-<img alt="Ein Schulkind und ein Beamter der Polizei üben die sicherer Überquerung einer Straße zwischen parkenden Autos" title="Sicherer Schulweg" src="https://www.karlsruhe.de/fileadmin/_processed_/f/d/csm_sicherer_schulweg-1789551913_74cd3c202a.jpeg">
+<img alt="Skulptur des Stahlbildhauers Robert
+Schadt." title="Schadt" src="https://www.karlsruhe.de/fileadmin/_processed_/f/6/csm_schadt-1789647687_fd8380707d.jpeg">
 
                             
                                 
@@ -148,18 +123,17 @@
 
 
 
-<div id="c209806">
+<div id="c209914">
         
-        <p>90 Prozent der Eltern machten es richtig – aber die anderen zehn Prozent machen Arbeit, so Schulleiterin Birgit Hannig-Waag auch mit Blick auf Eltern-Taxis. Viele meinten es gut, ihr Kind auf dem Weg zur Arbeit an der Schule absetzen zu wollen. Doch der Komfort des einen vermindert die Sicherheit der anderen, weil es morgens teils chaotisch vor der Schule wird.</p>
-<p>Die Eltern sollten mit den Kindern den Schulweg üben, damit diese ihn selbstständig laufen können, appelliert Hannig-Waag bereits beim ersten Elternabend. Nur so lernen die Kinder auch, sich im Verkehr zurechtzufinden.</p>
-<p>Insgesamt 13 Schulwegunfälle zählt die Polizei innerhalb eines Jahres in Karlsruhe – eine gleichbleibende Tendenz im Gegensatz zum steigenden Trend im „Länd“. -has-</p>
+        <p>Dr. Hans Bittighöfer, Vorsitzender von KultArt, erklärt, dass die 5,40 Meter hohe Skulptur von Pavel Schmidt kurzfristig restauriert werden musste, da es eine Woche zuvor verwüstet wurde und in mehrere Teile zerbrach. Der Vandalismus mache ihn „traurig und wütend“. Aufgrund eines guten Zusammenspiels zwischen den Vereinen, dem Bauhof und der Offenen Jugendwerkstatt Wettersbach, die die Skulptur zusammengeschweißt und verstärkt habe, sei innerhalb weniger Tage, passend zur Eröffnung, die Wiederherstellung gelungen – das habe ihn selbst überrascht. Somit sei der Termin ein positives Signal.</p>
+<p>Kunst könne Fragen aufwerfen, ohne sofort Antworten zu liefern, erklärte Tron den Mehrwert des Skulpturenparks. Sie verwies auf ein Zitat des Malers Paul Klee, das passend den Gedanken aufgreife: „Kunst gibt nicht das Sichtbare wieder, sondern macht&nbsp;sichtbar.“ -nke-</p>
     </div>
 
 
 
 
         
-    <div id="c209805">
+    <div id="c209915">
                         <p>Dieser Beitrag gehört zur <strong>StadtZeitung</strong>, die auch in gedruckter Form erscheint. Alle Ausgaben des <a href="http://www.bnn.de/epaper-stadtzeitung" title="Link zur Seite" target="_blank" rel="noreferrer">ePapers</a> sind digital verfügbar.</p>
 
 <p>Mehr zu städtischen Themen und den Aktivitäten der Stadtverwaltung Karlsruhe unter <a href="https://www.karlsruhe.de/stadtzeitung" target="_blank">www.karlsruhe.de/stadtzeitung</a></p>
@@ -171,22 +145,142 @@
 
 
 
-                                        </div></div>]]></content>
+                                        </div>
+                                    
+                                
+
+                                
+                                    
+                                    
+                                        
+    
+
+
+                                    
+                                
+                            </div>
+                    </div>
+            
+    
+
+
+
+</div></div>]]></content>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die Wettersbacher tagen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/die-wettersbacher-tagen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/die-wettersbacher-tagen"/>
+        <updated>2026-09-17T13:27:21.652Z</updated>
+        <summary type="html"><![CDATA[Der Ortschaftsrat Wettersbach kommt unter der Leitung von Ortsvorsteherin Kerstin Tron zu seiner nächsten Sitzung am Dienstag, 22. September, um 19 Uhr, im Bürgersaal Rathaus Grünwettersbach zusammen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Der Ortschaftsrat Wettersbach kommt unter der Leitung von Ortsvorsteherin Kerstin Tron zu seiner nächsten Sitzung am Dienstag, 22. September, um 19 Uhr, im Bürgersaal Rathaus Grünwettersbach zusammen.</p>
+<p>Auf der <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10459" title="Link zur Seite" target="_blank" rel="noreferrer">Tagesordnung</a> der Wettersbacher stehen unter anderem die Verbesserung des Radwegenetzes und die Bekanntgabe von nichtöffentlich gefassten Beschlüssen.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durlacher und Grötzinger tagen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/durlacher-und-groetzinger-tagen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/durlacher-und-groetzinger-tagen"/>
+        <updated>2026-09-17T13:27:22.652Z</updated>
+        <summary type="html"><![CDATA[Am gleichen Tag, aber an unterschiedlichen Orten, kommen die Ortschaftsräte von Durlach und Grötzingen zusammen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Am gleichen Tag, aber an unterschiedlichen Orten, kommen die Ortschaftsräte von Durlach und Grötzingen zusammen. Unter Vorsitz von Ortsvorsteherin Alexandra Ries kommen die Durlacher am Mittwoch, 23. September, um 17 Uhr im Bürgersaal des dortigen Rathauses zusammen. Zwei Stunden später, also um 19 Uhr, treffen sich die Grötzinger Ortschaftsräte unter Vorsitz von Ortsvorsteher Jens Jägle in der Begegnungsstätte Grötzingen.</p>
+<p>Bei den Durlachern geht es laut <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10720" title="Link zur Seite" target="_blank" rel="noreferrer">Tagesordnung</a> unter anderem um einen Wechsel im Rat sowie die Priorisierung von Sanierungsgebieten. Um dieses Thema geht es auch in <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10444" title="Link zur Seite" target="_blank" rel="noreferrer">Grötzingen</a> wie auch unter anderem um die Konzeptvorgabe für den Niddaplatz.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September-Sitzung des Planungsausschusses]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/september-sitzung-des-planungsausschusses</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/september-sitzung-des-planungsausschusses"/>
+        <updated>2026-09-17T13:27:23.652Z</updated>
+        <summary type="html"><![CDATA[Zur nächsten Sitzung trifft sich der Planungsausschuss unter der Leitung von Bürgermeister Daniel Fluhrer am Donnerstag, 24. September, im Bürgersaal des Rathauses am Marktplatz.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Zur nächsten Sitzung trifft sich der Planungsausschuss unter der Leitung von Bürgermeister Daniel Fluhrer am Donnerstag, 24. September, um 16:30 Uhr im Bürgersaal des Rathauses am Marktplatz.</p>
+<p>Auf der <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10572" title="Link zur Seite" target="_blank" rel="noreferrer">Tagesordnung</a> steht der Konzeptbeschluss zum Sanierungsgebiet "Alt-Knielingen Ortskern".</p>
+                                    </div></div>]]></content>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haupt- und Finanzausschuss kommt zusammen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-2abf55e80f003e9a0867bbf87201fdb8</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-2abf55e80f003e9a0867bbf87201fdb8"/>
+        <updated>2026-09-17T13:27:24.652Z</updated>
+        <summary type="html"><![CDATA[Am Dienstag, 22. September, geht es unter anderem um "Karlsruhe 2024" sowie ein dauerhaftes Verbot der Straßenprostitution.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <div><p>Der Haupt- und Finanzausschuss kommt am Dienstag, 22. September 2026, um 16:30 Uhr zu seiner nächsten Sitzung im Bürgersaal des Rathauses am Marktplatz zusammen.</p><p> &nbsp; Das <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10570" title="Link zur Seite" target="_blank" rel="noreferrer">Gremium</a> erhält einen Sachstandsbericht zum Integrierten Stadtentwicklungskonzept "Karlsruhe 2040" und diskutiert über die Anschlussregelung für ein dauerhaftes Verbot der Straßenprostitution.</p></div>
+<p>Darüber hinaus beraten die Stadträtinnen und Stadträte über die Rahmenvereinbarung über Lieferungen von Tintenpatronen und Toner, die Vergabe von Reinigungsleistungen an mehreren Schulen sowie über die Annahme von Zuwendungen.&nbsp;</p>
+<p>Alle Unterlagen zur Sitzung sind unter <a href="http://sitzungskalender.karlsruhe.de/" title="Link zur Seite" target="_blank" rel="noreferrer">sitzungskalender.karlsruhe.de</a> abrufbar.&nbsp;<br> &nbsp;</p>
+                                    </div></div>]]></content>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berufsfeuerwehr zelebriert 100 Jahre mit Festakt]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufsfeuerwehr-zelebriert-100-jahre-mit-festakt</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufsfeuerwehr-zelebriert-100-jahre-mit-festakt"/>
+        <updated>2026-09-17T13:27:25.652Z</updated>
+        <summary type="html"><![CDATA[Mit einem Festabend im Rathaus ist die Veranstaltungsreihe zum Jubiläum 100 Jahre Berufsfeuerwehr Karlsruhe zu Ende gegangen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Mit einem Festabend im Rathaus ist die Veranstaltungsreihe zum Jubiläum 100 Jahre Berufsfeuerwehr Karlsruhe zu Ende gegangen. Zu diesem Anlass waren Gäste aus der Politik, Vertreterinnen und Vertreter von Feuerwehren aus ganz Baden-Württemberg sowie der lokalen „Blaulichtfamilie“ geladen.</p>
+<p>Erste Bürgermeisterin Bettina Lisbach würdigte in ihrer Rede die Arbeit der Feuerwehr, die sich für die Sicherheit der Bevölkerung einsetzt. Sie dankte den Einsatz- und Rettungskräften für ihre engagierte Arbeit insbesondere während der vergangenen Hitzewelle im Juni und des darauf folgenden Unwetters Mitte Juli.</p>
+<p>In der anschließenden Talk-Runde wurden unterschiedliche Perspektiven der Feuerwehrarbeit beleuchtet. Florian Geldner, Leiter der Karlsruher Branddirektion, Staatssekretär Reiner Moser vom Ministerium des Inneren, für Digitalisierung und Europa Baden-Württemberg, Feuerwehrfrau Catrin Möhn, der ehemalige Wachabteilungsführer Klaus Bohrer sowie Medienkünstler Jonas Denzel, der zum Jubiläum der Berufsfeuerwehr einen Beitrag für die Schlosslichtspiele produziert hat, sprachen über Teamgeist und Herausforderungen.</p>
+<h4>"Bevölkerungsschutz neu denken"</h4>
+<p>„Eine gute Berufsfeuerwehr schafft es, sich an die Welt draußen anzupassen“, sagte Geldner mit Blick auf die sich stetig weiterentwickelnde Technik. Und: „Wir müssen Bevölkerungsschutz neu denken.“ Doch die Menschen, denen die Feuerwehr zur Hilfe komme, seien den Einsatzkräften nicht immer freundlich gesinnt. Zugleich habe die Erwartungshaltung in der Bevölkerung zugenommen, betonte Staatssekretär Moser. „Die Feuerwehr wird als selbstverständlich wahrgenommen.“ Er wünsche sich ein Umdenken in der Gesellschaft, zumal extrem herausfordernde Zeiten angebrochen seien und die gesamte Blaulichtfamilie in den kommenden Jahrzehnten stärker gefordert sein werde. Herausforderungen sieht Geldner vor allem im Bevölkerungsschutz. Und darin, weiterhin geeignetes Personal zu finden. „Wir brauchen engagierte Leute.“ Feuerwehrfrau Möhn rät anderen Frauen „sich einfach zu trauen“, was den Beruf bei der Feuerwehr angeht. Denn, das betonen alle: Die Arbeit mache Spaß, es gebe einen großen Teamgeist und eine gute Gemeinschaft. -gia-</p>
+                                    </div></div>]]></content>
         <published>2026-09-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nazka Rappenwört: Tag der offenen Tür]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nazka-rappenwoert-tag-der-offenen-tuer</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nazka-rappenwoert-tag-der-offenen-tuer"/>
-        <updated>2026-09-15T13:33:30.652Z</updated>
-        <summary type="html"><![CDATA[Das Naturschutzzentrum Karlsruhe-Rappenwört lädt für den Sonntag, 20. September, zum Tag der offenen Tür mit vielen Infos, Spiel und Spaß ein.]]></summary>
+        <title type="html"><![CDATA[Bürgerrathaus Grötzingen am 30. September geschlossen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen"/>
+        <updated>2026-09-17T04:53:49.607Z</updated>
+        <summary type="html"><![CDATA[Die Ortsverwaltung Grötzingen ist wegen einer Schulung für einen Tag zu.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Das Naturschutzzentrum Karlsruhe-Rappenwört lädt für den Sonntag, 20. September, ab 11 Uhr zum Tag der offenen Tür mit vielen Infos, Spiel und Spaß.</p>
-<p>Die Führung „Was macht der Biber auf Rappenwört?“ vom ehrenamtlichen Biberberater Michael Zacherle macht um 11 Uhr den Auftakt zum Tag der offenen Tür des Naturschutzzentrums. Bis 16 Uhr ist im Gebäude die Fotoausstellung „Tarnen &amp; Täuschen zu sehen, die an diesem Tag mit einer Multivisionsschau „Magische Momente der Natur" des Tierfotografen Armin Hofmann ergänzt wird.</p>
-<p>In zwei Märchenstunden um 14 und 15 Uhr können die Zuhörer sich von fantastischen Geschichten verzaubern lassen. Dafür sollte man sich vorab bei Kosten von zwei Euro&nbsp;pro Person unter <a href="#" title="E-Mail senden" data-mailto-token="drzckf1zewfRerqbr5uv" data-mailto-vector="-9">info(at)nazka.de</a>&nbsp;anmelden.</p>
-<p>Zum weiteren Angebot gehören: Am Hochwasser-Experimentierfeld werden Boote und Floße gebastelt und schwimmen gelassen. Der BUND informiert über die Wildkatze und ihre Gefährdung, hat Spiele, Mitmachaktionen, Riechproben und Puzzles in seinem Wildkatzenrucksack dabei. UPCYCLING for FUTURE: Am Stand der NABU-Gruppe Karlsruhe werden aus T-Shirts Taschen hergestellt. Der Nationalpark Schwarzwald ist mit einer Mitmachstation und Pilz-Bingo vor Ort.</p>
-<p>Das vollständige Programm ist auf <a href="https://nazka.de/veranstaltungskalender/-/kalender/event/77636" title="Link zur Seite" target="_blank" rel="noreferrer">nazka.de</a> zu finden.</p>
+                                        <p>Das Bürgerrathaus Grötzingen ist aufgrund einer Schulung am Mittwoch, 30. September, geschlossen. Von der Schließung betroffen sind das Bürgerbüro, der Infopoint, das Standesamt sowie die Friedhofsverwaltung.</p>
+<p>Die Ortsverwaltung bittet ihre Bürgerinnen und Bürger, diesen Schließtag insbesondere bei der Planung von dringenden pass-, melde- und standesamtlichen Angelegenheiten einzuplanen.</p>
+<p>Ab dem Donnerstag, 1. Oktober, stehen alle Servicestellen wieder zu den gewohnten Öffnungszeiten zur Verfügung.</p>
                                     </div></div>]]></content>
-        <published>2026-09-15T00:00:00.000Z</published>
+        <published>2026-09-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCHRITTE-CHALLENGE im Oktober]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schritte-challenge-im-oktober-1</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schritte-challenge-im-oktober-1"/>
+        <updated>2026-09-16T19:36:21.045Z</updated>
+        <summary type="html"><![CDATA[#allesgeht in Karlsruhe – Gehen Sie mit. Start der Mitmachaktion in Karlsruhe zum 1. Oktober.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Zufußgehen macht Spaß und ist gesund. Gleichzeitig bereichert es das Leben der Menschen in ihrer Kommune, indem es das Miteinander fördert und Ortszentren und den öffentlichen Raum lebendiger macht.</p>
+<p>Karlsruhe feiert mit der Mitmach-Aktion #allesgeht das Zufußgehen. Die Aktion ist ein Angebot der Arbeitsgemeinschaft Fahrrad- und Fußverkehrsfreundlicher Kommunen in Baden-Württemberg (AGFK-BW) und findet zeitgleich im Oktober 2026 in vielen Kommunen in Baden-Württemberg statt.</p>
+<p>Die Stadtverwaltung selbst hat bereits mehrere eigene Teams erstellt. Denn auch für Unternehmen ist der Wettbewerb eine gute Möglichkeit, für eine aktive Mobilität zur Arbeit, bei Dienstgängen, in der Mittagspause oder in der Freizeit zu werben.</p>
+<p>Die Registrierung für die <a href="https://www.karlsruhe.de/fileadmin/user_upload/Themenmeldung/Plakat_Schritte_Challenge_Karlsruhe_2026.pdf" title="Download" target="_blank" download="Plakat_Schritte_Challenge_Karlsruhe_2026.pdf">SCHRITTE-CHALLENGE<span> 1,02 MB (PDF)</span></a> ist bereits seit September unter <a href="http://www.allesgeht-bw.de/" title="Link zur Seite" target="_new" rel="noreferrer">allesgeht-bw.de</a> möglich.</p>
+<h4>Was ist die Schritte-Challenge?</h4>
+<p>Bei diesem Wettbewerb können Karlsruherinnen und Karlsruher, und alle die in Karlsruhe zu Fuß unterwegs sind, in eigenen Teams ihre Schritte zählen und dabei im freundlichen Wettstreit gegen andere Teams innerhalb der Stadt und gegen weitere Städte in ganz Baden-Württemberg antreten. Auch Schritte, die außerhalb des Karlsruher Stadtgebiets zurückgelegt werden, fließen mit ein.</p>
+<p>Ein Team muss aus mindestens drei Personen bestehen, damit die Schritte gewertet werden können. In Karlsruhe haben alle Teilnehmenden eine Gewinnchance über eine Verlosung, zudem werden am Ende des Wettbewerbes die Teams mit den meisten Schritten prämiert.</p>
+<h4>Wie funktioniert die Schritte-Challenge?</h4>
+<p>Im Zeitraum vom Donnerstag, 1., bis zum Samstag, 31. Oktober 2026, werden alle zurückgelegten Schritte gesammelt. Egal, ob beim Spaziergang, einer Wanderung oder beim Joggen. Erfasst werden die Schritte über die App von „Teamfit“. Über die App gibt es auch weitere Informationen zur Aktion und die Möglichkeit zur Kommunikation mit anderen Teilnehmenden.</p>
+<h4>Wie funktioniert die Anmeldung?</h4>
+<p>Die Anmeldung erfolgt direkt in der App „Teamfit“ oder über den Browser am PC. Dort kann man ein eigenes Team erstellen oder bestehenden Teams beitreten.</p>
+<p>Dieses Jahr können zum ersten Mal auch Unterteams gegründet werden, die den Wettkampf innerhalb eines Unternehmens / Vereins fördern.</p>
+<p>Die Anmeldung zur Schritte-Challenge sowie die Erstellung der Teams ist bereits seit September möglich. Weitere Infos und den Link zur App: <a href="http://allesgeht-bw.de/" title="Link zur Seite" target="_blank" rel="noreferrer">allesgeht-bw.de</a>.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Karlsruhe spielt!": spielen, toben, zusammen sein]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein"/>
+        <updated>2026-09-17T04:53:50.607Z</updated>
+        <summary type="html"><![CDATA[An rund vierzig Standorten – verteilt über die ganze Stadt – heißt es endlich wieder: "Karlsruhe spielt!".]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Auch in diesem Jahr ist es zwischen Dienstag, 22., und Samstag, 26. September, wieder so weit: An rund vierzig Standorten – verteilt über die ganze Stadt – heißt es endlich wieder: „Karlsruhe spielt!“.</p>
+<p>Gemeinsam mit vielen ehrenamtlich Engagierten lädt das städtische Kinderbüro die Karlsruher Kinder, ihre Familien und alle, die Lust haben dabei zu sein, zum gemeinsamen Spielen, Lachen und Spaß haben ein.<br> Rund um den Weltkindertag setzt „Karlsruhe spielt!“ auf eigens dafür gesperrten Straßen und Plätzen ein sichtbares Zeichen für Kinder und macht ihre Rechte erlebbar.</p>
+<h4>Gemeinschaft für Jung und Alt</h4>
+<p>Die vergangenen Jahre haben gezeigt: „Karlsruhe spielt!“ ist nicht nur eine Aktion für die Jüngsten. Gemeinsames Spielen bringt alle Menschen im Stadtteil zusammen. Eine Partie Schach, Gummitwist oder Ballspiele machen Jung und Alt Spaß und bringen Menschen zusammen.</p>
+<p>Das städtische Kinderbüro freut sich über zahlreiche Besucherinnen und Besucher der kostenfreien Aktion. Weitere Informationen und alle Standorte finden sich unter: <a href="http://www.karlsruhe.de/ka_spielt" title="Link zur Seite" target="_blank">karlsruhe.de/ka_spielt</a>. Hier werden auch kurzfristige Änderungen bekannt gegeben.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-16T00:00:00.000Z</published>
     </entry>
 </feed>
