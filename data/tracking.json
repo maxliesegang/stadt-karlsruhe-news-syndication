@@ -2013,7 +2013,7 @@
   },
   "9c56f393778d4339c942e2bbf1c11b6f": {
     "contentHash": "080ffc89d52d2b89350cd6006455f3bf",
-    "lastSeen": "2026-09-16T19:36:20.045Z",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
     "lastModified": "2026-09-15T13:33:30.652Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nazka-rappenwoert-tag-der-offenen-tuer"
   },
@@ -2025,7 +2025,7 @@
   },
   "c27e4fd82c20be3b5fdb9ac9cb2e7d69": {
     "contentHash": "c8f1583039ed10b552d1dce6913ef2f7",
-    "lastSeen": "2026-09-16T19:36:20.045Z",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
     "lastModified": "2026-09-16T19:36:20.045Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufsfeuerwehr-zelebriert-100-jahre-mit-festakt"
   },
@@ -2037,26 +2037,38 @@
   },
   "270dba83f2aa699d1e4113c2abbfece0": {
     "contentHash": "abe324ff3401e4222913d37009c277a4",
-    "lastSeen": "2026-09-16T19:36:20.045Z",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
     "lastModified": "2026-09-16T19:36:22.045Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zum-welt-alzheimertag-dokumentarfilm-human-forever"
   },
   "4d319f8b79e89afc6da4684c446ae6d2": {
     "contentHash": "fce6f19855eb251cd3b79cad95f47d9d",
-    "lastSeen": "2026-09-16T19:36:20.045Z",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
     "lastModified": "2026-09-16T19:36:23.045Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/verlaengerung-der-sonderausstellung-vortrag-und-fuehrungen-im-pfinzgaumuseum"
   },
   "6192f25124be702a25db32705156ac4a": {
     "contentHash": "3233330bc2623c51d01e8f7f99209a20",
-    "lastSeen": "2026-09-16T19:36:20.045Z",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
     "lastModified": "2026-09-16T19:36:24.045Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/pyramide-am-marktplatz-mit-farbe-besprueht"
   },
   "e193f2f6d57a54157b1a68443f77e2c5": {
     "contentHash": "de17891de236ed3a67af2658106cf93b",
-    "lastSeen": "2026-09-16T19:36:20.045Z",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
     "lastModified": "2026-09-16T19:36:25.045Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stehen-sehen-gehen"
+  },
+  "03ae0aa9d47f9f1da98e0734742964bc": {
+    "contentHash": "75de22dacfd29c78f1d4702932f87095",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
+    "lastModified": "2026-09-17T04:53:49.607Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen"
+  },
+  "91675294af37e95cd27b60c41aeb2a99": {
+    "contentHash": "aefaf384cf20488be91b4a553e4c5fc4",
+    "lastSeen": "2026-09-17T04:53:49.607Z",
+    "lastModified": "2026-09-17T04:53:50.607Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein"
   }
 }

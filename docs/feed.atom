@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-16T19:36:25.045Z</updated>
+    <updated>2026-09-17T04:53:50.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -27,25 +27,30 @@
         <published>2026-09-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SCHRITTE-CHALLENGE im Oktober]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schritte-challenge-im-oktober-1</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schritte-challenge-im-oktober-1"/>
-        <updated>2026-09-16T19:36:21.045Z</updated>
-        <summary type="html"><![CDATA[#allesgeht in Karlsruhe – Gehen Sie mit. Start der Mitmachaktion in Karlsruhe zum 1. Oktober.]]></summary>
+        <title type="html"><![CDATA[Bürgerrathaus Grötzingen am 30. September geschlossen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/buergerrathaus-groetzingen-am-30-september-geschlossen"/>
+        <updated>2026-09-17T04:53:49.607Z</updated>
+        <summary type="html"><![CDATA[Die Ortsverwaltung Grötzingen ist wegen einer Schulung für einen Tag zu.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Zufußgehen macht Spaß und ist gesund. Gleichzeitig bereichert es das Leben der Menschen in ihrer Kommune, indem es das Miteinander fördert und Ortszentren und den öffentlichen Raum lebendiger macht.</p>
-<p>Karlsruhe feiert mit der Mitmach-Aktion #allesgeht das Zufußgehen. Die Aktion ist ein Angebot der Arbeitsgemeinschaft Fahrrad- und Fußverkehrsfreundlicher Kommunen in Baden-Württemberg (AGFK-BW) und findet zeitgleich im Oktober 2026 in vielen Kommunen in Baden-Württemberg statt.</p>
-<p>Die Stadtverwaltung selbst hat bereits mehrere eigene Teams erstellt. Denn auch für Unternehmen ist der Wettbewerb eine gute Möglichkeit, für eine aktive Mobilität zur Arbeit, bei Dienstgängen, in der Mittagspause oder in der Freizeit zu werben.</p>
-<p>Die Registrierung für die <a href="https://www.karlsruhe.de/fileadmin/user_upload/Themenmeldung/Plakat_Schritte_Challenge_Karlsruhe_2026.pdf" title="Download" target="_blank" download="Plakat_Schritte_Challenge_Karlsruhe_2026.pdf">SCHRITTE-CHALLENGE<span> 1,02 MB (PDF)</span></a> ist bereits seit September unter <a href="http://www.allesgeht-bw.de/" title="Link zur Seite" target="_new" rel="noreferrer">allesgeht-bw.de</a> möglich.</p>
-<h4>Was ist die Schritte-Challenge?</h4>
-<p>Bei diesem Wettbewerb können Karlsruherinnen und Karlsruher, und alle die in Karlsruhe zu Fuß unterwegs sind, in eigenen Teams ihre Schritte zählen und dabei im freundlichen Wettstreit gegen andere Teams innerhalb der Stadt und gegen weitere Städte in ganz Baden-Württemberg antreten. Auch Schritte, die außerhalb des Karlsruher Stadtgebiets zurückgelegt werden, fließen mit ein.</p>
-<p>Ein Team muss aus mindestens drei Personen bestehen, damit die Schritte gewertet werden können. In Karlsruhe haben alle Teilnehmenden eine Gewinnchance über eine Verlosung, zudem werden am Ende des Wettbewerbes die Teams mit den meisten Schritten prämiert.</p>
-<h4>Wie funktioniert die Schritte-Challenge?</h4>
-<p>Im Zeitraum vom Donnerstag, 1., bis zum Samstag, 31. Oktober 2026, werden alle zurückgelegten Schritte gesammelt. Egal, ob beim Spaziergang, einer Wanderung oder beim Joggen. Erfasst werden die Schritte über die App von „Teamfit“. Über die App gibt es auch weitere Informationen zur Aktion und die Möglichkeit zur Kommunikation mit anderen Teilnehmenden.</p>
-<h4>Wie funktioniert die Anmeldung?</h4>
-<p>Die Anmeldung erfolgt direkt in der App „Teamfit“ oder über den Browser am PC. Dort kann man ein eigenes Team erstellen oder bestehenden Teams beitreten.</p>
-<p>Dieses Jahr können zum ersten Mal auch Unterteams gegründet werden, die den Wettkampf innerhalb eines Unternehmens / Vereins fördern.</p>
-<p>Die Anmeldung zur Schritte-Challenge sowie die Erstellung der Teams ist bereits seit September möglich. Weitere Infos und den Link zur App: <a href="http://allesgeht-bw.de/" title="Link zur Seite" target="_blank" rel="noreferrer">allesgeht-bw.de</a>.</p>
+                                        <p>Das Bürgerrathaus Grötzingen ist aufgrund einer Schulung am Mittwoch, 30. September, geschlossen. Von der Schließung betroffen sind das Bürgerbüro, der Infopoint, das Standesamt sowie die Friedhofsverwaltung.</p>
+<p>Die Ortsverwaltung bittet ihre Bürgerinnen und Bürger, diesen Schließtag insbesondere bei der Planung von dringenden pass-, melde- und standesamtlichen Angelegenheiten einzuplanen.</p>
+<p>Ab dem Donnerstag, 1. Oktober, stehen alle Servicestellen wieder zu den gewohnten Öffnungszeiten zur Verfügung.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Karlsruhe spielt!": spielen, toben, zusammen sein]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-spielt-spielen-toben-zusammen-sein"/>
+        <updated>2026-09-17T04:53:50.607Z</updated>
+        <summary type="html"><![CDATA[An rund vierzig Standorten – verteilt über die ganze Stadt – heißt es endlich wieder: "Karlsruhe spielt!".]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Auch in diesem Jahr ist es zwischen Dienstag, 22., und Samstag, 26. September, wieder so weit: An rund vierzig Standorten – verteilt über die ganze Stadt – heißt es endlich wieder: „Karlsruhe spielt!“.</p>
+<p>Gemeinsam mit vielen ehrenamtlich Engagierten lädt das städtische Kinderbüro die Karlsruher Kinder, ihre Familien und alle, die Lust haben dabei zu sein, zum gemeinsamen Spielen, Lachen und Spaß haben ein.<br> Rund um den Weltkindertag setzt „Karlsruhe spielt!“ auf eigens dafür gesperrten Straßen und Plätzen ein sichtbares Zeichen für Kinder und macht ihre Rechte erlebbar.</p>
+<h4>Gemeinschaft für Jung und Alt</h4>
+<p>Die vergangenen Jahre haben gezeigt: „Karlsruhe spielt!“ ist nicht nur eine Aktion für die Jüngsten. Gemeinsames Spielen bringt alle Menschen im Stadtteil zusammen. Eine Partie Schach, Gummitwist oder Ballspiele machen Jung und Alt Spaß und bringen Menschen zusammen.</p>
+<p>Das städtische Kinderbüro freut sich über zahlreiche Besucherinnen und Besucher der kostenfreien Aktion. Weitere Informationen und alle Standorte finden sich unter: <a href="http://www.karlsruhe.de/ka_spielt" title="Link zur Seite" target="_blank">karlsruhe.de/ka_spielt</a>. Hier werden auch kurzfristige Änderungen bekannt gegeben.</p>
                                     </div></div>]]></content>
         <published>2026-09-16T00:00:00.000Z</published>
     </entry>
