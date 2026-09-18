@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-17T22:51:28.751Z</updated>
+    <updated>2026-09-18T04:43:26.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -75,7 +75,7 @@
         <title type="html"><![CDATA[Neue Werke installiert]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-werke-installiert</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neue-werke-installiert"/>
-        <updated>2026-09-17T22:51:28.751Z</updated>
+        <updated>2026-09-18T04:43:26.584Z</updated>
         <summary type="html"><![CDATA[Im Wettersbacher Skulpturenpark wurden zwei neue Kunstwerke aufgestellt: Eine stilisierte hohe Wasserpumpen-Installation von Pavel Schmidt und ein Stahlkunstwerk von Robert Schad. Beide sind Schenkungen des Vereins KultArt.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -92,7 +92,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-09-17">
-                                        vor 10 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
