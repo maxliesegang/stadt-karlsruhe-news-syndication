@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-21T15:06:45.362Z</updated>
+    <updated>2026-09-22T13:24:57.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,33 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Vielseitiger Garten zwischen Durlach und Stupferich lädt ein]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vielseitiger-garten-zwischen-durlach-und-stupferich-laedt-ein</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vielseitiger-garten-zwischen-durlach-und-stupferich-laedt-ein"/>
+        <updated>2026-09-22T13:24:56.761Z</updated>
+        <summary type="html"><![CDATA[Am Scheitelpunkt zwischen Durlach und Stupferich befindet der letzte Garten der diesjährigen Ausgabe der "Offenen Pforte". Er kann am 27. September von 13 bis 17 Uhr besichtigt werden.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Am Scheitelpunkt zwischen Durlach und Stupferich befindet sich ein etwa 1.200 Quadratmeter große Anwesen, das am kommenden <strong>Sonntag, 27. September</strong>, von <strong>13 bis 17 Uhr</strong> seine Gartenpforte öffnet. Es ist die letzte grüne Oase, die im Rahmen der diesjährigen "Offenen Pforte" die interessierte Öffentlichkeit zu Besuchen einlädt.</p>
+<p>Der hausnahe, mit einer Hainbuchenhecke eingefriedete Garten im <a href="https://kalender.karlsruhe.de/db/termine/stadtleben/offene_pforte_der_weitsichtige-1" title="Link zur Seite" target="_blank" rel="noreferrer">Stupfericher Weg 13</a> bietet viele Sitzgelegenheiten. Von der anschließenden Terrasse, die den Wohnbereich mit dem Garten verbindet, erhält man einen wunderbaren Ausblick auf die Landschaft.</p>
+<h3>Anmeldung für 2027</h3>
+<p>Wer Lust bekommen hat, seinen eigenen Garten bei der "Offenen Pforte" im nächsten Jahr zu präsentieren, kann sich beim Gartenbauamt der Stadt Karlsruhe unter <a href="https://www.karlsruhe.de/umwelt-klima/stadtgruen-wald/gebaeudebezogenes-gruen/offene-pforte#" title="E-Mail senden" target="_blank" data-mailto-token="drzckf1fwwvevgwfikvRxsr5bricjilyv5uv" data-mailto-vector="-9">offenepforte[at]gba.karlsruhe.de</a>&nbsp;melden.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japangarten: Wissenswertes vom Experten]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/japangarten-wissenswertes-vom-experten</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/japangarten-wissenswertes-vom-experten"/>
+        <updated>2026-09-22T13:24:57.761Z</updated>
+        <summary type="html"><![CDATA[Das Gartenbauamt lädt am kommenden Sonntag, 27. September 2026, zu einer Führung durch den Japangarten im Zoologischen Stadtgarten Karlsruhe ein.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Das Gartenbauamt lädt am kommenden Sonntag, 27. September 2026, zu einer Führung durch den Japangarten im Zoologischen Stadtgarten Karlsruhe ein. Treffpunkt ist um 10:30 Uhr beim Eingang Nord (Kongress). Die Führung selbst ist kostenfrei, es ist jedoch eine Eintrittskarte erforderlich. Eine vorherige Anmeldung ist nicht notwendig.</p>
+<p>Der Japangarten zählt zu den ältesten Anlagen dieser Art in Deutschland. Seine ereignisreiche Entwicklungsgeschichte wird anhand verschiedener original japanischer Ausstattungselemente im Garten beleuchtet. Eine weitere Besonderheit ist der alte und vielfältige japanische Gehölzbestand, der vielfach auf Gastgeschenke japanischer Besucherdelegationen an die Stadt Karlsruhe zurückgeht.</p>
+<p>Horst Schmidt leitet die Führung. Als ehemaliger Gartenbauamtsdirektor und Autor des 2014 erschienenen Buchs „Der Japangarten in Karlsruhe“ kann er allerhand spannende Geschichten rund um dieses besondere Kleinod erzählen.</p>
+                                    </div></div>]]></content>
+        <published>2026-09-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kommunaler Fachaustausch: Delegation aus Südafrika zu Gast in Karlsruhe]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kommunaler-fachaustausch-delegation-aus-suedafrika-zu-gast-in-karlsruhe</id>
@@ -125,36 +152,5 @@
                     <p><strong>Termin:</strong> Dienstag, 29. September 2026, 18 Uhr<br> <strong>Treffpunkt:</strong> Grünfläche vor der Christuskirche, Kaiserallee, auf der Fläche des zukünftigen PikoParks<br> <strong>Bei schlechtem Wetter:</strong> Großer Saal des Albert-Schweitzer-Komplexes</p>
                 </div></div>]]></content>
         <published>2026-09-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obacht auf die Schulkinder]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/obacht-auf-die-schulkinder</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/obacht-auf-die-schulkinder"/>
-        <updated>2026-09-17T19:44:00.860Z</updated>
-        <summary type="html"><![CDATA[Im Beisein der Polizei üben Zweitklässler, wie man über die Straße geht. Dabei stellen Elterntaxis im Bereich der Schulen ein Problem für die Verkehrssicherheit dar.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>„Obacht auf die Schulkinder – vor allem die Schulanfänger“, appellierte Bürgermeister Dr. Albert Käuflein im Rahmen der Aktion „Sicherer Schulweg“ zum Beginn des neuen Schuljahres. Zwei Wochen lang führen&nbsp; Ordnungsamt und Polizeipräsidium Karlsruhe verstärkt Kontrollen im Umfeld von Grundschulen und weiterführenden Schulen durch – so auch an der Nordschule in Neureut.</p>
-<p>Hier üben Zweitklässler im Beisein der Polizei, wie man über die Straße geht. „Stehen, Sehen, Gehen“, erinnert Ralf Schäfer von der Polizei die Kinder. In Zweierreihen positionieren sie sich an der Straße. Eine Fahrradfahrerin nähert sich dem verkehrsberuhigten Bereich und ruft zu: „Ich mach’ schon schnell.“ Sie möchte den Kindern Platz zum Üben machen: Genauso nicht, denn maximal Schrittgeschwindigkeit ist um die Schule herum erlaubt</p>
-<p>„Dies ist ein Fußweg“, rufen einige Zweitklässler einem anderen Fahrradfahrer zu, der gerade zwischen Kirchfeld- und Kirchhofstraße an der Schule vorbeifährt, dann aber sofort absteigt. Käuflein komprimiert es auf die Formel: „Regeln einhalten und Rücksicht aufeinander nehmen.“</p>
-<p>90 Prozent der Eltern machten es richtig – aber die anderen zehn Prozent machen Arbeit, so Schulleiterin Birgit Hannig-Waag auch mit Blick auf Elterntaxis. Viele meinten es gut, ihr Kind auf dem Weg zur Arbeit an der Schule absetzen zu wollen. Doch der Komfort des einen, vermindert die Sicherheit der anderen, weil es morgens teils chaotisch vor der Schule wird. Die Eltern sollten mit den Kindern den Schulweg üben, damit sie diesen selbstständig laufen können, appelliert Hannig-Waag bereits beim ersten Elternabend.</p>
-<p>Nur so lernten die Kinder auch, sich im&nbsp;Verkehr zurecht zu finden. Insgesamt 13 Schulwegunfälle zählt die Polizei innerhalb eines Jahres in Karlsruhe, gleichbleibende Tendenz, die im Gegensatz zum steigenden Trend im „Länd“ steht. -has-</p>
-                                    </div></div>]]></content>
-        <published>2026-09-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reformer und Wirtschaftsförderer]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/reformer-und-wirtschaftsfoerderer</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/reformer-und-wirtschaftsfoerderer"/>
-        <updated>2026-09-17T19:44:01.860Z</updated>
-        <summary type="html"><![CDATA[Der badische Großherzog Friedrich I. ließ unter anderem eine Reihe von Gesetzesvorhaben auf den Weg bringen, die Badens Ruf als „Musterländle“ begründeten.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Es ist vor allem ein Ereignis, das Großherzig Friedrich I. von Baden im kollektiven Gedächtnis der Deutschen verankert: Bei der Kaiserproklamation am 18. Januar 1871 im Spiegelsaal von Versailles brachte der badische Monarch das erste Hoch auf Kaiser Wilhelm I. aus – und löste damit ganz nebenbei eine kleine diplomatische Krise.</p>
-<p>Denn im Vorfeld des Ereignisses wurde diskutiert, ob Wilhelm nun als „Kaiser von&nbsp; Deutschland“ oder „Deutscher Kaiser“ tituliert werden solle.&nbsp;Am Ende wurde es weder noch, denn Friedrich ließ kurzerhand „seine Majestät Kaiser Wilhelm“ hochleben.</p>
-<p>Die Nähe des vor 200 Jahren am 9. September 1826 geborenen badischen Großherzogs zum preußischen Monarchen – wie sie der Maler Anton von Werner in seinem berühmten Gemälde von der Kaiserproklamation (unser Bild) verewigte – dabei kein Zufall. Friedrich hatte 1856 Luise, die Tochter des Preußenkönigs, geheiratet und damit große Vorbehalte in Baden ausgelöst. Nur sieben Jahre zuvor hatte Wilhelm als Oberbefehlshaber der preußischen Truppen die badische Revolution von 1849 blutig niedergeschlagen.</p>
-<p>In die Zeit nach der Revolution fiel Friedrichs Amtsantritt, der 1852 zunächst Regent für seinen unheilbar geisteskranken älteren Bruder Ludwig und 1856 formell Großherzog wurde. Trotz der großen Herausforderungen gelang es ihm, das Ansehen der Untertanen zu gewinnen, so dass „seine Regierungszeit für Baden praktisch als ‚die gute alte Zeit‘ angesehen werden konnte“, wie der Historiker Michael Kitzing urteilt. Verantwortlich dafür war in erster Linie die liberale Grundeinstellung Friedrichs als Vertreter einer konstitutionellen Monarchie. Vor allem in der „Neuen Ära“ der 1860er Jahre ließ er eine Reihe von Gesetzesvorhaben auf den Weg bringen, die Badens Ruf als „Musterländle“ begründeten.</p>
-<p>Dazu zählten umfassende Reformen im Bereich der Justiz und der&nbsp;Verwaltung sowie – gegen den Widerstand der katholischen Kirche – die klare Unterstellung des Schulwesens unter staatliche Kontrolle. Gleichzeitig förderte Friedrich den wirtschaftlichen Aufschwung des Großherzogtums, etwa durch Einführung der Gewerbefreiheit und durch Anlage zahlreicher Eisenbahnlinien. Auch Wissenschaft und Kultur lagen dem Monarchen, der selbst Geschichtsund Staatswissenschaft studiert hatte, am Herzen. Sichtbar wird dies unter anderem im Namen der Karlsruher Technischen Hochschule (heute KIT), die sich ihm zu Ehren seit 1902 „Fridericiana“ nennt, ebenso wie im während seiner Regentschaft eingeweihten Naturkundemuseum am Friedrichsplatz.</p>
-<p>Unter großer Anteilnahme der Bevölkerung starb Friedrich im Alter von 81 Jahren am 28. September 1907 auf der Insel&nbsp;Mainau. -eck-&nbsp;</p>
-                                    </div></div>]]></content>
-        <published>2026-09-17T00:00:00.000Z</published>
     </entry>
 </feed>
