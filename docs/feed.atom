@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-23T13:38:41.755Z</updated>
+    <updated>2026-09-23T19:41:33.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -31,7 +31,7 @@
         <title type="html"><![CDATA[Stadtamt Durlach am 30. September 2026 ganztägig geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadtamt-durlach-am-30-september-2026-ganztaegig-geschlossen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadtamt-durlach-am-30-september-2026-ganztaegig-geschlossen"/>
-        <updated>2026-09-23T13:38:41.755Z</updated>
+        <updated>2026-09-23T19:41:33.500Z</updated>
         <summary type="html"><![CDATA[Das Stadtamt Durlach bleibt am 30. September 2026 aus betrieblichen Gründen geschlossen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -48,7 +48,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-09-23">
-                                        vor 3 Stunden
+                                        vor 10 Stunden
                                     </time>
                                 </p>
 
