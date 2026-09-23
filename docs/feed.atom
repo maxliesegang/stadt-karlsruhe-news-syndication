@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-22T13:24:57.761Z</updated>
+    <updated>2026-09-23T13:38:41.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,110 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Glückwünsche für art-Karlsruhe-Gründer Schrade]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-mentrup-gratuliert-art-karlsruhe-gruender</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ob-mentrup-gratuliert-art-karlsruhe-gruender"/>
+        <updated>2026-09-23T13:38:40.755Z</updated>
+        <summary type="html"><![CDATA[Karlsruhes Oberbürgermeister Dr. Frank Mentrup gratuliert art-Karlsruhe-Gründer Ewald Karl Schrade zu seinem 85. Geburtstag.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Karlsruhes Oberbürgermeister Dr. Frank Mentrup gratuliert art-Karlsruhe-Gründer Ewald Karl Schrade zu seinem 85. Geburtstag.</p>
+<p>Das Stadtoberhaupt schreibt: "Als Gründer und prägende Kraft der art&nbsp;Karlsruhe haben Sie die Messe mit Weitblick zu einer Veranstaltung mit unverwechselbarem Profil entwickelt, die klassische Moderne und frische Gegenwartskunst auf einzigartige Weise verbindet." und fährt fort: "Auch nach Ihrem Rückzug aus dem operativen Geschäft widmen Sie sich mit ungebrochener Leidenschaft Ihrer Galerie auf Schloss Mochental".</p>
+<p>Mentrup erinnert ebenfalls daran, dass Schrade für sein "außergewöhnliches Lebenswerk [ ... ] unter anderem mit dem Verdienstorden des Landes Baden-Württemberg" ausgezeichnet wurde.</p>
+<p>Der Oberbürgermeister wünscht ihm schließlich "weiterhin viel Glück und Erfolg" für sein künstlerisches Schaffen.</p>
+
+                                    </div></div>]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadtamt Durlach am 30. September 2026 ganztägig geschlossen]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadtamt-durlach-am-30-september-2026-ganztaegig-geschlossen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadtamt-durlach-am-30-september-2026-ganztaegig-geschlossen"/>
+        <updated>2026-09-23T13:38:41.755Z</updated>
+        <summary type="html"><![CDATA[Das Stadtamt Durlach bleibt am 30. September 2026 aus betrieblichen Gründen geschlossen.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
+    <!-- SKIP NAVIGATION -->
+    <!--TYPO3SEARCH_end-->
+    <nav aria-label="Sprunglink zum Footer"> <a href="#footer" title="Footer der Seite anspringen">Footer der Seite anspringen</a> </nav>
+    <!--TYPO3SEARCH_begin-->
+    
+    
+
+
+        
+                <div itemscope="itemscope" itemtype="http://schema.org/Article" id="c25115">
+                        <!-- date -->
+                        <div>
+
+                                <p><time itemprop="datePublished" datetime="2026-09-23">
+                                        vor 3 Stunden
+                                    </time>
+                                </p>
+
+                                
+
+                                
+                                
+                                
+                            </div>
+
+                        <div>
+                                
+                                
+                                        <div>
+                                            
+                                                
+                                                    
+                                                        
+
+
+<img alt="Blick auf das Rathaus in Durlach" title="Rathaus Durlach" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/9/9/csm_rathaus_durlach-1790141069_aa410ba410.jpeg">
+
+        
+    
+
+        
+            
+        
+    
+
+                                                    
+                                                    
+                                                    
+                                                
+                                            
+                                        </div>
+                                    
+
+                                
+                                
+                                    <p>Das Stadtamt Durlach bleibt am Mittwoch, 30. September 2026, aus betrieblichen Gründen geschlossen. Das Ordnungs- und Bürgeramt Karlsruhe sowie die Bürgerbüros der Ortsverwaltungen sind an diesem Tag zu den regulären Öffnungszeiten für Sie erreichbar. Auch die Behördennummer <a href="tel:115" title="Telefonnummer anrufen">115</a> steht wie gewohnt zur Verfügung.</p>
+                                
+
+                                
+                                
+                                    
+                                
+
+                                
+                                    
+                                    
+                                        
+    
+
+
+                                    
+                                
+                            </div>
+                    </div>
+            
+    
+
+
+
+</div></div>]]></content>
+        <published>2026-09-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vielseitiger Garten zwischen Durlach und Stupferich lädt ein]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vielseitiger-garten-zwischen-durlach-und-stupferich-laedt-ein</id>
@@ -117,40 +221,6 @@
 
 
                                     </div></div>]]></content>
-        <published>2026-09-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Kinderbüro ON AIR" mit neuem Programm]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kinderbuero-on-air-mit-neuem-programm-im-herbst-winter-2026-2027</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kinderbuero-on-air-mit-neuem-programm-im-herbst-winter-2026-2027"/>
-        <updated>2026-09-18T12:58:51.055Z</updated>
-        <summary type="html"><![CDATA[Das Karlsruher Kinderbüro informiert mit Online-Veranstaltungen zu Themen aus Kindererziehung, Familienleben und Jugendschutz.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Das Format „Kinderbüro ON AIR“ des Kinderbüros der Stadt startet ab Oktober 2026 wieder mit neuen Angeboten.&nbsp;Die regelmäßigen Online-Veranstaltungen informieren zu Themen aus Kindererziehung, Familienleben und Jugendschutz. Das Angebot ist kostenfrei und richtet sich an Eltern und Familien, sowie an Fachkräfte, Ehrenamtliche und andere Interessierte.</p>
-<p>Im Herbst/Winter 2026/2027 werden folgende Themen angeboten:</p><ul> 	<li><strong>06.10.2026:</strong> Gesunde Kinderzähne …&nbsp; gelingende Zahnpflege mit Babys und Kleinkindern</li> 	<li><strong>03.11.2026:</strong> Sicher vernetzt, gemeinsam geschützt: Kinderschutz im digitalen Vereinsalltag gestalten</li> 	<li><strong>10.11.2026:</strong> Mein Kind ist krank – wann muss ich zum Kinderarzt?</li> 	<li><strong>03.12.2026:</strong> Wie kommen wir gut durch die Autonomiephase und bleiben trotzdem entspannt?</li> 	<li><strong>27.01.2027:</strong> Eltern sein - Liebespaar bleiben</li> 	<li><strong>16.02.2027: </strong>1. Klasse wir kommen – Orientierung und praktische Tipps für Vorschuleltern</li> </ul><p>Alle Veranstaltungen beginnen um 20 Uhr und dauern ungefähr eine Stunde. Sie sind für die Teilnehmenden kostenfrei und einfach - beispielsweise per Smartphone - nutzbar.</p>
-<p>Weitere Informationen und Hinweise zur Anmeldung bei <a href="http://www.karlsruhe.de/kinderbuero" title="Link zur Seite" target="_blank">karlsruhe.de/kinderbuero</a> unter "Kinderbüro ON AIR" sowie im Veranstaltungskalender der Stadt Karlsruhe.</p>
-                                    </div></div>]]></content>
-        <published>2026-09-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PikoPark Kaiserallee: Entwurfsplanung wird vorgestellt]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/pikopark-kaiserallee-entwurfsplanung-wird-vorgestellt</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/pikopark-kaiserallee-entwurfsplanung-wird-vorgestellt"/>
-        <updated>2026-09-18T12:58:52.055Z</updated>
-        <summary type="html"><![CDATA[Neuer naturnaher Begegnungsraum vor der Karlsruher Christuskirche nimmt Gestalt an.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Der geplante <strong>PikoPark</strong> auf der Grünfläche <strong>vor der Christuskirche an der Kaiserallee</strong> nimmt weiter Gestalt an. Am <strong>Dienstag, 29. September 2026, um 18 Uhr</strong> wird die Entwurfsplanung für den neuen naturnahen Begegnungsraum öffentlich vorgestellt.</p>
-<p>Interessierte Bürgerinnen und Bürger sind eingeladen, sich direkt vor Ort über die geplante Gestaltung, die kommenden Bau- und Pflanzaktivitäten sowie die zukünftige Nutzung des PikoParks zu informieren.</p>
-<p>Auch die ersten, von Schülerinnen und Schülern des Helmholtz-Gymnasiums installierten Elemente – darunter ein Käferkeller, eine Benjeshecke aus Totholz und Astschnitt sowie selbst gebaute Nistkasten – können bei dieser Gelegenheit entdeckt werden.</p>
-<h4>Attraktiver Aufenthalts- und Begegnungsort</h4>
-<p>Der PikoPark soll künftig einen vielfältigen Lebensraum für Menschen, Pflanzen und Tiere schaffen. Heimische Pflanzen, schattenspendende Bäume und biodiversitätsfördernde Strukturen tragen zur Artenvielfalt und Verbesserung des Mikroklimas bei. Gleichzeitig entsteht ein attraktiver Aufenthalts- und Begegnungsort für das Quartier.</p>
-<p>Im Anschluss an die Vorstellung besteht ausreichend Gelegenheit, mit den Projektverantwortlichen ins Gespräch zu kommen sowie Fragen, Ideen und Anregungen einzubringen.</p>
-                                    </div><div id="c209944">
-                    
-                        <h2>Daten zum Termin</h2>
-                    
-                    <p><strong>Termin:</strong> Dienstag, 29. September 2026, 18 Uhr<br> <strong>Treffpunkt:</strong> Grünfläche vor der Christuskirche, Kaiserallee, auf der Fläche des zukünftigen PikoParks<br> <strong>Bei schlechtem Wetter:</strong> Großer Saal des Albert-Schweitzer-Komplexes</p>
-                </div></div>]]></content>
         <published>2026-09-18T00:00:00.000Z</published>
     </entry>
 </feed>
