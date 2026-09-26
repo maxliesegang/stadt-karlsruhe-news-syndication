@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-09-25T23:18:30.000Z</updated>
+    <updated>2026-09-26T22:50:35.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[Acht Jahre voller Begegnungen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-4bff944594c307cc174a946125458972</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-4bff944594c307cc174a946125458972"/>
-        <updated>2026-09-25T23:18:30.000Z</updated>
+        <updated>2026-09-26T22:50:35.181Z</updated>
         <summary type="html"><![CDATA[Zum 30. September endet die Amtszeit von Daniel Fluhrer als Planungs- und Baudezernent der Stadt Karlsruhe. Bei seiner Verabschiedung würdigte Erste Bürgermeisterin Bettina Lisbach das Wirken Fluhrers für die Stadtentwicklung.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -33,7 +33,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-09-25">
-                                        Gestern
+                                        Freitag, 25. September 2026
                                     </time>
                                 </p>
 
