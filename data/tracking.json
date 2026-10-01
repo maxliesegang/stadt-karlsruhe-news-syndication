@@ -2289,38 +2289,74 @@
   },
   "4a6ea9e59bc65ec0fd6f2bf2126e6596": {
     "contentHash": "0a7074a09fead4725ae581ffbf064b6f",
-    "lastSeen": "2026-10-01T05:52:57.146Z",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
     "lastModified": "2026-09-30T20:49:05.503Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/staudenbeet-und-trinkbrunnen-statt-wasserspiel"
   },
   "e7cd270f658d9a39263d38d572a5c4a5": {
     "contentHash": "f5505e9ed8cb7555dcc6b95c9f4a87fc",
-    "lastSeen": "2026-10-01T05:52:57.146Z",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
     "lastModified": "2026-10-01T05:52:57.146Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/laub-und-gartenabfaelle-abholtermine-im-herbst-2026"
   },
   "a0e264f7252643b028757cc3c83ffde5": {
     "contentHash": "af50909c91a9b5989c7ef00dbc0e6099",
-    "lastSeen": "2026-10-01T05:52:57.146Z",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
     "lastModified": "2026-10-01T05:52:58.146Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/im-dialog-mit-der-karlsruher-wirtschaft"
   },
   "a8a9dec8da8016beb4e841c5a6a7410b": {
     "contentHash": "3d8709e6e0014e56f0a634e4e31f69fe",
-    "lastSeen": "2026-10-01T05:52:57.146Z",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
     "lastModified": "2026-09-30T20:49:08.503Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/100000-besuche-im-tierpark-oberwald"
   },
   "e4677d32f462262a95c8c72d19d2ef0d": {
     "contentHash": "136f9470ae4b9302177615aa1b898305",
-    "lastSeen": "2026-10-01T05:52:57.146Z",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
     "lastModified": "2026-09-30T20:49:09.503Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/alles-geht-start-der-schritte-challenge"
   },
   "69367a79d2e20d9e355218741419866b": {
     "contentHash": "909b396216cf6f8d85787590188f75b6",
-    "lastSeen": "2026-10-01T05:52:57.146Z",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
     "lastModified": "2026-09-30T20:49:10.503Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/verkaufsoffene-sonntage-fuer-die-naechsten-jahre-beschlossen"
+  },
+  "ef9d6319fb7d1a8f05cb4bd66954d425": {
+    "contentHash": "977152aa9fed0f4d8f45a93c9872dea4",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
+    "lastModified": "2026-10-01T15:27:25.181Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neues-programm-in-der-orgelfabrik-oktober-bis-dezember-2026"
+  },
+  "e43092abe2a3b4352c5555171559803b": {
+    "contentHash": "7ec66c8d54b0ae2362b5eb960a63f9ae",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
+    "lastModified": "2026-10-01T15:27:26.181Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jugendhilfeausschuss-am-7-oktober"
+  },
+  "68aa1759a3a214de7eb437a768b6e217": {
+    "contentHash": "8bf2cfad0cd5e7b88e6665984c89fc7f",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
+    "lastModified": "2026-10-01T15:27:27.181Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-ausschuss-fuer-oeffentliche-einrichtungen-tagt-1"
+  },
+  "358b550574d3bbc04bb62a7a51b3a1bb": {
+    "contentHash": "693f157560cfe0de4be1fec9b4d4ea21",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
+    "lastModified": "2026-10-01T15:27:28.181Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-eigenbetrieb-abfallwirtschaft-und-stadtreinigung-tagt-1"
+  },
+  "33dee0abcfa1852b9e566fb3ba7d7b6b": {
+    "contentHash": "e1807a450d3c6194c9b7ecd234df770e",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
+    "lastModified": "2026-10-01T15:27:29.181Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-68102be402cc8b8cc078be820e1706e1"
+  },
+  "e7404ed0d47ac9380b54f0756690ea1f": {
+    "contentHash": "60637c8cfb367a6db3e2514fc3b770b5",
+    "lastSeen": "2026-10-01T15:27:25.181Z",
+    "lastModified": "2026-10-01T15:27:30.181Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hightech-in-karlsruhe"
   }
 }
