@@ -2325,25 +2325,25 @@
   },
   "ef9d6319fb7d1a8f05cb4bd66954d425": {
     "contentHash": "977152aa9fed0f4d8f45a93c9872dea4",
-    "lastSeen": "2026-10-02T05:36:50.246Z",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
     "lastModified": "2026-10-01T15:27:25.181Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/neues-programm-in-der-orgelfabrik-oktober-bis-dezember-2026"
   },
   "e43092abe2a3b4352c5555171559803b": {
     "contentHash": "7ec66c8d54b0ae2362b5eb960a63f9ae",
-    "lastSeen": "2026-10-02T05:36:50.246Z",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
     "lastModified": "2026-10-01T15:27:26.181Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/jugendhilfeausschuss-am-7-oktober"
   },
   "68aa1759a3a214de7eb437a768b6e217": {
     "contentHash": "8bf2cfad0cd5e7b88e6665984c89fc7f",
-    "lastSeen": "2026-10-02T05:36:50.246Z",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
     "lastModified": "2026-10-01T15:27:27.181Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-ausschuss-fuer-oeffentliche-einrichtungen-tagt-1"
   },
   "358b550574d3bbc04bb62a7a51b3a1bb": {
     "contentHash": "693f157560cfe0de4be1fec9b4d4ea21",
-    "lastSeen": "2026-10-02T05:36:50.246Z",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
     "lastModified": "2026-10-01T15:27:28.181Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ausschuss-eigenbetrieb-abfallwirtschaft-und-stadtreinigung-tagt-1"
   },
@@ -2358,5 +2358,53 @@
     "lastSeen": "2026-10-02T05:36:50.246Z",
     "lastModified": "2026-10-01T15:27:30.181Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hightech-in-karlsruhe"
+  },
+  "4121f47e47aaef89706824a106ce7c11": {
+    "contentHash": "1ee6dcba7114df0a282e85034f42001b",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:32.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bauarbeiter-fuer-die-pflanzen"
+  },
+  "01e75f9355413c9a8a9343c8d0b799c6": {
+    "contentHash": "b4fda114f0c9f39c3e2dba9ea887815d",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:33.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/technologie-mit-verantwortung-unesco-kommission-will-ethik-fuer-innovationen"
+  },
+  "49d3af6a46ad105e833f48d8dab4462f": {
+    "contentHash": "ab1d99a81458d8e04c960b36f7f74e54",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:34.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lesungen-der-stadtbibliothek-karlsruhe-im-rahmen-der-literaturtage"
+  },
+  "77e7c8983aa9a5c1903c7ed687d5c33b": {
+    "contentHash": "66584b44d68e34fb95c976f0ae9cb96a",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:35.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/herbstbasteln-am-waldklassenzimmer-1"
+  },
+  "4b80343e7bc8079f85f6399c4fad6c86": {
+    "contentHash": "ea98774e61b2b4e7567f4f78fab58042",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:36.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-d94c2b7df9774e28b70b7b9d2821fa81"
+  },
+  "dfa8b6fb207250a7ae683f93b90e37b3": {
+    "contentHash": "d70884589dd8610032ee8205668bc126",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:37.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-21b7e2ff845ae9d58df43d3ce3bf767b"
+  },
+  "5b95f762a529eb89c3381c195b578217": {
+    "contentHash": "80b9d599a31dc03d02933dcd8dec5548",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:38.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erneuerungsarbeiten-in-der-bannwaldallee"
+  },
+  "3755755380609dedee2b9a7e7e8cd57d": {
+    "contentHash": "8719f9b35abbb2848007af7bf2517e25",
+    "lastSeen": "2026-10-02T14:44:32.132Z",
+    "lastModified": "2026-10-02T14:44:39.132Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/the-world-games-ob-mentrup-zu-den-ausfuehrungen-des-bundes-der-steuerzahler-im-schwarzbuch-2026"
   }
 }
