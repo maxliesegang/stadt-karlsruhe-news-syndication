@@ -2415,37 +2415,37 @@
   },
   "f2a49936beb2fd1f7c39c81e3b9a734e": {
     "contentHash": "52e167510398281e5c2f3717ae77dd67",
-    "lastSeen": "2026-10-07T05:58:46.603Z",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
     "lastModified": "2026-10-05T17:08:41.353Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/pop-up-store-oeffnet-im-regierungspraesidium"
   },
   "8670f3635c0e193268ba2ae0b0cf0954": {
     "contentHash": "b8d8e6dc9a86e2647dc7ba6e7782ce2b",
-    "lastSeen": "2026-10-07T05:58:46.603Z",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
     "lastModified": "2026-10-05T17:08:42.353Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadtgarten-vom-sallenwaeldchen-zum-central-park"
   },
   "cc85f762ce7d6e709b0069af9600ecd9": {
     "contentHash": "27fb8b33c73db44e37d14555957a4074",
-    "lastSeen": "2026-10-07T05:58:46.603Z",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
     "lastModified": "2026-10-05T17:08:43.353Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ein-zuhause-das-bleibt-pflegeeltern-gesucht"
   },
   "b2ae5cb65cc427b08bcc3f2fb30c90b8": {
     "contentHash": "1dc8996cd7286558d8097cf8c16b28d9",
-    "lastSeen": "2026-10-07T05:58:46.603Z",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
     "lastModified": "2026-10-06T11:16:21.444Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/on-air-online-vortrag-zur-selbstfuersorge"
   },
   "7e5407f59852a9bcb631bbb3353b0f1e": {
     "contentHash": "8b9102908617e13949514fd38930931e",
-    "lastSeen": "2026-10-07T05:58:46.603Z",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
     "lastModified": "2026-10-06T11:16:22.444Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zwei-fuehrungen-zu-lost-places-in-karlsruhe"
   },
   "745296243d07c6c204f6820dcf6ab3f3": {
     "contentHash": "3876e88d93f2c0848ebdf599a7417a6d",
-    "lastSeen": "2026-10-07T05:58:46.603Z",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
     "lastModified": "2026-10-06T11:16:23.444Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/hundewochenden-viermal-auf-vier-pfoten-durch-den-zoo"
   },
@@ -2457,8 +2457,38 @@
   },
   "300318e530d6d99bd275e6beb2aa9214": {
     "contentHash": "702ca90e5a9bf26d1519fc3fb93c9af3",
-    "lastSeen": "2026-10-07T05:58:46.603Z",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
     "lastModified": "2026-10-06T18:21:53.698Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-be5983f0aa5dacd505969162e6a364cf"
+  },
+  "8ac245fa36798391f6c980082fbea385": {
+    "contentHash": "44f069a5f061c28f9deb4d594d216df8",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
+    "lastModified": "2026-10-07T15:33:32.785Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vermehrte-faelle-von-kaninchenpest"
+  },
+  "22a3cf68b47c1db68d0b9885f2be671f": {
+    "contentHash": "7aa755918e993acc4817d77ec757abe8",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
+    "lastModified": "2026-10-07T15:33:33.785Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zoo-elefanten-in-myanmar-zum-auftakt"
+  },
+  "4a60ef9ac2362ca1277a8253a1ce6738": {
+    "contentHash": "3257bbb567d07db2f7555028627fcba9",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
+    "lastModified": "2026-10-07T15:33:34.785Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortsverwaltung-groetzingen-am-16-oktober-geschlossen"
+  },
+  "1b1406f78a0e0b139ef8ddb6c4357ed0": {
+    "contentHash": "86fbb6a00cd43594409b3e94298cb64e",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
+    "lastModified": "2026-10-07T15:33:35.785Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/sicher-durch-den-winter"
+  },
+  "4564efcf9b1ef0c916695131a976c4ff": {
+    "contentHash": "9f423484923eda6cc4fc887eb16f9425",
+    "lastSeen": "2026-10-07T15:33:32.785Z",
+    "lastModified": "2026-10-07T15:33:36.785Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/grossbatteriespeicher-geht-in-betrieb"
   }
 }
