@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-10-07T15:33:36.785Z</updated>
+    <updated>2026-10-07T21:18:28.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -54,7 +54,7 @@
         <title type="html"><![CDATA[Ortsverwaltung Grötzingen am 16. Oktober geschlossen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortsverwaltung-groetzingen-am-16-oktober-geschlossen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortsverwaltung-groetzingen-am-16-oktober-geschlossen"/>
-        <updated>2026-10-07T15:33:34.785Z</updated>
+        <updated>2026-10-07T21:18:28.909Z</updated>
         <summary type="html"><![CDATA[Wegen einer betrieblichen Veranstaltung bleibt die Ortsverwaltung im Karlsruher Stadtteil Grötzingen am Freitag, 16. Oktober, zu.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -71,7 +71,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-10-07">
-                                        vor 6 Stunden
+                                        vor 11 Stunden
                                     </time>
                                 </p>
 
