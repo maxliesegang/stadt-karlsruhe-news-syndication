@@ -2463,19 +2463,19 @@
   },
   "8ac245fa36798391f6c980082fbea385": {
     "contentHash": "44f069a5f061c28f9deb4d594d216df8",
-    "lastSeen": "2026-10-08T06:03:30.832Z",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
     "lastModified": "2026-10-07T15:33:32.785Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vermehrte-faelle-von-kaninchenpest"
   },
   "22a3cf68b47c1db68d0b9885f2be671f": {
     "contentHash": "7aa755918e993acc4817d77ec757abe8",
-    "lastSeen": "2026-10-08T06:03:30.832Z",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
     "lastModified": "2026-10-07T15:33:33.785Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/zoo-elefanten-in-myanmar-zum-auftakt"
   },
   "4a60ef9ac2362ca1277a8253a1ce6738": {
     "contentHash": "13ab43fcf0d00ef881190f3c1ce597f2",
-    "lastSeen": "2026-10-08T06:03:30.832Z",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
     "lastModified": "2026-10-08T06:03:30.832Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortsverwaltung-groetzingen-am-16-oktober-geschlossen"
   },
@@ -2490,5 +2490,59 @@
     "lastSeen": "2026-10-08T06:03:30.832Z",
     "lastModified": "2026-10-07T15:33:36.785Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/grossbatteriespeicher-geht-in-betrieb"
+  },
+  "62e4c09d95dcab31f7a7a5e6809a291c": {
+    "contentHash": "202a07dc4cf5cb3fb4932f186f81649b",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:49.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/bds-vergibt-wertstoffsammlung-in-karlsruhe"
+  },
+  "dc4110a2c495d5308e586eb6d0a9dc7c": {
+    "contentHash": "f3544091ee9b89abd3a500231695e639",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:50.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ukrainische-delegation-erfaehrt-karlsruher-verkehrssystem"
+  },
+  "89cacab41c71218191e7e6fa6cf91eb1": {
+    "contentHash": "69a814ba9a1eb2bc347550a72d287644",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:51.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/haupt-und-finanzausschuss-beraet"
+  },
+  "03a82396ae8b4811aa88c0e0c0f1c432": {
+    "contentHash": "42b5e8a8dc5d386356d412e54bce9b9b",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:52.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kommende-sitzung-des-planungsausschusses"
+  },
+  "800fe06af06c3f468297354361e4eac5": {
+    "contentHash": "a66df3ff18ad58c62057881082e801bf",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:53.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-7c8844d309d536bc7931fcdaca36be71"
+  },
+  "f0593b5c0ac30aeab2c2d141c28197d9": {
+    "contentHash": "e2ed9ecfd80047eee63e8c7a1e07d1ef",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:54.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karoline-luise-tunnel-wird-gewartet"
+  },
+  "6f7885f84d6e10025bc587b32398d0ed": {
+    "contentHash": "38b9bd964151ceadbebf329cb04ad427",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:55.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsrat-stupferich-tagt-3"
+  },
+  "39239d7c03beb43e8d4dcadac0fa8c0f": {
+    "contentHash": "8cf46e79f3e94f689882f7db1218af4b",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:56.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/reitinstitut-vereinbarung-wird-angestrebt"
+  },
+  "d5ed1217dfba3b6fcb6b57d8b2d227b5": {
+    "contentHash": "9937f06f05b72a2586fd51207e03cdbf",
+    "lastSeen": "2026-10-08T15:36:49.008Z",
+    "lastModified": "2026-10-08T15:36:57.008Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/fiktiver-grosseinsatz-im-klinikum"
   }
 }
