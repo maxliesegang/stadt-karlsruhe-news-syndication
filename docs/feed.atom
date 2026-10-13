@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-10-12T17:54:15.971Z</updated>
+    <updated>2026-10-13T11:47:51.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,31 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Botanische Führung stellt Bäume in den Mittelpunkt]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/botanische-fuehrung-stellt-baeume-in-den-mittelpunkt</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/botanische-fuehrung-stellt-baeume-in-den-mittelpunkt"/>
+        <updated>2026-10-13T11:47:50.875Z</updated>
+        <summary type="html"><![CDATA[Interessierte lernen am 18. Oktober 2026 verschiedene Baumarten kennen sowie die Aufgaben der Baumpflege.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Nahezu 700 große, teilweise sehr alte Bäume prägen den Zoologischen Stadtgarten Karlsruhe. Bei einer botanischen <strong>Führung</strong> des Gartenbauamts am kommenden <strong>Sonntag, 18. Oktober 2026,</strong> erfahren Interessierte mehr über die verschiedenen Baumarten und die Aufgaben der Baumpflege. Treffpunkt ist um <strong>10:30 Uhr</strong> beim Eingang Nord (Kongress).&nbsp;Die Fachleute erläutern unter anderem Herkunft und Verbreitungsgebiete sowie Merkmale wie Holz, Blatt, Blüte und Frucht. Das Spektrum reicht vom Amberbaum aus Amerika bis zum Kuchenbaum aus Japan. Auch die unterschiedlichen Baumgestalten und ihre herbstliche Färbung werden Thema sein.</p>
+<p>Die Führung ist kostenfrei. Für den Zoobesuch ist eine gültige Eintrittskarte erforderlich. Diese ist online unter<a href="http://www.zoo-karlsruhe.de/" title="Link zur Seite" target="_blank" rel="noreferrer"> www.zoo-karlsruhe.de</a> oder vor Ort an den Kassen erhältlich.<br> &nbsp;</p>
+                                    </div></div>]]></content>
+        <published>2026-10-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infoveranstaltung gibt Frauen Impulse für berufliche Perspektiven]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufliche-wege-und-perspektiven-fuer-frauen</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/berufliche-wege-und-perspektiven-fuer-frauen"/>
+        <updated>2026-10-13T11:47:51.875Z</updated>
+        <summary type="html"><![CDATA[Im Rahmen der Frauenwirtschaftstage 2026 findet am 23. Oktober 2026 in der IHK Karlsruhe ein Forum für Frauen statt, die auf der Suche nach Orientierung für den beruflichen Weg sind.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Im Rahmen der <a href="https://kalender.karlsruhe.de/db/termine/wirtschaft/frauenchancenzukunft_karlsruher_frauenwirtschaftstage" target="_blank" rel="noreferrer">Frauenwirtschaftstage 2026</a> findet am <strong>Freitag, 23. Oktober 2026</strong>, ein Forum für Frauen statt, die auf der Suche nach Orientierung für den beruflichen Weg sind.<strong> </strong>Ob nach einer Familienphase, dem Ankommen in einem neuen Land oder auf dem Weg zum nächsten Karriereschritt – <strong>von 9 bis 12 Uhr</strong> erhalten Frauen in der <strong>IHK Karlsruhe</strong>&nbsp;(Lammstraße 13-17, 76133 Karlsruhe)&nbsp;konkrete Unterstützung, Kontakte und Impulse für Ihre berufliche Zukunft.</p>
+<p>Kurzvorträge und Infostände bieten Gelegenheit, sich über Möglichkeiten und Beratungsangebote zu informieren. Darüber hinaus können die Teilnehmerinnen und Teilnehmer direkt mit Arbeitgeberinnen und -gebern ins Gespräch kommen und ihre Bewerbungsunterlagen bei einem Beratungsmappencheck überprüfen lassen.</p>
+<p>Die Veranstaltung wird von der Gleichstellungsbeauftragten der Stadt Karlsruhe gemeinsam mit der IHK Karlsruhe, der Handwerkskammer, der Gleichstellungsbeauftragten des Landkreis Karlsruhe, der Agentur für Arbeit, den Jobcentern Stadt und Landkreis Karlsruhe und der Volkshochschule Karlsruhe im Rahmen der Frauenwirtschaftstage Baden-Württemberg veranstaltet.</p>
+                                    </div></div>]]></content>
+        <published>2026-10-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUSS MicroTec SE schafft Grundlage für neuen Standort in Karlsruhe]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/suss-microtec-se-schafft-grundlage-fuer-neuen-standort-in-karlsruhe</id>
@@ -183,32 +208,6 @@
 <p>Grundlage jeder Zertifizierung bildet eine ausführliche Selbstevaluation mit einem umfangreichen Fragenkatalog. Zugelassene Auditorinnen und Auditoren des ADFC prüfen dann die Ergebnisse. Bei positiver Bestätigung und abhängig von der tatsächlich erreichten Punktezahl wird anschließend das Zertifikat „Fahrradfreundlicher Arbeitgeber“ in Bronze, Silber oder Gold verliehen. Die Zertifizierung ist für drei Jahre gültig und muss danach erneuert werden.</p>
                     </div>
                 </div></div>]]></content>
-        <published>2026-10-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karlsruhe erhält bronzene Auszeichnung in Seoul]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-holt-bronze-in-seoul</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruhe-holt-bronze-in-seoul"/>
-        <updated>2026-10-09T15:18:34.115Z</updated>
-        <summary type="html"><![CDATA[Die Stadt Karlsruhe hat beim "Seoul Smart City Prize" in der Kategorie „Human-CentriCity“ einen dritten Platz belegt.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Die Stadt Karlsruhe hat beim "Seoul Smart City Prize" in der Kategorie "Human-CentriCity" einen dritten Platz belegt.</p>
-<p>Die Preisverleihung fand am &nbsp;Eröffnungstag der großen "Smart Life Week" (SLW) 2026 statt. Die Eröffnungsrede hielt der weltbekannte Robotiker Marc Raibert, Gründer von Boston Dynamics, der darüber sprach, wie Künstliche Intelligenz und Robotik das Alltagsleben in künftigen Städten menschzentriert verändern werden.</p>
-<p>"Genau um diese Menschenzentrierung geht es bei dem Projekt, mit dem Karlsruhe sich beworben hatte", erläutert Bürgermeister Dr. Albert Käuflein. "Wir etablieren in den Ämtern der Stadtverwaltung Digital Change Advisor. Digitalisierung und Smart City entstehen nicht durch Technik, sondern durch Menschen."&nbsp;</p>
-<p>Dieses Konzept hat die Auslober des Preises in der südkoreanischen Hauptstadt offensichtlich überzeugt. Insgesamt gab es 210 Bewerbungen aus 142 Städten und 56 Ländern weltweit. "Das freut mich sehr für die Kolleginnen und Kollegen, die die Digitalisierung im Rathaus vorantreiben", so der Bürgermeister.</p>
-                                    </div></div>]]></content>
-        <published>2026-10-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lebensmittelmarkt für Grünwettersbach ausgeschrieben]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lebensmittelmarkt-fuer-gruenwetterbach-ausgeschrieben</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/lebensmittelmarkt-fuer-gruenwetterbach-ausgeschrieben"/>
-        <updated>2026-10-09T15:18:35.115Z</updated>
-        <summary type="html"><![CDATA[Für die Ansiedlung eines zweigeschossigen Lebensmittelvollsortimenters in Grünwettersbach verkauft die Stadt Karlsruhe städtische Grundstücke.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Für die Ansiedlung und Errichtung eines zweigeschossigen Lebensmittelvollsortimenters im Stadtteil Grünwettersbach verkauft die Stadt Karlsruhe städtische Grundstücke mit einer Fläche von rund 4.340 Quadratmeter.</p>
-<p>Als Verkaufsfläche des Lebensmittelvollsortimenters sind 1.200 bis 1.600 Quadratmeter vorgesehen. Die Ausschreibung endet am Montag, 25. Januar 2027. Weitere Informationen können unter <a href="https://www.karlsruhe.de/immobilien" title="Link zur Seite" target="_blank">karlsruhe.de/immobilien</a> abgerufen werden.</p>
-                                    </div></div>]]></content>
         <published>2026-10-09T00:00:00.000Z</published>
     </entry>
 </feed>
