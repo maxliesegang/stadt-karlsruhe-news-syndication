@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-10-28T21:03:56.772Z</updated>
+    <updated>2026-10-29T05:47:09.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[Oberbürgermeister Mentrup gratuliert Linkenheim-Hochstettens Bürgermeister Tim Drees]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-49556634f175b4ad604643a6a1a34ba2</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-49556634f175b4ad604643a6a1a34ba2"/>
-        <updated>2026-10-28T21:03:52.772Z</updated>
+        <updated>2026-10-29T05:47:09.141Z</updated>
         <summary type="html"><![CDATA[Karlsruhes Oberbürgermeister Dr. Frank Mentrup gratuliert Tim Drees, dem neu gewählten Bürgermeister von Linkenheim-Hochstetten.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -33,7 +33,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-10-28">
-                                        vor 11 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
