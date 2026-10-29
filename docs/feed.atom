@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-10-29T15:13:36.184Z</updated>
+    <updated>2026-10-29T21:07:29.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -82,7 +82,7 @@
         <title type="html"><![CDATA[Konzept vorerst noch "geparkt"]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nachhaltiges-parkraumkonzept</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nachhaltiges-parkraumkonzept"/>
-        <updated>2026-10-29T15:13:36.184Z</updated>
+        <updated>2026-10-29T21:07:29.243Z</updated>
         <summary type="html"><![CDATA[Das Konzept zum Nachhaltigen Parken geht in die Warteschleife und wird voraussichtlich im Dezember dem Gemeinderat zur finalen Beschlussfassung vorgelegt. Grund dafür war ein Änderungsantrag der CDU.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -99,7 +99,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-10-29">
-                                        vor 6 Stunden
+                                        vor 13 Stunden
                                     </time>
                                 </p>
 
