@@ -3015,44 +3015,74 @@
   },
   "56e83e34af3e47e605757525e172cee2": {
     "contentHash": "5ec402cf778a5864a14078643bb0d12a",
-    "lastSeen": "2026-11-05T12:20:03.574Z",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
     "lastModified": "2026-11-04T12:08:24.546Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/einladung-zum-oeffentlichen-klimaforum-2026"
   },
   "689f87496510cedc4257a3a0b78beb73": {
     "contentHash": "a8b1fb2723e7533ca7f8a0b5c9477a8f",
-    "lastSeen": "2026-11-05T12:20:03.574Z",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
     "lastModified": "2026-11-04T12:08:25.546Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gewaesserschauen-zwischen-bulach-und-rueppurr-2026"
   },
   "0ea60b7cf9d5d0481387aecc61ae0507": {
     "contentHash": "a5549996e655199eebbaab4fd8c9ede9",
-    "lastSeen": "2026-11-05T12:20:03.574Z",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
     "lastModified": "2026-11-04T19:45:31.004Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vier-luchsjungtiere-in-baden-wuerttemberg-nachgewiesen"
   },
   "798e9645662007ca0225f6e83c311ed5": {
     "contentHash": "7f7fd27b4651ca320cb291d4cb5af5c2",
-    "lastSeen": "2026-11-05T12:20:03.574Z",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
     "lastModified": "2026-11-04T19:45:32.004Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/default-2d9547e8bc43b5f4919a65e25528e5b0"
   },
   "602021b8b9a44d3e7cd373e6f1bfe16a": {
     "contentHash": "b24c43ba269a88272ac5684b988b762a",
-    "lastSeen": "2026-11-05T12:20:03.574Z",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
     "lastModified": "2026-11-05T12:20:03.574Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruher-innenstadt-2040-buergerinnen-und-buerger-priorisieren"
   },
   "357db9b4d46f8e2ba2f316aea9cd63a9": {
-    "contentHash": "76de5c3c31b93afea4cc38f827fb959b",
-    "lastSeen": "2026-11-05T12:20:03.574Z",
-    "lastModified": "2026-11-05T12:20:04.574Z",
+    "contentHash": "a4e73534e5a3c1b2f702cda6dbebbedf",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
+    "lastModified": "2026-11-05T21:59:50.211Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kulturausschuss-tagt-oeffentlich"
   },
   "51afdbaed80e6159b73952a4024858e7": {
     "contentHash": "a6c51c25b04208a7a14eb124f2adb208",
-    "lastSeen": "2026-11-05T12:20:03.574Z",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
     "lastModified": "2026-11-05T12:20:05.574Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/eisbaer-mika-zieht-in-den-zoo-brno-um"
+  },
+  "17d1055feadaf8e9e2077c01afedcf54": {
+    "contentHash": "8869c2e8c46c523046b049a28128a94c",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
+    "lastModified": "2026-11-05T21:59:49.211Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nochmalige-tunnelsperrung-in-groetzingen"
+  },
+  "080a6867e3d21598420c82212c86d822": {
+    "contentHash": "7d6f75a5bad255af45d02551c37b86ee",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
+    "lastModified": "2026-11-05T21:59:51.211Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsrat-in-hohenwettersbach-trifft-sich-1"
+  },
+  "1b601c9c624d294444b006e636416e38": {
+    "contentHash": "a23914f237cd398d7cbaaa7d5be0278d",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
+    "lastModified": "2026-11-05T21:59:52.211Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-haupt-und-finanzausschuss-tagt"
+  },
+  "a47f59e2904ab657f87e7b6ed2c9324e": {
+    "contentHash": "46ebf9371a0df1a638c8bf57c34c4f4d",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
+    "lastModified": "2026-11-05T21:59:53.211Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/integrationsausschuss-tritt-zusammen"
+  },
+  "244bc13915fea1e268ae9badeef295a7": {
+    "contentHash": "44fd60fc5f9b92b51d0b17be3c82afd3",
+    "lastSeen": "2026-11-05T21:59:49.211Z",
+    "lastModified": "2026-11-05T21:59:54.211Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-schulausschuss-beraet-oeffentlich-1"
   }
 }
