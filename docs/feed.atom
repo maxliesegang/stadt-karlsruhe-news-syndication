@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-11-05T21:59:54.211Z</updated>
+    <updated>2026-11-06T06:43:50.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -65,7 +65,7 @@
         <title type="html"><![CDATA[Kulturausschuss tagt öffentlich]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kulturausschuss-tagt-oeffentlich</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kulturausschuss-tagt-oeffentlich"/>
-        <updated>2026-11-05T21:59:50.211Z</updated>
+        <updated>2026-11-06T06:43:50.183Z</updated>
         <summary type="html"><![CDATA[Am Freitag, 13. November 2026, kommt der Kulturausschuss zu seiner nächsten öffentlichen Sitzung zusammen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -82,7 +82,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-11-05">
-                                        vor 11 Stunden
+                                        Gestern
                                     </time>
                                 </p>
 
