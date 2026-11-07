@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-11-06T15:56:24.463Z</updated>
+    <updated>2026-11-07T05:58:01.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -77,12 +77,80 @@
         <title type="html"><![CDATA[Nochmalige Tunnelsperrung in Grötzingen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nochmalige-tunnelsperrung-in-groetzingen</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/nochmalige-tunnelsperrung-in-groetzingen"/>
-        <updated>2026-11-05T21:59:49.211Z</updated>
+        <updated>2026-11-07T05:58:00.015Z</updated>
         <summary type="html"><![CDATA[Die Wartungsarbeiten im Grötzinger Tunnel verlängern sich außerplanmäßig um einen weiteren Tag bis zum 6. November.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemscope="itemscope" itemtype="http://schema.org/Article">
+                        <!-- date -->
+                        <div>
+
+                                <p><time itemprop="datePublished" datetime="2026-11-05">
+                                        Donnerstag, 5. November 2026
+                                    </time>
+                                </p>
+
+                                
+
+                                
+                                
+                                
+                                    <h2>
+                                        In der Nacht vom 5. auf den 6. November bleibt die Röhre dicht
+                                    </h2>
+                                
+                            </div>
+
+                        <div>
+                                
+                                
+                                        <div>
+                                            
+                                                
+                                                    
+                                                        
+
+
+<img alt="Einfahrt/Ausfahrt Tunnel Grötzingen mit KFZ " title="Grötzingen Tunnel" width="100%" src="https://www.karlsruhe.de/fileadmin/_processed_/5/a/csm_groetzingen_tunnel-1758694862_8fe0723303.jpeg">
+
+        
+    
+
+        
+            
+        
+    
+
+                                                    
+                                                    
+                                                    
+                                                
+                                            
+                                        </div>
+                                    
+
+                                
+                                
+                                    <div itemprop="articleBody">
                                         <p>Aufgrund von außerplanmäßigen Nacharbeiten, die zur Beseitigung der Brandschäden im Grötzinger Tunnel erforderlich sind, bleibt die Röhre in der Nacht von Donnerstag, 5. November, auf Freitag, 6. November, nochmals in beiden Richtungen geschlossen. Die Sperrung dauert von 19 bis 5 Uhr. In dieser Zeit wird der Verkehr auf der Bundesstraße B10 oberirdisch umgeleitet.&nbsp;</p>
 <p>Das Tiefbauamt bittet alle Verkehrsteilnehmenden um Verständnis für die Verlängerung der Bauarbeiten.</p>
-                                    </div></div>]]></content>
+                                    </div>
+                                
+
+                                
+                                
+                                    
+                                
+
+                                
+                                    
+                                    
+                                        
+    
+
+
+                                    
+                                
+                            </div>
+                    </div></div>]]></content>
         <published>2026-11-05T00:00:00.000Z</published>
     </entry>
     <entry>
@@ -126,7 +194,7 @@
         <title type="html"><![CDATA[Kulturausschuss tagt öffentlich]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kulturausschuss-tagt-oeffentlich</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kulturausschuss-tagt-oeffentlich"/>
-        <updated>2026-11-06T06:43:50.183Z</updated>
+        <updated>2026-11-07T05:58:01.015Z</updated>
         <summary type="html"><![CDATA[Am Freitag, 13. November 2026, kommt der Kulturausschuss zu seiner nächsten öffentlichen Sitzung zusammen.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -143,7 +211,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-11-05">
-                                        Gestern
+                                        Donnerstag, 5. November 2026
                                     </time>
                                 </p>
 
