@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-11-07T05:58:01.015Z</updated>
+    <updated>2026-11-09T18:48:49.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,32 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Private Stiftung bereichert Kultur]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/private-stiftung-bereichert-kultur</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/private-stiftung-bereichert-kultur"/>
+        <updated>2026-11-09T18:48:48.384Z</updated>
+        <summary type="html"><![CDATA[Erträge kommen dieses Jahr zur Entwicklung eines „Museumskoffers“ für Kinder ab fünf Jahren sowie einem Buchprojekt der Literarischen Gesellschaft zugute.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>So kommen die Erträge der Mechthild-Mayer-Stiftung, die 2001 aufgrund eines Testamentes begründet wurde, in diesem Jahr dem Kunstmuseum Karlsruhe für die Entwicklung eines „Museumskoffers“ für Kinder ab fünf Jahren sowie einem Buchprojekt der Literarischen Gesellschaft über die künstlerischen Erkundungen des Dichters und Zeichners Joseph Victor von Scheffel in unserer Region zugute.</p>
+<p>„Gerade in schwierigen Zeiten brauchen wir das finanzielle Engagement von Bürgerinnen und Bürgern sowie von Unternehmen, die ganz konkret dazu beitragen, das Leben der Menschen in unserer Stadt zu bereichern“, freute sich Kulturbürgermeister Dr. Albert Käuflein über den Zugewinn für die beiden Institutionen.</p>
+<p>„Bleibendes schaffen für kommende Generationen“ – das haben sich die 27 Stiftungen zum Ziel gesetzt, die von Karlsruherinnen und Karlsruhern zugunsten der Allgemeinheit errichtet wurden und durch die Stadt Karlsruhe verwaltet werden. Sie helfen, Projekte, Ideen oder konkrete Hilfe zu realisieren, die ansonsten nicht möglich wären.</p>
+                                    </div></div>]]></content>
+        <published>2026-11-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17. Elternforum Inklusion in der Marylandschule]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/17-elternforum-inklusion-in-der-marylandschule</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/17-elternforum-inklusion-in-der-marylandschule"/>
+        <updated>2026-11-09T18:48:49.384Z</updated>
+        <summary type="html"><![CDATA[Wie können Eltern unterstützt werden, wenn ihr Kind einen Förderbedarf hat und in die Grundschule kommt? Beim Elternforum Inklusion am 14. November in der Marylandschule können sich ratsuchende Eltern zum Thema schulische Inklusion informieren.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Wie können Eltern unterstützt werden, wenn ihr Kind einen Förderbedarf hat und in die Grundschule kommt? Welche Unterstützung erhält ihr Kind in weiterführenden Schulen oder nach dem Schulabschluss? Wie treffen Eltern die beste Entscheidung für ihr Kind?&nbsp;Beim diesjährigen Elternforum Inklusion können sich ratsuchende Eltern rund um die schulische Inklusion informieren</p>
+<p>Fachleute der Stadt Karlsruhe, dem Staatlichen Schulamt und dem Verein Eltern und Freunde der Inklusion beantworten alle Fragen von Eltern vor Ort und im persönlichen Gespräch. Darüber hinaus gibt es Informationsstände und die Möglichkeit zum Austausch mit Partnern aus dem Unterstützungssystem.&nbsp;Die Stadt Karlsruhe, das Staatliche Schulamt Karlsruhe und der Verein Eltern und Freunde für Inklusion laden Eltern und Interessierte ein.</p>
+<p>Das 17. Elternforum Inklusion findet am <strong>Samstag, 14. November 2026, von 14 bis 16 Uhr</strong> an der Marylandschule (Rhode-Island-Allee 70, 76149 Karlsruhe) statt.</p>
+                                    </div></div>]]></content>
+        <published>2026-11-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemeinsam gegen Pyrotechnik im Fußballstadion]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinsam-gegen-pyrotechnik</id>
@@ -237,40 +263,5 @@
 <p>Auf der <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10610" title="Link zur Seite" target="_blank" rel="noreferrer">Agenda</a> steht ein Jahresbericht der Staatsangehörigkeitsbehörde, ein&nbsp;Überblick über die aktuelle Situation neuzugewanderter Kinder und&nbsp;Jugendlicher an Karlsruher Schulen sowie über deren Übergänge von der Schule in den Beruf und eine Information zur Sprachmittlung im Gesundheitswesen. Auch über die finanzielle Förderung der Projekte "Sprache schafft Chancen" und "PIAzA – Perspektiven durch Integration in Ausbildung für zugewanderte AusländerInnen" berät das Gremium.</p>
                                     </div></div>]]></content>
         <published>2026-11-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Der Schulausschuss berät öffentlich]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-schulausschuss-beraet-oeffentlich-1</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-schulausschuss-beraet-oeffentlich-1"/>
-        <updated>2026-11-05T21:59:54.211Z</updated>
-        <summary type="html"><![CDATA[Zur nächsten öffentlichen Sitzung treffen sich die Mitglieder des Karlsruher Schulausschusses am Mittwoch, 11. November, um 16:30 Uhr, im Bürgersaal des Rathauses am Marktplatz.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Zur nächsten öffentlichen Sitzung treffen sich die Mitglieder des Karlsruher Schulausschusses am <strong>Mittwoch, 11. November 2026, um 16:30 Uhr</strong>, im Bürgersaal des Rathauses am Marktplatz.</p>
-<p>Unter Leitung von Bürgermeisterin Yvette Melchien wird unter anderem die Entwicklung einer Bedarfsplanung Schulsozialarbeit, die&nbsp;Elternentgelte und Vertragsbedingungen für Grundschulkinder im Schulkind-Bildungs- und Betreuungssystem (SKiBB) an öffentlichen Grundschulen ab dem Schuljahr 2027/28 sowie ein pädagogisches Konzept zur Umsetzung des Rechtsanspruchs auf Ganztagsförderung an Sonderpädagogischen Bildungs- und Beratungszentren ab dem Schuljahr 2027/28 besprochen.</p>
-<p>Die vollständigen Tagesordnungspunkte finden sich im <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10600" title="Link zur Seite" target="_blank" rel="noreferrer">Sitzungskalender</a>.</p>
-                                    </div></div>]]></content>
-        <published>2026-11-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vier Luchsjungtiere in Baden-Württemberg nachgewiesen]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vier-luchsjungtiere-in-baden-wuerttemberg-nachgewiesen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/vier-luchsjungtiere-in-baden-wuerttemberg-nachgewiesen"/>
-        <updated>2026-11-04T19:45:31.004Z</updated>
-        <summary type="html"><![CDATA[In Baden-Württemberg sind inzwischen vier Luchsjungtiere nachgewiesen worden. Damit gibt es hier erstmals seit 200 Jahren Luchsnachwuchs.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>In Baden-Württemberg sind inzwischen vier Luchsjungtiere nachgewiesen worden. Ein Jungtier wurde mit hoher Wahrscheinlichkeit der Luchskatze Elisabeth zugeordnet, zwei weitere wurden gemeinsam mit Luchskatze Verena fotografiert. Im Südschwarzwald wurde zudem ein Weibchen mit Jungtier gemeldet. Damit gibt es in diesem Jahr erstmals Nachwuchsnachweise bei drei Luchsweibchen. Damit gibt es in Baden-Württemberg erstmals seit 200 Jahren wieder Luchsnachwuchs.</p>
-<p>Bei Elisabeth gelang am 27. September eine Fotofallenaufnahme. Anhand ihrer GPS-Daten kann der junge Luchs mit hoher Wahrscheinlichkeit ihr zugeordnet werden. Verena wurde am 30. September mit zwei Jungtieren fotografiert. Bis dahin war lediglich ein Jungtier durch einen genetischen Nachweis bekannt. Im Südschwarzwald meldete ein Beobachter am 19. Oktober ein adultes Weibchen mit Jungtier.</p>
-<p>Elisabeth und Verena wurden im Rahmen des Bestandsstützungsprojekts „Luchs Baden-Württemberg“ ausgewildert. Der Nachweis im Südschwarzwald könnte auf die Zuwanderung eines Weibchens aus der Schweiz hindeuten. Seine genaue Herkunft ist bislang nicht bekannt. Weibliche Luchse legen bei der Suche nach einem eigenen Territorium üblicherweise deutlich kürzere Strecken zurück als Männchen. Umso bemerkenswerter wäre es, wenn das Weibchen tatsächlich vom Jura in den Schwarzwald gewandert ist und dort nun Nachwuchs hat.</p>
-<p>„Die Nachweise haben uns sehr überrascht. Der Nachwuchs in diesem Jahr ist ein wichtiger Erfolg für das Projekt ‚Luchs Baden-Württemberg‘ und damit für den Artenschutz in Baden-Württemberg“, sagt Eva Klebelsberg, Leiterin des Bestandsstützungsprojekts bei der Forstlichen Versuchs- und Forschungsanstalt Baden-Württemberg (FVA).</p>
-<p>„Es gibt nur noch wenige unverbaute Abschnitte des Hochrheins, die eine Querung zwischen der Schweiz und Baden-Württemberg ermöglichen. Aber auch sie verengen sich durch Bauvorhaben immer weiter“, sagt Klebelsberg. Ein Austausch zwischen den Schweizer und den baden-württembergischen Luchsvorkommen sei unerlässlich, um eine stabile Luchspopulation im Dreiländereck zu etablieren.</p>
-<p>„Es macht mich glücklich, wie sich unsere Bemühungen für den Luchs immer mehr auszahlen. Wir sind sehr optimistisch, dass es eine gute Zukunft für die Art in Baden-Württemberg geben wird“, sagt Verena Schiltenwolf, Vorsitzende der Luchs-Initiative Baden-Württemberg.</p>
-<p>Klaus Lachenmaier vom Landesjagdverband Baden-Württemberg ergänzt: „Für ein dauerhaftes Vorkommen braucht es geeignete Lebensräume und eine gute Zusammenarbeit aller Beteiligten. Dass sich der Luchs nun an mehreren Orten im Land fortpflanzt, ist ein ermutigendes Zeichen für das gemeinsame Projekt.“</p>
-<p>Auch Dr. Sybille Klenzendorf, Programmleitung Wildtiere Deutschland und Europa beim WWF Deutschland, freut sich über den Nachwuchs und betont gleichzeitig die Wichtigkeit von Wildtierkorridoren: „Dass im Schwarzwald innerhalb eines Jahres vier Luchsjunge nachgewiesen werden konnten, ist ein bedeutender Meilenstein für die Entwicklung der Luchspopulation in Baden-Württemberg und darüber hinaus. Für das langfristige Überleben der Art sind neben ausreichend geeignetem Lebensraum vor allem der genetische Austausch und die Vernetzung mit anderen nationalen und europäischen Luchsvorkommen von entscheidender Bedeutung.“</p>
-<p>Die FVA leitet das Projekt und arbeitet dafür eng mit dem Landesjagdverband Baden-Württemberg, dem WWF Deutschland, dem Zoo Karlsruhe und der Luchs-Initiative Baden-Württemberg zusammen. Unterstützt wird es von der Artenschutzstiftung Zoo Karlsruhe und der alosa Stiftung. Auftraggeber ist das Ministerium für Ländlichen Raum, Landwirtschaft und Heimat Baden-Württemberg. Die im Projekt ausgewilderten Luchse stammen aus dem Europäischen Erhaltungszuchtprogramm für Karpatenluchse, das von der europäischen Zoovereinigung EAZA koordiniert wird.</p>
-<p>Der Zoo Karlsruhe ist mit seiner Beteiligung an der Erhaltungszucht, dem Koordinationsgehege im Tierpark Oberwald und der veterinärmedizinischen Betreuung ausgewilderter Tiere Teil des Projektteams.</p>
-<p>„Wenn ein von uns ausgewildertes Tier Nachwuchs bekommt, ist das für mich ein sehr bewegender Moment“, sagt Zootierarzt Dr. Marco Roller, der auch Kurator des Tierparks Oberwald ist. „Vier Luchsjungtiere in Baden-Württemberg – das ist sensationell. Wir sind stolz, als Zoo Karlsruhe Teil des Teams zu sein, das sich mit großem Engagement für den Schutz dieser faszinierenden Tiere einsetzt“, betont Zoodirektor Dr. Matthias Reinschmidt.</p>
-
-                                    </div></div>]]></content>
-        <published>2026-11-04T00:00:00.000Z</published>
     </entry>
 </feed>

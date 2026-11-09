@@ -3039,19 +3039,19 @@
   },
   "602021b8b9a44d3e7cd373e6f1bfe16a": {
     "contentHash": "b24c43ba269a88272ac5684b988b762a",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-05T12:20:03.574Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruher-innenstadt-2040-buergerinnen-und-buerger-priorisieren"
   },
   "357db9b4d46f8e2ba2f316aea9cd63a9": {
     "contentHash": "9bee4d38f50404c6f8e199dc8d17209f",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-07T05:58:01.015Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/kulturausschuss-tagt-oeffentlich"
   },
   "51afdbaed80e6159b73952a4024858e7": {
     "contentHash": "a6c51c25b04208a7a14eb124f2adb208",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-05T12:20:05.574Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/eisbaer-mika-zieht-in-den-zoo-brno-um"
   },
@@ -3063,19 +3063,19 @@
   },
   "080a6867e3d21598420c82212c86d822": {
     "contentHash": "7d6f75a5bad255af45d02551c37b86ee",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-05T21:59:51.211Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsrat-in-hohenwettersbach-trifft-sich-1"
   },
   "1b601c9c624d294444b006e636416e38": {
     "contentHash": "a23914f237cd398d7cbaaa7d5be0278d",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-05T21:59:52.211Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/der-haupt-und-finanzausschuss-tagt"
   },
   "a47f59e2904ab657f87e7b6ed2c9324e": {
     "contentHash": "46ebf9371a0df1a638c8bf57c34c4f4d",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-05T21:59:53.211Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/integrationsausschuss-tritt-zusammen"
   },
@@ -3087,26 +3087,38 @@
   },
   "acd70133371731d4eac41b6ee9a3e540": {
     "contentHash": "2d122c24ca8ab6981409228c08f01a79",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-06T15:56:21.463Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gemeinsam-gegen-pyrotechnik"
   },
   "801fc04ccebd7afa5b6970fdd35ddcd4": {
     "contentHash": "4686cc5454266ab52b3225b57d639732",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-06T15:56:22.463Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/klinikum-bringt-hilfslieferung-nach-winnyzja-auf-den-weg"
   },
   "5084f3893676384be1d9a923be45dbbf": {
     "contentHash": "9fa930bccd5986687c06339da9babd3a",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-06T15:56:23.463Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/karlsruher-winterdienst-startet-gut-vorbereitet-in-die-saison-2026-2027"
   },
   "ad0a92fef19c2c816c15e51f47ba2760": {
     "contentHash": "0ff96ab6df63af618566c30f64f131af",
-    "lastSeen": "2026-11-09T06:26:31.558Z",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
     "lastModified": "2026-11-06T15:56:24.463Z",
     "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/stadtamt-durlach-laedt-zur-traditionellen-seniorenweihnachtsfeier-ein"
+  },
+  "d6740b5b9b8e96abf1eccbae73cdf7e3": {
+    "contentHash": "850c11199a049b20aa444f8db008beac",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
+    "lastModified": "2026-11-09T18:48:48.384Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/private-stiftung-bereichert-kultur"
+  },
+  "fbd5e210d915a810d1d7302b10ce4b72": {
+    "contentHash": "7407e9366d010135639aa1bf8b7b092a",
+    "lastSeen": "2026-11-09T18:48:48.384Z",
+    "lastModified": "2026-11-09T18:48:49.384Z",
+    "link": "https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/17-elternforum-inklusion-in-der-marylandschule"
   }
 }
