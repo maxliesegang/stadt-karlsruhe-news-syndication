@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-11-10T12:39:14.511Z</updated>
+    <updated>2026-11-10T21:48:55.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,19 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Gedenkfeiern am Volkstrauertag]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gedenkfeiern-zum-volkstrauertag</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/gedenkfeiern-zum-volkstrauertag"/>
+        <updated>2026-11-10T21:48:55.962Z</updated>
+        <summary type="html"><![CDATA[Anlässlich des Volkstrauertags wird vielerorts der Opfer von Krieg und Gewaltherrschaft gedacht. Auf dem Karlsruher Hauptfriedhof sowie auf weiteren Friedhöfen im Stadtgebiet finden Gedenkfeiern statt.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Zur zentralen Gedenkfeier mit Kranzniederlegung laden am<strong> Sonntag, 15. November,</strong> die Stadtverwaltung und der Volksbund Deutsche Kriegsgräberfürsorge e.V., Bezirksverband Nordbaden, gemeinsam auf den <strong>Hauptfriedhof </strong>ein. Dort treffen sich die Teilnehmenden um <strong>10:40 Uhr</strong> an der Friedhofsverwaltung, um gemeinsam zum jüdischen Friedhof zu gehen, wo Erste Bürgermeisterin Bettina Lisbach einen Kranz niederlegen wird.</p>
+<p>Im Anschluss daran findet um<strong> 11 Uhr</strong> die<strong> Gedenkfeier am Ehrenmal</strong> statt. Nach der Ansprache von Dekan Erhard Bechthold übernimmt Bürgermeisterin Lisbach das Totengedenken. Musikalisch umrahmt wird die Feier vom Musikverein Harmonie Karlsruhe e.V.&nbsp;</p>
+<p>Weitere Gedenkfeiern mit Kranzniederlegung finden am Volkstrauertag außerdem auf folgenden<strong> Stadtteilfriedhöfen </strong>statt.&nbsp;</p><ul> 	<li><strong>Friedhof Wolfartsweier</strong>:&nbsp;10 Uhr am Ehrenmal&nbsp;durch Stadtrat und Ortsvorsteher Dr. Anton Huber</li> 	<li><strong>Friedhof Stupferich</strong>:&nbsp;10:30 Uhr am Ehrenmal&nbsp;durch Ortschaftsrat Jochen Nagler</li> 	<li><strong>Friedhof Hagsfeld</strong>:&nbsp;10:45 Uhr am Ehrenmal&nbsp;durch Friedhofspfleger&nbsp;Günter Fischer</li> 	<li><strong>Friedhof Grünwettersbach</strong>:&nbsp;11&nbsp;Uhr Stille Kranzniederlegung&nbsp;durch Ortsvorsteherin Kerstin Tron</li> 	<li><strong>Friedhof Beiertheim</strong>:&nbsp;11&nbsp;Uhr beim Steinkreuz&nbsp;durch Stadträtin Adina Geissinger</li> 	<li><strong>Friedhof Knielingen</strong>:&nbsp;11:15 Uhr&nbsp;durch Friedhofspfleger Andreas Welter</li> 	<li><strong>Friedhof Rintheim</strong>:&nbsp;11:15 Uhr&nbsp;durch Stadtrat&nbsp;Aljoscha Löffler</li> 	<li><strong>Friedhof Palmbach</strong>: 11:30 Uhr Stille Kranzniederlegung&nbsp;durch Ortsvorsteherin&nbsp;Kerstin Tron</li> 	<li><strong>Friedhof Neureut</strong>: 11:30 Uhr am Ehrenmal auf dem Josef-Groß-Platz (Kirchfeldsiedlung)&nbsp;durch Ortsvorsteher Thomas Jäger</li> 	<li><strong>Friedhof Bulach</strong>:&nbsp;11:30 Uhr durch die Arbeitsgemeinschaft der Bulacher Vereine</li> 	<li><strong>Bergfriedhof Durlach</strong>:&nbsp;11:30 Uhr&nbsp;durch Stadtrat Mathias Tröndle</li> 	<li><strong>Friedhof Durlach-Aue</strong>:&nbsp;11:30 Uhr am Ehrenmal durch Ortschaftsrat Steffen Zwilling</li> 	<li><strong>Daxlanden</strong>:&nbsp;12:15 Uhr an der Heilig-Geist-Kirche&nbsp;durch Friedhofspfleger Matthias Dreisigacker</li> 	<li><strong>Friedhof Grötzingen</strong>:&nbsp;11:30 Uhr durch Ortsvorsteher Jens Jägle</li> 	<li><strong>Friedhof Nordwest</strong>:&nbsp;11:30 Uhr durch Dr. Markus Dreixler</li> 	<li><strong>Friedhof Mühlburg</strong>:&nbsp;12&nbsp;Uhr&nbsp;durch Stadträtin Dr. Susanne Heyen</li> 	<li><strong>Friedhof Hohenwettersbach</strong>:&nbsp;15&nbsp;Uhr&nbsp;durch Ortschaftsrätin Ursula Mayr</li> 	<li><strong>Friedhof Rüppurr:</strong>&nbsp;15&nbsp;Uhr durch Stadträtin Bettina Meier-Augenstein</li> </ul>
+                                    </div></div>]]></content>
+        <published>2026-11-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elektronischer Defekt im Tunnel Grötzingen]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/elektronischer-defekt-im-tunnel-groetzingen</id>
@@ -254,21 +267,6 @@
 
 
 </div></div>]]></content>
-        <published>2026-11-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ortschaftsrat in Wettersbach trifft sich]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsrat-in-hohenwettersbach-trifft-sich-1</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsrat-in-hohenwettersbach-trifft-sich-1"/>
-        <updated>2026-11-05T21:59:51.211Z</updated>
-        <summary type="html"><![CDATA[Am Dienstag, 10. November 2026, trifft sich der Ortschaftsrat Wetterbach zur öffentlichen Sitzung. Das Gremium bespricht sich im Bürgersaal des Rathauses Grünwettersbach.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Am <strong>Dienstag, 10. November 2026</strong>, trifft sich der Ortschaftsrat Wetterbach zur Sitzung. Ab <strong>19 Uhr </strong>bespricht sich das Gremium im Bürgersaal des Rathauses Grünwettersbach unter der Leitung von Ortsvorsteherin Kerstin Tron unter anderem zur&nbsp;<strong>Entscheidung über den Rückbau des Pavillons Zur Dorfwies 1a</strong> und zur <strong>Friedhofsgebührensatzung</strong>.&nbsp;</p>
-<p>Ein Antrag der CDU/FW-Ortschaftsratsfraktion betrifft die <strong>Bestandssicherung der Kinderbetreuung während der Neubaus der Kita Wettersbach in Palmbach</strong>.</p>
-<p>Um das Thema<strong> "Gutes Leben im Alter in Wettersbach" </strong>dreht sich eine Anfrage der CDU/FW-Ortschaftsratsfraktion.</p>
-<p>Eine Anfrage von Bündnis 90/Die Grünen thematisiert die <strong>Vorstellung des Landschaftspflegerischen Ausführungsplans (LAP) bei der Radwegplanung L623</strong>.</p>
-<p>Die vollständige Tagesordnung zur Sitzung mit Anlagen findet sich im <a href="https://sitzungskalender.karlsruhe.de/db/ratsinformation/termin-10461" title="Link zur Seite" target="_blank" rel="noreferrer">Sitzungskalender der Stadt Karlsruhe</a>.</p>
-                                    </div></div>]]></content>
         <published>2026-11-05T00:00:00.000Z</published>
     </entry>
 </feed>
