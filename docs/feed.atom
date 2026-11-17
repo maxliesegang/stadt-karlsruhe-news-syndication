@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-11-17T02:56:07.115Z</updated>
+    <updated>2026-11-17T13:25:37.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,24 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Schlossplatztunnel bald in beiden Richtungen befahrbar]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schlossplatztunnel-in-beiden-richtungen-befahrbar</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schlossplatztunnel-in-beiden-richtungen-befahrbar"/>
+        <updated>2026-11-17T13:25:36.013Z</updated>
+        <summary type="html"><![CDATA[Die Arbeiten zur Sanierung des Schlossplatztunnel gehen in die Schlussphase. Ab 23. November 2026 ist der Tunnel wieder in beiden Richtungen befahrbar. Allerdings gilt in Fahrtrichtung Ost noch eine Höhenbeschränkung.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Am Montag, 23. November 2026, beginnt bei der Sanierung des Schlossplatztunnels eine neue Bauphase. Dies ermöglicht die Freigabe für den Verkehr in West-Ost-Richtung, so dass der Tunnel wieder in beiden Fahrtrichtungen benutzbar ist.&nbsp;</p>
+<p>Da der Verkehr in Fahrtrichtung Osten über die Tiefspur geführt wird, gilt dort eine Höhenbeschränkung. Fahrzeuge mit einer Höhe von maximal zwei Metern können den Tunnel passieren. Höhere Fahrzeuge müssen den Schlossplatztunnel wie bisher über den Adenauerring umfahren.&nbsp;In der Gegenrichtung von Ost nach West ist die Durchfahrt weiterhin für alle Fahrzeuge ohne Höhenbeschränkung möglich.</p>
+<p>Mit der Freigabe beider Fahrtrichtungen können auch sämtliche Zu- und Abfahrten der Tiefgarage Schlossplatz wieder genutzt werden. Die Tiefgarage bleibt während der gesamten Bauzeit unabhängig von den Arbeiten im Tunnel geöffnet und zugänglich.</p>
+<h4>Abschluss im Sommer 2027 geplant</h4>
+<p>In der nun beginnenden Bauphase werden unter anderem die Tunnelbeleuchtung einschließlich der Verkabelung erneuert, eine Brandmeldeanlage nachgerüstet und die Fluchtwegbeleuchtung installiert. Damit sind die Hauptarbeiten&nbsp;zur baulichen Sanierung des Schlossplatztunnels weitgehend abgeschlossen. Noch ausstehende Restarbeiten sind, abhängig von der Witterung, bis Weihnachten oder im kommenden Frühjahr vorgesehen.&nbsp;Im Anschluss daran werden die Arbeiten mit der Erneuerung der Tunnelbetriebstechnik fortgesetzt. Diese erfolgen in mehreren Bauabschnitten und sollen bis Sommer 2027 abgeschlossen sein.</p>
+<p>Auch während dieser Bauphase steht den Verkehrsteilnehmerinnen und Verkehrsteilnehmern in jeder Fahrtrichtung jeweils nur ein Fahrstreifen zur Verfügung. Zeitweise kann es dabei zu Höhenbeschränkungen kommen. Das Bauende für die Gesamtmaßnahme ist für Sommer 2027 vorgesehen.</p>
+<h4>Finanzierung aus Mitteln des Sondervermögens</h4>
+<p>Die seit 2025 laufende Sanierung des Schlossplatztunnels wird aus Mitteln des Sondervermögens „Infrastruktur und Klimaneutralität“ des Bundes finanziert. Darüber hinaus hat das Land Baden-Württemberg, vertreten durch Vermögen und Bau als Eigentümer der Tiefgarage Schlossplatz, eine finanzielle Beteiligung an der Gesamtmaßnahme zugesichert.</p>
+                                    </div></div>]]></content>
+        <published>2026-11-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Erstes positives Fazit zum Start in den Ganztag]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/erstes-positives-fazit-zum-start-in-den-ganztag</id>
@@ -158,10 +176,10 @@
         <title type="html"><![CDATA[Erster Engagement-Campus unter dem Motto „Engagement stärkt Demokratie“]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/1-engagement-campus-unter-dem-motto-engagement-staerkt-demokratie-findet-statt</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/1-engagement-campus-unter-dem-motto-engagement-staerkt-demokratie-findet-statt"/>
-        <updated>2026-11-16T18:32:30.739Z</updated>
+        <updated>2026-11-17T13:25:37.013Z</updated>
         <summary type="html"><![CDATA[Am 4. und 5. Dezember 2026 findet erstmals der Engagement-Campus in Karlsruhe statt, mit knapp 40 Programmpunkten rund um Ehrenamt, gesellschaftliches Engagement und Demokratie. Die Anmeldung ist ab sofort eröffnet.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Am <strong>4. und 5. Dezember 2026 </strong>findet erstmals der <strong>Engagement-Campus</strong> in Karlsruhe statt. Unter dem Motto „Engagement stärkt Demokratie“ erwartet die Besucherinnen und Besucher ein vielfältiges Programm mit knapp 40 Programmpunkten rund um Ehrenamt, gesellschaftliches Engagement und Demokratie. Die <a href="http://www.karlsruhe.de/campus26" title="Link zur Seite" target="_blank">Anmeldung</a>&nbsp;ist ab sofort eröffnet.</p>
+                                        <p>Am <strong>4. und 5. Dezember 2026 </strong>findet erstmals der <strong>Engagement-Campus</strong> in Karlsruhe statt. Unter dem Motto „Engagement stärkt Demokratie“ erwartet die Besucherinnen und Besucher ein vielfältiges Programm mit knapp 40 Programmpunkten rund um Ehrenamt, gesellschaftliches Engagement und Demokratie. Die <a href="http://www.karlsruhe.de/campus26" target="_blank">Anmeldung</a>&nbsp;ist ab sofort eröffnet.</p>
 <p>Workshops, Impulsvorträge und Gesprächsformate bieten zahlreiche Gelegenheiten, neue Perspektiven kennenzulernen, Wissen zu vertiefen und miteinander ins Gespräch zu kommen. Ein Großteil der Angebote wird von Akteurinnen und Akteuren aus der Karlsruher Zivilgesellschaft gestaltet. Damit steht der Engagement-Campus für einen besonderen Ansatz: Angebote von Engagierten für Engagierte und Interessierte. Einige Initiativen und Organisationen nutzen die Veranstaltung zudem, um Mitstreiterinnen und Mitstreiter für ihre Projekte zu gewinnen.</p>
 <p>„Engagement stärkt unsere Demokratie und gestaltet unser Zusammenleben. Der Engagement-Campus bringt Menschen zusammen, macht die Vielfalt des Ehrenamts sichtbar und schafft Raum für neue Ideen und Begegnungen“, sagt Bürgermeister Dr. Albert Käuflein.</p>
 <p><strong>Für Interessierte, Engagierte und alle, die es werden möchten</strong></p>
@@ -268,22 +286,6 @@
 <p>Der 9. November erinnere nicht nur an die „schreckliche Vergangenheit“, sondern erinnere auch daran, dass antisemitische Gewalttaten in Deutschland wieder deutlich zunähmen. Man dürfe nicht hinnehmen, dass jüdisches Leben in Deutschland heute wieder bedroht sei.</p>
 <p>Lisbach lobte das Engagement und die Beiträge der Schülerinnen und Schüler, die eigens für die diesjährige Mahnwache eine eigene digitale Ausstellung unter <a href="https://www.mahnwache-karlsruhe-2026.de/" title="Link zur Seite" target="_blank" rel="noreferrer">www.mahnwache-karlsruhe-2026.de</a>&nbsp;erarbeitet haben und die Mahnwache vor Ort organsiert hatten.</p>
 <p>Oberrabbiner Dr. David Vinitz, Gemeinderabbiner der Jüdischen Kultusgemeinde Karlsruhe, sprach die beiden traditionellen Gebete Kaddisch und El Male Rachamim, um der durch das NS-Regime ermordeten Menschen zu gedenken. -has-</p>
-                                    </div></div>]]></content>
-        <published>2026-11-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ortschaftsräte von Grötzingen und Stupferich tagen]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-groetzingen-und-stupferich-tagen</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/ortschaftsraete-von-groetzingen-und-stupferich-tagen"/>
-        <updated>2026-11-12T16:48:44.286Z</updated>
-        <summary type="html"><![CDATA[Die Ortschaftsräte von Grötzingen und Stupferich kommen am 18. November 2026 ab jeweils 19 Uhr zu ihrer nächsten öffentlichen Sitzung zusammen.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Die <strong>Ortschaftsräte </strong>von <strong>Grötzingen und Stupferich</strong> kommen am <strong>Mittwoch, 18. November 2026</strong>, ab jeweils 19 Uhr zu ihrer nächsten öffentlichen Sitzung zusammen.</p>
-<h4>Sitzung in Stupferich</h4>
-<p>Im Gemeindezentrum <strong>Stupferich</strong> wird nach der Bürgerfragestunde zunächst über eine Agri-Photovoltaikanlage beraten. Zudem möchte die Grünen-Ortschaftsratsfraktion wissen, wie der Planungsstand zur Erweiterung der Stupfericher Grundschule ist und wie es um die hausärztliche Versorgung in Stupferich steht. Außerdem beraten die Ortschaftsräte und -rätinnen über die Friedhofsgebührensatzung. Die Bekanntgabe des Sitzungskalenders 2027, Mitteilungen der Ortsverwaltung sowie Verschiedenes beschließen die Sitzung.</p>
-<h4>Sitzung in Grötzingen</h4>
-<p>In der Begegnungsstätte <strong>Grötzingen</strong> geht es nach Fragen und Anregungen aus der Einwohnerschaft zunächst um die Friedhofsgebührensatzung. Außerdem berät der Ortschaftsrat über das Verfahren zum Ankauf für die Grötzinger Kunstsammlung 2026. Die Grünen-Ortschaftsratsfraktion möchte den Niddaplatz klimaangepasst umgestalten. Die SPD-Ortschaftsratsfraktion fragt nach der Mittelverwendung der Karl-Martin-Graff-Stiftung in den vergangenen Jahrzehnten. Zudem gibt es einen interfraktionellen Antrag (Grüne, SPD, MfG, CDU) der eine Ausweitung der Flexzonen für Nextbike und Stadtflitzer fordert. Die Veröffentlichung von Terminen und Mitteilungen der Ortsverwaltung beschließen die Sitzung.</p>
-<p>Die vollständigen <strong>Sitzungsunterlagen </strong>können im <a href="http://sitzungskalender.karlsruhe.de/" title="Link zur Seite" target="_blank" rel="noreferrer">Ratsinformationssystem</a> eingesehen werden.&nbsp;</p>
                                     </div></div>]]></content>
         <published>2026-11-12T00:00:00.000Z</published>
     </entry>
