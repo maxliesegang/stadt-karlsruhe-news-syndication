@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.karlsruhe.de/aktuelles</id>
     <title>Stadt Karlsruhe - Aktuelle Meldungen</title>
-    <updated>2026-11-26T13:54:21.109Z</updated>
+    <updated>2026-11-27T00:35:39.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Stadt Karlsruhe</name>
@@ -12,6 +12,21 @@
     <link rel="self" href="https://maxliesegang.github.io/stadt-karlsruhe-news-syndication/feed.atom"/>
     <subtitle>Offizielle Nachrichten der Stadt Karlsruhe</subtitle>
     <rights>Stadt Karlsruhe 2026</rights>
+    <entry>
+        <title type="html"><![CDATA[Tierschutzpreis geht nach Hohenwettersbach]]></title>
+        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tierschutzpreis-geht-nach-hohenwettersbach</id>
+        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/tierschutzpreis-geht-nach-hohenwettersbach"/>
+        <updated>2026-11-27T00:35:38.044Z</updated>
+        <summary type="html"><![CDATA[Für herausragendes Engagement im Tierschutz hat die Amphibienschutzgruppe Hohenwettersbach den diesjährigen Tierschutzpreis der Stadt Karlsruhe erhalten.]]></summary>
+        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
+                                        <p>Für herausragendes Engagement im Tierschutz hat die Amphibienschutzgruppe Hohenwettersbach den diesjährigen Tierschutzpreis der Stadt Karlsruhe erhalten. Bürgermeister Dr. Albert Käuflein überreichte die Urkunde Ende November an Initiatorin Ute Weiler und dankte der insgesamt achtköpfigen Gruppe für ihr jahrelanges Engagement.</p>
+<p>„Wir möchten mit der Verleihung des Preises zum Ausdruck bringen, dass Schutz und Wohlergehen der Tiere für die Stadt Karlsruhe ein hohes Gut sind“, sagte Käuflein bei der Preisverleihung. Er erinnerte daran, dass der Tierschutz als Staatsziel seit 2002 im Grundgesetz verankert ist. Seitdem können tierschutzrechtliche Regelungen konsequenter durchgesetzt werden.</p>
+<p>Im Rahmen des Karlsruher Tierschutztages, der seit mehreren Jahren im Oktober stattfindet, können Vorschläge für den Karlsruher Tierschutzpreis eingereicht werden. In diesem Jahr wurde die Amphibienschutzgruppe Hohenwettersbach vorgeschlagen. Initiatorin und Leiterin Ute Weiler fing vor rund 15 Jahren an, während der Krötenwanderung Tiere an der Dürrenwettersbacher Straße einzusammeln und sicher auf die andere Seite zu bringen. Vor vier Jahren wurde der Einsatz auch auf den Batzenhofweg ausgeweitet. Mittlerweile ist die Gruppe auf acht Helferinnen und Helfer angewachsen, die während der Wanderungszeit über viele Wochen hinweg bei jedem Wetter im Einsatz sind – meistens in den Abend- und Nachtstunden. Sie retten die Tiere nicht nur, sondern dokumentieren auch deren Arten und Bestände.</p>
+<p>In Hohenwettersbach befindet sich eine der größten Erdkrötenpopulationen im Stadtgebiet. Die Amphibien wandern jedes Frühjahr zu ihren Laichgewässern. Stark befahrene Straßen werden dabei zum tödlichen Hindernis. Die Zahlen zeigen, wie umfangreich die Tierwanderungen sind: Allein in diesem Jahr zählte die Gruppe alleine am Batzenhofweg etwa 9.500 Tiere, darunter Erdkröten, Laubfrösche, Molche und Springfrösche. An der Dürrenwettersbacher Straße kamen rund 350 Erdkröten hinzu. Mittlerweile engagiert sich die Gruppe auch für den Schutz der Feuersalamander an der Tiefentalstraße. Dort wurden bislang rund 100 Tiere beobachtet und dokumentiert. Auf Initiative der Gruppe wurde ein Artenschutzgutachten angeregt.</p>
+<p>In seiner Laudatio würdigte Bürgermeister Käuflein das Engagement der Amphibienretter. Die Gruppe habe Jahr für Jahr tausende Tiere vor dem Tod im Straßenverkehr gerettet. „Sie sind ein Vorbild für praktizierten Tierschutz. Hierfür gebührt Ihnen Lob und Anerkennung. Sie haben den Preis verdient.“ -jd-</p>
+                                    </div></div>]]></content>
+        <published>2026-11-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Schwerpunkte im Haupt- und Finanzausschuss]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/schwerpunkt-im-haupt-und-finanzausschuss</id>
@@ -134,7 +149,7 @@
         <title type="html"><![CDATA[Christkindlesmarkt eröffnet]]></title>
         <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/christkindlesmarkt-eroeffnet</id>
         <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/christkindlesmarkt-eroeffnet"/>
-        <updated>2026-11-26T00:21:09.901Z</updated>
+        <updated>2026-11-27T00:35:39.044Z</updated>
         <summary type="html"><![CDATA[Erneut sei es gelungen, Tradition und Moderne wunderbar zu verbinden, so Bürgermeisterin Gabriele Luczak-Schwarz bei der Eröffnung des Christkindlesmarkts.]]></summary>
         <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div id="main">
     <!-- SKIP NAVIGATION -->
@@ -152,7 +167,7 @@
                         <div>
 
                                 <p><time itemprop="datePublished" datetime="2026-11-25">
-                                        Gestern
+                                        Mittwoch, 25. November 2026
                                     </time>
                                 </p>
 
@@ -367,33 +382,6 @@
 <p>Von 16 bis 18 Uhr stehen namhafte Hersteller und lokale Heizungsbetriebe an Infoständen für Einzelgespräche bereit. Wer Geräte und Angebote vergleichen will, findet sie hier nebeneinander an einem Ort. Die konkreteste Antwort bekommt, wer die Eckdaten seines Hauses dabei hat: Baujahr, Wohnfläche, Alter der jetzigen Heizung und die letzte Heizkostenabrechnung.</p>
 <h4>Förderung: Frühzeitig informieren lohnt sich</h4>
 <p>Die Bundesförderung für den Heizungstausch ist seit dem 21. Juli 2026 neu geregelt, die Fördersätze sinken planmäßig alle sechs Monate. Wer sich frühzeitig informiert, kann sich die höheren Fördersätze sichern. Auch deshalb gibt es das Beratungsangebot jetzt direkt vor Ort in Karlsruhe.</p>
-                                    </div></div>]]></content>
-        <published>2026-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Science in the Box": Kurzvorträge aus der Karlsruher Forschung in der Innenstadt]]></title>
-        <id>https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mit-koepfchen-und-kiste-durch-die-karlsruher-innenstadt</id>
-        <link href="https://www.karlsruhe.de/stadt-rathaus/aktuelles/meldungen/mit-koepfchen-und-kiste-durch-die-karlsruher-innenstadt"/>
-        <updated>2026-11-25T14:21:57.167Z</updated>
-        <summary type="html"><![CDATA[Auf der Kaiserstraße berichten Forschende aus Karlsruhe im Dezember in kurzen Vorträgen von ihrer Arbeit.]]></summary>
-        <content type="html"><![CDATA[<div id="readability-page-1" class="page"><div itemprop="articleBody">
-                                        <p>Ab <strong>Mittwoch,&nbsp;2. Dezember 2026,&nbsp;</strong>steht mitten auf der Kaiserstraße eine große Frachtkiste, die neugierig machen soll: Fünf Tage lang öffnet sie sich jeden Nachmittag und wird zur Bühne für die Wissenschaft. Um<strong> 16, 17 und 18 Uhr </strong>berichten Forschende aus Karlsruhe dort in kurzen Vorträgen von ihrer Arbeit.</p>
-<p>Am <strong>Samstag, 5. Dezember,</strong> und<strong> Sonntag, 6. Dezember, </strong>kommt ein Programm für Kinder dazu. Die Kiste steht an der Kaiserstraße/Ecke Lammstraße, mitten im Adventstrubel. Dort können Passantinnen und Passanten der Forschung begegnen. Um auch den Einzelhandel zu stärken, wird das Format mit einer Gutschein-Aktion verbunden.</p>
-<h4>"Science in the Box"</h4>
-<div><p>Karlsruhe zählt zu den bedeutenden Wissenschafts- und Forschungsstandorten Deutschlands. Mit einer außergewöhnlich vielfältigen Hochschullandschaft und zahlreichen renommierten Forschungseinrichtungen prägt die Wissenschaft das Profil der Stadt.&nbsp;Wie vielfältig diese Forschung ist, zeigt das Programm bei "Science in the Box". Es reicht von extremem Niedrigwasser über Biodesign und Fragen zur künstlichen Intelligenz bis zu einem Forschungsbericht über die Besiedlung des Mars. Wer spontan stehen bleibt oder vorbeikommt, kann jeden Tag in neue Themen eintauchen.</p><p>  Im Alltag der Innenstadt bekommen Menschen von dieser Forschung allerdings wenig mit. Gleichzeitig verändert sich die Innenstadt, weil Läden leerstehen und die Menschen anders einkaufen als früher. "Science in the Box" greift beides auf. Die Wissenschaft geht dorthin, wo ohnehin viele Menschen unterwegs sind, und die Innenstadt gewinnt einen weiteren Grund für einen Besuch.</p></div>
-<p>„Gerade in Zeiten des zunehmenden Online-Handels ist eine attraktive Innenstadt besonders wichtig“, betont Bürgermeisterin Gabriele Luczak-Schwarz. „‘Mit Science in the Box‘ wird nicht nur der Wissenschaftsstandort Karlsruhes gestärkt, sondern auch der Einzelhandel.“</p>
-<p>Dass die Innenstadt dabei auch zum Ort für neue Perspektiven und spannende Entdeckungen wird, ist ein wichtiges Anliegen des Projekts. „Zwischen Weihnachtsmarkt und Einkaufsbummel bekommt bei uns auch die Wissenschaft ihren zentralen Platz in der Innenstadt. So kann die Stadtgesellschaft an spannenden Themen aus der Forschung teilhaben, die uns alle betreffen“, sagt Clas Meyer, Leiter des Wissenschaftsbüros der städtischen Wirtschaftsförderung. Das Publikum ist eingeladen, im Anschluss an die Kurzvorträge Fragen zu stellen.</p>
-<h4>Neugier zahlt sich aus</h4>
-<p>Neugier zahlt sich dabei aus; nach jedem Vortrag gibt es einen Stempel ins Gutscheinheft. Wer zwei Stempel gesammelt hat, erhält einen Karlsruher Geschenkgutschein. Einlösen lässt er sich in über 400 Geschäften der Stadt, ob für ein Buch, eine Brezel oder den nächsten Haarschnitt. Pro Vortrag gibt es einen Stempel je Person. Die Zahl der Gutscheine ist begrenzt, eine Barauszahlung ist nicht möglich. Alle Details zur Aktion stehen auf <a href="http://www.science-in-the-box.de/" target="_blank" rel="noreferrer">www.science-in-the-box.de</a>.</p>
-<p>„Science in the Box“ ist eine Initiative des Wissenschaftsbüros der Wirtschaftsförderung der Stadt Karlsruhe. Das Wissenschaftsbüro vernetzt Wissenschaft, Wirtschaft und Stadtgesellschaft und fördert mit eigenen Veranstaltungen den Austausch. Umgesetzt wird das Projekt gemeinsam mit der Ideenagentur supermorgen von ato.</p>
-<h4>Auf einen Blick</h4>
-<p><strong>Wann:</strong> Mittwoch, 2. Dezember. bis Sonntag, 6. Dezember 2026.&nbsp;<strong>Vorträge</strong> täglich um 16, 17 und 18 Uhr.</p>
-<p><strong>Kinderprogramm</strong> am Samstag, 5.Dezember, und Sonntag, 6. Dezember, von jeweils 13 bis 15 Uhr. </p>
-<p><strong>Wo:</strong> Kaiserstraße/Ecke Lammstraße </p>
-<p><strong>Programm und Gutschein-Aktion:</strong> <a href="https://science-in-the-box.de/" title="Link zur Seite" target="_blank" rel="noreferrer">science-in-the-box.de</a> </p>
-<p><strong>Teilnehmende Geschäfte:</strong> <a href="https://www.gutschein-regioshop.de/" title="Link zur Seite" target="_blank" rel="noreferrer">karlsruher-geschenkgutschein.de</a></p>
-
-
                                     </div></div>]]></content>
         <published>2026-11-25T00:00:00.000Z</published>
     </entry>
